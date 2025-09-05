@@ -229,7 +229,7 @@ Super Mario 64:
   ###########################
   local_items:
     # Forces these items to be in their native world.
-    [Progressive Key: 2]
+    [Progressive Key]
 
   non_local_items:
     # Forces these items to be outside their native world.
@@ -262,4 +262,5 @@ Super Mario 64:
   plando_items:
     # Generic items plando.
     []
+
 
