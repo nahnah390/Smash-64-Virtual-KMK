@@ -78,9 +78,9 @@ Super Mario 64:
   #################
   area_rando:
     # Randomize Entrances
-    'off': 50
+    'off': 0
     courses_only: 0
-    courses_and_secrets_separate: 0
+    courses_and_secrets_separate: 50
     courses_and_secrets: 0
 
   buddy_checks:
@@ -262,3 +262,4 @@ Super Mario 64:
   plando_items:
     # Generic items plando.
     []
+
