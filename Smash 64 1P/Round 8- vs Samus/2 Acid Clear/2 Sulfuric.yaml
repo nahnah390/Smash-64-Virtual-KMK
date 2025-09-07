@@ -609,13 +609,13 @@ Mega Man X:
 
   start_inventory:
     # Start with these items.
-    {Electric Spark, Spark Madrill Access Codes}
+    {}
 
   start_inventory_from_pool:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {}
+    {Electric Spark, Spark Mandrill Access Codes}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -631,7 +631,7 @@ Mega Man X:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    [Spark Mandrill Defeat]
+    [Defeated Spark Mandrill (Rematch),Defeated Spark Mandrill]
 
   item_links:
     # Share part of your item pool with other players.
@@ -640,5 +640,6 @@ Mega Man X:
   plando_items:
     # Generic items plando.
     []
+
 
 
