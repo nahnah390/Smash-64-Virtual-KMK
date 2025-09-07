@@ -105,8 +105,8 @@ Metroid Zero Mission:
     # When this option is disabled, the player will need to defeat the Chozo Ghost in Chozodia as ZSS in order
     # to unlock Samus' fully-powered suit, after which they may then use the Plasma Beam, Space Jump,
     # and Gravity Suit, as in the unmodified game.
-    'false': 0
-    'true': 50
+    'false': 50
+    'true': 0
 
   layout_patches:
     # Slightly modify the layout of some rooms to reduce softlocks.
@@ -223,7 +223,7 @@ Metroid Zero Mission:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {}
+    {Varia Suit}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -239,7 +239,7 @@ Metroid Zero Mission:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Brinstar Varia Area]
 
   item_links:
     # Share part of your item pool with other players.
@@ -248,5 +248,6 @@ Metroid Zero Mission:
   plando_items:
     # Generic items plando.
     []
+
 
 
