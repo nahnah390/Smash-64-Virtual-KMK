@@ -187,7 +187,7 @@ Metroid Fusion:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Gravity Suit}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -203,7 +203,7 @@ Metroid Fusion:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Sector 5 (ARC) -- Nightmare Arena]
 
   item_links:
     # Share part of your item pool with other players.
@@ -212,4 +212,5 @@ Metroid Fusion:
   plando_items:
     # Generic items plando.
     []
+
 
