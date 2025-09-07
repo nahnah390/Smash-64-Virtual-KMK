@@ -65,8 +65,8 @@ Super Metroid:
 
   start_inventory_removes_from_pool:
     # Remove items in starting inventory from pool.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   remote_items:
     # Items from your own world are sent via the Archipelago server. This allows co-op play of a world and means that
@@ -488,9 +488,6 @@ Super Metroid:
 
   start_inventory:
     # Start with these items.
-    {}
-
-    start_inventory_from_pool:
     {Varia Suit}
 
   start_hints:
@@ -516,5 +513,6 @@ Super Metroid:
   plando_items:
     # Generic items plando.
     []
+
 
 
