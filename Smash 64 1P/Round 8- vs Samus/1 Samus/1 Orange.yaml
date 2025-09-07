@@ -376,8 +376,8 @@ Super Metroid:
     # - Bomb Torizo always activates after picking up its item and does not require Bomb to activate
     # - Wrecked Ship item on the Energy Tank Chozo statue is present before defeating Phantoon
     # - Lower Norfair Chozo statue that lowers the acid toward Gold Torizo does not require Space Jump to activate
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   gravity_behaviour:
     # Modify the heat damage and enemy damage reduction qualities of the Gravity and Varia Suits.
@@ -490,6 +490,9 @@ Super Metroid:
     # Start with these items.
     {}
 
+    start_inventory_from_pool:
+    {Varia Suit}
+
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
     []
@@ -504,7 +507,7 @@ Super Metroid:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Varia Suit]
 
   item_links:
     # Share part of your item pool with other players.
@@ -513,4 +516,5 @@ Super Metroid:
   plando_items:
     # Generic items plando.
     []
+
 
