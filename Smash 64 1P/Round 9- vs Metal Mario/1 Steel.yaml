@@ -89,8 +89,8 @@ Mega Man X2:
 
   pickupsanity:
     # Whether collecting freestanding 1ups, HP and Weapon Energy capsules will grant a check.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   ####################
   # Gameplay Options #
@@ -168,8 +168,8 @@ Mega Man X2:
 
   logic_helmet_checkpoints:
     # Makes the "Use Any Checkpoint" feature from the Helmet Upgrade be in logic
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   #########################
   # Boss Weakness Options #
@@ -204,9 +204,9 @@ Mega Man X2:
     # weakness_and_buster: Only allow the weakness and buster to deal damage to the bosses
     # weakness_and_upgraded_buster: Only allow the weakness and buster charge levels 3 to deal damage to the bosses
     # only_weakness: Only the weakness will deal damage to the bosses
-    not_strict: 50
+    not_strict: 0
     weakness_and_buster: 0
-    weakness_and_upgraded_buster: 0
+    weakness_and_upgraded_buster: 50
     only_weakness: 0
 
   boss_randomize_hp:
@@ -609,7 +609,7 @@ Mega Man X2:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {}
+    {spin_wheel, stage_wheel_gator}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -625,7 +625,7 @@ Mega Man X2:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [x_hunter_stage_4_wheel_gator, wheel_gator_boss]
 
   item_links:
     # Share part of your item pool with other players.
@@ -634,5 +634,6 @@ Mega Man X2:
   plando_items:
     # Generic items plando.
     []
+
 
 
