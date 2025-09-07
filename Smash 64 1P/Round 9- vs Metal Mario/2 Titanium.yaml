@@ -84,18 +84,18 @@ Mega Man 2:
     bubble_man: 0
     quick_man: 0
     flash_man: 0
-    metal_man: 0
+    metal_man: 50
     crash_man: 0
-    random: 50
+    random: 0
 
   consumables:
     # When enabled, e-tanks/1-ups/health/weapon energy will be added to the pool of items and included as checks.
     # E-Tanks and 1-Ups add 20 checks to the pool.
     # Weapon/Health Energy add 27 checks to the pool.
     none: 0
-    1up_etank: 50
+    1up_etank: 0
     weapon_health: 0
-    all: 0
+    all: 50
 
   yoku_jumps:
     # When enabled, the player is expected to be able to perform the yoku block sequence in Heat Man's
@@ -117,16 +117,16 @@ Mega Man 2:
   strict_weakness:
     # Only your starting Robot Master will take damage from the Mega Buster, the rest must be defeated with weapons.
     # Weapons that only do 1-3 damage to bosses no longer deal damage (aside from Alien).
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   random_weakness:
     # None: Bosses will have their regular weaknesses.
     # Shuffled: Weapon damage will be shuffled amongst the weapons, so Metal Blade may do Bubble Lead damage.
     # Time Stopper will deplete half of a random Robot Master's HP.
     # Randomized: Weapon damage will be fully randomized.
-    none: 50
-    shuffled: 0
+    none: 0
+    shuffled: 50
     randomized: 0
 
   wily_5_requirement:
@@ -203,7 +203,7 @@ Mega Man 2:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Metal Blade}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -219,7 +219,7 @@ Mega Man 2:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Metal Man - Defeated]
 
   item_links:
     # Share part of your item pool with other players.
@@ -228,5 +228,6 @@ Mega Man 2:
   plando_items:
     # Generic items plando.
     []
+
 
 
