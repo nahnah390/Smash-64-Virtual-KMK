@@ -76,7 +76,7 @@ Tetris Attack:
     stage_clear_round_4: 0
     stage_clear_round_5: 0
     stage_clear_round_6: 0
-    puzzle_level_1: 0
+    puzzle_level_1: 50
     puzzle_level_2: 0
     puzzle_level_3: 0
     puzzle_level_4: 0
@@ -86,17 +86,17 @@ Tetris Attack:
   stage_clear_goal:
     # This makes Stage Clear Last Stage Clear one of the goals.
     # If multiple modes need to be cleared, each will provide a final item and auto-hint the other win conditions.
-    'false': 0
+    'false': 50
     'true': 50
 
   puzzle_goal:
     # This makes Puzzle and/or Extra Puzzle Round 6 Clear one of the goals.
     # If multiple modes need to be cleared, each will provide a final item and auto-hint the other win conditions.
     no_puzzle: 0
-    puzzle: 50
+    puzzle: 0
     extra_puzzle: 0
     puzzle_and_extra_puzzle: 0
-    puzzle_or_extra_puzzle: 0
+    puzzle_or_extra_puzzle: 50
 
   versus_goal:
     # This makes Versus one of the goals.
@@ -104,24 +104,24 @@ Tetris Attack:
     # Note that harder difficulties will be forced to end at the goal difficulty's final stage.
     # If Easy Bowser is enabled for Easy or Normal, the goal becomes Stage 12 at that difficulty.
     # Stages that come after the goal stage will be extra unlocks and checks.
-    no_vs: 0
+    no_vs: 50
     easy: 0
-    normal: 50
+    normal: 0
     hard: 0
     very_hard: 0
 
   stage_clear_inclusion:
     # This adds Stage Clear to the randomizer, even if they are not part of the goal.
     # Note that if the Last Stage is a goal, this won't have any effect.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   puzzle_inclusion:
     # This adds Puzzles to the randomizer, even if they are not part of the goal.
     # Note that if (Extra) Puzzle Round 6 Clear is a goal, this won't have any effect unless the other set is not a goal.
-    no_puzzle: 50
-    puzzle: 0
-    extra_puzzle: 0
+    no_puzzle: 0
+    puzzle: 50
+    extra_puzzle: 50
     puzzle_and_extra_puzzle: 0
 
   versus_inclusion:
@@ -144,9 +144,9 @@ Tetris Attack:
     whole_rounds: 0
     individual_stages: 0
     incremental: 0
-    incremental_with_round_gate: 50
-    skippable: 0
-    skippable_with_round_gate: 0
+    incremental_with_round_gate: 0
+    skippable: 50
+    skippable_with_round_gate: 50
 
   stage_clear_filler:
     # If enabled, the game will maximize the number of locations (aside from additional Special Stages) and add more filler items to the pool.
@@ -204,9 +204,9 @@ Tetris Attack:
     whole_levels: 0
     individual_stages: 0
     incremental: 0
-    incremental_with_level_gate: 50
-    skippable: 0
-    skippable_with_level_gate: 0
+    incremental_with_level_gate: 0
+    skippable: 50
+    skippable_with_level_gate: 50
 
   puzzle_filler:
     # If enabled, the game will maximize the number of locations and add more filler items to the pool.
@@ -240,7 +240,7 @@ Tetris Attack:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Puzzle Level 1 Gate, Stage Clear Round 1 Gate, Puzzle 1-01 Unlock, Stage Clear 1-1 Unlock}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -248,7 +248,7 @@ Tetris Attack:
 
   start_location_hints:
     # Start with these locations and their item prefilled into the ``!hint`` command.
-    []
+    [Extra Puzzle Round 1 Clear]
 
   exclude_locations:
     # Prevent these locations from having an important item.
@@ -256,7 +256,7 @@ Tetris Attack:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Extra Puzzle Round 1 Clear]
 
   item_links:
     # Share part of your item pool with other players.
@@ -265,5 +265,6 @@ Tetris Attack:
   plando_items:
     # Generic items plando.
     []
+
 
 
