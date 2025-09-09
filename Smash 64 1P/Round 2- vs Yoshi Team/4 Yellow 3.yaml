@@ -136,7 +136,7 @@ Final Fantasy 12 Open World:
 
   start_inventory:
     # Start with these items.
-    {Rainstone, Gysahl Greens}
+    {Rainstone, Gysahl Greens, Zodiark}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -152,7 +152,7 @@ Final Fantasy 12 Open World:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    [Henne Mines - Phase 1 Dig Treasure 1]
+    [Henne Mines - Phase 1 Dig Treasure 1, Henne Mines - Defeat Zodiark Reward (1)]
 
   item_links:
     # Share part of your item pool with other players.
@@ -161,5 +161,6 @@ Final Fantasy 12 Open World:
   plando_items:
     # Generic items plando.
     []
+
 
 
