@@ -1,0 +1,219 @@
+﻿# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify that your Archipelago options are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game, limited to 16 characters.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: Player{number}
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Super Mario RPG Legend of the Seven Stars Template
+
+game: Super Mario RPG Legend of the Seven Stars
+requires:
+  version: 0.6.3 # Version of Archipelago required for this yaml to work as expected.
+
+Super Mario RPG Legend of the Seven Stars:
+  ################
+  # Game Options #
+  ################
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # **Full:** ensure everything can be reached and acquired.
+    # 
+    # **Minimal:** ensure what is needed to reach your goal can be acquired.
+    full: 50
+    minimal: 0
+
+  StarPieceGoal:
+    # Six or seven Star Pieces to fight Smithy.
+    six: 50
+    seven: 0
+
+  StarPiecesInBowsersKeep:
+    # Star Pieces can be located on the Bowser's Keep boss slots: Magikoopa, Boomer, and Exor.
+    # If toggled off, Bowser's Keep will be unavailable until the requisite number of Star Pieces have been
+    # obtained and will be your route to the Factory. If toggled on, the Factory is opened as soon as the requisite
+    # number of Star Pieces have been obtained.
+    'false': 0
+    'true': 50
+
+  BowsersKeepDoors:
+    # How many doors required to clear the middle of Bowser's Keep.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 6
+    2: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  ShuffleBowsersKeepDoors:
+    # If toggled on, each door could contain any three rooms from the six doors. If toggled off, behaves like vanilla:
+    # two action doors, two battle doors, two puzzle doors.
+    'false': 0
+    'true': 50
+
+  IncludeCulex:
+    # A Star Piece might be located on the boss in Culex's Lair, and Culex's reward (normally the Quartz Charm)
+    # might be required. Shuffles Culex into the boss pool.
+    'false': 0
+    'true': 50
+
+  ExperienceMultiplier:
+    # Multiplies the amount of experience points gained from battling enemies.
+    single: 0
+    double: 50
+    triple: 0
+
+  RandomizeEnemies:
+    # Randomize all enemies. Mild randomizes their drops and formations. Moderate includes enemy stats and attack
+    # stats and effects. Severe includes their spell lists. Extreme is Severe, but with no safety checks -- have fun!
+    none: 0
+    mild: 50
+    moderate: 0
+    severe: 0
+    extreme: 0
+
+  RandomizeBosses:
+    # Randomize boss locations. Bosses will have their stats scaled to their location. This doesn't include spell stats:
+    # Breaker Beam will still hurt coming from Croco's slot.
+    'false': 0
+    'true': 50
+
+  RandomizeCharacterStats:
+    # Stats for each character will be randomized.
+    'false': 0
+    'true': 50
+
+  RandomizeCharacterSpells:
+    # Randomize character learned spells and their spell powers
+    'false': 0
+    'true': 50
+
+  StartingCharacterCount:
+    # Start with one or three characters. Clearing Forest Maze or Marrymore will recruit a new character. If starting
+    # with one character, clearing Mushroom Way or Moleville will recruit a new character as well.
+    one: 0
+    three: 50
+
+  StartingCharacter:
+    # Choose which character you start with. If starting with three characters, this chooses the first one.
+    mario: 0
+    mallow: 0
+    geno: 0
+    bowser: 0
+    toadstool: 0
+    random: 50
+
+  RandomizeCharacterPalettes:
+    # Randomize character palettes. Some come with fun names!
+    'false': 0
+    'true': 50
+
+  RandomizeEquipment:
+    # Randomize equipment. Mild randomizes who can equip each piece of gear. Moderate randomizes stats and buffs. Severe
+    # removes safety checks for the status protection pins guarding against their status and a minimum number of instant
+    # KO protection items.
+    none: 0
+    mild: 50
+    moderate: 0
+    severe: 0
+
+  ItemPool:
+    # Adjusts the items available. Vanilla shuffles the vanilla item rewards around. Shuffled types will randomize
+    # items to be the same type of item (consumbles -> consumables, weapons -> weapons). Shuffled inventories randomizes
+    # items within their general category (items -> items, gear -> gear). Chaotic will fully randomize each item.
+    vanilla: 50
+    shuffled_types: 0
+    shuffled_inventories: 0
+    chaotic: 0
+
+  SuperJumpsInLogic:
+    # Toggled on, this allows progression items to be at the rewards for thirty and one hundred Super Jumps.
+    # Toggled off, those locations will never be required (but could hold something useful)
+    'false': 50
+    'true': 0
+
+  FreeShops:
+    # Toggled on, this gives you 9999 Coins, 99 Frog Coins, and makes shop prices all be one Coin/Frog Coin.
+    # Toggled off, shops will charge normal prices and you'll start with no Coins or Frog Coins.
+    'false': 50
+    'true': 0
+
+  ###########################
+  # Item & Location Options #
+  ###########################
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  plando_items:
+    # Generic items plando.
+    []
