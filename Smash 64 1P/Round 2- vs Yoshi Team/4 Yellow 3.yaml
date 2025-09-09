@@ -136,7 +136,7 @@ Final Fantasy 12 Open World:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Rainstone, Gysahl Greens}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -161,4 +161,5 @@ Final Fantasy 12 Open World:
   plando_items:
     # Generic items plando.
     []
+
 
