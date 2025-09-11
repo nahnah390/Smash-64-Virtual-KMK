@@ -25,7 +25,7 @@
 #     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
 #     {number} will be replaced with the counter value of the name.
 #     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
-name: Player{number}
+name: Pink
 
 # Used to describe your yaml. Useful if you have multiple files.
 description: Default Celeste (Open World) Template
@@ -49,8 +49,9 @@ Celeste (Open World):
     random: 0
     random-low: 0
     random-high: 0
+    25: 50
     disabled: 0 # equivalent to 0
-    normal: 50 # equivalent to 50
+    normal: 0 # equivalent to 50
     extreme: 0 # equivalent to 99
 
   accessibility:
@@ -481,3 +482,4 @@ Celeste (Open World):
   plando_items:
     # Generic items plando.
     []
+
