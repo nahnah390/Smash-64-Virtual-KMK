@@ -370,7 +370,7 @@ Cavern of Dreams:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Fire Bomb}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -386,7 +386,7 @@ Cavern of Dreams:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Fire Lobby - Mr. Kerrington's Painting, Fire Lobby Preston, Fire Lobby Hoops, Card: Fire Lobby - Frying Pans, Egg: Fire Drone, Egg: Fire Lobby, Fire Lobby - Shelnert's Fish]
 
   item_links:
     # Share part of your item pool with other players.
@@ -395,5 +395,6 @@ Cavern of Dreams:
   plando_items:
     # Generic items plando.
     []
+
 
 
