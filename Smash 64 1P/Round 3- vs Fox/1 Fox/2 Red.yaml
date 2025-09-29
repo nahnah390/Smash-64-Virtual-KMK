@@ -400,7 +400,7 @@ Tyrian:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Fireball}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -416,7 +416,7 @@ Tyrian:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Red Gem Leader 1,Red Gem Leader 2, Red Gem Leader 3, Red Gem Leader 4]
 
   item_links:
     # Share part of your item pool with other players.
@@ -425,4 +425,5 @@ Tyrian:
   plando_items:
     # Generic items plando.
     []
+
 
