@@ -160,7 +160,7 @@ Oxygen Not Included:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Ice Block}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -176,7 +176,7 @@ Oxygen Not Included:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Artistic Expression - 1, Artistic Expression - 2, Artistic Expression - 3, Artistic Expression - 4, Artistic Expression - 5, Artistic Expression - 6, Artistic Expression - 7]
 
   item_links:
     # Share part of your item pool with other players.
@@ -185,5 +185,6 @@ Oxygen Not Included:
   plando_items:
     # Generic items plando.
     []
+
 
 
