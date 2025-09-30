@@ -206,7 +206,14 @@ Ratchet & Clank 2:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [
+    Feltzin: Defeat Thug Ships, Feltzin: Race Through the Asteroids - Platinum Bolt,
+    Feltzin: Cargo Bay - Nanotech Boost,
+    Hrugis Cloud: Destroy Defenses,
+    Hrugis Cloud: Race Through the Disposal Facility - Platinum Bolt,
+    Gorn: Defeat Thug Fleet,   
+    Gorn: Race Through the Docking Bays - Platinum Bolt
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -215,4 +222,5 @@ Ratchet & Clank 2:
   plando_items:
     # Generic items plando.
     []
+
 
