@@ -761,7 +761,7 @@ Starcraft 2:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Siege Tank}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -777,7 +777,9 @@ Starcraft 2:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [
+    Breakout: Siege Tank Prison
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -786,4 +788,5 @@ Starcraft 2:
   plando_items:
     # Generic items plando.
     []
+
 
