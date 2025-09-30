@@ -190,7 +190,7 @@ Ratchet & Clank 2:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {}
+    {Charge Boots, Thruster-Pack}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -222,5 +222,6 @@ Ratchet & Clank 2:
   plando_items:
     # Generic items plando.
     []
+
 
 
