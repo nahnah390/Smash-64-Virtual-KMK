@@ -274,7 +274,12 @@ Wario Land 4:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {Top Left Topaz Piece, Top Right Topaz Piece, Bottom Left Topaz Piece, Bottom Right Topaz Piece}
+    {
+    Top Left Topaz Piece, 
+    Top Right Topaz Piece, 
+    Bottom Left Topaz Piece,
+    Bottom Right Topaz Piece
+    }
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -290,7 +295,11 @@ Wario Land 4:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    [Aerodent - 0:15, Aerodent - 0:35, Aerodent - 0:55]
+    [
+    Aerodent - 0:15,
+    Aerodent - 0:35,
+    Aerodent - 0:55
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -299,6 +308,7 @@ Wario Land 4:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
