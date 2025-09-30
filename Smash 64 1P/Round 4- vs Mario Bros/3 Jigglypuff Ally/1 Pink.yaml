@@ -204,7 +204,13 @@ Kirby Super Star:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    [Spring Breeze - Kracko, Dyna Blade - Switch 2, Old Tower - Mr. Saturn, Old Tower - Armor,Revenge of Meta Knight - Chapter 3, Revenge of Meta Knight - Chapter 5]
+    [
+    Spring Breeze - Kracko, Dyna Blade - Switch 2,
+    Old Tower - Mr. Saturn,
+    Old Tower - Armor,
+    Revenge of Meta Knight - Chapter 3,
+    Revenge of Meta Knight - Chapter 5
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -213,4 +219,5 @@ Kirby Super Star:
   plando_items:
     # Generic items plando.
     []
+
 
