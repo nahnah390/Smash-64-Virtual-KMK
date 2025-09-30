@@ -378,7 +378,11 @@ Star Fox 64:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [
+    Fortuna - Mission Complete,
+    Fortuna - Mission Accomplished,
+    Fortuna - Medal
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -387,5 +391,6 @@ Star Fox 64:
   plando_items:
     # Generic items plando.
     []
+
 
 
