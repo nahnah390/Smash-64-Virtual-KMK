@@ -430,7 +430,10 @@ The Legend of Zelda - Oracle of Seasons:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {Seed Satchel, Slingshot}
+    {
+    Seed Satchel,
+    Slingshot
+    }
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -455,4 +458,5 @@ The Legend of Zelda - Oracle of Seasons:
   plando_items:
     # Generic items plando.
     []
+
 
