@@ -164,7 +164,11 @@ Super Mario Sunshine:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    [Bianco Hills - Road to the Big Windmill, Bianco Hills - Down with Petey Piranha!, Bianco Hills - Petey Piranha Strikes Back]
+    [
+    Bianco Hills - Road to the Big Windmill,
+    Bianco Hills - Down with Petey Piranha!,
+    Bianco Hills - Petey Piranha Strikes Back
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -173,6 +177,7 @@ Super Mario Sunshine:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
