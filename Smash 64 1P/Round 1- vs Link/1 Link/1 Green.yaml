@@ -251,7 +251,10 @@ requires:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    [Sage of Rauru, Sage of Saria]
+    [
+    Sage of Rauru,
+    Sage of Saria
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -265,4 +268,5 @@ requires:
       location: Great Palace - East Wing Item
       from_pool: true
 ]
+
 
