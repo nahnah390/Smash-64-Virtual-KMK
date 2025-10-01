@@ -1207,7 +1207,7 @@ Pokemon Crystal:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Plain Badge}
 
   start_inventory_from_pool:
     # Start with these items and don't place them in the world.
@@ -1229,7 +1229,7 @@ Pokemon Crystal:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Goldenrod Gym - Plain Badge from Whitney]
 
   item_links:
     # Share part of your item pool with other players.
@@ -1238,5 +1238,6 @@ Pokemon Crystal:
   plando_items:
     # Generic items plando.
     []
+
 
 
