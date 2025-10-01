@@ -500,11 +500,11 @@ Pokemon Crystal:
     # Base Forms: Ensures that at least every Pokemon that cannot be obtained through evolution is available in the wild
     # Evolution Lines: Ensures that at least one Pokemon from each evolutionary line can be obtained in the wild
     # Catch 'em All: Ensures that every Pokemon will be obtainable in the wild
-    vanilla: 50
+    vanilla: 0
     completely_random: 0
     base_forms: 0
     evolution_lines: 0
-    catch_em_all: 0
+    catch_em_all: 60
 
   wild_encounter_blocklist:
     # These Pokemon will not appear in the wild
@@ -516,8 +516,8 @@ Pokemon Crystal:
   randomize_static_pokemon:
     # Randomizes species of static Pokemon encounters
     # This includes overworld Pokemon, gift Pokemon and gift egg Pokemon
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   static_blocklist:
     # These Pokemon will not appear as static overworld encounters, gift eggs or gift Pokemon
@@ -566,10 +566,10 @@ Pokemon Crystal:
 
   randomize_trades:
     # Randomizes species of in-game trades
-    vanilla: 50
+    vanilla: 0
     received: 0
     requested: 0
-    both: 0
+    both: 60
 
   encounter_grouping:
     # Determines how randomized wild Pokemon are grouped in encounter tables.
@@ -582,8 +582,8 @@ Pokemon Crystal:
     # will contain only a single encounter. Each rod is a separate encounter.
     # 
     # This setting has no effect if wild Pokemon are not randomized.
-    all_split: 50
-    one_to_one: 0
+    all_split: 0
+    one_to_one: 50
     one_per_method: 0
 
   encounter_slot_distribution:
@@ -609,10 +609,10 @@ Pokemon Crystal:
   ############
   randomize_starters:
     # Randomizes species of starter Pokemon
-    vanilla: 50
+    vanilla: 0
     unevolved_only: 0
     completely_random: 0
-    first_stage_can_evolve: 0
+    first_stage_can_evolve: 60
     base_stat_mode: 0
 
   starters_bst_average:
@@ -1238,6 +1238,7 @@ Pokemon Crystal:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
