@@ -72,8 +72,8 @@ Undertale:
 
   starting_area:
     # Which area to start with access to.
-    ruins: 50
-    snowdin: 0
+    ruins: 0
+    snowdin: 50
     waterfall: 0
     hotland: 0
     core: 0
@@ -148,7 +148,7 @@ Undertale:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Old Tutu, Ballet Shoes}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -164,7 +164,7 @@ Undertale:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Tutu Hidden, Grass Shoes]
 
   item_links:
     # Share part of your item pool with other players.
@@ -173,4 +173,5 @@ Undertale:
   plando_items:
     # Generic items plando.
     []
+
 
