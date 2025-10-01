@@ -294,8 +294,8 @@ Pokemon FireRed and LeafGreen:
     # - Progressive: There are two Progressive Passes in the pool. You will always obtain the Tri Pass before the Rainbow Pass
     # - Split: The Tri Pass and Rainbow Pass are split into seven items, one for each island
     # - Progressive Split: The Tri Pass and Rainbow Pass are split into seven items, and you will always obtain the Passes in order from the First Pass to the Seventh Pass
-    vanilla: 50
-    progressive: 0
+    vanilla: 0
+    progressive: 50
     split: 0
     progressive_split: 0
 
@@ -605,7 +605,7 @@ Pokemon FireRed and LeafGreen:
     # - Spheres: Levels are scaled based on sphere access
     # - Spheres and Distance: Levels are scaled based on sphere access and the distance they are from your starting town
     'off': 50
-    spheres: 0
+    spheres: 50
     spheres_and_distance: 0
 
   modify_trainer_levels:
@@ -644,11 +644,11 @@ Pokemon FireRed and LeafGreen:
     # - Match Type: Wild Pokemon are replaced with species that share a type with the original
     # - Match Base Stats and Type: Apply both Match Base Stats and Match Type
     # - Completely Random: There are no restrictions
-    vanilla: 50
+    vanilla: 0
     match_base_stats: 0
     match_type: 0
     match_base_stats_and_type: 0
-    completely_random: 0
+    completely_random: 50
 
   wild_pokemon_groups:
     # If wild Pokemon are not vanilla, they will be randomized according to the grouping specified.
@@ -656,8 +656,8 @@ Pokemon FireRed and LeafGreen:
     # - None: Pokemon are not randomized together based on any groupings
     # - Dungeons: All Pokemon of the same species in a dungeon are randomized together
     # - Species: All Pokemon of the same species are randomized together
-    none: 50
-    dungeons: 0
+    none: 0
+    dungeons: 50
     species: 0
 
   wild_pokemon_blacklist:
@@ -676,11 +676,11 @@ Pokemon FireRed and LeafGreen:
     # - Match Type: Starters are replaced with species that share a type with the original
     # - Match Base Stats and Type: Apply both Match Base Stats and Match Type
     # - Completely Random: There are no restrictions
-    vanilla: 50
+    vanilla: 0
     match_base_stats: 0
     match_type: 0
     match_base_stats_and_type: 0
-    completely_random: 0
+    completely_random: 50
 
   starter_blacklist:
     # Prevents listed species from appearing as a starter when starters are randomized.
@@ -698,9 +698,9 @@ Pokemon FireRed and LeafGreen:
     # - Match Type: Trainer Pokemon are replaced with species that share a type with the original
     # - Match Base Stats and Type: Apply both Match Base Stats and Match Type
     # - Completely Random: There are no restrictions
-    vanilla: 50
+    vanilla: 0
     match_base_stats: 0
-    match_type: 0
+    match_type: 50
     match_base_stats_and_type: 0
     completely_random: 0
 
@@ -722,7 +722,7 @@ Pokemon FireRed and LeafGreen:
     # - Match Base Stats and Type: Apply both Match Base Stats and Match Type
     # - Completely Random: There are no restrictions
     vanilla: 50
-    legendaries: 0
+    legendaries: 50
     match_base_stats: 0
     match_type: 0
     match_base_stats_and_type: 0
@@ -748,7 +748,7 @@ Pokemon FireRed and LeafGreen:
     match_base_stats: 0
     match_type: 0
     match_base_stats_and_type: 0
-    completely_random: 0
+    completely_random: 50
 
   misc_pokemon_blacklist:
     # Prevents the listed species from appearing as a miscellaneous Pokemon when miscellaneous Pokemon are randomized.
@@ -832,8 +832,8 @@ Pokemon FireRed and LeafGreen:
   physical_special_split:
     # Changes the damage category that moves use to match the categories since the Gen IV physical/special split instead
     # of the damage category being determined by the move's type.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   move_types:
     # Randomizes the type for each move.
@@ -864,10 +864,10 @@ Pokemon FireRed and LeafGreen:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    random: 0
+    random: 50
     random-low: 0
     random-high: 0
-    vanilla: 50 # equivalent to -1
+    vanilla: 0 # equivalent to -1
     none: 0 # equivalent to 0
     full: 0 # equivalent to 100
 
@@ -877,7 +877,7 @@ Pokemon FireRed and LeafGreen:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    random: 0
+    random: 50
     random-low: 0
     random-high: 0
     vanilla: 50 # equivalent to -1
@@ -888,8 +888,8 @@ Pokemon FireRed and LeafGreen:
     # Randomizes the moves taught by TMs and move tutors.
     # 
     # Some opponents like gym leaders are allowed to use TMs. This option can affect the moves they know.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   tm_tutor_moves_blacklist:
     # Prevents TMs and move tutors from teaching these moves.
@@ -899,8 +899,8 @@ Pokemon FireRed and LeafGreen:
 
   reusable_tm_tutors:
     # Sets TMs to not break after use (they remain sellable). Allows Move Tutors to be used infinitely.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   min_catch_rate:
     # Sets the minimum catch rate a Pokemon can have. It will raise any Pokemon's catch rate to this value if its normal
@@ -932,6 +932,7 @@ Pokemon FireRed and LeafGreen:
     # Minimum value is 1
     # Maximum value is 1000
     100: 50
+    200: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -1041,9 +1042,9 @@ Pokemon FireRed and LeafGreen:
     # Provides an Archipelago Hint for locations that tell you what item they give once you've gotten the in game hint.
     # 
     # This includes the Oak's Aides, Bicycle Shop, Shops, and Pokemon Request Locations.
-    'off': 50
+    'off': 0
     progression: 0
-    progression_and_useful: 0
+    progression_and_useful: 50
     all: 0
 
   death_link:
@@ -1066,7 +1067,7 @@ Pokemon FireRed and LeafGreen:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Thunder Badge}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -1082,7 +1083,7 @@ Pokemon FireRed and LeafGreen:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Vermilion Gym - Prize]
 
   item_links:
     # Share part of your item pool with other players.
@@ -1091,4 +1092,5 @@ Pokemon FireRed and LeafGreen:
   plando_items:
     # Generic items plando.
     []
+
 
