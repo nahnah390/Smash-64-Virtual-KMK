@@ -322,10 +322,10 @@ Pokemon Crystal:
   randomize_pokemon_requests:
     # Shuffles the items given by Bill's Grandpa after showing him specific Pokemon into the pool
     # Optionally also randomizes the requested Pokemon
-    'off': 50
+    'off': 0
     items: 0
     pokemon: 0
-    items_and_pokemon: 0
+    items_and_pokemon: 50
 
   randomize_fly_unlocks:
     # Shuffles Fly destination unlocks into the pool
@@ -702,8 +702,8 @@ Pokemon Crystal:
 
   randomize_tm_moves:
     # Randomizes the moves available as TMs
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   tm_compatibility:
     # Percent chance for Pokemon to be compatible with each TM
@@ -712,17 +712,17 @@ Pokemon Crystal:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    random: 0
+    random: 50
     random-low: 0
     random-high: 0
-    vanilla: 50 # equivalent to -1
+    vanilla: 0 # equivalent to -1
     none: 0 # equivalent to 0
     fully_compatible: 0 # equivalent to 100
 
   reusable_tms:
     # TMs can be used an infinite number of times
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   move_blocklist:
     # Pokemon won't learn these moves via learnsets.
@@ -741,8 +741,8 @@ Pokemon Crystal:
   ############
   randomize_trainer_parties:
     # Randomizes Pokemon in enemy trainer parties
-    vanilla: 50
-    match_types: 0
+    vanilla: 0
+    match_types: 50
     completely_random: 0
 
   trainer_party_blocklist:
@@ -954,8 +954,8 @@ Pokemon Crystal:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 8
-    0: 50
-    random: 0
+    0: 0
+    random: 50
     random-low: 0
     random-high: 0
 
@@ -1136,7 +1136,7 @@ Pokemon Crystal:
     random-high: 0
     half: 0 # equivalent to 10
     normal: 50 # equivalent to 20
-    double: 0 # equivalent to 40
+    double: 50 # equivalent to 40
     triple: 0 # equivalent to 60
     quadruple: 0 # equivalent to 80
     quintuple: 0 # equivalent to 100
@@ -1191,8 +1191,8 @@ Pokemon Crystal:
   ######
   enable_mischief:
     # If I told you what this does, it would ruin the surprises :)
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   ###########################
   # Item & Location Options #
@@ -1238,6 +1238,7 @@ Pokemon Crystal:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
