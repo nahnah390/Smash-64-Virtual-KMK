@@ -463,7 +463,7 @@ Pokemon Mystery Dungeon Explorers of Sky:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Yellow Gummi 1}
 
   start_inventory_from_pool:
     # Start with these items and don't place them in the world.
@@ -485,7 +485,7 @@ Pokemon Mystery Dungeon Explorers of Sky:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Amp Plains Mission 4, Amp Plains Outlaw 2]
 
   item_links:
     # Share part of your item pool with other players.
@@ -494,5 +494,6 @@ Pokemon Mystery Dungeon Explorers of Sky:
   plando_items:
     # Generic items plando.
     []
+
 
 
