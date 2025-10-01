@@ -101,13 +101,15 @@ Pokemon Black and White:
     # 
     # It is **highly recommended** to include **Prevent rare encounters** if you want to randomize wild pokemon,
     # else you might find yourself searching for two 1% encounters on every route.
-    []
+    [
+    'Randomize', 'Ensure all obtainable', 'Prevent rare encounters', 'Area 1-to-1'
+    ]
 
   randomize_trainer_pokemon:
     # Randomizes trainer pokemon.
     # - **Randomize** - Toggles trainer pokemon being randomized. Required for any modifier below.
     # - **Similar base stats** - Tries to keep the randomized pokemon at a similar base stat total as the replaced one.
-    []
+    ['Randomize']
 
   pokemon_randomization_adjustments:
     # Adjust various parameters in various pokemon randomization options (more modifiers are planned).
@@ -138,7 +140,7 @@ Pokemon Black and White:
     vanilla: 0
     shuffle: 50
     any_badge: 0
-    anything: 0
+    anything: 50
 
   shuffle_tm_hm:
     # Determines what items NPCs, who would normally give TMs or HMs, can have.
@@ -146,10 +148,10 @@ Pokemon Black and White:
     # - **HM with Badge** - Like "Shuffle", but puts each HM (and TM70 Flash) at a gym leader's badge reward (including the TM from Clay on route 6).
     # - **Any TM/HM** - These NPCs will give any item that starts with "TM" or "HM" followed by any digit (which also applies to TMs and HMs of other games/worlds).
     # - **Anything** - No restrictions.
-    shuffle: 50
+    shuffle: 0
     hm_with_badge: 0
     any_tm_hm: 0
-    anything: 0
+    anything: 50
 
   dexsanity:
     # Adds a number of locations that can be checked by catching a certain pokemon species
@@ -172,9 +174,9 @@ Pokemon Black and White:
     # - **Vanilla** - Seasons are not randomized and change based on real time. Locations that depend on the season will only contain filler items.
     # - **Changeable** - The current season can be changed by an NPC next to the Pokemon Center in Nimbasa City.
     # - **Randomized** - All seasons are unlockable by items that get shuffled into the item pool. They can as well be changed by an NPC in Nimbasa City, with one season being unlocked from the beginning.
-    vanilla: 50
+    vanilla: 0
     changeable: 0
-    randomized: 0
+    randomized: 50
 
   adjust_levels:
     # Adjusts the levels of wild and trainer pokemon in areas that are in AP earlier accessible than in vanilla
@@ -217,7 +219,7 @@ Pokemon Black and White:
     # - **Useless key items** - Adds one of each unused key item with filler classification.
     # - **Useful filler** - Main bag items that would normally occur only once can be generated multiple times.
     # - **Ban bad filler** - Bans niche berries and mail from being generated as filler items.
-    []
+    ['Ban bad filler']
 
   modify_logic:
     # Modifies parts of what's logically required for various locations.
@@ -249,7 +251,7 @@ Pokemon Black and White:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Bolt Badge}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -265,7 +267,7 @@ Pokemon Black and White:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Nimbasa Gym - Badge reward]
 
   item_links:
     # Share part of your item pool with other players.
@@ -274,4 +276,5 @@ Pokemon Black and White:
   plando_items:
     # Generic items plando.
     []
+
 
