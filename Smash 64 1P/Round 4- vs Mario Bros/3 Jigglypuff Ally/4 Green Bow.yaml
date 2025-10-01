@@ -690,7 +690,7 @@ Pokemon Emerald:
     # Start with these items.
     # 
     # They will be in your PC, which you can access from your home or a pokemon center.
-    {}
+    {Balance Badge}
 
   local_items:
     # Forces these items to be in their native world.
@@ -714,7 +714,7 @@ Pokemon Emerald:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Petalburg Gym - Balance Badge]
 
   item_links:
     # Share part of your item pool with other players.
@@ -723,4 +723,5 @@ Pokemon Emerald:
   plando_items:
     # Generic items plando.
     []
+
 
