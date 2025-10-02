@@ -151,13 +151,13 @@ Pizza Tower:
     # Adds the game's 24 S Ranks to the pool as locations.
     # 
     # Obtaining a P Rank in a level will also check its corresponding S Rank location.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   prank_checks:
     # Adds the game's 24 P Ranks to the pool as locations.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   cheftask_checks:
     # Adds the game's 72 Chef Tasks (achievements) to the pool as locations.
@@ -277,8 +277,8 @@ Pizza Tower:
 
   clothing_filler:
     # Determines whether outfits will be shuffled into the item pool.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   shuffle_lap2:
     # On: Shuffles an item into the pool that enables all lap 2 portals
@@ -353,7 +353,7 @@ Pizza Tower:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Clothes: TV Purple}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -369,7 +369,7 @@ Pizza Tower:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [John Gutter P Rank]
 
   item_links:
     # Share part of your item pool with other players.
@@ -378,4 +378,5 @@ Pizza Tower:
   plando_items:
     # Generic items plando.
     []
+
 
