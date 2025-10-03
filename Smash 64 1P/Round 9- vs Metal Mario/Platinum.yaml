@@ -111,8 +111,8 @@ Pokemon Platinum:
 
   bicycle:
     # Adds the bicycle to the pool.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   pokedex:
     # Add the Pokedex to the pool. Note: this also adds the national dex to the pool.
@@ -315,7 +315,7 @@ Pokemon Platinum:
     # Maximum value is 16
     1: 50
     random: 0
-    random-low: 0
+    random-low: 50
     random-high: 0
 
   storage_key:
@@ -398,5 +398,6 @@ Pokemon Platinum:
   plando_items:
     # Generic items plando.
     []
+
 
 
