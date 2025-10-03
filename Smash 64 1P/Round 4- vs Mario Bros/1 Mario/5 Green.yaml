@@ -63,9 +63,9 @@ Super Mario Land 2:
     # 
     # **Items:** ensure all logically relevant items can be acquired. Some items, such as keys, may be self-locking, and
     # some locations may be inaccessible.
-    full: 0
+    full: 50
     minimal: 0
-    items: 50
+    items: 0
 
   shuffle_golden_coins:
     # Vanilla: Golden Coins are received when defeating bosses.
@@ -224,7 +224,7 @@ Super Mario Land 2:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Tree Zone Progression, Tree Zone Secret}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -240,7 +240,11 @@ Super Mario Land 2:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [
+    Tree Zone 2 - Normal Exit,
+    Tree Zone 2 - Secret Exit,
+    Tree Zone Secret Course - Normal Exit
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -249,3 +253,4 @@ Super Mario Land 2:
   plando_items:
     # Generic items plando.
     []
+
