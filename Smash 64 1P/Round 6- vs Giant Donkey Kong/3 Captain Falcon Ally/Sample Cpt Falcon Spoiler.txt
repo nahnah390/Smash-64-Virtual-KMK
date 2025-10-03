@@ -1,0 +1,1828 @@
+﻿Archipelago Version 0.6.3  -  Seed: 54401840266589822495
+
+Filling Algorithm:               balanced
+Players:                         6
+Plando Options:                  connections, texts, bosses
+
+Player 1: Player1
+Game:                            Bomb Rush Cyberfunk
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Logic:                           Glitchless
+Skip Intro:                      Yes
+Skip Dreams:                     No
+Skip Statue Hands:               No
+Total REP:                       1400
+Extra REP Required:              No
+Starting Movestyle:              Skateboard
+Limited Graffiti:                No
+Small Graffiti Uses:             Separate
+Skip Polo Photos:                No
+Don't Save Photos:               No
+Score Difficulty:                Normal
+Damage Multiplier:               1
+Death Link:                      No
+
+Player 2: Player2
+Game:                            Hades
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Start Inventory from Pool:       
+Weapon:                          Sword
+Location System:                 Room Based
+ScoreRewardsAmount:              150
+KeepsakeSanity:                  Yes
+WeaponSanity:                    Yes
+HiddenAspectSanity:              Yes
+StoreSanity:                     Yes
+FateSanity:                      Yes
+HadesDefeatsNeeded:              1
+WeaponsClearsNeeded:             1
+KeepsakesNeeded:                 0
+FatesNeeded:                     0
+Heat System:                     Reverse Heat
+Hard Labor Pact Amount:          3
+Lasting Consequences Pact Amount:2
+Convenience Fee Pact Amount:     1
+Jury Summons Pact Amount:        2
+Extreme Measures Pact Amount:    2
+Calisthenics Program Pact Amount:1
+Benefits Package Pact Amount:    1
+Middle Management Pact Amount:   1
+Underworld Customs Pact Amount:  1
+Forced Overtime Pact Amount:     1
+Heightened Security Pact Amount: 1
+Routine Inspection Pact Amount:  3
+Damage Control Pact Amount:      1
+Approval Process Pact Amount:    1
+Tight Deadline Pact Amount:      2
+Personal Liability Pact Amount:  0
+Darkness Pack Value:             1000
+Keys Pack Value:                 20
+Gemstone Pack Value:             100
+Diamonds Pack Value:             15
+Titan Blood Pack Value:          3
+Nectar Pack Value:               3
+Ambrosia Pack Value:             3
+Filler Helper Percentage:        0
+Max Health Helper Percentage:    35
+Initial Money Helper Percentage: 35
+Filler Trap Percentage:          5
+Reverse Order Extreme Measure:   Yes
+Ignore Greece Deaths:            Yes
+Store Give Hints:                Yes
+Automatic Room Finish On Hades Defeat:No
+Death Link:                      No
+
+Player 3: Player3
+Game:                            Kirby Air Ride
+Death Link:                      No
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Traps Enabled:                   No
+Trap Chance:                     10
+Effect Items Enabled:            Yes
+Checkbox rewards are items:      No
+Energy Link:                     Yes
+City Trial Goal:                 City Trial: Fill in over 100 Checklist blocks!
+Number of Checklist Boxes for City Trial:60
+City Trial Long/High effort checkboxes are progression:No
+City Trial Free Run checkboxes are progression:No
+City Trial Multiplayer checkboxes are progression:No
+City Trial Permanent Patches:    Yes
+Permanent Patches are progression:Yes
+Air Ride Goal:                   None
+Number of Checklist Boxes for Air Ride:60
+Air Ride Long/High effort checkboxes are progression:No
+Air Ride Free Run checkboxes are progression:No
+Air Ride Time Attack checkboxes are progression:No
+Top Ride Goal:                   None
+Number of Checklist Boxes for Top Ride:60
+Top Ride Long/High effort checkboxes are progression:No
+Top Ride Free Run checkboxes are progression:No
+Top Ride Time Attack checkboxes are progression:No
+Top Ride Multiplayer checkboxes are progression:No
+
+Player 4: Player4
+Game:                            Pizza Tower
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Character:                       Peppino
+Toppin Count:                    95
+Floor 1 Boss Toppins:            11
+Floor 2 Boss Toppins:            27
+Floor 3 Boss Toppins:            48
+Floor 4 Boss Toppins:            69
+Floor 5 Boss Toppins:            91
+Treasures Award Checks:          Yes
+Secrets Award Checks:            Yes
+S Ranks Award Checks:            No
+P Ranks Award Checks:            Yes
+Chef Tasks Award Checks:         No
+Shuffle Boss Keys:               No
+Shuffle Level Gates:             No
+Shuffle Boss Gates:              No
+Shuffle Secrets:                 No
+Open World:                      No
+Bonus Ladders:                   3
+Trap Percentage:                 10
+Replace Oktoberfest with Jumpscare:No
+Fairly Random:                   Yes
+Difficulty:                      Normal
+Randomize Moves:                 Yes
+Randomize These Moves:           Bodyslam, Bomb, Breakdance, Crusher, Double Jump, Grab, Mach 4, Rat Kick, Spin Attack, Superjump, Supertaunt, Taunt, Tornado, Uppercut, Wallbounce, Wallclimb
+Randomize Transformations:       No
+Randomize These Transformations: Ball, Barrel, Firemouth, Ghost, Knight, Mort, Olive Bubble, Pizzabox, Revolver, Rocket, Satan's Choice, Shotgun, Sticky Cheese, Weenie
+Death Link:                      No
+Ring Link:                       No
+Shuffle Clothes:                 Yes
+Shuffle Lap 2 Portals:           No
+Trap Weights:                    Clown Trap: 20, Fake Santa Trap: 20, Ghost Trap: 10, Granny Trap: 20, Oktoberfest!: 20, Timer Trap: 10
+Filler Weights:                  Cross Buff: 20, Nothing: 5, Permanent 10 Points: 40, Permanent 100 Points: 3, Permanent 50 Points: 7, Pizza Shield: 10, Primo Burg: 15
+Pumpkin Checks:                  No
+Pumpkin Count:                   30
+Tricky Treat Door Pumpkins:      67
+Randomize Music:                 No
+APWorld Version:                 1.2.2
+Player 5: Player5
+Game:                            Sonic Riders
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 Egg Factory: 1, Cream: 1
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Ring Link:                       Off
+Death Link:                      No
+Enable Stage Top 3:              No
+Enable Stage 1st Place:          No
+Enable Character Top 3:          No
+Enable Character 1st Place:      No
+Enable Gear Top 3:               No
+Enable Gear 1st Place:           No
+
+Player 6: Player6
+Game:                            Star Wars Episode I Racer
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Progressive Parts:               No
+No Traction Upgrades:            No
+Course Unlock Mode:              Circuit Pass
+Progressive Circuits:            No
+Randomize Starting Racers:       Yes
+Number of Starting Racers:       6
+Starting Racers Plando:          
+Max Additional Racers:           22
+Mirrored Tracks:                 0
+Disable Part Damage:             Yes
+AI Scaling:                      Circuits
+Additional AI Multiplier:        1000
+Enable Multiplier Control:       Yes
+1-Lap Mode:                      No
+Auto-Hint Shop:                  No
+Shop Costs:                      Vanilla
+Shop Cost Multiplier:            1
+Course Plando:                   
+Death Link Amnesty:              0
+Death Link:                      No
+
+
+Entrances:
+
+Player6: Amateur Race 1 => Sunken City
+Player6: Amateur Race 2 => Ando Prime Centrum
+Player6: Amateur Race 3 => Andobi Mountain Run
+Player6: Amateur Race 4 => Grabvine Gateway
+Player6: Amateur Race 5 => Sebulba's Legacy
+Player6: Amateur Race 6 => Fire Mountain Rally
+Player6: Amateur Race 7 => Boonta Training Course
+Player6: Semi-Pro Race 1 => Scrapper's Run
+Player6: Semi-Pro Race 2 => Howler Gorge
+Player6: Semi-Pro Race 3 => Aquilaris Classic
+Player6: Semi-Pro Race 4 => Spice Mine Run
+Player6: Semi-Pro Race 5 => The Boonta Classic
+Player6: Semi-Pro Race 6 => Beedo's Wild Ride
+Player6: Semi-Pro Race 7 => Mon Gazza Speedway
+Player6: Galactic Race 1 => Bumpy's Breakers
+Player6: Galactic Race 2 => Vengeance
+Player6: Galactic Race 3 => Zugga Challenge
+Player6: Galactic Race 4 => Abyss
+Player6: Galactic Race 5 => Dug Derby
+Player6: Galactic Race 6 => Dethro's Revenge
+Player6: Galactic Race 7 => The Gauntlet
+Player6: Invitational Race 1 => Malastare 100
+Player6: Invitational Race 2 => Baroo Coast
+Player6: Invitational Race 3 => Inferno
+Player6: Invitational Race 4 => Executioner
+
+Starting Items:
+
+Ball (Player4)
+Firemouth (Player4)
+Ghost (Player4)
+Mort (Player4)
+Weenie (Player4)
+Barrel (Player4)
+Olive Bubble (Player4)
+Rocket (Player4)
+Pizzabox (Player4)
+Sticky Cheese (Player4)
+Shotgun (Player4)
+Revolver (Player4)
+Lap 2 Portals (Player4)
+Knight (Player4)
+Satan's Choice (Player4)
+Egg Factory (Player5)
+Cream (Player5)
+
+Locations:
+
+Hideout: Half pipe CD (Player1): Blue Star II (Player5)
+Hideout: Garage tower CD (Player1): Glide Up Permanent +1 (Player3)
+Hideout: Rooftop CD (Player1): Inline Skates (Ice Cold Killers) (Player1)
+Hideout: Under staircase graffiti (Player1): Grinder (Player5)
+Hideout: Secret area graffiti (Player1): Graffiti (M - B-boy Love) (Player1)
+Hideout: Rear studio graffiti (Player1): Outfit (Coil - Autumn) (Player1)
+Hideout: Corner ledge graffiti (Player1): R-60 Repulsorgrip (Player6)
+Hideout: Upper platform skateboard (Player1): 16 REP (Player1)
+Hideout: BMX garage skateboard (Player1): Keys (Player2)
+Hideout: Unlock phone app (Player1): Toppin (Player4)
+Hideout: Vinyl joins the crew (Player1): Ambrosia (Player2)
+Hideout: Solace joins the crew (Player1): Nothing (Player4)
+Versum Hill: Main street Robo Post graffiti (Player1): Defense Up Permanent +1 (Player3)
+Versum Hill: Behind glass graffiti (Player1): Gemstones (Player2)
+Versum Hill: Office room graffiti (Player1): Graffiti (XL - BiGSHiNYBoMB) (Player1)
+Versum Hill: Under bridge graffiti (Player1): Charge Up (Player3)
+Versum Hill: Train rail ledge skateboard (Player1): Offense Up (Player3)
+Versum Hill: Train station CD (Player1): Inline Skates (Sharpshooters) (Player1)
+Versum Hill: Billboard platform outfit (Player1): Graffiti (M - BLOCKY) (Player1)
+Versum Hill: Hilltop Robo Post CD (Player1): BMX (Rigid No.6) (Player1)
+Versum Hill: Hill secret skateboard (Player1): Outfit (Tryce - Autumn) (Player1)
+Versum Hill: Rooftop CD (Player1): Rietveld (Player1)
+Versum Hill: Wallrunning challenge reward (Player1): 8 REP (Player1)
+Versum Hill: Manual challenge reward (Player1): Permanent 10 Points (Player4)
+Versum Hill: Corner challenge reward (Player1): 1000 Truguts (Player6)
+Versum Hill: Side street alley outfit (Player1): 2800 Truguts (Player6)
+Versum Hill: Side street secret skateboard (Player1): Pizza Shield (Player4)
+Versum Hill: Basketball court alley skateboard (Player1): 16 REP (Player1)
+Versum Hill: Basketball court Robo Post CD (Player1): Music (Two Days Off) (Player1)
+Versum Hill: Underground mall billboard graffiti (Player1): Weight Up (Player3)
+Versum Hill: Underground mall vending machine skateboard (Player1): 16 REP (Player1)
+Versum Hill: BMX gate outfit (Player1): 400 Truguts (Player6)
+Versum Hill: Glass floor skates (Player1): Weight Up (Player3)
+Versum Hill: Basketball court shortcut CD (Player1): Music (Anime Break) (Player1)
+Versum Hill: Rave joins the crew (Player1): 16 REP (Player1)
+Versum Hill: Frank joins the crew (Player1): Ambrosia (Player2)
+Versum Hill: Rietveld joins the crew (Player1): Cross Buff (Player4)
+Versum Hill: Big Polo (Player1): Glide Up Permanent +1 (Player3)
+Versum Hill: Trash Polo (Player1): Hermes Keepsake (Player2)
+Versum Hill: Fruit stand Polo (Player1): Primo Burg (Player4)
+Millennium Square: Center ramp graffiti (Player1): 10 Rings (Player5)
+Millennium Square: Rooftop staircase graffiti (Player1): Control Vectro Jet (Player6)
+Millennium Square: Toilet graffiti (Player1): Dark Desert (Player5)
+Millennium Square: Trash graffiti (Player1): Mark IV Air Brake (Player6)
+Millennium Square: Center tower graffiti (Player1): 16 REP (Player1)
+Millennium Square: Rooftop billboard graffiti (Player1): Gasgano (Player6)
+Millennium Square: Center Robo Post CD (Player1): Darkness (Player2)
+Millennium Square: Parking garage Robo Post CD (Player1): Toppin (Player4)
+Millennium Square: Mall ledge outfit (Player1): Permanent 10 Points (Player4)
+Millennium Square: Alley rooftop outfit (Player1): Gemstones (Player2)
+Millennium Square: Alley staircase skateboard (Player1): Shadow (Player5)
+Millennium Square: Secret painting skates (Player1): 32 REP (Player1)
+Millennium Square: Vending machine skates (Player1): Nectar (Player2)
+Millennium Square: Walkway roof skates (Player1): Graffiti (M - SPRAYTANICPANIC!) (Player1)
+Millennium Square: Alley ledge skates (Player1): Graffiti (M - Vom'B) (Player1)
+Millennium Square: DJ Cyber joins the crew (Player1): R-80 Repulsorgrip (Player6)
+Millennium Square: Half pipe Polo (Player1): Clothes: Money Green (Player4)
+Brink Terminal: Upside grind challenge reward (Player1): Futurism (Player1)
+Brink Terminal: Manual challenge reward (Player1): TitanBlood (Player2)
+Brink Terminal: Score challenge reward (Player1): Court Musician Sentence Item (Player2)
+Brink Terminal: Under square ledge graffiti (Player1): Calisthenics Program Pact Level (Player2)
+Brink Terminal: Bus graffiti (Player1): Brilliant Gemstones Item (Player2)
+Brink Terminal: Under square Robo Post graffiti (Player1): Vanquishers Keep Item (Player2)
+Brink Terminal: BMX gate graffiti (Player1): Cross Buff (Player4)
+Brink Terminal: Square tower CD (Player1): DOT.EXE (Player1)
+Brink Terminal: Trash CD (Player1): Darkness (Player2)
+Brink Terminal: Shop roof outfit (Player1): 16 REP (Player1)
+Brink Terminal: Underground glass skates (Player1): Control Shift Plate (Player6)
+Brink Terminal: Glass roof skates (Player1): 8 REP (Player1)
+Brink Terminal: Mesh's skateboard (Player1): Inline Skates (Glaciers) (Player1)
+Brink Terminal: Underground ramp skates (Player1): Cluster Power Plug (Player6)
+Brink Terminal: Rooftop halfpipe graffiti (Player1): Toppin (Player4)
+Brink Terminal: Wire grind CD (Player1): Gemstones (Player2)
+Brink Terminal: Rooftop glass CD (Player1): Music (House Cats Mixtape) (Player1)
+Brink Terminal: Tower core outfit (Player1): Toppin (Player4)
+Brink Terminal: High rooftop outfit (Player1): 8 REP (Player1)
+Brink Terminal: Ocean platform CD (Player1): Music (Operator) (Player1)
+Brink Terminal: End of dock CD (Player1): Toppin (Player4)
+Brink Terminal: Dock Robo Post outfit (Player1): Gun Hidden Aspect (Player2)
+Brink Terminal: Control room skates (Player1): Mark V Air Brake (Player6)
+Brink Terminal: Mesh joins the crew (Player1): Music (Condensed milk) (Player1)
+Brink Terminal: Eclipse joins the crew (Player1): Toppin (Player4)
+Brink Terminal: Behind glass Polo (Player1): Primo Burg (Player4)
+Millennium Mall: Warehouse pallet graffiti (Player1): 30 Rings (Player5)
+Millennium Mall: Wall alcove graffiti (Player1): BMX (Mr. Taupe) (Player1)
+Millennium Mall: Maintenance shaft CD (Player1): Toppin (Player4)
+Millennium Mall: Glass cylinder CD (Player1): Quad 32PCX Injector (Player6)
+Millennium Mall: Lower Robo Post outfit (Player1): Primo Burg (Player4)
+Millennium Mall: Atrium vending machine graffiti (Player1): Cross Buff (Player4)
+Millennium Mall: Trick challenge reward (Player1): TitanBlood (Player2)
+Millennium Mall: Slide challenge reward (Player1): TitanBlood (Player2)
+Millennium Mall: Fish challenge reward (Player1): Ambrosia (Player2)
+Millennium Mall: Score challenge reward (Player1): Primo Burg (Player4)
+Millennium Mall: Atrium top floor Robo Post CD (Player1): Ambrosia (Player2)
+Millennium Mall: Atrium top floor floating CD (Player1): 8 REP (Player1)
+Millennium Mall: Atrium top floor BMX (Player1): Music (State of Mind) (Player1)
+Millennium Mall: Theater entrance BMX (Player1): BMX (oyo) (Player1)
+Millennium Mall: Atrium BMX gate BMX (Player1): Diamonds (Player2)
+Millennium Mall: Upside down rail outfit (Player1): Toppin (Player4)
+Millennium Mall: Theater stage corner graffiti (Player1): Keys (Player2)
+Millennium Mall: Theater hanging billboards graffiti (Player1): Permanent 10 Points (Player4)
+Millennium Mall: Theater garage graffiti (Player1): Nectar (Player2)
+Millennium Mall: Theater maintenance CD (Player1): Cross Buff (Player4)
+Millennium Mall: Race track Robo Post CD (Player1): Charge Up (Player3)
+Millennium Mall: Hanging lights CD (Player1): Quadrijet Air Brake (Player6)
+Millennium Mall: Shine joins the crew (Player1): Zeus Keepsake (Player2)
+Millennium Mall: DOT.EXE joins the crew (Player1): 24 REP (Player1)
+Pyramid Island: Lower rooftop graffiti (Player1): Toppin (Player4)
+Pyramid Island: Polo graffiti (Player1): Toppin (Player4)
+Pyramid Island: Above entrance graffiti (Player1): Music (JACK DA FUNK) (Player1)
+Pyramid Island: BMX gate BMX (Player1): Offense Up Permanent +1 (Player3)
+Pyramid Island: Quarter pipe rooftop graffiti (Player1): Charge Up Permanent +1 (Player3)
+Pyramid Island: Supply port Robo Post CD (Player1): Full Heal (Player3)
+Pyramid Island: Above gate ledge CD (Player1): Control Nozzle (Player6)
+Pyramid Island: Smoke hole BMX (Player1): 24 REP (Player1)
+Pyramid Island: Above gate rail outfit (Player1): Granny Trap (Player4)
+Pyramid Island: Rail loop outfit (Player1): Extreme Measures Pact Level (Player2)
+Pyramid Island: Score challenge reward (Player1): Slide Paramita (Player6)
+Pyramid Island: Score challenge 2 reward (Player1): DJ Cyber (Player1)
+Pyramid Island: Quarter pipe challenge reward (Player1): Heightened Security Pact Level (Player2)
+Pyramid Island: Wind turbines CD (Player1): Boost Up (Player3)
+Pyramid Island: Shortcut glass CD (Player1): Graffiti (XL - headphones on Helmet on) (Player1)
+Pyramid Island: Turret jump CD (Player1): Stack-3 Radiator (Player6)
+Pyramid Island: Helipad BMX (Player1): 1000 Truguts (Player6)
+Pyramid Island: Pipe outfit (Player1): Purple Chaos Emerald (Player5)
+Pyramid Island: Trash outfit (Player1): Toppin (Player4)
+Pyramid Island: Pyramid top CD (Player1): Permanent 50 Points (Player4)
+Pyramid Island: Pyramid top Robo Post CD (Player1): Music (GET ENUF) (Player1)
+Pyramid Island: Maze outfit (Player1): BMX (Terrazza) (Player1)
+Pyramid Island: Rise joins the crew (Player1): Underworld Customs Pact Level (Player2)
+Pyramid Island: Devil Theory joins the crew (Player1): Nectar (Player2)
+Pyramid Island: Polo pile 1 (Player1): Keys (Player2)
+Pyramid Island: Polo pile 2 (Player1): Glide Up (Player3)
+Pyramid Island: Polo pile 3 (Player1): Cross Buff (Player4)
+Pyramid Island: Polo pile 4 (Player1): 1000 Truguts (Player6)
+Pyramid Island: Maze glass Polo (Player1): Primo Burg (Player4)
+Pyramid Island: Maze classroom Polo (Player1): HP Up (Player3)
+Pyramid Island: Maze vent Polo (Player1): Clothes: Bad Bones (Player4)
+Pyramid Island: Big maze Polo (Player1): Weight Up Permanent +1 (Player3)
+Pyramid Island: Maze desk Polo (Player1): Toppin (Player4)
+Pyramid Island: Maze forklift Polo (Player1): Graffiti (L - INFINITY) (Player1)
+Mataan: Robo Post graffiti (Player1): Vinyl (Player1)
+Mataan: Secret ledge BMX (Player1): Rod Coolant Pump (Player6)
+Mataan: Highway rooftop BMX (Player1): Graffiti (XL - WILD STRUXXA) (Player1)
+Mataan: Trash CD (Player1): Music (Chuckin Up) (Player1)
+Mataan: Half pipe CD (Player1): Top Speed Up Permanent +1 (Player3)
+Mataan: Across bull horns graffiti (Player1): White Chaos Emerald (Player5)
+Mataan: Small rooftop graffiti (Player1): Clothes: Autumn (Player4)
+Mataan: Trash graffiti (Player1): Fake Santa Trap (Player4)
+Mataan: Deep city Robo Post CD (Player1): Toppin (Player4)
+Mataan: Deep city tower CD (Player1): Skateboard (Terrence) (Player1)
+Mataan: Race challenge reward (Player1): Toppin (Player4)
+Mataan: Wallrunning challenge reward (Player1): Primo Burg (Player4)
+Mataan: Score challenge reward (Player1): Toppin (Player4)
+Mataan: Deep city vent jump BMX (Player1): Outfit (Bel - Autumn) (Player1)
+Mataan: Deep city side wires outfit (Player1): Fountain Upgrade2 Item (Player2)
+Mataan: Deep city center island outfit (Player1): HP Up (Player3)
+Mataan: Red light rail graffiti (Player1): Outfit (Shine - Autumn) (Player1)
+Mataan: Red light side alley outfit (Player1): Fishing Rod Item (Player2)
+Mataan: Statue hand outfit (Player1): 24 REP (Player1)
+Mataan: Crane CD (Player1): Toppin (Player4)
+Mataan: Elephant tower glass outfit (Player1): Keys (Player2)
+Mataan: Helipad outfit (Player1): Control Coupling (Player6)
+Mataan: Vending machine CD (Player1): Toppin (Player4)
+Mataan: Coil joins the crew (Player1): Charge Up (Player3)
+Mataan: Flesh Prince joins the crew (Player1): HP Up (Player3)
+Mataan: Futurism joins the crew (Player1): 2100 Truguts (Player6)
+Mataan: Trash Polo (Player1): Graffiti (XL - Raver Funk) (Player1)
+Mataan: Shopping Polo (Player1): TitanBlood (Player2)
+Tagged 5 Graffiti Spots (Player1): Graffiti (M - Thick Candy) (Player1)
+Tagged 10 Graffiti Spots (Player1): Graffiti (XL - MegaHood) (Player1)
+Tagged 15 Graffiti Spots (Player1): 8 REP (Player1)
+Tagged 20 Graffiti Spots (Player1): 20 Rings (Player5)
+Tagged 25 Graffiti Spots (Player1): Pizza Shield (Player4)
+Tagged 30 Graffiti Spots (Player1): Graffiti (XL - Gold Rush) (Player1)
+Tagged 35 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 40 Graffiti Spots (Player1): Permanent 100 Points (Player4)
+Tagged 45 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 50 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 55 Graffiti Spots (Player1): Outfit (Rise - Winter) (Player1)
+Tagged 60 Graffiti Spots (Player1): R-600 Repulsorgrip (Player6)
+Tagged 65 Graffiti Spots (Player1): Permanent 10 Points (Player4)
+Tagged 70 Graffiti Spots (Player1): Boost Up Permanent +1 (Player3)
+Tagged 75 Graffiti Spots (Player1): Urns Of Wealth1 Item (Player2)
+Tagged 80 Graffiti Spots (Player1): Gemstones (Player2)
+Tagged 85 Graffiti Spots (Player1): Boost Up (Player3)
+Tagged 90 Graffiti Spots (Player1): Toy Dampner (Player6)
+Tagged 95 Graffiti Spots (Player1): Damage Control Pact Level (Player2)
+Tagged 100 Graffiti Spots (Player1): Permanent 50 Points (Player4)
+Tagged 105 Graffiti Spots (Player1): 1 Ring (Player5)
+Tagged 110 Graffiti Spots (Player1): Diamonds (Player2)
+Tagged 115 Graffiti Spots (Player1): Skelly Keepsake (Player2)
+Tagged 120 Graffiti Spots (Player1): Cross Buff (Player4)
+Tagged 125 Graffiti Spots (Player1): 8 REP (Player1)
+Tagged 130 Graffiti Spots (Player1): HP Up (Player3)
+Tagged 135 Graffiti Spots (Player1): Top Speed Up (Player3)
+Tagged 140 Graffiti Spots (Player1): Breakdance (Player4)
+Tagged 145 Graffiti Spots (Player1): Skateboard (Sylk) (Player1)
+Tagged 150 Graffiti Spots (Player1): 1000 Truguts (Player6)
+Tagged 155 Graffiti Spots (Player1): Semi-Pro Circuit Pass (Player6)
+Tagged 160 Graffiti Spots (Player1): Turbo Coolant Pump (Player6)
+Tagged 165 Graffiti Spots (Player1): Mars Guo (Player6)
+Tagged 170 Graffiti Spots (Player1): 600 Truguts (Player6)
+Tagged 175 Graffiti Spots (Player1): Full Heal (Player3)
+Tagged 180 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 185 Graffiti Spots (Player1): Cross Buff (Player4)
+Tagged 190 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 195 Graffiti Spots (Player1): Top Speed Up (Player3)
+Tagged 200 Graffiti Spots (Player1): SEGA ILLUSION (Player5)
+Tagged 205 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 210 Graffiti Spots (Player1): Permanent 10 Points (Player4)
+Tagged 215 Graffiti Spots (Player1): 32 REP (Player1)
+Tagged 220 Graffiti Spots (Player1): Mark III Air Brake (Player6)
+Tagged 225 Graffiti Spots (Player1): 800 Truguts (Player6)
+Tagged 230 Graffiti Spots (Player1): 32 REP (Player1)
+Tagged 235 Graffiti Spots (Player1): Music (In The Pocket) (Player1)
+Tagged 240 Graffiti Spots (Player1): Top Speed Up (Player3)
+Tagged 245 Graffiti Spots (Player1): Oktoberfest! (Player4)
+Tagged 250 Graffiti Spots (Player1): Top Speed Up (Player3)
+Tagged 255 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 260 Graffiti Spots (Player1): Boost Up Permanent +1 (Player3)
+Tagged 265 Graffiti Spots (Player1): Defense Up (Player3)
+Tagged 270 Graffiti Spots (Player1): Neva Kee (Player6)
+Tagged 275 Graffiti Spots (Player1): Spear Weapon Unlock Item (Player2)
+Tagged 280 Graffiti Spots (Player1): Clothes: SAGE Blue (Player4)
+Tagged 285 Graffiti Spots (Player1): Gemstones (Player2)
+Tagged 290 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 295 Graffiti Spots (Player1): Oldhead (Player1)
+Tagged 300 Graffiti Spots (Player1): 16 REP (Player1)
+Tagged 305 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 310 Graffiti Spots (Player1): 24 REP (Player1)
+Tagged 315 Graffiti Spots (Player1): 8 REP (Player1)
+Tagged 320 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 325 Graffiti Spots (Player1): Diamonds (Player2)
+Tagged 330 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 335 Graffiti Spots (Player1): Control Stabilizer (Player6)
+Tagged 340 Graffiti Spots (Player1): Red Chaos Emerald (Player5)
+Tagged 345 Graffiti Spots (Player1): Pizza Shield (Player4)
+Tagged 350 Graffiti Spots (Player1): Toppin (Player4)
+Tagged 355 Graffiti Spots (Player1): Clothes: Mooney Orange (Player4)
+Tagged 360 Graffiti Spots (Player1): Infernal Trove2 Item (Player2)
+Tagged 365 Graffiti Spots (Player1): Graffiti (XL - Bomb Croc) (Player1)
+Tagged 370 Graffiti Spots (Player1): Bel (Player1)
+Tagged 375 Graffiti Spots (Player1): TitanBlood (Player2)
+Tagged 380 Graffiti Spots (Player1): Music (I Wanna Kno) (Player1)
+Tagged 385 Graffiti Spots (Player1): 8 REP (Player1)
+Tagged 389 Graffiti Spots (Player1): Heavy Bike (Player5)
+Beat Meg (Player2): Meg Victory (Player2)
+Clear Room 01 (Player2): Graffiti (M - Street classic) (Player1)
+Clear Room 02 (Player2): Dr. Eggman (Player5)
+Clear Room 03 (Player2): HP Up Permanent +1 (Player3)
+Clear Room 04 (Player2): Routine Inspection Pact Level (Player2)
+Clear Room 05 (Player2): Graffiti (XL - FATE) (Player1)
+Clear Room 06 (Player2): 16 REP (Player1)
+Clear Room 07 (Player2): Graffiti (L - Campaign Trail) (Player1)
+Clear Room 08 (Player2): Graffiti (XL - MOTORCYCLE GANG) (Player1)
+Clear Room 09 (Player2): Cover-F (Player5)
+Clear Room 10 (Player2): Toppin (Player4)
+Clear Room 11 (Player2): Fountain Elysium Item (Player2)
+Clear Room 12 (Player2): 16 REP (Player1)
+Clear Room 13 (Player2): Keys (Player2)
+Beat Lernie (Player2): Lernie Victory (Player2)
+Clear Room 14 (Player2): Primo Burg (Player4)
+Clear Room 15 (Player2): Extreme Measures Pact Level (Player2)
+Clear Room 16 (Player2): HP Up Permanent +1 (Player3)
+Clear Room 17 (Player2): 16 REP (Player1)
+Clear Room 18 (Player2): 1400 Truguts (Player6)
+Clear Room 19 (Player2): 1000 Truguts (Player6)
+Clear Room 20 (Player2): Lasting Consequences Pact Level (Player2)
+Clear Room 21 (Player2): Skateboard (Just Swell) (Player1)
+Clear Room 22 (Player2): Artemis Keepsake (Player2)
+Clear Room 23 (Player2): Music (Scraped On The Way Out) (Player1)
+Beat Bros (Player2): Bros Victory (Player2)
+Clear Room 24 (Player2): Music (Plume) (Player1)
+Clear Room 25 (Player2): Diamonds (Player2)
+Clear Room 26 (Player2): Top Speed Up Permanent +1 (Player3)
+Clear Room 27 (Player2): Convenience Fee Pact Level (Player2)
+Clear Room 28 (Player2): 32 REP (Player1)
+Clear Room 29 (Player2): TitanBlood (Player2)
+Clear Room 30 (Player2): Permanent 10 Points (Player4)
+Clear Room 31 (Player2): Defense Up (Player3)
+Clear Room 32 (Player2): 5 Rings (Player5)
+Clear Room 33 (Player2): Toppin (Player4)
+Clear Room 34 (Player2): HP Up Permanent +1 (Player3)
+Clear Room 35 (Player2): 16 REP (Player1)
+Beat Hades (Player2): Hades Victory (Player2)
+Clear Room 36 (Player2): Nyx Keepsake (Player2)
+Clear Room 37 (Player2): Charge Up Permanent +1 (Player3)
+Clear Room 38 (Player2): Primo Burg (Player4)
+Clear Room 39 (Player2): Defense Up Permanent +1 (Player3)
+Clear Room 40 (Player2): 30 Rings (Player5)
+Clear Room 41 (Player2): Ambrosia (Player2)
+Clear Room 42 (Player2): 8 REP (Player1)
+Clear Room 43 (Player2): Permanent 10 Points (Player4)
+Clear Room 44 (Player2): Turn Up Permanent +1 (Player3)
+Clear Room 45 (Player2): Outfit (Felix - Autumn) (Player1)
+Clear Room 46 (Player2): Pizza Shield (Player4)
+Clear Room 47 (Player2): All Up (Player3)
+Clear Room 48 (Player2): 16 REP (Player1)
+Clear Room 49 (Player2): 8 REP (Player1)
+Clear Room 50 (Player2): Athena Keepsake (Player2)
+Clear Room 51 (Player2): Permanent 10 Points (Player4)
+Clear Room 52 (Player2): Music (Spectres) (Player1)
+Clear Room 53 (Player2): 24 REP (Player1)
+Clear Room 54 (Player2): Clothes: Dark Cook (Player4)
+Clear Room 55 (Player2): 16 REP (Player1)
+Clear Room 56 (Player2): Benefits Package Pact Level (Player2)
+Clear Room 57 (Player2): Glide Up (Player3)
+Clear Room 58 (Player2): HP Up (Player3)
+Clear Room 59 (Player2): Lasting Consequences Pact Level (Player2)
+Clear Room 60 (Player2): HP Up (Player3)
+Clear Room 61 (Player2): Boost Up (Player3)
+Clear Room 62 (Player2): Weight Up (Player3)
+Clear Room 63 (Player2): Tri-Jet Air Brake (Player6)
+Clear Room 64 (Player2): Boost Up (Player3)
+Clear Room 65 (Player2): Plug5 Thrust Coil (Player6)
+Clear Room 66 (Player2): Ambrosia (Player2)
+Clear Room 67 (Player2): R-100 Repulsorgrip (Player6)
+Clear Room 68 (Player2): 44 PCX Injector (Player6)
+Clear Room 69 (Player2): Darkness (Player2)
+Clear Room 70 (Player2): 2100 Truguts (Player6)
+Clear Room 71 (Player2): Dual Power Cell (Player6)
+Clear Room 72 (Player2): Ambrosia (Player2)
+Cerberus Keepsake (Player2): Wave (Player5)
+Achilles Keepsake (Player2): Weight Up Permanent +1 (Player3)
+Nyx Keepsake (Player2): 8 REP (Player1)
+Thanatos Keepsake (Player2): Toppin (Player4)
+Charon Keepsake (Player2): 8 REP (Player1)
+Hypnos Keepsake (Player2): Permanent 10 Points (Player4)
+Megaera Keepsake (Player2): Hard Labor Pact Level (Player2)
+Orpheus Keepsake (Player2): 24 REP (Player1)
+Dusa Keepsake (Player2): Omnipotence (Player5)
+Skelly Keepsake (Player2): Pitch Black Darkness Item (Player2)
+Zeus Keepsake (Player2): Toppin (Player4)
+Poseidon Keepsake (Player2): 16 REP (Player1)
+Athena Keepsake (Player2): Glide Up Permanent +1 (Player3)
+Aphrodite Keepsake (Player2): NiGHTS (Player5)
+Ares Keepsake (Player2): Skateboard (Death Boogie) (Player1)
+Artemis Keepsake (Player2): 8 REP (Player1)
+Dionysus Keepsake (Player2): Money Punishment (Player2)
+Hermes Keepsake (Player2): Turn Up (Player3)
+Demeter Keepsake (Player2): Amy (Player5)
+Chaos Keepsake (Player2): Clothes: Fur (Player4)
+Sisyphus Keepsake (Player2): Beginner (Player5)
+Eurydice Keepsake (Player2): Achilles Keepsake (Player2)
+Patroclus Keepsake (Player2): Glide Up (Player3)
+Bow Weapon Unlock Location (Player2): Hovercraft (Player5)
+Spear Weapon Unlock Location (Player2): Clothes: Garish Cook (Player4)
+Shield Weapon Unlock Location (Player2): Top Speed Up Permanent +1 (Player3)
+Fist Weapon Unlock Location (Player2): Boost Up Permanent +1 (Player3)
+Gun Weapon Unlock Location (Player2): Graffiti (M - 0m33) (Player1)
+Fountain Upgrade1 Location (Player2): Toppin (Player4)
+Fountain Upgrade2 Location (Player2): Rotary Power Plug (Player6)
+Fountain Tartarus Location (Player2): Vintage Nectar Item (Player2)
+Fountain Asphodel Location (Player2): Darkness (Player2)
+Fountain Elysium Location (Player2): Toppin (Player4)
+Urns Of Wealth1 Location (Player2): Ambrosia (Player2)
+Urns Of Wealth2 Location (Player2): Tails (Player5)
+Urns Of Wealth3 Location (Player2): Health Punishment (Player2)
+Infernal Trove1 Location (Player2): The Crazy (Player5)
+Infernal Trove2 Location (Player2): Keys (Player2)
+Infernal Trove3 Location (Player2): Toppin (Player4)
+Keepsake Collection Location (Player2): 24 REP (Player1)
+Deluxe Contractor Desk Location (Player2): 3500 Truguts (Player6)
+Vanquishers Keep Location (Player2): Pizza Shield (Player4)
+Fishing Rod Location (Player2): Skateboard (Lazer Accuracy) (Player1)
+Court Musician Sentence Location (Player2): 16 REP (Player1)
+Court Musician Stand Location (Player2): Bullseye Navior (Player6)
+Pitch Black Darkness Location (Player2): 20 Rings (Player5)
+Fated Keys Location (Player2): Power Gear (Player5)
+Brilliant Gemstones Location (Player2): Graffiti (M - Zona Leste) (Player1)
+Vintage Nectar Location (Player2): Toppin (Player4)
+Darker Thirst Location (Player2): Toppin (Player4)
+Is There No Escape? Event (Player2): Is There No Escape? Event Item (Player2)
+Distant Relatives Event (Player2): Distant Relatives Event Item (Player2)
+Chthonic Colleagues Event (Player2): Chthonic Colleagues Event Item (Player2)
+The Reluctant Musician Event (Player2): The Reluctant Musician Event Item (Player2)
+Goddess Of Wisdom Event (Player2): Goddess Of Wisdom Event Item (Player2)
+God Of The Heavens Event (Player2): God Of The Heavens Event Item (Player2)
+God Of The Sea Event (Player2): God Of The Sea Event Item (Player2)
+Goddess Of Love Event (Player2): Goddess Of Love Event Item (Player2)
+God Of War Event (Player2): God Of War Event Item (Player2)
+Goddess Of The Hunt Event (Player2): Goddess Of The Hunt Event Item (Player2)
+God Of Wine Event (Player2): God Of Wine Event Item (Player2)
+God Of Swiftness Event (Player2): God Of Swiftness Event Item (Player2)
+Goddess Of Seasons Event (Player2): Goddess Of Seasons Event Item (Player2)
+Power Without Equal Event (Player2): Power Without Equal Event Item (Player2)
+Divine Pairings Event (Player2): Divine Pairings Event Item (Player2)
+Primordial Boons Event (Player2): Primordial Boons Event Item (Player2)
+Primordial Banes Event (Player2): Primordial Banes Event Item (Player2)
+Infernal Arms Event (Player2): Infernal Arms Event Item (Player2)
+The Stygian Blade Event (Player2): The Stygian Blade Event Item (Player2)
+The Heart Seeking Bow Event (Player2): The Heart Seeking Bow Event Item (Player2)
+The Shield Of Chaos Event (Player2): The Shield Of Chaos Event Item (Player2)
+The Eternal Spear Event (Player2): The Eternal Spear Event Item (Player2)
+The Twin Fists Event (Player2): The Twin Fists Event Item (Player2)
+The Adamant Rail Event (Player2): The Adamant Rail Event Item (Player2)
+Master Of Arms Event (Player2): Master Of Arms Event Item (Player2)
+A Violent Past Event (Player2): A Violent Past Event Item (Player2)
+Harsh Conditions Event (Player2): Harsh Conditions Event Item (Player2)
+Slashed Benefits Event (Player2): Slashed Benefits Event Item (Player2)
+Wanton Ransacking Event (Player2): Wanton Ransacking Event Item (Player2)
+A Simple Job Event (Player2): A Simple Job Event Item (Player2)
+Chthonic Knowledge Event (Player2): Chthonic Knowledge Event Item (Player2)
+Customer Loyalty Event (Player2): Customer Loyalty Event Item (Player2)
+Dark Reflections Event (Player2): Dark Reflections Event Item (Player2)
+Close At Heart Event (Player2): Close At Heart Event Item (Player2)
+Denizens Of The Deep Event (Player2): Denizens Of The Deep Event Item (Player2)
+The Useless Trinket Event (Player2): The Useless Trinket Event Item (Player2)
+Is There No Escape? (Player2): Toppin (Player4)
+Distant Relatives (Player2): Fist Hidden Aspect (Player2)
+Chthonic Colleagues (Player2): BMX (Steel Wheeler) (Player1)
+The Reluctant Musician (Player2): Wan Sandage (Player6)
+Goddess Of Wisdom (Player2): Permanent 10 Points (Player4)
+God Of The Heavens (Player2): 5 Rings (Player5)
+God Of The Sea (Player2): Charge Up (Player3)
+Goddess Of Love (Player2): Clothes: Blood Red (Player4)
+God Of War (Player2): Outfit (Rave - Autumn) (Player1)
+Goddess Of The Hunt (Player2): HP Up (Player3)
+God Of Wine (Player2): Turn Up (Player3)
+God Of Swiftness (Player2): Top Speed Up (Player3)
+Goddess Of Seasons (Player2): Primo Burg (Player4)
+Power Without Equal (Player2): Glide Up Permanent +1 (Player3)
+Divine Pairings (Player2): Hard Labor Pact Level (Player2)
+Primordial Boons (Player2): Metal City (Player5)
+Primordial Banes (Player2): Rouge (Player5)
+Infernal Arms (Player2): Turn Up (Player3)
+The Stygian Blade (Player2): Advantage-S (Player5)
+The Heart Seeking Bow (Player2): Graffiti (L - buttercup) (Player1)
+The Shield Of Chaos (Player2): Outfit (Red - Winter) (Player1)
+The Eternal Spear (Player2): Permanent 10 Points (Player4)
+The Twin Fists (Player2): Diamonds (Player2)
+The Adamant Rail (Player2): 16 REP (Player1)
+Master Of Arms (Player2): Accelerator (Player5)
+A Violent Past (Player2): Skateboard (Devon) (Player1)
+Harsh Conditions (Player2): 16 REP (Player1)
+Slashed Benefits (Player2): Nothing (Player4)
+Wanton Ransacking (Player2): Sky Road (Player5)
+A Simple Job (Player2): Bow Hidden Aspect (Player2)
+Chthonic Knowledge (Player2): Super Hang-On (Player5)
+Customer Loyalty (Player2): Bodyslam (Player4)
+Dark Reflections (Player2): Sebulba (Player6)
+Close At Heart (Player2): Music (Hair Dun Nails Dun) (Player1)
+Denizens Of The Deep (Player2): 8 REP (Player1)
+The Useless Trinket (Player2): Permanent 10 Points (Player4)
+City Trial: Get 30 or more Glide Patches! (Player3): Graffiti (XL - SECOND SIGHT) (Player1)
+City Trial: Get trampled by Dyna Blade! (Player3): Inline Skates (ck) (Player1)
+Stadium: KIRBY MELEE 1 In one game, KO over 75 enemies by yourself! (Player3): Faster (Player5)
+City Trial: Open up all the holes around the base of the volcano! (Player3): Superjump (Player4)
+City Trial: In one game, get 10 or more Charge Patches! (Player3): Rat Kick (Player4)
+City Trial: In one game, get 50 or more items! (Player3): Galactic Circuit Pass (Player6)
+City Trial: Get 10 items within the first 20 seconds of the match! (Player3): Graffiti (M - BOMB BEATS) (Player1)
+Stadium: DRAG RACE 4 Finish in less than 00:33:00 on Turbo Star! (Player3): Graffiti (M - Devil 68) (Player1)
+Stadium: KIRBY MELEE 2 In one game, KO enemies over 30 times! (Player3): Toppin (Player4)
+City Trial: Let the waterwheel carry you 10 times or more! (Player3): 3500 Truguts (Player6)
+City Trial: Make your way to the garden in the sky! (Player3): Graffiti (L - WHOLE SIXER) (Player1)
+City Trial: Use Sensor Bombs to KO rivals 3 times or more! (Player3): Toppin (Player4)
+City Trial: During one game, go into the hole in the high plains 3 times or more! (Player3): Spear Hidden Aspect (Player2)
+Stadium: TARGET FLIGHT In one game, get a perfect score: 200 points! (Player3): Dionysus Keepsake (Player2)
+Stadium: TARGET FLIGHT In one game, get over 150 points! (Player3): 16 REP (Player1)
+Stadium: KIRBY MELEE 2 In one game, KO over 40 enemies by yourself! (Player3): Toppin (Player4)
+Stadium: DRAG RACE 3 Finish in less than 00:31:00 on Wheelie Bike! (Player3): Toppin (Player4)
+Stadium: AIR GLIDER stay airborne longer than 30 seconds! (Player3): Filler (Player3)
+Stadium: AIR GLIDER fly more than 1,300 feet! (Player3): Toppin (Player4)
+Stadium: AIR GLIDER fly more than 330 feet! (Player3): Permanent 50 Points (Player4)
+Stadium: HIGH JUMP Jump higher than 500 feet! (Player3): Eclipse (Player1)
+Stadium: DESTRUCTION DERBY 5 In one game, KO a rival 10 times or more! (Player3): Supertaunt (Player4)
+City Trial: In one race, eat 3 or more plates of sushi! (Player3): Toppin (Player4)
+Stadium: DRAG RACE 4 Finish in less than 00:24:00 on Rex Wheelie! (Player3): Storm (Player5)
+Stadium: DESTRUCTION DERBY 2 In one game, KO a rival 10 times or more! (Player3): Gambler (Player5)
+City Trial: Get the Bomb ability from the Copy Chance Wheel! (Player3): Light Board (Player5)
+Stadium: HIGH JUMP Jump higher than 1,000 feet! (Player3): Graffiti (M - SHOGUN) (Player1)
+City Trial: In one game, get 10 or more Weight Patches! (Player3): 1400 Truguts (Player6)
+Stadium: play in over 20 stadium modes! (Player3): Graffiti (M - Stacked Symbols) (Player1)
+City Trial: Unlock Hydra Parts X, Y, and Z on the Checklist! (Player3): Graffiti (XL - Gamex UPA ABL) (Player1)
+Stadium: DESTRUCTION DERBY 4 In one game, KO a rival 10 times or more! (Player3): High Booster (Player5)
+City Trial: pick up a total of over 500 items! (Player3): Turn Up Permanent +1 (Player3)
+Stadium: DRAG RACE 2 Finish in less than 00:24:00! (Player3): Double Jump (Player4)
+City Trial: Pick up a total of over 100 items! (Player3): Graffiti (L - Graffo Le Fou) (Player1)
+Stadium: DRAG RACE 1 Finish in less than 00:20:00! (Player3): Gemstones (Player2)
+City Trial: In the city, bust Warpstar while riding on Swerve Star! (Player3): Hard Labor Pact Level (Player2)
+Stadium: play in over 10 stadium modes! (Player3): Trap Gear (Player5)
+Stadium: DESTRUCTION DERBY 2 In one game, KO your rivals 5 or more times! (Player3): Splash Canyon (Player5)
+Stadium: HIGH JUMP Stay airborne longer than 10 seconds! (Player3): Block6 Thrust Coil (Player6)
+Stadium: DRAG RACE 2 Finish in less than 00:29:00 on Winged Star! (Player3): Ulala (Player5)
+City Trial: Break a huge pillar within 40 seconds of the time it appears! (Player3): Camera App (Player1)
+Stadium: TARGET FLIGHT get more than 1,500 points! (Player3): Toppin (Player4)
+City Trial: In the city, bust Wheelie Scooter while riding Compact Star! (Player3): Permanent 10 Points (Player4)
+Stadium: DRAG RACE 1 Finish in less than 00:26:00 on Warpstar! (Player3): 16 REP (Player1)
+Stadium: DESTRUCTION DERBY 1 In one game, KO your rivals 5 or more times! (Player3): Sonic (Player5)
+Stadium: DRAG RACE 1 Finish in less than 00:17:00 on Formula Star! (Player3): Cover-P (Player5)
+City Trial: In one game, get 10 or more Turn Patches! (Player3): Toppin (Player4)
+City Trial: In the city, bust Slick Star while riding on Formula Star! (Player3): Graffiti (L - Jd Vila Formosa) (Player1)
+Stadium: DESTRUCTION DERBY (All) KO enemies over 50 times! (Player3): Fated Keys Item (Player2)
+City Trial: Do damage to a rival within the first 10 seconds of a match! (Player3): Graffiti (L - Lauder) (Player1)
+Stadium: DRAG RACE 3 Finish in less than 00:28:00 on Swerve Star! (Player3): Graffiti (L - NOISY NINJA) (Player1)
+City Trial: During one game, fly through the rings in the sky 5 times or more! (Player3): Graffiti (M - colorBOMB) (Player1)
+City Trial: Go into the castle chamber when it opens! (Player3): E-10000R (Player5)
+Stadium: DESTRUCTION DERBY 1 bust all the rocks on the field! (Player3): Bow Weapon Unlock Item (Player2)
+City Trial: Enter a race with 3 CPU Players and do damage to all of them in the city! (Player3): Graffiti (M - Teddy 4) (Player1)
+City Trial: Use the grind rail to break into the crater! (Player3): Graffiti (L - RECORD.HEAD) (Player1)
+Stadium: AIR GLIDER fly more than 660 feet! (Player3): Berserker (Player5)
+City Trial: Use Gold Spikes to KO rivals 3 times or more! (Player3): Green Chaos Emerald (Player5)
+Stadium: DRAG RACE 4 Finish in less than 00:19:00! (Player3): Routine Inspection Pact Level (Player2)
+City Trial: Race over 200 miles! (Player3): Rise (Player1)
+Stadium: DRAG RACE 2 Finish in less than 00:20:00! (Player3): Inline Skates (Mech Adversary) (Player1)
+City Trial: Use up one of the restoration areas! (Player3): Toppin (Player4)
+City Trial: In one game, get 10 or more Defense Patches! (Player3): Legend (Player5)
+City Trial: Do some damage to Dyna Blade! (Player3): Mesh (Player1)
+City Trial: In the city, bust Formula Star while riding on Turbo Star! (Player3): Clothes: Pumpkin (Player4)
+Stadium: KIRBY MELEE (All) KO over 1,500 enemies! (Player3): Uppercut (Player4)
+City Trial: The meteor attacks the city 3 or more times! (Player3): Magic Carpet (Player5)
+City Trial: In the city, bust Wheelie Bike while riding on Warpstar! (Player3): Music (You Can Say Hi) (Player1)
+Stadium: DRAG RACE 2 Finish in less than 00:27:00 on Wagon Star! (Player3): Graffiti (L - VoodooBoy) (Player1)
+Stadium: DESTRUCTION DERBY 5 In one game, KO your rivals 5 or more times! (Player3): Babylon Garden (Player5)
+Stadium: DESTRUCTION DERBY 3 In one game, KO your rivals 5 or more times! (Player3): Toppin (Player4)
+City Trial: Get the Sleep ability from the Copy Chance Wheel! (Player3): Outfit (Vinyl - Autumn) (Player1)
+City Trial: Destroy all of the dilapidated houses! (Player3): Coil (Player1)
+Stadium: DESTRUCTION DERBY (All) KO enemies over 150 times! (Player3): Flesh Prince (Player1)
+City Trial: race over 60 miles! (Player3): Cyan Chaos Emerald (Player5)
+Stadium: KIRBY MELEE (All) KO over 500 enemies! (Player3): Grab (Player4)
+City Trial: Bust the star pole! (Player3): Fastest (Player5)
+City Trial: Bust the star pole 10 times or more! (Player3): Hang-On (Player5)
+City Trial: In one game, get 10 or more Top Speed Patches! (Player3): Charge Up Permanent +1 (Player3)
+Stadium: DRAG RACE 1 Finish in less than 00:24:00! (Player3): Ice Factory (Player5)
+Stadium: DRAG RACE 3 Finish in less than 00:35:00! (Player3): Graffiti (L - Messenger Mural) (Player1)
+City Trial: In one game, eat 2 or more maxim tomatoes! (Player3): Clothes: PP Shirt (Player4)
+City Trial: In the city, bust Rocket Star while riding on Slick Star! (Player3): Infernal Trove1 Item (Player2)
+Stadium: DESTRUCTION DERBY 1 In one game, KO a rival 10 times or more! (Player3): Charge Up (Player3)
+City Trial: Use Fireworks to KO rivals 10 times or more! (Player3): HP Up (Player3)
+Stadium: TARGET FLIGHT play 15 times or more! (Player3): Tight Deadline Pact Level (Player2)
+City Trial: Knock down all of the trees in the forest! (Player3): Graffiti (XL - Web Spitter) (Player1)
+City Trial: In one race, eat 3 or more Hot Dogs! (Player3): Taunt (Player4)
+Stadium: KIRBY MELEE 1 In one game, KO enemies over 50 times! (Player3): Opa Opa (Player5)
+Stadium: DRAG RACE 3 Finish in less than 00:27:00! (Player3): Sword Hidden Aspect (Player2)
+City Trial: In one game, drink 3 or more energy drinks! (Player3): Offense Up Permanent +1 (Player3)
+City Trial: In one game, get 10 or more Glide Patches! (Player3): BMX (Gum) (Player1)
+City Trial: Jump on top of the building 10 times or more using the super jump ramp! (Player3): Aphrodite Keepsake (Player2)
+City Trial: In one game, get over 10 Boost Patches! (Player3): Fist Weapon Unlock Item (Player2)
+City Trial: During one game, break all of the volcano rocks and high plains rocks! (Player3): Inline Skates (Sweet Royale) (Player1)
+City Trial: In the city, bust Swerve Star while riding on Wheelie Bike! (Player3): BMX (Dedication) (Player1)
+City Trial: Break 5 or more of the huge pillars that appear! (Player3): 32 REP (Player1)
+City Trial: In the city, bust Turbo Star while riding on Rocket Star! (Player3): Routine Inspection Pact Level (Player2)
+Stadium: VS. KING DEDEDE KO King Dedede in less than a minute! (Player3): Frank (Player1)
+Stadium: DESTRUCTION DERBY 4 In one game, KO your rivals 5 or more times! (Player3): Shield Hidden Aspect (Player2)
+Stadium: DRAG RACE 4 Finish in less than 00:24:00! (Player3): Ares Keepsake (Player2)
+City Trial: Break a CPU's machine 5 times or more in the city! (Player3): Toppin (Player4)
+Stadium: TARGET FLIGHT stay airborne longer than 15 seconds! (Player3): Destroyer (Player5)
+City Trial: Unlock Dragoon Parts A, B, and C on the Checklist! (Player3): Poseidon Keepsake (Player2)
+City Trial: Open up the pitfall in the forest! (Player3): Graffiti (M - OVERWHELMME) (Player1)
+City Trial: Steal over 8 items from Tac by yourself! (Player3): Toppin (Player4)
+Stadium: TARGET FLIGHT In one game, get exactly 90 points! (Player3): Graffiti (XL - Bombing by FireMan) (Player1)
+City Trial: Fill in over 100 Checklist blocks! (Player3): Permanent 100 Points (Player4)
+City Trial: break more than 1000 boxes! (Player3): Full Heal (Player3)
+City Trial: Have all players simultaneously get off of their machines! (Player3): Outfit (Shine - Winter) (Player1)
+City Trial: Let time run out while all players are on the rails! (Player3): Music (DA PEOPLE) (Player1)
+City Trial: Free Run: Change Air Ride Machines 10 times or more! (Player3): Permanent 10 Points (Player4)
+City Trial: In one match, complete both Dragoon and Hydra! (Player3): Outfit (Rave - Winter) (Player1)
+City Trial: Free Run: Drive for a total of 30 minutes or more! (Player3): Filler (Player3)
+City Trial: Pick up a total of over 3000 items! (Player3): Boles Roor (Player6)
+City Trial: Free Run: Drive for a total of 2 hours or more! (Player3): Cross Buff (Player4)
+City Trial: Let time run out while all players are off of their machines! (Player3): Clothes: Classic Cook (Player4)
+City Trial: Free Run: Drive for a total of 10 minutes or more! (Player3): Primo Burg (Player4)
+City Trial: pick up a total of over 1000 items! (Player3): Filler (Player3)
+City Trial: break more than 500 boxes! (Player3): Permanent 10 Points (Player4)
+Tutorial Complete (Player4): Music (Big City Life) (Player1)
+Tutorial Complete in under 2 minutes (Player4): Toppin (Player4)
+Tutorial Mushroom Toppin (Player4): Gemstones (Player2)
+Tutorial Cheese Toppin (Player4): 8 REP (Player1)
+Tutorial Tomato Toppin (Player4): 16 REP (Player1)
+Tutorial Sausage Toppin (Player4): 16 REP (Player1)
+Tutorial Pineapple Toppin (Player4): Outfit (Tryce - Winter) (Player1)
+John Gutter Mushroom Toppin (Player4): 24 REP (Player1)
+John Gutter Cheese Toppin (Player4): Toppin (Player4)
+John Gutter Tomato Toppin (Player4): Solace (Player1)
+John Gutter Sausage Toppin (Player4): Toppin (Player4)
+John Gutter Pineapple Toppin (Player4): Wallclimb (Player4)
+John Gutter Complete (Player4): Toppin (Player4)
+John Gutter Secret 1 (Player4): Fountain Tartarus Item (Player2)
+John Gutter Secret 2 (Player4): 16 REP (Player1)
+John Gutter Secret 3 (Player4): Weight Up Permanent +1 (Player3)
+John Gutter Treasure (Player4): Urns Of Wealth3 Item (Player2)
+John Gutter P Rank (Player4): TitanBlood (Player2)
+Pizzascape Mushroom Toppin (Player4): Permanent 10 Points (Player4)
+Pizzascape Cheese Toppin (Player4): Clothes: TV Purple (Player4)
+Pizzascape Tomato Toppin (Player4): Filler (Player3)
+Pizzascape Sausage Toppin (Player4): Permanent 10 Points (Player4)
+Pizzascape Pineapple Toppin (Player4): Keys (Player2)
+Pizzascape Complete (Player4): 1000 Truguts (Player6)
+Pizzascape Secret 1 (Player4): Mach 4 (Player4)
+Pizzascape Secret 2 (Player4): Boost Up (Player3)
+Pizzascape Secret 3 (Player4): Night Chase (Player5)
+Pizzascape Treasure (Player4): Music (Iridium) (Player1)
+Pizzascape P Rank (Player4): Glide Up Permanent +1 (Player3)
+Ancient Cheese Mushroom Toppin (Player4): 16 REP (Player1)
+Ancient Cheese Cheese Toppin (Player4): Toppin (Player4)
+Ancient Cheese Tomato Toppin (Player4): Keys (Player2)
+Ancient Cheese Sausage Toppin (Player4): Toppin (Player4)
+Ancient Cheese Pineapple Toppin (Player4): Darkness (Player2)
+Ancient Cheese Complete (Player4): Urns Of Wealth2 Item (Player2)
+Ancient Cheese Secret 1 (Player4): Toppin (Player4)
+Ancient Cheese Secret 2 (Player4): 24 REP (Player1)
+Ancient Cheese Secret 3 (Player4): Defense Up Permanent +1 (Player3)
+Ancient Cheese Treasure (Player4): Nectar (Player2)
+Ancient Cheese P Rank (Player4): Permanent 10 Points (Player4)
+Bloodsauce Dungeon Mushroom Toppin (Player4): Clothes: War Camo (Player4)
+Bloodsauce Dungeon Cheese Toppin (Player4): Charge Up Permanent +1 (Player3)
+Bloodsauce Dungeon Tomato Toppin (Player4): 24 REP (Player1)
+Bloodsauce Dungeon Sausage Toppin (Player4): Nectar (Player2)
+Bloodsauce Dungeon Pineapple Toppin (Player4): 8 REP (Player1)
+Bloodsauce Dungeon Complete (Player4): Cluster2 Power Plug (Player6)
+Bloodsauce Dungeon Secret 1 (Player4): Jury Summons Pact Level (Player2)
+Bloodsauce Dungeon Secret 2 (Player4): Toppin (Player4)
+Bloodsauce Dungeon Secret 3 (Player4): Stack-6 Radiator (Player6)
+Bloodsauce Dungeon Treasure (Player4): Teemto Pagalies (Player6)
+Bloodsauce Dungeon P Rank (Player4): 1000 Truguts (Player6)
+Oregano Desert Mushroom Toppin (Player4): Glide Up (Player3)
+Oregano Desert Cheese Toppin (Player4): Nothing (Player4)
+Oregano Desert Tomato Toppin (Player4): Pizza Shield (Player4)
+Oregano Desert Sausage Toppin (Player4): Nothing (Player4)
+Oregano Desert Pineapple Toppin (Player4): 8 REP (Player1)
+Oregano Desert Complete (Player4): Darkness (Player2)
+Oregano Desert Secret 1 (Player4): 8 REP (Player1)
+Oregano Desert Secret 2 (Player4): 24 REP (Player1)
+Oregano Desert Secret 3 (Player4): Toppin (Player4)
+Oregano Desert Treasure (Player4): Top Speed Up (Player3)
+Oregano Desert P Rank (Player4): Clothes: Pizza Man (Player4)
+Wasteyard Mushroom Toppin (Player4): Permanent 10 Points (Player4)
+Wasteyard Cheese Toppin (Player4): Money Punishment (Player2)
+Wasteyard Tomato Toppin (Player4): Toppin (Player4)
+Wasteyard Sausage Toppin (Player4): 8 REP (Player1)
+Wasteyard Pineapple Toppin (Player4): Toppin (Player4)
+Wasteyard Complete (Player4): Outfit (Red - Autumn) (Player1)
+Wasteyard Secret 1 (Player4): All Up (Player3)
+Wasteyard Secret 2 (Player4): Cross Buff (Player4)
+Wasteyard Secret 3 (Player4): Dusa Keepsake (Player2)
+Wasteyard Treasure (Player4): Glide Up (Player3)
+Wasteyard P Rank (Player4): Darkness (Player2)
+Fun Farm Mushroom Toppin (Player4): Skateboard (Taiga) (Player1)
+Fun Farm Cheese Toppin (Player4): Boost Up Permanent +1 (Player3)
+Fun Farm Tomato Toppin (Player4): 2800 Truguts (Player6)
+Fun Farm Sausage Toppin (Player4): 8 REP (Player1)
+Fun Farm Pineapple Toppin (Player4): Primo Burg (Player4)
+Fun Farm Complete (Player4): 24 REP (Player1)
+Fun Farm Secret 1 (Player4): 24 REP (Player1)
+Fun Farm Secret 2 (Player4): AiAi (Player5)
+Fun Farm Secret 3 (Player4): 8 REP (Player1)
+Fun Farm Treasure (Player4): Chaos Keepsake (Player2)
+Fun Farm P Rank (Player4): Clothes: Eyes (Player4)
+Fastfood Saloon Mushroom Toppin (Player4): Mawhonic (Player6)
+Fastfood Saloon Cheese Toppin (Player4): Permanent 10 Points (Player4)
+Fastfood Saloon Tomato Toppin (Player4): Permanent 50 Points (Player4)
+Fastfood Saloon Sausage Toppin (Player4): Clothes: Funny Polka (Player4)
+Fastfood Saloon Pineapple Toppin (Player4): Shield Weapon Unlock Item (Player2)
+Fastfood Saloon Complete (Player4): Full Heal (Player3)
+Fastfood Saloon Secret 1 (Player4): Filler (Player3)
+Fastfood Saloon Secret 2 (Player4): Music (Chromebies) (Player1)
+Fastfood Saloon Secret 3 (Player4): Toppin (Player4)
+Fastfood Saloon Treasure (Player4): Keys (Player2)
+Fastfood Saloon P Rank (Player4): Clothes: Shitty Cook (Player4)
+Crust Cove Mushroom Toppin (Player4): Darkness (Player2)
+Crust Cove Cheese Toppin (Player4): Elan Mak (Player6)
+Crust Cove Tomato Toppin (Player4): Outfit (Solace - Autumn) (Player1)
+Crust Cove Sausage Toppin (Player4): Toppin (Player4)
+Crust Cove Pineapple Toppin (Player4): 24 REP (Player1)
+Crust Cove Complete (Player4): Ody Mandrell (Player6)
+Crust Cove Secret 1 (Player4): Toppin (Player4)
+Crust Cove Secret 2 (Player4): Music (Next To Me) (Player1)
+Crust Cove Secret 3 (Player4): 16 REP (Player1)
+Crust Cove Treasure (Player4): Knuckles (Player5)
+Crust Cove P Rank (Player4): HP Up Permanent +1 (Player3)
+Gnome Forest Mushroom Toppin (Player4): Dual 32PCX Injector (Player6)
+Gnome Forest Cheese Toppin (Player4): Tryce (Player1)
+Gnome Forest Tomato Toppin (Player4): Deluxe Contractor Desk Item (Player2)
+Gnome Forest Sausage Toppin (Player4): Diamonds (Player2)
+Gnome Forest Pineapple Toppin (Player4): Speed Balancer (Player5)
+Gnome Forest Complete (Player4): Turn Up Permanent +1 (Player3)
+Gnome Forest Secret 1 (Player4): 8 REP (Player1)
+Gnome Forest Secret 2 (Player4): Graffiti (M - Pora) (Player1)
+Gnome Forest Secret 3 (Player4): Toppin (Player4)
+Gnome Forest Treasure (Player4): Toppin (Player4)
+Gnome Forest P Rank (Player4): Weight Up Permanent +1 (Player3)
+Deep-Dish 9 Mushroom Toppin (Player4): Defense Up (Player3)
+Deep-Dish 9 Cheese Toppin (Player4): 8 REP (Player1)
+Deep-Dish 9 Tomato Toppin (Player4): Patroclus Keepsake (Player2)
+Deep-Dish 9 Sausage Toppin (Player4): 16 REP (Player1)
+Deep-Dish 9 Pineapple Toppin (Player4): Toppin (Player4)
+Deep-Dish 9 Complete (Player4): Permanent 10 Points (Player4)
+Deep-Dish 9 Secret 1 (Player4): Turn Up Permanent +1 (Player3)
+Deep-Dish 9 Secret 2 (Player4): 8 REP (Player1)
+Deep-Dish 9 Secret 3 (Player4): Dual Coolant Pump (Player6)
+Deep-Dish 9 Treasure (Player4): 5 Rings (Player5)
+Deep-Dish 9 P Rank (Player4): Skateboard (Mantra) (Player1)
+GOLF Mushroom Toppin (Player4): Music (hwbouths) (Player1)
+GOLF Cheese Toppin (Player4): Toppin (Player4)
+GOLF Tomato Toppin (Player4): Toppin (Player4)
+GOLF Sausage Toppin (Player4): Turbo Star (Player5)
+GOLF Pineapple Toppin (Player4): Top Speed Up (Player3)
+GOLF Complete (Player4): Music (Breaking Machine Mixtape) (Player1)
+GOLF Secret 1 (Player4): Outfit (Mesh - Winter) (Player1)
+GOLF Secret 2 (Player4): Diamonds (Player2)
+GOLF Secret 3 (Player4): Access (Player5)
+GOLF Treasure (Player4): White Cave (Player5)
+GOLF P Rank (Player4): Outfit (Vinyl - Winter) (Player1)
+The Pig City Mushroom Toppin (Player4): Permanent 10 Points (Player4)
+The Pig City Cheese Toppin (Player4): 1000 Truguts (Player6)
+The Pig City Tomato Toppin (Player4): Approval Process Pact Level (Player2)
+The Pig City Sausage Toppin (Player4): Block5 Thrust Coil (Player6)
+The Pig City Pineapple Toppin (Player4): 16 REP (Player1)
+The Pig City Complete (Player4): 800 Truguts (Player6)
+The Pig City Secret 1 (Player4): Full Heal (Player3)
+The Pig City Secret 2 (Player4): Nectar (Player2)
+The Pig City Secret 3 (Player4): Music (Light Switch) (Player1)
+The Pig City Treasure (Player4): HP Up (Player3)
+The Pig City P Rank (Player4): Graffiti (M - QUICK BING) (Player1)
+Peppibot Factory Mushroom Toppin (Player4): Boost Up (Player3)
+Peppibot Factory Cheese Toppin (Player4): 2100 Truguts (Player6)
+Peppibot Factory Tomato Toppin (Player4): Permanent 10 Points (Player4)
+Peppibot Factory Sausage Toppin (Player4): TitanBlood (Player2)
+Peppibot Factory Pineapple Toppin (Player4): Primo Burg (Player4)
+Peppibot Factory Complete (Player4): Graffiti (XL - end 2 end) (Player1)
+Peppibot Factory Secret 1 (Player4): Darkness (Player2)
+Peppibot Factory Secret 2 (Player4): 24 REP (Player1)
+Peppibot Factory Secret 3 (Player4): Toppin (Player4)
+Peppibot Factory Treasure (Player4): Jury Summons Pact Level (Player2)
+Peppibot Factory P Rank (Player4): Toppin (Player4)
+Oh Shit! Mushroom Toppin (Player4): Graffiti (XL - Pirate's Life 4 Me) (Player1)
+Oh Shit! Cheese Toppin (Player4): Outfit (Solace - Winter) (Player1)
+Oh Shit! Tomato Toppin (Player4): Toppin (Player4)
+Oh Shit! Sausage Toppin (Player4): Infernal Trove3 Item (Player2)
+Oh Shit! Pineapple Toppin (Player4): 8 REP (Player1)
+Oh Shit! Complete (Player4): Devil Theory (Player1)
+Oh Shit! Secret 1 (Player4): Thanatos Keepsake (Player2)
+Oh Shit! Secret 2 (Player4): Top Speed Up Permanent +1 (Player3)
+Oh Shit! Secret 3 (Player4): Permanent 10 Points (Player4)
+Oh Shit! Treasure (Player4): Diamonds (Player2)
+Oh Shit! P Rank (Player4): Toppin (Player4)
+Freezerator Mushroom Toppin (Player4): Toppin (Player4)
+Freezerator Cheese Toppin (Player4): Cross Buff (Player4)
+Freezerator Tomato Toppin (Player4): Green Cave (Player5)
+Freezerator Sausage Toppin (Player4): Inline Skates (Red Industry) (Player1)
+Freezerator Pineapple Toppin (Player4): Red Canyon (Player5)
+Freezerator Complete (Player4): Boost Up (Player3)
+Freezerator Secret 1 (Player4): Pizza Shield (Player4)
+Freezerator Secret 2 (Player4): Toppin (Player4)
+Freezerator Secret 3 (Player4): Full Heal (Player3)
+Freezerator Treasure (Player4): Graffiti (L - SpawningSeason) (Player1)
+Freezerator P Rank (Player4): Inline Skates (Orange Blasters) (Player1)
+Pizzascare Mushroom Toppin (Player4): Toppin (Player4)
+Pizzascare Cheese Toppin (Player4): Primo Burg (Player4)
+Pizzascare Tomato Toppin (Player4): Nectar (Player2)
+Pizzascare Sausage Toppin (Player4): E-10000G (Player5)
+Pizzascare Pineapple Toppin (Player4): Permanent 50 Points (Player4)
+Pizzascare Complete (Player4): Permanent 10 Points (Player4)
+Pizzascare Secret 1 (Player4): Plug3 Thrust Coil (Player6)
+Pizzascare Secret 2 (Player4): R-300 Repulsorgrip (Player6)
+Pizzascare Secret 3 (Player4): Clothes: John Suit (Player4)
+Pizzascare Treasure (Player4): Offense Up Permanent +1 (Player3)
+Pizzascare P Rank (Player4): Air Tank (Player5)
+Don't Make A Sound Mushroom Toppin (Player4): Darkness (Player2)
+Don't Make A Sound Cheese Toppin (Player4): Clothes: Goldemanne (Player4)
+Don't Make A Sound Tomato Toppin (Player4): Clothes: Candy Wrapper (Player4)
+Don't Make A Sound Sausage Toppin (Player4): Weight Up (Player3)
+Don't Make A Sound Pineapple Toppin (Player4): Gemstones (Player2)
+Don't Make A Sound Complete (Player4): Permanent 10 Points (Player4)
+Don't Make A Sound Secret 1 (Player4): Full Heal (Player3)
+Don't Make A Sound Secret 2 (Player4): SEGA CARNIVAL (Player5)
+Don't Make A Sound Secret 3 (Player4): Cross Buff (Player4)
+Don't Make A Sound Treasure (Player4): Toppin (Player4)
+Don't Make A Sound P Rank (Player4): Gemstones (Player2)
+WAR Mushroom Toppin (Player4): Clothes: Itchy Sweater (Player4)
+WAR Cheese Toppin (Player4): Graffiti (M - pico pow) (Player1)
+WAR Tomato Toppin (Player4): 16 REP (Player1)
+WAR Sausage Toppin (Player4): Cross Buff (Player4)
+WAR Pineapple Toppin (Player4): Top Speed Up (Player3)
+WAR Complete (Player4): Slide Booster (Player5)
+WAR Secret 1 (Player4): Mag-6 Injector (Player6)
+WAR Secret 2 (Player4): Permanent 10 Points (Player4)
+WAR Secret 3 (Player4): Sisyphus Keepsake (Player2)
+WAR Treasure (Player4): Permanent 10 Points (Player4)
+WAR P Rank (Player4): Quad 44PCX Injector (Player6)
+Pepperman Defeated (Player4): Boss Key (Player4)
+Pepperman P Rank (Player4): Music (Sunshine Popping Mixtape) (Player1)
+The Vigilante Defeated (Player4): Boss Key (Player4)
+The Vigilante P Rank (Player4): Jet (Player5)
+The Noise Defeated (Player4): Boss Key (Player4)
+The Noise P Rank (Player4): Ebe Endocott (Player6)
+Fake Peppino Defeated (Player4): Boss Key (Player4)
+Fake Peppino P Rank (Player4): Toppin (Player4)
+Pizzaface Defeated (Player4): Inline Skates (Strawberry Missiles) (Player1)
+The Crumbling Tower of Pizza Complete (Player4): Music (watchyaback!) (Player1)
+The Crumbling Tower of Pizza P Rank (Player4): Quad Power Cell (Player6)
+Snotty Murdered (Player4): Music (Bounce Upon A Time) (Player1)
+Metal City: Race Complete (Player5): Cross Buff (Player4)
+Splash Canyon: Race Complete (Player5): Cross Buff (Player4)
+Egg Factory: Race Complete (Player5): Toppin (Player4)
+Green Cave: Race Complete (Player5): Ben Quadrinaros (Player6)
+Sand Ruins: Race Complete (Player5): Permanent 50 Points (Player4)
+Babylon Garden: Race Complete (Player5): Offense Up Permanent +1 (Player3)
+Digital Dimension: Race Complete (Player5): Rave (Player1)
+SEGA CARNIVAL: Race Complete (Player5): Turn Up (Player3)
+Night Chase: Race Complete (Player5): Cross Buff (Player4)
+Red Canyon: Race Complete (Player5): Eurydice Keepsake (Player2)
+Ice Factory: Race Complete (Player5): Weight Up (Player3)
+White Cave: Race Complete (Player5): Toppin (Player4)
+Dark Desert: Race Complete (Player5): 1000 Truguts (Player6)
+Sky Road: Race Complete (Player5): Graffiti (XL - VIBRATIONS) (Player1)
+Babylon Guardian: Race Complete (Player5): Nectar (Player2)
+SEGA ILLUSION: Race Complete (Player5): Keys (Player2)
+Defeat Babylon Guardian (Player5): The Treasure Of Babylon (Player5)
+Blue Star: Race Complete (Player5): Music (Funk Express) (Player1)
+Yellow Tail: Race Complete (Player5): Powerful Gear (Player5)
+Red Rock: Race Complete (Player5): Turn Up (Player3)
+Pink Rose: Race Complete (Player5): Plug8 Thrust Coil (Player6)
+Type-J: Race Complete (Player5): Nectar (Player2)
+Type-S: Race Complete (Player5): Gemstones (Player2)
+Type-W: Race Complete (Player5): HP Up (Player3)
+Smile: Race Complete (Player5): Top Speed Up (Player3)
+Temptation: Race Complete (Player5): Pizza Shield (Player4)
+Night Sky: Race Complete (Player5): Orpheus Keepsake (Player2)
+BANANA: Race Complete (Player5): Charge Up Permanent +1 (Player3)
+Channel5: Race Complete (Player5): Yellow Chaos Emerald (Player5)
+E-gearG: Race Complete (Player5): 5 Rings (Player5)
+E-gearR: Race Complete (Player5): Diamonds (Player2)
+High Booster: Race Complete (Player5): Boost Up (Player3)
+Auto Slider: Race Complete (Player5): 10 Rings (Player5)
+Powerful Gear: Race Complete (Player5): Music (Beastmode Hip Hop Mixtape) (Player1)
+Fastest: Race Complete (Player5): Toppin (Player4)
+Turbo Star: Race Complete (Player5): 16 REP (Player1)
+Speed Balancer: Race Complete (Player5): 2800 Truguts (Player6)
+Blue Star II: Race Complete (Player5): Gun Weapon Unlock Item (Player2)
+Access: Race Complete (Player5): Charon Keepsake (Player2)
+Beginner: Race Complete (Player5): Permanent 10 Points (Player4)
+Accelerator: Race Complete (Player5): Outfit (Felix - Winter) (Player1)
+Trap Gear: Race Complete (Player5): Fud Sang (Player6)
+Light Board: Race Complete (Player5): Megaera Keepsake (Player2)
+Slide Booster: Race Complete (Player5): Hypnos Keepsake (Player2)
+Legend: Race Complete (Player5): Toppin (Player4)
+Magic Carpet: Race Complete (Player5): Clothes: Bloodstained (Player4)
+Air Broom: Race Complete (Player5): Advantage-P (Player5)
+Hovercraft: Race Complete (Player5): Nectar (Player2)
+Super Sonic: Race Complete (Player5): Ark 'Bumpy' Roose (Player6)
+Faster: Race Complete (Player5): Music (Refuse) (Player1)
+Gambler: Race Complete (Player5): Ambrosia (Player2)
+Power Gear: Race Complete (Player5): Gemstones (Player2)
+Opa Opa: Race Complete (Player5): Glide Up (Player3)
+The Crazy: Race Complete (Player5): 8 REP (Player1)
+Berserker: Race Complete (Player5): 24 REP (Player1)
+E-Rider: Race Complete (Player5): 24 REP (Player1)
+Air Tank: Race Complete (Player5): Toppin (Player4)
+Heavy Bike: Race Complete (Player5): Weight Up (Player3)
+Destroyer: Race Complete (Player5): Diamonds (Player2)
+Omnipotence: Race Complete (Player5): Graffiti (L - FREAKS) (Player1)
+Cover-S: Race Complete (Player5): Toppin (Player4)
+Cover-F: Race Complete (Player5): Offense Up Permanent +1 (Player3)
+Cover-P: Race Complete (Player5): Darker Thirst Item (Player2)
+Hang-On: Race Complete (Player5): Graffiti (L - Moai Marathon) (Player1)
+Super Hang-On: Race Complete (Player5): 8 REP (Player1)
+Darkness: Race Complete (Player5): Cross Buff (Player4)
+Grinder: Race Complete (Player5): Toppin (Player4)
+Advantage-S: Race Complete (Player5): Boost Up (Player3)
+Advantage-F: Race Complete (Player5): 8 REP (Player1)
+Advantage-P: Race Complete (Player5): Top Speed Up Permanent +1 (Player3)
+Cannonball: Race Complete (Player5): Outfit (Coil - Winter) (Player1)
+Sonic: Race Complete (Player5): Outfit (Rise - Autumn) (Player1)
+Tails: Race Complete (Player5): Permanent 10 Points (Player4)
+Knuckles: Race Complete (Player5): Blue Chaos Emerald (Player5)
+Amy: Race Complete (Player5): Babylon Guardian (Player5)
+Jet: Race Complete (Player5): Offense Up (Player3)
+Storm: Race Complete (Player5): Fountain Asphodel Item (Player2)
+Wave: Race Complete (Player5): Music (Last Hoorah) (Player1)
+Dr. Eggman: Race Complete (Player5): 16 REP (Player1)
+Cream: Race Complete (Player5): Graffiti (L - Tius) (Player1)
+Rouge: Race Complete (Player5): Graffiti (L - Fang It Up!) (Player1)
+Shadow: Race Complete (Player5): Air Broom (Player5)
+NiGHTS: Race Complete (Player5): Weight Up Permanent +1 (Player3)
+AiAi: Race Complete (Player5): Permanent 10 Points (Player4)
+Ulala: Race Complete (Player5): Demeter Keepsake (Player2)
+E-10000G: Race Complete (Player5): Filler (Player3)
+E-10000R: Race Complete (Player5): 16 REP (Player1)
+Super Sonic Unlock (Player5): Super Sonic (Player5)
+Amateur Race 1 (Player6): Toppin (Player4)
+Amateur Race 2 (Player6): Cerberus Keepsake (Player2)
+Amateur Race 3 (Player6): Graffiti (XL - Bomb Burner) (Player1)
+Amateur Race 4 (Player6): Spin Attack (Player4)
+Amateur Race 5 (Player6): Graffiti (L - Boom) (Player1)
+Amateur Race 6 (Player6): Turn Up (Player3)
+Amateur Race 7 (Player6): Digital Dimension (Player5)
+Racer Unlock - Andobi Mountain Run (Player6): Graffiti (L - wild rush) (Player1)
+Racer Unlock - Ando Prime Centrum (Player6): TitanBlood (Player2)
+Racer Unlock - Sunken City (Player6): Cannonball (Player5)
+Semi-Pro Race 1 (Player6): Music (Morning Glow) (Player1)
+Semi-Pro Race 2 (Player6): 1000 Truguts (Player6)
+Semi-Pro Race 3 (Player6): Music (Trinitron) (Player1)
+Semi-Pro Race 4 (Player6): Toppin (Player4)
+Semi-Pro Race 5 (Player6): Outfit (Bel - Winter) (Player1)
+Semi-Pro Race 6 (Player6): Clothes: Golden God (Player4)
+Semi-Pro Race 7 (Player6): 600 Truguts (Player6)
+Racer Unlock - Mon Gazza Speedway (Player6): 8 REP (Player1)
+Racer Unlock - The Boonta Classic (Player6): 32 REP (Player1)
+Racer Unlock - Howler Gorge (Player6): Boost Up (Player3)
+Racer Unlock - Beedo's Wild Ride (Player6): Primo Burg (Player4)
+Racer Unlock - Scrapper's Run (Player6): TitanBlood (Player2)
+Racer Unlock - Spice Mine Run (Player6): 5 Rings (Player5)
+Racer Unlock - Aquilaris Classic (Player6): Toppin (Player4)
+Galactic Race 1 (Player6): Clown Trap (Player4)
+Galactic Race 2 (Player6): Nectar (Player2)
+Galactic Race 3 (Player6): Cross Buff (Player4)
+Galactic Race 4 (Player6): Music (Precious Thing) (Player1)
+Galactic Race 5 (Player6): Toppin (Player4)
+Galactic Race 6 (Player6): Auto Slider (Player5)
+Galactic Race 7 (Player6): Glide Up (Player3)
+Racer Unlock - Bumpy's Breakers (Player6): Turn Up Permanent +1 (Player3)
+Racer Unlock - Abyss (Player6): Court Musician Stand Item (Player2)
+Racer Unlock - Zugga Challenge (Player6): Keys (Player2)
+Racer Unlock - Vengeance (Player6): Toppin (Player4)
+Invitational Race 1 (Player6): Boost Up Permanent +1 (Player3)
+Invitational Race 2 (Player6): 1000 Truguts (Player6)
+Invitational Race 3 (Player6): 16 REP (Player1)
+Invitational Race 4 (Player6): Toppin (Player4)
+Racer Unlock - Baroo Coast (Player6): Toppin (Player4)
+Racer Unlock - Inferno (Player6): Permanent 10 Points (Player4)
+Racer Unlock - Executioner (Player6): Primo Burg (Player4)
+Watto's Shop - Traction 1 (0 races) (Player6): 16 REP (Player1)
+Watto's Shop - Turning 1 (0 races) (Player6): Shine (Player1)
+Watto's Shop - Acceleration 1 (0 races) (Player6): Defense Up Permanent +1 (Player3)
+Watto's Shop - Top Speed 1 (0 races) (Player6): Toppin (Player4)
+Watto's Shop - Air Brake 1 (0 races) (Player6): Graffiti (L - skate or di3) (Player1)
+Watto's Shop - Cooling 1 (0 races) (Player6): BMX (XXX) (Player1)
+Watto's Shop - Repair 1 (0 races) (Player6): Graffiti (M - TeleBinge) (Player1)
+Watto's Shop - Traction 2 (2 races) (Player6): HP Up Permanent +1 (Player3)
+Watto's Shop - Turning 2 (2 races) (Player6): 16 REP (Player1)
+Watto's Shop - Top Speed 2 (2 races) (Player6): Tight Deadline Pact Level (Player2)
+Watto's Shop - Repair 2 (2 races) (Player6): Advantage-F (Player5)
+Watto's Shop - Acceleration 2 (4 races) (Player6): Darkness (Player2)
+Watto's Shop - Air Brake 2 (4 races) (Player6): Middle Management Pact Level (Player2)
+Watto's Shop - Repair 3 (4 races) (Player6): Skateboard (Maceo) (Player1)
+Watto's Shop - Traction 3 (6 races) (Player6): Keepsake Collection Item (Player2)
+Watto's Shop - Turning 3 (6 races) (Player6): BMX (Ceremony) (Player1)
+Watto's Shop - Air Brake 3 (6 races) (Player6): Forced Overtime Pact Level (Player2)
+Watto's Shop - Cooling 2 (6 races) (Player6): Toppin (Player4)
+Watto's Shop - Acceleration 3 (8 races) (Player6): Ambrosia (Player2)
+Watto's Shop - Top Speed 3 (8 races) (Player6): Outfit (Mesh - Autumn) (Player1)
+Watto's Shop - Cooling 3 (8 races) (Player6): Primo Burg (Player4)
+Watto's Shop - Repair 4 (8 races) (Player6): Clothes: Bowling Stripes (Player4)
+Watto's Shop - Traction 4 (10 races) (Player6): Diamonds (Player2)
+Watto's Shop - Acceleration 4 (10 races) (Player6): 24 REP (Player1)
+Watto's Shop - Air Brake 4 (10 races) (Player6): 16 REP (Player1)
+Watto's Shop - Cooling 4 (10 races) (Player6): Music (Feel The Funk (Computer Love)) (Player1)
+Watto's Shop - Turning 4 (12 races) (Player6): Fountain Upgrade1 Item (Player2)
+Watto's Shop - Acceleration 5 (12 races) (Player6): HP Up (Player3)
+Watto's Shop - Top Speed 4 (12 races) (Player6): Cover-S (Player5)
+Watto's Shop - Repair 5 (12 races) (Player6): Permanent 10 Points (Player4)
+Watto's Shop - Traction 5 (14 races) (Player6): Defense Up Permanent +1 (Player3)
+Watto's Shop - Air Brake 5 (14 races) (Player6): Sand Ruins (Player5)
+Watto's Shop - Cooling 5 (14 races) (Player6): Clothes: Unfunny Cook (Player4)
+Watto's Shop - Turning 5 (16 races) (Player6): TitanBlood (Player2)
+Watto's Shop - Top Speed 5 (16 races) (Player6): Boost Up (Player3)
+Pit Droid Shop - 1st Droid (Player6): Music (AGUA) (Player1)
+Pit Droid Shop - 2nd Droid (Player6): Permanent 10 Points (Player4)
+Pit Droid Shop - 3rd Droid (Player6): Graffiti (XL - Deep Dive) (Player1)
+
+Playthrough:
+
+0: {
+  Ball (Player4)
+  Barrel (Player4)
+  Cream (Player5)
+  Egg Factory (Player5)
+  Firemouth (Player4)
+  Ghost (Player4)
+  Mort (Player4)
+  Olive Bubble (Player4)
+  Pizzabox (Player4)
+  Revolver (Player4)
+  Rocket (Player4)
+  Shotgun (Player4)
+  Sticky Cheese (Player4)
+  Weenie (Player4)
+}
+1: {
+  Hideout: Half pipe CD (Player1): Blue Star II (Player5)
+  Hideout: Under staircase graffiti (Player1): Grinder (Player5)
+  Hideout: Upper platform skateboard (Player1): 16 REP (Player1)
+  Beat Meg (Player2): Meg Victory (Player2)
+  Charon Keepsake (Player2): 8 REP (Player1)
+  Chthonic Knowledge (Player2): Super Hang-On (Player5)
+  Clear Room 02 (Player2): Dr. Eggman (Player5)
+  Clear Room 04 (Player2): Routine Inspection Pact Level (Player2)
+  Clear Room 06 (Player2): 16 REP (Player1)
+  Clear Room 10 (Player2): Toppin (Player4)
+  Clear Room 11 (Player2): Fountain Elysium Item (Player2)
+  Clear Room 12 (Player2): 16 REP (Player1)
+  Customer Loyalty (Player2): Bodyslam (Player4)
+  Infernal Trove1 Location (Player2): The Crazy (Player5)
+  Megaera Keepsake (Player2): Hard Labor Pact Level (Player2)
+  Nyx Keepsake (Player2): 8 REP (Player1)
+  City Trial: Break 5 or more of the huge pillars that appear! (Player3): 32 REP (Player1)
+  City Trial: Break a CPU's machine 5 times or more in the city! (Player3): Toppin (Player4)
+  City Trial: Break a huge pillar within 40 seconds of the time it appears! (Player3): Camera App (Player1)
+  City Trial: Bust the star pole! (Player3): Fastest (Player5)
+  City Trial: During one game, fly through the rings in the sky 5 times or more! (Player3): Graffiti (M - colorBOMB) (Player1)
+  City Trial: Go into the castle chamber when it opens! (Player3): E-10000R (Player5)
+  City Trial: In one game, get 10 or more Charge Patches! (Player3): Rat Kick (Player4)
+  City Trial: In one game, get 10 or more Defense Patches! (Player3): Legend (Player5)
+  City Trial: In one game, get 10 or more Turn Patches! (Player3): Toppin (Player4)
+  City Trial: In one game, get 50 or more items! (Player3): Galactic Circuit Pass (Player6)
+  City Trial: In one game, get over 10 Boost Patches! (Player3): Fist Weapon Unlock Item (Player2)
+  City Trial: In one race, eat 3 or more plates of sushi! (Player3): Toppin (Player4)
+  City Trial: In the city, bust Rocket Star while riding on Slick Star! (Player3): Infernal Trove1 Item (Player2)
+  City Trial: In the city, bust Turbo Star while riding on Rocket Star! (Player3): Routine Inspection Pact Level (Player2)
+  City Trial: In the city, bust Warpstar while riding on Swerve Star! (Player3): Hard Labor Pact Level (Player2)
+  City Trial: Jump on top of the building 10 times or more using the super jump ramp! (Player3): Aphrodite Keepsake (Player2)
+  City Trial: Open up all the holes around the base of the volcano! (Player3): Superjump (Player4)
+  City Trial: Steal over 8 items from Tac by yourself! (Player3): Toppin (Player4)
+  City Trial: Unlock Dragoon Parts A, B, and C on the Checklist! (Player3): Poseidon Keepsake (Player2)
+  City Trial: Use Gold Spikes to KO rivals 3 times or more! (Player3): Green Chaos Emerald (Player5)
+  City Trial: Use Sensor Bombs to KO rivals 3 times or more! (Player3): Toppin (Player4)
+  City Trial: Use up one of the restoration areas! (Player3): Toppin (Player4)
+  City Trial: race over 60 miles! (Player3): Cyan Chaos Emerald (Player5)
+  Stadium: AIR GLIDER fly more than 1,300 feet! (Player3): Toppin (Player4)
+  Stadium: AIR GLIDER fly more than 660 feet! (Player3): Berserker (Player5)
+  Stadium: DESTRUCTION DERBY 1 In one game, KO your rivals 5 or more times! (Player3): Sonic (Player5)
+  Stadium: DESTRUCTION DERBY 1 bust all the rocks on the field! (Player3): Bow Weapon Unlock Item (Player2)
+  Stadium: DESTRUCTION DERBY 3 In one game, KO your rivals 5 or more times! (Player3): Toppin (Player4)
+  Stadium: DRAG RACE 1 Finish in less than 00:26:00 on Warpstar! (Player3): 16 REP (Player1)
+  Stadium: DRAG RACE 2 Finish in less than 00:24:00! (Player3): Double Jump (Player4)
+  Stadium: DRAG RACE 2 Finish in less than 00:29:00 on Winged Star! (Player3): Ulala (Player5)
+  Stadium: DRAG RACE 3 Finish in less than 00:28:00 on Swerve Star! (Player3): Graffiti (L - NOISY NINJA) (Player1)
+  Stadium: DRAG RACE 3 Finish in less than 00:31:00 on Wheelie Bike! (Player3): Toppin (Player4)
+  Stadium: DRAG RACE 4 Finish in less than 00:19:00! (Player3): Routine Inspection Pact Level (Player2)
+  Stadium: DRAG RACE 4 Finish in less than 00:24:00 on Rex Wheelie! (Player3): Storm (Player5)
+  Stadium: DRAG RACE 4 Finish in less than 00:24:00! (Player3): Ares Keepsake (Player2)
+  Stadium: KIRBY MELEE (All) KO over 500 enemies! (Player3): Grab (Player4)
+  Stadium: KIRBY MELEE 2 In one game, KO enemies over 30 times! (Player3): Toppin (Player4)
+  Stadium: KIRBY MELEE 2 In one game, KO over 40 enemies by yourself! (Player3): Toppin (Player4)
+  Stadium: TARGET FLIGHT In one game, get a perfect score: 200 points! (Player3): Dionysus Keepsake (Player2)
+  Stadium: TARGET FLIGHT In one game, get over 150 points! (Player3): 16 REP (Player1)
+  Stadium: TARGET FLIGHT get more than 1,500 points! (Player3): Toppin (Player4)
+  Stadium: TARGET FLIGHT play 15 times or more! (Player3): Tight Deadline Pact Level (Player2)
+  Ancient Cheese Mushroom Toppin (Player4): 16 REP (Player1)
+  Ancient Cheese Secret 1 (Player4): Toppin (Player4)
+  Bloodsauce Dungeon Secret 1 (Player4): Jury Summons Pact Level (Player2)
+  Egg Factory: Race Complete (Player5): Toppin (Player4)
+  Amateur Race 1 (Player6): Toppin (Player4)
+  Amateur Race 3 (Player6): Graffiti (XL - Bomb Burner) (Player1)
+  Amateur Race 7 (Player6): Digital Dimension (Player5)
+  Watto's Shop - Air Brake 2 (4 races) (Player6): Middle Management Pact Level (Player2)
+  Watto's Shop - Air Brake 3 (6 races) (Player6): Forced Overtime Pact Level (Player2)
+  Watto's Shop - Cooling 2 (6 races) (Player6): Toppin (Player4)
+  Watto's Shop - Repair 2 (2 races) (Player6): Advantage-F (Player5)
+  Watto's Shop - Top Speed 1 (0 races) (Player6): Toppin (Player4)
+  Watto's Shop - Top Speed 2 (2 races) (Player6): Tight Deadline Pact Level (Player2)
+  Watto's Shop - Traction 1 (0 races) (Player6): 16 REP (Player1)
+  Watto's Shop - Traction 3 (6 races) (Player6): Keepsake Collection Item (Player2)
+  Watto's Shop - Turning 1 (0 races) (Player6): Shine (Player1)
+  Watto's Shop - Turning 2 (2 races) (Player6): 16 REP (Player1)
+}
+2: {
+  Tagged 15 Graffiti Spots (Player1): 8 REP (Player1)
+  Tagged 35 Graffiti Spots (Player1): Toppin (Player4)
+  Tagged 45 Graffiti Spots (Player1): Toppin (Player4)
+  Tagged 50 Graffiti Spots (Player1): Toppin (Player4)
+  Versum Hill: Basketball court alley skateboard (Player1): 16 REP (Player1)
+  Versum Hill: Complete Chapter 1 (Player1): Chapter Completed (Player1)
+  Versum Hill: Rave joins the crew (Player1): 16 REP (Player1)
+  Versum Hill: Trash Polo (Player1): Hermes Keepsake (Player2)
+  Versum Hill: Underground mall vending machine skateboard (Player1): 16 REP (Player1)
+  Versum Hill: Wallrunning challenge reward (Player1): 8 REP (Player1)
+  Beat Lernie (Player2): Lernie Victory (Player2)
+  Clear Room 15 (Player2): Extreme Measures Pact Level (Player2)
+  Clear Room 17 (Player2): 16 REP (Player1)
+  Clear Room 20 (Player2): Lasting Consequences Pact Level (Player2)
+  Clear Room 22 (Player2): Artemis Keepsake (Player2)
+  Poseidon Keepsake (Player2): 16 REP (Player1)
+  Ancient Cheese Cheese Toppin (Player4): Toppin (Player4)
+  Ancient Cheese Sausage Toppin (Player4): Toppin (Player4)
+  Ancient Cheese Secret 2 (Player4): 24 REP (Player1)
+  Bloodsauce Dungeon Pineapple Toppin (Player4): 8 REP (Player1)
+  Bloodsauce Dungeon Secret 2 (Player4): Toppin (Player4)
+  Bloodsauce Dungeon Tomato Toppin (Player4): 24 REP (Player1)
+  John Gutter Cheese Toppin (Player4): Toppin (Player4)
+  John Gutter Complete (Player4): Toppin (Player4)
+  John Gutter Mushroom Toppin (Player4): 24 REP (Player1)
+  John Gutter Pineapple Toppin (Player4): Wallclimb (Player4)
+  John Gutter Sausage Toppin (Player4): Toppin (Player4)
+  John Gutter Secret 1 (Player4): Fountain Tartarus Item (Player2)
+  John Gutter Secret 2 (Player4): 16 REP (Player1)
+  Pepperman Defeated (Player4): Boss Key (Player4)
+  Advantage-F: Race Complete (Player5): 8 REP (Player1)
+  Berserker: Race Complete (Player5): 24 REP (Player1)
+  Blue Star II: Race Complete (Player5): Gun Weapon Unlock Item (Player2)
+  Channel5: Race Complete (Player5): Yellow Chaos Emerald (Player5)
+  Dr. Eggman: Race Complete (Player5): 16 REP (Player1)
+  E-10000R: Race Complete (Player5): 16 REP (Player1)
+  E-Rider: Race Complete (Player5): 24 REP (Player1)
+  Fastest: Race Complete (Player5): Toppin (Player4)
+  Grinder: Race Complete (Player5): Toppin (Player4)
+  Legend: Race Complete (Player5): Toppin (Player4)
+  Storm: Race Complete (Player5): Fountain Asphodel Item (Player2)
+  Super Hang-On: Race Complete (Player5): 8 REP (Player1)
+  The Crazy: Race Complete (Player5): 8 REP (Player1)
+  Ulala: Race Complete (Player5): Demeter Keepsake (Player2)
+  Galactic Race 5 (Player6): Toppin (Player4)
+  Racer Unlock - Vengeance (Player6): Toppin (Player4)
+  Watto's Shop - Acceleration 4 (10 races) (Player6): 24 REP (Player1)
+  Watto's Shop - Air Brake 4 (10 races) (Player6): 16 REP (Player1)
+  Watto's Shop - Top Speed 4 (12 races) (Player6): Cover-S (Player5)
+}
+3: {
+  Brink Terminal: Complete Chapter 2 (Player1): Chapter Completed (Player1)
+  Brink Terminal: End of dock CD (Player1): Toppin (Player4)
+  Brink Terminal: Glass roof skates (Player1): 8 REP (Player1)
+  Brink Terminal: High rooftop outfit (Player1): 8 REP (Player1)
+  Brink Terminal: Rooftop halfpipe graffiti (Player1): Toppin (Player4)
+  Brink Terminal: Score challenge reward (Player1): Court Musician Sentence Item (Player2)
+  Brink Terminal: Shop roof outfit (Player1): 16 REP (Player1)
+  Brink Terminal: Tower core outfit (Player1): Toppin (Player4)
+  Brink Terminal: Under square ledge graffiti (Player1): Calisthenics Program Pact Level (Player2)
+  Hideout: Unlock phone app (Player1): Toppin (Player4)
+  Millennium Square: Center tower graffiti (Player1): 16 REP (Player1)
+  Millennium Square: Parking garage Robo Post CD (Player1): Toppin (Player4)
+  Millennium Square: Secret painting skates (Player1): 32 REP (Player1)
+  Tagged 125 Graffiti Spots (Player1): 8 REP (Player1)
+  Tagged 155 Graffiti Spots (Player1): Semi-Pro Circuit Pass (Player6)
+  Tagged 180 Graffiti Spots (Player1): Toppin (Player4)
+  Tagged 95 Graffiti Spots (Player1): Damage Control Pact Level (Player2)
+  Artemis Keepsake (Player2): 8 REP (Player1)
+  Beat Bros (Player2): Bros Victory (Player2)
+  Clear Room 27 (Player2): Convenience Fee Pact Level (Player2)
+  Clear Room 28 (Player2): 32 REP (Player1)
+  Clear Room 33 (Player2): Toppin (Player4)
+  Clear Room 35 (Player2): 16 REP (Player1)
+  Court Musician Sentence Location (Player2): 16 REP (Player1)
+  Demeter Keepsake (Player2): Amy (Player5)
+  Fountain Elysium Location (Player2): Toppin (Player4)
+  Fountain Upgrade1 Location (Player2): Toppin (Player4)
+  Keepsake Collection Location (Player2): 24 REP (Player1)
+  The Adamant Rail (Player2): 16 REP (Player1)
+  Fastfood Saloon Pineapple Toppin (Player4): Shield Weapon Unlock Item (Player2)
+  Fastfood Saloon Secret 3 (Player4): Toppin (Player4)
+  Fun Farm Complete (Player4): 24 REP (Player1)
+  Fun Farm Sausage Toppin (Player4): 8 REP (Player1)
+  Fun Farm Secret 1 (Player4): 24 REP (Player1)
+  Fun Farm Secret 3 (Player4): 8 REP (Player1)
+  Oregano Desert Pineapple Toppin (Player4): 8 REP (Player1)
+  Oregano Desert Secret 1 (Player4): 8 REP (Player1)
+  Oregano Desert Secret 2 (Player4): 24 REP (Player1)
+  Oregano Desert Secret 3 (Player4): Toppin (Player4)
+  The Vigilante Defeated (Player4): Boss Key (Player4)
+  Tutorial Cheese Toppin (Player4): 8 REP (Player1)
+  Tutorial Complete in under 2 minutes (Player4): Toppin (Player4)
+  Tutorial Sausage Toppin (Player4): 16 REP (Player1)
+  Tutorial Tomato Toppin (Player4): 16 REP (Player1)
+  Wasteyard Pineapple Toppin (Player4): Toppin (Player4)
+  Wasteyard Sausage Toppin (Player4): 8 REP (Player1)
+  Wasteyard Tomato Toppin (Player4): Toppin (Player4)
+  Cover-S: Race Complete (Player5): Toppin (Player4)
+}
+4: {
+  Brink Terminal: Eclipse joins the crew (Player1): Toppin (Player4)
+  Millennium Mall: Complete Chapter 3 (Player1): Chapter Completed (Player1)
+  Millennium Mall: Maintenance shaft CD (Player1): Toppin (Player4)
+  Millennium Mall: Upside down rail outfit (Player1): Toppin (Player4)
+  Tagged 190 Graffiti Spots (Player1): Toppin (Player4)
+  Tagged 205 Graffiti Spots (Player1): Toppin (Player4)
+  Tagged 230 Graffiti Spots (Player1): 32 REP (Player1)
+  Tagged 255 Graffiti Spots (Player1): Toppin (Player4)
+  Orpheus Keepsake (Player2): 24 REP (Player1)
+  Crust Cove Pineapple Toppin (Player4): 24 REP (Player1)
+  Crust Cove Sausage Toppin (Player4): Toppin (Player4)
+  Crust Cove Secret 1 (Player4): Toppin (Player4)
+  Crust Cove Treasure (Player4): Knuckles (Player5)
+  Deep-Dish 9 Pineapple Toppin (Player4): Toppin (Player4)
+  GOLF Cheese Toppin (Player4): Toppin (Player4)
+  GOLF Tomato Toppin (Player4): Toppin (Player4)
+  Gnome Forest Secret 3 (Player4): Toppin (Player4)
+  Gnome Forest Tomato Toppin (Player4): Deluxe Contractor Desk Item (Player2)
+  Gnome Forest Treasure (Player4): Toppin (Player4)
+  The Noise Defeated (Player4): Boss Key (Player4)
+  Amy: Race Complete (Player5): Babylon Guardian (Player5)
+  Invitational Race 3 (Player6): 16 REP (Player1)
+  Invitational Race 4 (Player6): Toppin (Player4)
+  Racer Unlock - Aquilaris Classic (Player6): Toppin (Player4)
+  Racer Unlock - Baroo Coast (Player6): Toppin (Player4)
+  Semi-Pro Race 4 (Player6): Toppin (Player4)
+}
+5: {
+  Millennium Mall: Shine joins the crew (Player1): Zeus Keepsake (Player2)
+  Pyramid Island: Complete Chapter 4 (Player1): Chapter Completed (Player1)
+  Pyramid Island: Lower rooftop graffiti (Player1): Toppin (Player4)
+  Pyramid Island: Maze desk Polo (Player1): Toppin (Player4)
+  Pyramid Island: Pipe outfit (Player1): Purple Chaos Emerald (Player5)
+  Pyramid Island: Polo graffiti (Player1): Toppin (Player4)
+  Pyramid Island: Quarter pipe challenge reward (Player1): Heightened Security Pact Level (Player2)
+  Pyramid Island: Rail loop outfit (Player1): Extreme Measures Pact Level (Player2)
+  Pyramid Island: Trash outfit (Player1): Toppin (Player4)
+  Tagged 275 Graffiti Spots (Player1): Spear Weapon Unlock Item (Player2)
+  Tagged 290 Graffiti Spots (Player1): Toppin (Player4)
+  Tagged 305 Graffiti Spots (Player1): Toppin (Player4)
+  Tagged 320 Graffiti Spots (Player1): Toppin (Player4)
+  Darker Thirst Location (Player2): Toppin (Player4)
+  Vintage Nectar Location (Player2): Toppin (Player4)
+  Freezerator Mushroom Toppin (Player4): Toppin (Player4)
+  Freezerator Secret 2 (Player4): Toppin (Player4)
+  Oh Shit! P Rank (Player4): Toppin (Player4)
+  Oh Shit! Sausage Toppin (Player4): Infernal Trove3 Item (Player2)
+  Oh Shit! Tomato Toppin (Player4): Toppin (Player4)
+  Peppibot Factory P Rank (Player4): Toppin (Player4)
+  Peppibot Factory Secret 3 (Player4): Toppin (Player4)
+  Peppibot Factory Treasure (Player4): Jury Summons Pact Level (Player2)
+  The Pig City Tomato Toppin (Player4): Approval Process Pact Level (Player2)
+  Knuckles: Race Complete (Player5): Blue Chaos Emerald (Player5)
+}
+6: {
+  Defeat Faux (Player1): Victory (Player1)
+  Mataan: Across bull horns graffiti (Player1): White Chaos Emerald (Player5)
+  Mataan: Crane CD (Player1): Toppin (Player4)
+  Mataan: Score challenge reward (Player1): Toppin (Player4)
+  Mataan: Vending machine CD (Player1): Toppin (Player4)
+  Pyramid Island: Rise joins the crew (Player1): Underworld Customs Pact Level (Player2)
+  Tagged 340 Graffiti Spots (Player1): Red Chaos Emerald (Player5)
+  Tagged 350 Graffiti Spots (Player1): Toppin (Player4)
+  Clear Room 50 (Player2): Athena Keepsake (Player2)
+  Clear Room 56 (Player2): Benefits Package Pact Level (Player2)
+  Clear Room 59 (Player2): Lasting Consequences Pact Level (Player2)
+  Infernal Trove3 Location (Player2): Toppin (Player4)
+  Zeus Keepsake (Player2): Toppin (Player4)
+  Fake Peppino Defeated (Player4): Boss Key (Player4)
+  Fake Peppino P Rank (Player4): Toppin (Player4)
+}
+7: {
+  Divine Pairings (Player2): Hard Labor Pact Level (Player2)
+  Super Sonic Unlock (Player5): Super Sonic (Player5)
+}
+8: {
+  Beat Hades (Player2): Hades Victory (Player2)
+  Defeat Babylon Guardian (Player5): The Treasure Of Babylon (Player5)
+}
+
+Paths:
+
+Ancient Cheese Cheese Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Ancient Cheese
+   =>   Ancient Cheese
+Ancient Cheese Mushroom Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Ancient Cheese
+   =>   Ancient Cheese
+Ancient Cheese Sausage Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Ancient Cheese
+   =>   Ancient Cheese
+Ancient Cheese Secret 1 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Ancient Cheese
+   =>   Ancient Cheese
+Ancient Cheese Secret 2 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Ancient Cheese
+   =>   Ancient Cheese
+Bloodsauce Dungeon Pineapple Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Bloodsauce Dungeon
+   =>   Bloodsauce Dungeon
+Bloodsauce Dungeon Secret 1 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Bloodsauce Dungeon
+   =>   Bloodsauce Dungeon
+Bloodsauce Dungeon Secret 2 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Bloodsauce Dungeon
+   =>   Bloodsauce Dungeon
+Bloodsauce Dungeon Tomato Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Bloodsauce Dungeon
+   =>   Bloodsauce Dungeon
+Crust Cove Pineapple Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Crust Cove
+   =>   Crust Cove
+Crust Cove Sausage Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Crust Cove
+   =>   Crust Cove
+Crust Cove Secret 1 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Crust Cove
+   =>   Crust Cove
+Crust Cove Treasure (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Crust Cove
+   =>   Crust Cove
+Deep-Dish 9 Pineapple Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Deep-Dish 9
+   =>   Deep-Dish 9
+Fake Peppino Defeated (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Floor 4 Slum
+   =>   Floor 4 Slum -> Floor 4 Slum to Fake Peppino
+   =>   Fake Peppino
+Fake Peppino P Rank (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Floor 4 Slum
+   =>   Floor 4 Slum -> Floor 4 Slum to Fake Peppino
+   =>   Fake Peppino
+Fastfood Saloon Pineapple Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Fastfood Saloon
+   =>   Fastfood Saloon
+Fastfood Saloon Secret 3 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Fastfood Saloon
+   =>   Fastfood Saloon
+Freezerator Mushroom Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Floor 4 Slum
+   =>   Floor 4 Slum -> Floor 4 Slum to Freezerator
+   =>   Freezerator
+Freezerator Secret 2 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Floor 4 Slum
+   =>   Floor 4 Slum -> Floor 4 Slum to Freezerator
+   =>   Freezerator
+Fun Farm Complete (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Fun Farm
+   =>   Fun Farm
+Fun Farm Sausage Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Fun Farm
+   =>   Fun Farm
+Fun Farm Secret 1 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Fun Farm
+   =>   Fun Farm
+Fun Farm Secret 3 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Fun Farm
+   =>   Fun Farm
+GOLF Cheese Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to GOLF
+   =>   GOLF
+GOLF Tomato Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to GOLF
+   =>   GOLF
+Gnome Forest Secret 3 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Gnome Forest
+   =>   Gnome Forest
+Gnome Forest Tomato Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Gnome Forest
+   =>   Gnome Forest
+Gnome Forest Treasure (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Gnome Forest
+   =>   Gnome Forest
+John Gutter Cheese Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to John Gutter
+   =>   John Gutter
+John Gutter Complete (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to John Gutter
+   =>   John Gutter
+John Gutter Mushroom Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to John Gutter
+   =>   John Gutter
+John Gutter Pineapple Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to John Gutter
+   =>   John Gutter
+John Gutter Sausage Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to John Gutter
+   =>   John Gutter
+John Gutter Secret 1 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to John Gutter
+   =>   John Gutter
+John Gutter Secret 2 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to John Gutter
+   =>   John Gutter
+Oh Shit! P Rank (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Floor 4 Slum
+   =>   Floor 4 Slum -> Floor 4 Slum to Oh Shit!
+   =>   Oh Shit!
+Oh Shit! Sausage Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Floor 4 Slum
+   =>   Floor 4 Slum -> Floor 4 Slum to Oh Shit!
+   =>   Oh Shit!
+Oh Shit! Tomato Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Floor 4 Slum
+   =>   Floor 4 Slum -> Floor 4 Slum to Oh Shit!
+   =>   Oh Shit!
+Oregano Desert Pineapple Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Oregano Desert
+   =>   Oregano Desert
+Oregano Desert Secret 1 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Oregano Desert
+   =>   Oregano Desert
+Oregano Desert Secret 2 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Oregano Desert
+   =>   Oregano Desert
+Oregano Desert Secret 3 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Oregano Desert
+   =>   Oregano Desert
+Pepperman Defeated (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Pepperman
+   =>   Pepperman
+Peppibot Factory P Rank (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Floor 4 Slum
+   =>   Floor 4 Slum -> Floor 4 Slum to Peppibot Factory
+   =>   Peppibot Factory
+Peppibot Factory Secret 3 (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Floor 4 Slum
+   =>   Floor 4 Slum -> Floor 4 Slum to Peppibot Factory
+   =>   Peppibot Factory
+Peppibot Factory Treasure (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Floor 4 Slum
+   =>   Floor 4 Slum -> Floor 4 Slum to Peppibot Factory
+   =>   Peppibot Factory
+The Noise Defeated (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to The Noise
+   =>   The Noise
+The Pig City Tomato Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Floor 3 Vacation Resort
+   =>   Floor 3 Vacation Resort -> Floor 3 Vacation Resort to Floor 4 Slum
+   =>   Floor 4 Slum -> Floor 4 Slum to The Pig City
+   =>   The Pig City
+The Vigilante Defeated (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to The Vigilante
+   =>   The Vigilante
+Tutorial Cheese Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Tutorial
+   =>   Tutorial
+Tutorial Complete in under 2 minutes (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Tutorial
+   =>   Tutorial
+Tutorial Sausage Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Tutorial
+   =>   Tutorial
+Tutorial Tomato Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Tutorial
+   =>   Tutorial
+Wasteyard Pineapple Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Wasteyard
+   =>   Wasteyard
+Wasteyard Sausage Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Wasteyard
+   =>   Wasteyard
+Wasteyard Tomato Toppin (Player4)
+        Menu -> Menu to Floor 1 Tower Lobby
+   =>   Floor 1 Tower Lobby -> Floor 1 Tower Lobby to Floor 2 Western District
+   =>   Floor 2 Western District -> Floor 2 Western District to Wasteyard
+   =>   Wasteyard
