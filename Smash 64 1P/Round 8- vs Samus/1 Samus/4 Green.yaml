@@ -83,8 +83,8 @@ DOOM II:
     # random_balanced: Monsters are completely randomized, but balanced based on existing ratio in the level. (Small monsters vs medium vs big)
     # random_chaotic: Monsters are completely randomized, but balanced based on existing ratio in the entire game.
     vanilla: 0
-    shuffle: 0
-    random_balanced: 50
+    shuffle: 50
+    random_balanced: 0
     random_chaotic: 0
 
   random_pickups:
@@ -141,8 +141,8 @@ DOOM II:
   reset_level_on_death:
     # When dying, levels are reset and monsters respawned. But inventory and checks are kept.
     # Turning this setting off is considered easy mode. Good for new players that don't know the levels well.
-    'false': 0
-    'true': 50
+    'false': 50
+    'true': 0
 
   episode1:
     # Subterranean and Outpost.
@@ -167,8 +167,8 @@ DOOM II:
     # This is too short to be an episode. It's additive.
     # Another episode will have to be selected along with this one.
     # Otherwise episode 1 will be added.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   split_backpack:
     # Split the Backpack into four individual items, each one increasing ammo capacity for one type of weapon only.
@@ -294,7 +294,7 @@ DOOM II:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {}
+    {Chaingun}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -302,7 +302,7 @@ DOOM II:
 
   start_location_hints:
     # Start with these locations and their item prefilled into the ``!hint`` command.
-    []
+    [The Spirit World (MAP28)]
 
   exclude_locations:
     # Prevent these locations from having an important item.
@@ -310,7 +310,7 @@ DOOM II:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [The Spirit World (MAP28) - BFG9000]
 
   item_links:
     # Share part of your item pool with other players.
@@ -319,4 +319,5 @@ DOOM II:
   plando_items:
     # Generic items plando.
     []
+
 
