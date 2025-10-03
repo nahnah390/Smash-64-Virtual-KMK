@@ -1,0 +1,2282 @@
+﻿Archipelago Version 0.6.3  -  Seed: 35276862395551470013
+
+Filling Algorithm:               balanced
+Players:                         3
+Plando Options:                  connections, texts, bosses
+
+Player 1: Player1
+Game:                            Factorio
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            AP-1-101, AP-1-140, AP-1-261, AP-1-292, AP-1-366, AP-1-430, AP-1-449, AP-1-504, AP-1-580, AP-1-584, AP-1-598, AP-1-650, AP-1-690, AP-1-718, AP-1-796, AP-1-830, AP-1-835, AP-1-853, AP-1-856, AP-1-890, AP-1-905, AP-1-938, AP-1-955, AP-1-992, AP-2-013, AP-2-018, AP-2-159, AP-2-188, AP-2-223, AP-2-284, AP-2-361, AP-2-371, AP-2-385, AP-2-399, AP-2-427, AP-2-433, AP-2-439, AP-2-446, AP-2-518, AP-2-528, AP-2-549, AP-2-557, AP-2-581, AP-2-599, AP-2-617, AP-2-680, AP-2-714, AP-2-722, AP-2-723, AP-2-731, AP-2-742, AP-2-841, AP-2-930, AP-2-933, AP-2-964, AP-3-198, AP-3-199, AP-3-229, AP-3-279, AP-3-295, AP-3-303, AP-3-310, AP-3-355, AP-3-373, AP-3-430, AP-3-455, AP-3-497, AP-3-547, AP-3-555, AP-3-562, AP-3-589, AP-3-602, AP-3-668, AP-3-684, AP-3-704, AP-3-712, AP-3-748, AP-3-756, AP-3-759, AP-3-778, AP-3-832, AP-3-852, AP-3-855, AP-3-891, AP-3-919, AP-3-938, AP-4-014, AP-4-018, AP-4-022, AP-4-047, AP-4-069, AP-4-087, AP-4-090, AP-4-201, AP-4-223, AP-4-256, AP-4-262, AP-4-321, AP-4-352, AP-4-393, AP-4-429, AP-4-439, AP-4-474, AP-4-479, AP-4-510, AP-4-515, AP-4-543, AP-4-578, AP-4-602, AP-4-666, AP-4-677, AP-4-712, AP-4-715, AP-4-753, AP-4-786, AP-4-815, AP-4-823, AP-4-858, AP-4-868, AP-4-918, AP-4-944, AP-4-967, AP-4-971, AP-5-011, AP-5-055, AP-5-071, AP-5-129, AP-5-160, AP-5-185, AP-5-192, AP-5-196, AP-5-219, AP-5-242, AP-5-300, AP-5-330, AP-5-430, AP-5-641, AP-5-685, AP-5-716, AP-5-785, AP-5-865, AP-5-892, AP-5-903, AP-5-931, AP-5-945, AP-5-955, AP-5-975, AP-6-003, AP-6-047, AP-6-098, AP-6-099, AP-6-167, AP-6-203, AP-6-224, AP-6-286, AP-6-294, AP-6-332, AP-6-346, AP-6-403, AP-6-404, AP-6-449, AP-6-461, AP-6-465, AP-6-486, AP-6-507, AP-6-585, AP-6-593, AP-6-596, AP-6-624, AP-6-654, AP-6-742, AP-6-774, AP-6-784, AP-6-786, AP-6-856, AP-6-885, AP-6-926, AP-6-929, AP-6-995
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Maximum Required Science Pack:   Space Science Pack
+Goal:                            Rocket
+Technology Tree Layout:          Single
+Minimum Science Pack Cost:       5
+Maximum Science Pack Cost:       500
+Tech Cost Distribution:          Even
+Science Pack Cost Mix:           70
+Ramping Tech Costs:              No
+Rocket Silo:                     Vanilla
+Satellite:                       Vanilla
+Free Samples:                    Stack
+Free Samples Quality:            Normal
+Technology Tree Information:     Full
+Starting Items:                  burner-mining-drill: 4, raw-fish: 50, stone-furnace: 4
+Free Sample Blacklist:           
+Free Sample Whitelist:           
+Recipe Time:                     Vanilla
+Random Recipe Ingredients Level: Rocket
+Randomized Recipe Ingredients Offset:0
+Blueprints:                      Yes
+World Generation:                basic: {'peaceful_mode': False, 'seed': 3004450646, 'starting_area': 1.0, 'autoplace_controls': {'coal': {'frequency': 1.0, 'richness': 6.0, 'size': 3.0}, 'copper-ore': {'frequency': 1.0, 'richness': 6.0, 'size': 3.0}, 'crude-oil': {'frequency': 1.0, 'richness': 6.0, 'size': 3.0}, 'enemy-base': {'frequency': 1.0, 'richness': 1.0, 'size': 1.0}, 'iron-ore': {'frequency': 1.0, 'richness': 6.0, 'size': 3.0}, 'nauvis_cliff': {'frequency': 1.0, 'richness': 1.0, 'size': 1.0}, 'starting_area_moisture': {'frequency': 1.0, 'richness': 1.0, 'size': 1.0}, 'stone': {'frequency': 1.0, 'richness': 6.0, 'size': 3.0}, 'trees': {'frequency': 1.0, 'richness': 1.0, 'size': 1.0}, 'uranium-ore': {'frequency': 1.0, 'richness': 6.0, 'size': 3.0}, 'water': {'frequency': 1.0, 'richness': 1.0, 'size': 1.0}}, 'cliff_settings': {'cliff_elevation_0': 10.0, 'cliff_elevation_interval': 40.0, 'name': 'cliff', 'richness': 1.0}, 'property_expression_names': {'control-setting:aux:bias': 0.0, 'control-setting:aux:frequency:multiplier': 1.0, 'control-setting:moisture:bias': 0.0, 'control-setting:moisture:frequency:multiplier': 1.0}}, advanced: {'enemy_evolution': {'destroy_factor': 0.002, 'enabled': True, 'pollution_factor': 9e-07, 'time_factor': 4e-06}, 'enemy_expansion': {'enabled': True, 'max_expansion_cooldown': 216000.0, 'max_expansion_distance': 7.0, 'min_expansion_cooldown': 14400.0, 'settler_group_max_size': 20.0, 'settler_group_min_size': 5.0}, 'pollution': {'ageing': 1.0, 'diffusion_ratio': 0.02, 'enabled': True, 'enemy_attack_pollution_consumption_modifier': 1.0, 'min_pollution_to_damage_trees': 60.0, 'pollution_restored_per_tree_damage': 10.0}}
+Progressive Technologies:        On
+Teleport Traps:                  0
+Grenade Traps:                   0
+Cluster Grenade Traps:           0
+Artillery Traps:                 0
+Atomic Rocket Traps:             0
+Atomic Cliff Remover Traps:      0
+Inventory Spill Traps:           0
+Attack Traps:                    0
+Evolution Traps:                 0
+Evolution Trap % Effect:         10
+Death Link:                      No
+Energy Link:                     No
+Start Inventory from Pool:       
+
+Player 2: Player2
+Game:                            Pokemon Platinum
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Randomize HMs:                   Yes
+Randomize Badges:                Yes
+Randomize Overworlds:            Yes
+Randomize Hidden Items:          No
+Randomize NPC Gifts:             Yes
+Randomize Key Items:             Most
+Randomize Rods:                  Yes
+Randomize Poketch Apps:          Yes
+Randomize Running Shoes:         No
+Randomize Bicycle:               No
+Randomize Pokedex:               No
+Randomize Accessories:           No
+Require Badges for HMs:          Yes
+Remove Badge Requirement:        
+Logically Require Flash or Defog for Applicable Regions:Yes
+Logically Require Dowsing Machine for Hidden Items:Yes
+North Sinnoh Requires Fly:       No
+Require Parcel and Coupons for Route 203 from Jubilife:Yes
+National Dex Num Mons:           60
+Early Sunyshore:                 No
+Pastoria Barriers:               No
+Game Options:                    battle_scene: on, battle_style: shift, button_mode: normal, default_gender: vanilla, default_player_name: player_name, default_rival_name: random, received_items_notification: jingle, sound: stereo, text_frame: 1, text_speed: mid
+Blind Trainers:                  No
+HM Cut-Ins:                      No
+60 FPS:                          No
+Buck Position:                   No
+Healthbar Speed:                 1
+Add Master Repel:                No
+Add S.S. Ticket:                 No
+Add Marsh Pass:                  No
+Exp. Multiplier:                 1
+Add Storage Key:                 No
+Add Bag:                         No
+Unowns Choice:                   Item
+Show Unrandomized Progression Items:Yes
+Remote Items:                    No
+Goal:                            Champion
+
+Player 3: Player3
+Game:                            Satisfactory
+Death Link:                      No
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Select your Goals:               Space Elevator Phase
+Goal Requirements:               Require Any One Goal
+Final Space Elevator Phase in logic:2
+AWESOME Sink points total:       2166000
+AWESOME Sink points per minute:  50000
+Exploration Collectables:        20
+Hard Drive Progression Items:    20
+Free Samples: Equipment:         1
+Free Samples: Buildings:         5
+Free Samples: Parts:             -2
+Free Samples: Radioactive:       No
+Starting Goodies Presets:        Archipelago
+MAM Placement:                   Early Game
+AWESOME Stuff Placement:         Early Game
+EnergyLink Placement:            Early Game
+Splitter and Merger Placement:   Unlocked From Start
+Milestone cost multiplier %:     100
+Trap Chance:                     10
+Trap Presets:                    Normal
+Trap Override:                   Bundle: Non-fissile Uranium, Bundle: Uranium, Trap: Alpha Hog, Trap: Alpha Spitter, Trap: Can of Beans, Trap: Doggo with Gas Nobelisk, Trap: Doggo with Pulse Nobelisk, Trap: Elite Hatcher, Trap: Fart Cloud, Trap: Hatcher, Trap: Hog, Trap: Not the Bees, Trap: Nuclear Waste Drop, Trap: Small Stinger, Trap: Spitter, Trap: Stinger
+EnergyLink:                      Yes
+Start Inventory from Pool:       
+Randomize Default Part Recipes:  Yes
+Starter Recipes:                 ['Building: Assembler', 'Building: Constructor', 'Building: Foundry', 'Building: Smelter', 'Recipe: Cast Screw', 'Recipe: Copper Alloy Ingot', 'Recipe: Fine Concrete', 'Recipe: Iron Ingot', 'Recipe: Iron Plate', 'Recipe: Iron Rod', 'Recipe: Reinforced Iron Plate', 'Recipe: Silica', 'Recipe: Wire']
+
+
+Factorio Recipes:
+
+rocket-part (Player1): {'belt-immunity-equipment': 10, 'express-underground-belt': 10, 'energy-shield-equipment': 10} -> {'rocket-part': 1}
+ap-energy-bridge (Player1): {'transport-belt': 51, 'stone-brick': 81, 'stone': 317, 'pipe': 87, 'iron-plate': 397, 'iron-ore': 480} -> {'ap-energy-bridge': 1}
+
+Starting Items:
+
+Bag (Player2)
+Single: Portable Miner (Player3)
+Single: Portable Miner (Player3)
+Single: Portable Miner (Player3)
+Single: Portable Miner (Player3)
+Bundle: Iron Plate (Player3)
+Bundle: Concrete (Player3)
+Bundle: Iron Rod (Player3)
+Bundle: Wire (Player3)
+Single: Reinforced Iron Plate (Player3)
+Single: Reinforced Iron Plate (Player3)
+Single: Reinforced Iron Plate (Player3)
+Single: Reinforced Iron Plate (Player3)
+Single: Reinforced Iron Plate (Player3)
+Single: Reinforced Iron Plate (Player3)
+Single: Reinforced Iron Plate (Player3)
+Single: Reinforced Iron Plate (Player3)
+Single: Reinforced Iron Plate (Player3)
+Single: Reinforced Iron Plate (Player3)
+Bundle: Cable (Player3)
+Bundle: Iron Ore (Player3)
+Bundle: Iron Ingot (Player3)
+Bundle: Copper Ingot (Player3)
+Bundle: Concrete (Player3)
+Bundle: Solid Biofuel (Player3)
+Building: Blueprint Designer (Player3)
+Expanded Toolbelt (Player3)
+Inflated Pocket Dimension (Player3)
+Building: Personal Storage Box (Player3)
+Building: Conveyor Splitter (Player3)
+Building: Conveyor Merger (Player3)
+
+Locations:
+
+AP-6-294 (Player1): TM34 (Player2)
+AP-3-589 (Player1): progressive-advanced-material-processing (Player1)
+AP-1-890 (Player1): Antidote (Player2)
+AP-4-868 (Player1): Old Gateau (Player2)
+AP-4-677 (Player1): Building: Valve (Player3)
+AP-4-753 (Player1): Small Inflated Pocket Dimension (Player3)
+AP-6-742 (Player1): Protein (Player2)
+AP-1-796 (Player1): Building: Industrial Storage Container (Player3)
+AP-1-598 (Player1): Recipe: Cluster Nobelisk (Player3)
+AP-3-668 (Player1): Single: Object Scanner (Player3)
+AP-6-286 (Player1): Poké Radar (Player2)
+AP-4-069 (Player1): Transport: Truck (Player3)
+AP-1-690 (Player1): Recipe: Hoverpack (Player3)
+AP-6-404 (Player1): Max Revive (Player2)
+AP-4-823 (Player1): Recipe: Circuit Board (Player3)
+AP-2-427 (Player1): progressive-rocketry (Player1)
+AP-2-439 (Player1): Cheri Berry (Player2)
+AP-6-403 (Player1): Recipe: Tempered Copper Ingot (Player3)
+AP-3-602 (Player1): Recipe: Copper Sheet (Player3)
+AP-4-022 (Player1): Reaper Cloth (Player2)
+AP-5-219 (Player1): Building: Power Pole Mk.2 (Player3)
+AP-3-855 (Player1): Nugget (Player2)
+AP-5-785 (Player1): progressive-worker-robots-speed (Player1)
+AP-4-578 (Player1): Scope Lens (Player2)
+AP-3-891 (Player1): Town Map (Player2)
+AP-3-562 (Player1): Blue Shard (Player2)
+AP-6-461 (Player1): Zinc (Player2)
+AP-4-479 (Player1): Shell Bell (Player2)
+AP-3-199 (Player1): Zinc (Player2)
+AP-2-399 (Player1): Revive (Player2)
+AP-4-543 (Player1): Green Shard (Player2)
+AP-2-223 (Player1): Spell Tag (Player2)
+AP-3-759 (Player1): Recipe: Steel Beam (Player3)
+AP-3-684 (Player1): TM39 (Player2)
+AP-1-101 (Player1): progressive-automation (Player1)
+AP-3-198 (Player1): progressive-worker-robots-storage (Player1)
+AP-5-011 (Player1): Super Repel (Player2)
+AP-6-003 (Player1): Recipe: Alien DNA Capsule (Player3)
+AP-2-680 (Player1): Building: Power Storage (Player3)
+AP-2-188 (Player1): Mind Plate (Player2)
+AP-4-971 (Player1): Recipe: Rifle (Player3)
+AP-2-159 (Player1): TM50 (Player2)
+AP-1-856 (Player1): Recipe: Homing Rifle Ammo (Player3)
+AP-1-992 (Player1): Luxury Ball (Player2)
+AP-6-224 (Player1): progressive-productivity-module (Player1)
+AP-5-300 (Player1): Recipe: Aluminum Beam (Player3)
+AP-6-784 (Player1): Bundle: Cluster Nobelisk (Player3)
+AP-5-129 (Player1): Poké Ball x5 (Player2)
+AP-5-865 (Player1): TM76 (Player2)
+AP-4-087 (Player1): CALENDAR (Player2)
+AP-2-018 (Player1): TM82 (Player2)
+AP-2-528 (Player1): Protein (Player2)
+AP-6-449 (Player1): Carbos (Player2)
+AP-4-712 (Player1): Recipe: Diluted Packaged Fuel (Player3)
+AP-4-918 (Player1): Bundle: Shatter Rebar (Player3)
+AP-1-718 (Player1): Bundle of Three: Mercer Spheres (Player3)
+AP-1-650 (Player1): Transport: Trains (Player3)
+AP-2-371 (Player1): TM36 (Player2)
+AP-3-373 (Player1): Potion (Player2)
+AP-4-321 (Player1): progressive-inserter (Player1)
+AP-6-774 (Player1): TM07 (Player2)
+AP-2-722 (Player1): Full Heal (Player2)
+AP-5-055 (Player1): Recipe: Residual Fuel (Player3)
+AP-4-715 (Player1): Green Shard (Player2)
+AP-2-714 (Player1): Bundle: Medicinal Inhaler (Player3)
+AP-4-018 (Player1): Transport: Hypertube (Player3)
+AP-2-964 (Player1): Shed Shell (Player2)
+AP-5-945 (Player1): Recipe: Screw (Player3)
+AP-6-654 (Player1): HM08 Rock Climb (Player2)
+AP-3-832 (Player1): Bundle: Explosive Rebar (Player3)
+AP-4-090 (Player1): fission-reactor-equipment (Player1)
+AP-4-256 (Player1): Recipe: Ficsite Trigon (Player3)
+AP-5-716 (Player1): progressive-processing (Player1)
+AP-6-332 (Player1): progressive-military (Player1)
+AP-3-756 (Player1): Building: Pipes Mk.1 (Player3)
+AP-2-557 (Player1): Recipe: Molded Steel Pipe (Player3)
+AP-3-497 (Player1): progressive-physical-projectile-damage (Player1)
+AP-1-905 (Player1): TM13 (Player2)
+AP-4-944 (Player1): Recipe: Quickwire (Player3)
+AP-6-098 (Player1): HM07 Waterfall (Player2)
+AP-3-303 (Player1): Blue Shard (Player2)
+AP-5-892 (Player1): TM86 (Player2)
+AP-4-201 (Player1): Recipe: Therapeutic Inhaler (Player3)
+AP-4-047 (Player1): Recipe: Dark Matter Crystallization (Player3)
+AP-4-262 (Player1): progressive-laser-shooting-speed (Player1)
+AP-2-930 (Player1): Recipe: Pure Iron Ingot (Player3)
+AP-2-446 (Player1): TM45 (Player2)
+AP-1-366 (Player1): Mental Herb (Player2)
+AP-1-292 (Player1): Recipe: Steel Rotor (Player3)
+AP-2-013 (Player1): Escape Rope (Player2)
+AP-4-429 (Player1): Recipe: Electromagnetic Connection Rod (Player3)
+AP-1-835 (Player1): Poké Ball (Player2)
+AP-2-284 (Player1): Inflated Pocket Dimension (Player3)
+AP-4-602 (Player1): progressive-stronger-explosives (Player1)
+AP-5-975 (Player1): TM49 (Player2)
+AP-4-815 (Player1): progressive-research-speed (Player1)
+AP-3-310 (Player1): Recipe: Heat-Fused Frame (Player3)
+AP-4-858 (Player1): TM63 (Player2)
+AP-4-439 (Player1): Max Ether (Player2)
+AP-1-584 (Player1): Escape Rope (Player2)
+AP-2-549 (Player1): Recipe: Fabric (Player3)
+AP-1-853 (Player1): Recipe: Packaged Rocket Fuel (Player3)
+AP-4-352 (Player1): Razor Fang (Player2)
+AP-3-778 (Player1): Small Inflated Pocket Dimension (Player3)
+AP-3-430 (Player1): Recipe: High-Speed Connector (Player3)
+AP-4-967 (Player1): Max Elixir (Player2)
+AP-4-393 (Player1): Recipe: Radio Connection Unit (Player3)
+AP-6-929 (Player1): Carbos (Player2)
+AP-2-433 (Player1): Rare Candy (Player2)
+AP-3-229 (Player1): Bundle: Iodine-Infused Filter (Player3)
+AP-3-938 (Player1): Electirizer (Player2)
+AP-6-995 (Player1): rocket-silo (Player1)
+AP-4-786 (Player1): Revive (Player2)
+AP-4-666 (Player1): TM09 (Player2)
+AP-6-047 (Player1): Ultra Ball (Player2)
+AP-3-555 (Player1): Soothe Bell (Player2)
+AP-6-167 (Player1): Dawn Stone (Player2)
+AP-3-295 (Player1): plastics (Player1)
+AP-4-510 (Player1): Recipe: Power Shard (5) (Player3)
+AP-6-203 (Player1): Ultra Ball (Player2)
+AP-1-449 (Player1): Building: AWESOME Shop (Player3)
+AP-5-430 (Player1): Bundle: Rifle Ammo (Player3)
+AP-5-192 (Player1): Building: Portal (Player3)
+AP-2-841 (Player1): TM38 (Player2)
+AP-2-385 (Player1): progressive-personal-roboport-equipment (Player1)
+AP-2-361 (Player1): logistic-system (Player1)
+AP-5-903 (Player1): Max Revive (Player2)
+AP-6-486 (Player1): progressive-wall (Player1)
+AP-6-786 (Player1): Recipe: Turbo Motor (Player3)
+AP-2-518 (Player1): Rose Incense (Player2)
+AP-6-885 (Player1): Inflated Pocket Dimension (Player3)
+AP-4-515 (Player1): Recipe: Gas Filter (Player3)
+AP-6-856 (Player1): Rare Candy (Player2)
+AP-2-581 (Player1): TM77 (Player2)
+AP-1-504 (Player1): processing-unit (Player1)
+AP-6-346 (Player1): TM28 Dig (Player2)
+AP-6-624 (Player1): FRIENDSHIP CHECKER (Player2)
+AP-1-580 (Player1): Expanded Toolbelt (Player3)
+AP-2-723 (Player1): Yellow Shard (Player2)
+AP-6-593 (Player1): Max Repel (Player2)
+AP-6-099 (Player1): Spooky Plate (Player2)
+AP-3-455 (Player1): Master Ball (Player2)
+AP-3-704 (Player1): Adamant Orb (Player2)
+AP-3-547 (Player1): Recipe: Smokeless Powder (Player3)
+AP-1-830 (Player1): Forest Badge (Player2)
+AP-3-712 (Player1): Recipe: Hazmat Suit (Player3)
+AP-6-507 (Player1): Building: Miner Mk.2 (Player3)
+AP-3-748 (Player1): Building: Industrial Fluid Buffer (Player3)
+AP-1-430 (Player1): Potion (Player2)
+AP-2-742 (Player1): Exp. Share (Player2)
+AP-3-355 (Player1): Max Ether (Player2)
+AP-6-585 (Player1): landfill (Player1)
+AP-3-279 (Player1): Max Revive (Player2)
+AP-5-071 (Player1): Recipe: Rubber (Player3)
+AP-1-955 (Player1): Building: Wall Outlet Mk.1 (Player3)
+AP-3-852 (Player1): Building: Particle Accelerator (Player3)
+AP-1-938 (Player1): circuit-network (Player1)
+AP-6-596 (Player1): Recipe: Rocket Fuel (Player3)
+AP-4-014 (Player1): Up-Grade (Player2)
+AP-4-223 (Player1): ROULETTE (Player2)
+AP-1-261 (Player1): Recipe: Electromagnetic Control Rod (Player3)
+AP-2-731 (Player1): Dive Ball (Player2)
+AP-6-926 (Player1): Recipe: Leached Caterium Ingot (Player3)
+AP-4-474 (Player1): X Attack (Player2)
+AP-5-242 (Player1): PP Up (Player2)
+AP-1-140 (Player1): progressive-logistics (Player1)
+AP-5-160 (Player1): Escape Rope (Player2)
+AP-5-330 (Player1): Recipe: Nitric Acid (Player3)
+AP-3-919 (Player1): Repeat Ball (Player2)
+AP-2-933 (Player1): Building: Power Tower (Player3)
+AP-5-196 (Player1): Transport: Drones (Player3)
+AP-5-955 (Player1): Recipe: Packaged Fuel (Player3)
+AP-5-185 (Player1): Recipe: Copper Rotor (Player3)
+AP-2-599 (Player1): progressive-rocketry (Player1)
+AP-5-641 (Player1): Nugget (Player2)
+AP-5-931 (Player1): Recipe: Residual Rubber (Player3)
+AP-2-617 (Player1): Calcium (Player2)
+AP-6-465 (Player1): Bundle: Smokeless Powder (Player3)
+AP-5-685 (Player1): Recipe: Dark Matter Crystal (Player3)
+Rocket Launch (Player1): Victory (Player1)
+Automate automation-science-pack (Player1): Automated automation-science-pack (Player1)
+Automate chemical-science-pack (Player1): Automated chemical-science-pack (Player1)
+Automate logistic-science-pack (Player1): Automated logistic-science-pack (Player1)
+Automate military-science-pack (Player1): Automated military-science-pack (Player1)
+Automate production-science-pack (Player1): Automated production-science-pack (Player1)
+Automate utility-science-pack (Player1): Automated utility-science-pack (Player1)
+Great Marsh - Overworld (Great Ball) (Player2): Recipe: Packaged Ionized Fuel (Player3)
+Route 225 - Overworld (Dawn Stone) (Player2): Building: Resource Well Pressurizer (Player3)
+Route 225 - Overworld (Green Shard) (Player2): Hyper Potion (Player2)
+Route 225 - Overworld (Razor Fang) (Player2): Bundle: Cluster Nobelisk (Player3)
+Route 225 - Overworld (Dubious Disc) (Player2): progressive-rocketry (Player1)
+Route 225 - Overworld (HP Up) (Player2): Max Repel (Player2)
+Route 225 - Overworld (Rare Candy) (Player2): progressive-train-network (Player1)
+Route 225 - Overworld (Revive) (Player2): Icicle Plate (Player2)
+Route 225 - Overworld (Lax Incense) (Player2): Suite Key (Player2)
+Great Marsh - Overworld (Green Shard) (Player2): progressive-inserter (Player1)
+Great Marsh - Overworld (Poké Ball) (Player2): Black Flute (Player2)
+Victory Road - Overworld (Max Repel) (Player2): Dusk Stone (Player2)
+Victory Road - Overworld (TM41) (Player2): progressive-weapon-shooting-speed (Player1)
+Victory Road - Overworld (Rare Candy) (Player2): Recipe: Ficsite Ingot (Iron) (Player3)
+Victory Road - Overworld (Razor Claw) (Player2): TM31 (Player2)
+Victory Road - Overworld (Zinc) (Player2): POKéMON LIST (Player2)
+Victory Road - Overworld (Full Restore) (Player2): Inflated Pocket Dimension (Player3)
+Victory Road - Overworld (TM71) (Player2): Transport: Personal Elevator (Player3)
+Victory Road - Overworld (Max Elixir) (Player2): Recipe: Quartz Purification (Player3)
+Victory Road - Overworld (TM79) (Player2): progressive-physical-projectile-damage (Player1)
+Route 224 - Overworld (PP Max) (Player2): Recipe: Instant Scrap (Player3)
+Route 224 - Overworld (Repeat Ball) (Player2): Building: Priority Merger (Player3)
+Route 224 - Overworld (Up-Grade) (Player2): Protein (Player2)
+Route 224 - Overworld (Rare Candy) (Player2): Recipe: Pressure Conversion Cube (Player3)
+Route 224 - Overworld (Ultra Ball) (Player2): Recipe: Recycled Plastic (Player3)
+Route 224 - Overworld (Razor Claw) (Player2): Recipe: Radio Control System (Player3)
+Route 224 - Overworld (Destiny Knot) (Player2): Recipe: Spitter Protein (Player3)
+Great Marsh - Overworld (Poké Ball) 1 (Player2): Recipe: Pulse Nobelisk (Player3)
+Great Marsh - Overworld (Yellow Shard) (Player2): progressive-stronger-explosives (Player1)
+Survival Area - Overworld (Red Shard) (Player2): Recipe: Silicon Circuit Board (Player3)
+Survival Area - Overworld (Rare Candy) (Player2): Recipe: Gas Mask (Player3)
+Survival Area - TM42 (From man in South house) (Player2): Bundle: Gas Filter (Player3)
+Route 225 - Fresh Water (From man in house) (Player2): toolbelt (Player1)
+Great Marsh - Overworld (Great Ball) 1 (Player2): Ultra Ball (Player2)
+Fullmoon Island - Overworld (Lunar Wing) (Player2): HM05 Defog (Player2)
+Victory Road - Overworld (TM59) (Player2): progressive-worker-robots-storage (Player1)
+Victory Road - Overworld (Calcium) (Player2): Recipe: Copper Ingot (Player3)
+Victory Road - Overworld (Ultra Ball) (Player2): Recipe: Heavy Oil Residue (Player3)
+Great Marsh - Overworld (Blue Shard) (Player2): TRAINER COUNTER (Player2)
+Route 226 - Overworld (Carbos) (Player2): progressive-follower-robot-count (Player1)
+Route 226 - Overworld (Lagging Tail) (Player2): progressive-flamethrower (Player1)
+Route 226 - Overworld (TM53) (Player2): Old Rod (Player2)
+Route 227 - Overworld (Yellow Shard) (Player2): progressive-inserter (Player1)
+Route 227 - Overworld (Charcoal) (Player2): Max Repel (Player2)
+Route 227 - Overworld (Zinc) (Player2): Hyper Potion (Player2)
+Route 228 - Overworld (TM37) (Player2): Bundle: Packaged Water (Player3)
+Route 228 - Overworld (Iron) (Player2): Bundle: Smokeless Powder (Player3)
+Route 228 - Overworld (Protector) (Player2): progressive-train-network (Player1)
+Route 228 - Overworld (Shed Shell) (Player2): SecretPotion (Player2)
+Route 228 - Overworld (Shiny Stone) (Player2): Full Heal (Player2)
+Route 230 - Overworld (Rare Candy) (Player2): MATCHUP CHECKER (Player2)
+Route 230 - Overworld (Blue Shard) (Player2): Recipe: Packaged Oil (Player3)
+Celestic Town - Overworld (Dragon Fang) (Player2): progressive-military (Player1)
+Celestic Town Cave - HM03 (From Cynthia's Grandmother) (Player2): Poffin Case (Player2)
+Victory Road - Overworld (Leftovers) (Player2): Fashion Case (Player2)
+Victory Road - Overworld (Dusk Stone) (Player2): Ultra Ball (Player2)
+Victory Road - Overworld (Nugget) (Player2): Recipe: Crystal Oscillator (Player3)
+Victory Road - Overworld (Full Restore) 1 (Player2): progressive-laser-shooting-speed (Player1)
+Celestic Town - Analog Watch App (Player2): Revive (Player2)
+Celestic Town - Great Ball (From Man in Pokémon Center) (Player2): progressive-energy-shield (Player1)
+Sandgem Town - TM27 (From Rowan) (Player2): progressive-train-network (Player1)
+Route 229 - Overworld (Protein) (Player2): Inflated Pocket Dimension (Player3)
+Fight Area - Nugget (From man in middle of route) (Player2): Nest Ball (Player2)
+Fight Area - Nugget 1 (From man in middle of route) (Player2): Recipe: Aluminum Scrap (Player3)
+Route 229 - Overworld (Full Restore) (Player2): Transport: Fluid Trains (Player3)
+Route 229 - Overworld (Reaper Cloth) (Player2): Recipe: Cloudy Diamonds (Player3)
+Resort Area - Overworld (Nugget) (Player2): progressive-physical-projectile-damage (Player1)
+Twinleaf Town - Parcel (From Rival's Mom) (Player2): Bundle: Turbo Rifle Ammo (Player3)
+Twinleaf Town - Journal (From Mom) (Player2): Recipe: Liquid Biofuel (Player3)
+Route 201 - Potion (From Clerk) (Player2): TM84 (Player2)
+Fight Area - Super Rod (From Fisherman) (Player2): TM70 Flash (Player2)
+Fight Area - Scope Lens (From old lady in mart) (Player2): exoskeleton-equipment (Player1)
+Great Marsh - Overworld (Red Shard) (Player2): TM43 (Player2)
+Great Marsh - Matchup Checker App (Player2): Recipe: Power Shard (1) (Player3)
+Pastoria City - Overworld (Mystic Water) (Player2): Full Restore (Player2)
+Iron Island - HM04 (From Riley) (Player2): Rare Candy (Player2)
+Iron Island - Overworld (Shiny Stone) (Player2): progressive-stronger-explosives (Player1)
+Iron Island - Overworld (HP Up) (Player2): progressive-armor (Player1)
+Iron Island - Overworld (Red Shard) (Player2): Recipe: Insulated Crystal Oscillator (Player3)
+Iron Island - Overworld (Dusk Ball) (Player2): Recipe: Infused Uranium Cell (Player3)
+Iron Island - Overworld (Ultra Ball) (Player2): Recipe: Heat Exchanger (Player3)
+Iron Island - Overworld (Max Potion) (Player2): Recipe: Fertile Uranium (Player3)
+Iron Island - Overworld (Magnet) (Player2): TM11 (Player2)
+Iron Island - Overworld (Revive) (Player2): progressive-personal-roboport-equipment (Player1)
+Iron Island - Overworld (Max Repel) (Player2): Recipe: Diluted Fuel (Player3)
+Iron Island - Overworld (Escape Rope) (Player2): Recipe: Rotor (Player3)
+Iron Island - Overworld (Elixir) (Player2): progressive-laser-weapons-damage (Player1)
+Iron Island - Overworld (TM23) (Player2): nuclear-power (Player1)
+Route 213 - Overworld (Protein) (Player2): COIN TOSS (Player2)
+Route 213 - Overworld (PP Up) (Player2): Recipe: Motor (Player3)
+Route 213 - Overworld (Water Stone) (Player2): Recipe: Pink Diamonds (Player3)
+Route 213 - Overworld (Max Revive) (Player2): advanced-combinators (Player1)
+Route 213 - Overworld (TM40) (Player2): progressive-follower-robot-count (Player1)
+Route 213 - Overworld (TM05) (Player2): Elixir (Player2)
+Route 213 - Overworld (Yellow Shard) (Player2): Rare Candy (Player2)
+Route 213 - Hidden (Suite Key) (Player2): Fire Stone (Player2)
+Pastoria City Gym - Badge (From Crasher Wake) (Player2): Building: Pipes Mk.2 (Player3)
+Pastoria City Gym - TM55 (From Crasher Wake) (Player2): Small Inflated Pocket Dimension (Player3)
+Route 219 - Overworld (Antidote) (Player2): Recipe: Parachute (Player3)
+Route 213 - TM92 (From Clown) (Player2): Repel (Player2)
+Iron Island - Metal Coat (From Byron) (Player2): progressive-efficiency-module (Player1)
+Route 221 - Overworld (Protein) (Player2): Cobble Badge (Player2)
+Route 221 - Overworld (Pure Incense) (Player2): Transport: Tractor (Player3)
+Route 221 - Overworld (TM81) (Player2): Splash Plate (Player2)
+Route 221 - Overworld (Ultra Ball) (Player2): Recipe: Turbo Rifle Ammo (Player3)
+Pal Park Lobby - Trainer Counter App (Player2): progressive-speed-module (Player1)
+Stark Mountain - Overworld (Max Elixir) (Player2): Full Heal (Player2)
+Stark Mountain - Overworld (Life Orb) (Player2): Up-Grade (Player2)
+Iron Island - Overworld (Protector) (Player2): Dragon Fang (Player2)
+Iron Island - Overworld (Yellow Shard) (Player2): TM48 (Player2)
+Iron Island - Overworld (Metal Coat) (Player2): Recipe: Flexible Framework (Player3)
+Route 212 - Overworld (Hyper Potion) (Player2): progressive-electric-energy-distribution (Player1)
+Route 212 - Overworld (TM84) (Player2): progressive-speed-module (Player1)
+Route 212 - Overworld (Zinc) (Player2): TM92 (Player2)
+Route 212 - Overworld (Revive) (Player2): Ultra Ball (Player2)
+Route 212 - Overworld (Blue Shard) (Player2): Recipe: Biocoal (Player3)
+Route 212 - Overworld (Elixir) (Player2): Thick Mushroom (Player2)
+Route 212 - Overworld (Full Heal) (Player2): progressive-inserter (Player1)
+Route 212 - Overworld (TM62) (Player2): Recipe: Alumina Solution (Player3)
+Route 212 - Overworld (TM06) (Player2): Star Piece (Player2)
+Route 212 - Overworld (Iron) (Player2): Great Ball (Player2)
+Route 212 - Overworld (Green Shard) (Player2): TM23 (Player2)
+Route 212 - Overworld (Elixir) 1 (Player2): progressive-weapon-shooting-speed (Player1)
+Route 212 - Overworld (TM11) (Player2): Building: Packager (Player3)
+Route 212 - Overworld (Rose Incense) (Player2): Poké Ball (Player2)
+Route 208 - Overworld (Carbos) (Player2): Magnet (Player2)
+Route 208 - Overworld (Ether) (Player2): TM79 (Player2)
+Route 208 - Odd Keystone (From Black Belt) (Player2): robotics (Player1)
+Route 208 - Overworld (Great Ball) (Player2): progressive-flamethrower (Player1)
+Route 208 House - Berry Searcher App (Player2): TM05 (Player2)
+Route 208 - Random Berry (Player2): land-mine (Player1)
+Stark Mountain - Overworld (Full Restore) (Player2): Yellow Shard (Player2)
+Stark Mountain - Overworld (Full Heal) (Player2): Coin Case (Player2)
+Stark Mountain - Overworld (Escape Rope) (Player2): Potion (Player2)
+Stark Mountain - Overworld (PP Up) (Player2): logistic-robotics (Player1)
+Route 228 - Overworld (Hard Stone) (Player2): Recipe: Hog Protein (Player3)
+Lake Verity - Overworld (TM38) 1 (Player2): Bundle: Aluminum Scrap (Player3)
+Route 220 - Overworld (Max Repel) (Player2): X Special (Player2)
+Route 220 - Overworld (Carbos) (Player2): progressive-laser-weapons-damage (Player1)
+Route 220 - Overworld (Splash Plate) (Player2): Nugget (Player2)
+Route 202 - Poké Ball x5 (From Dawn) (Player2): progressive-science-pack (Player1)
+Route 202 - Overworld (Potion) (Player2): Nugget (Player2)
+Hearthome City - Shell Bell (In Southeast House) (Player2): Recipe: Alclad Casing (Player3)
+Route 209 - Overworld (Hyper Potion) (Player2): MEMO PAD (Player2)
+Route 209 - Overworld (Ether) (Player2): Recipe: Zipline (Player3)
+Route 209 - Good Rod (From Fisherman) (Player2): Expanded Toolbelt (Player3)
+Route 209 - Overworld (Great Ball) (Player2): progressive-science-pack (Player1)
+Route 209 - Overworld (TM19) (Player2): progressive-efficiency-module (Player1)
+Route 209 - Overworld (TM47) (Player2): Recipe: Automated Wiring (Player3)
+Route 209 - Overworld (Calcium) (Player2): Carbos (Player2)
+Route 213 - Coin Toss App (Player2): progressive-mining-productivity (Player1)
+Jubilife City - Pedometer App (Player2): Building: Conveyor Lift Mk.3 (Player3)
+Jubilife City - Calculator App (Player2): Recipe: Basic Iron Ingot (Player3)
+Jubilife City - Vs. Recorder (From Looker) (Player2): HM04 Strength (Player2)
+Jubilife City - Overworld (Potion) (Player2): HM03 Surf (Player2)
+Jubilife City - Fashion Case (From Reporter after Defeating Grunts) (Player2): Recipe: Plastic Smart Plating (Player3)
+Jubilife City - Poketch (Player2): Calcium (Player2)
+Jubilife City - Party Status App (Player2): Quick Claw (Player2)
+Solaceon Town - Overworld (PP Up) (Player2): progressive-personal-battery (Player1)
+Solaceon Town - Pokémon History App (Player2): Recipe: Turbofuel (Player3)
+Solaceon Town - Overworld (Rare Candy) (Player2): Miracle Seed (Player2)
+Route 210 - Overworld (Super Repel) (Player2): PP Up (Player2)
+Route 210 - TM51 (Player2): Recipe: Iron Alloy Ingot (Player3)
+Route 209 - Overworld (Oval Stone) (Player2): Red Shard (Player2)
+Route 204 - Overworld (HP Up) (Player2): Small Inflated Pocket Dimension (Player3)
+Route 204 - Overworld (Parlyz Heal) (Player2): Bundle: Iodine-Infused Filter (Player3)
+Route 204 - Overworld (Sea Incense) (Player2): repair-pack (Player1)
+Route 210 - Old Charm (From Cynthia) (Player2): Recipe: Encased Industrial Beam (Player3)
+Route 210 - Overworld (Max Repel) (Player2): progressive-personal-battery (Player1)
+Route 210 - Overworld (Nest Ball) (Player2): Razor Claw (Player2)
+Route 210 - Overworld (Hyper Potion) (Player2): Vs. Recorder (Player2)
+Route 210 - Overworld (Smoke Ball) (Player2): Big Pearl (Player2)
+Route 210 - Overworld (TM30) (Player2): Ultra Ball (Player2)
+Route 210 - Overworld (Wave Incense) (Player2): DOWSING MACHINE (Player2)
+Route 210 - Overworld (Red Shard) (Player2): Full Incense (Player2)
+Route 210 - Overworld (Zinc) (Player2): Single: Blade Runners (Player3)
+Route 209 - Overworld (Revive) (Player2): Recipe: Biomass (Alien Protein) (Player3)
+Route 218 - Overworld (Hyper Potion) (Player2): Hard Stone (Player2)
+Route 218 - Overworld (Rare Candy) (Player2): Sprayduck (Player2)
+Route 218 - Overworld (X Accuracy) (Player2): Great Ball (Player2)
+Route 209 - Overworld (TM27) (Player2): Life Orb (Player2)
+Route 209 Lost Tower - Spell Tag (From NPC At Top) (Player2): Expanded Toolbelt (Player3)
+Route 209 Lost Tower - Cleanse Tag (From NPC At Top) (Player2): progressive-laser-shooting-speed (Player1)
+Pokémon Day-Care - Day-Care Checker App (Player2): Red Shard (Player2)
+Pokemon Research Lab - Poké Radar (From Rowan) (Player2): Razor Claw (Player2)
+Route 222 - Overworld (Carbos) (Player2): radar (Player1)
+Route 222 - Overworld (Quick Ball) (Player2): Full Restore (Player2)
+Route 222 - TM56 (From Rich Boy) (Player2): Yellow Shard (Player2)
+Route 222 - Overworld (Full Restore) (Player2): progressive-inserter (Player1)
+Route 222 - Overworld (PP Up) (Player2): progressive-processing (Player1)
+Sunyshore City - HM07 (From Jasmine) (Player2): progressive-laser-shooting-speed (Player1)
+Sunyshore City - Overworld (Thunderstone) (Player2): Super Repel (Player2)
+Route 223 - Overworld (Rare Candy) (Player2): Recipe: Ionized Fuel (Player3)
+Route 223 - Overworld (TM18) (Player2): Recipe: Pure Aluminum Ingot (Player3)
+Route 223 - Overworld (Ultra Ball) (Player2): Small Inflated Pocket Dimension (Player3)
+Route 223 - Overworld (Dive Ball) (Player2): Protein (Player2)
+Pokétch Company - Marking Map App (Player2): Sea Incense (Player2)
+Pokétch Company - Memo Pad App (Player2): Recipe: Turbo Blend Fuel (Player3)
+Pokétch Company - Link Searcher App (Player2): Magmarizer (Player2)
+Pokétch Company - Move Tester App (Player2): Bundle: Homing Rifle Ammo (Player3)
+Trainers' School - Town Map (From Parcel) (Player2): Old Charm (Player2)
+Trainers’ School - Overworld (X Attack) (Player2): Building: Space Elevator (Player3)
+Trainers' School - Potion (From Schoolkid) (Player2): Dire Hit (Player2)
+Ravaged Path - Overworld (Potion) (Player2): Revive (Player2)
+Ravaged Path - Overworld (Luck Incense) (Player2): progressive-physical-projectile-damage (Player1)
+Ravaged Path - Overworld (TM03) (Player2): Recipe: Singularity Cell (Player3)
+Ravaged Path - Overworld (TM39) (Player2): Recipe: Recycled Rubber (Player3)
+Route 204 North - TM78 (Gift) (Player2): PP Max (Player2)
+Route 204 - Overworld (Awakening) (Player2): Single: Zipline (Player3)
+Route 204 - Overworld (TM09) (Player2): Net Ball (Player2)
+Sunyshore City - Calendar App (Player2): Full Heal (Player2)
+Sunyshore City - Roulette App (Player2): Lagging Tail (Player2)
+Sunyshore City - Dot Art App (Player2): Transport: Explorer (Player3)
+Canalave City - Overworld (TM89) (Player2): TM12 (Player2)
+Route 205 - Overworld (Repel) (Player2): TM25 (Player2)
+Route 205 - Overworld (Super Potion) (Player2): Recipe: Protein Inhaler (Player3)
+Route 205 - Overworld (X Sp. Def) (Player2): Potion (Player2)
+Route 205 - Overworld (Heal Ball) (Player2): Beacon Badge (Player2)
+Valley Windworks - Overworld (Potion) (Player2): Recipe: Copper Powder (Player3)
+Valley Windworks - Overworld (TM24) (Player2): Recipe: Pure Quartz Crystal (Player3)
+Valley Windworks - Overworld (Electirizer) (Player2): progressive-fluid-handling (Player1)
+Eterna Forest - Overworld (Potion) (Player2): Recipe: Object Scanner (Player3)
+Eterna Forest - Overworld (Parlyz Heal) (Player2): Bundle: Pulse Nobelisk (Player3)
+Eterna Forest - Overworld (Antidote) (Player2): Recipe: Coated Iron Canister (Player3)
+Eterna Forest - Soothe Bell (From Cheryl) (Player2): Recipe: Solid Steel Ingot (Player3)
+Eterna Forest - Overworld (Ether) (Player2): Green Shard (Player2)
+Eterna Forest - Overworld (Green Shard) (Player2): Recipe: Iron Pipe (Player3)
+Eterna Forest - Overworld (Net Ball) (Player2): Max Elixir (Player2)
+Fuego Ironworks - Overworld (Green Shard) (Player2): Small Inflated Pocket Dimension (Player3)
+Fuego Ironworks - Star Piece (From Mr. Fuego) (Player2): Vs. Seeker (Player2)
+Fuego Ironworks - Overworld (TM35) (Player2): Iron (Player2)
+Fuego Ironworks - Overworld (Fire Stone) (Player2): TM80 (Player2)
+Fuego Ironworks - Overworld (Blue Shard) (Player2): Recipe: Automated Miner (Player3)
+Fuego Ironworks - Overworld (Rock Incense) (Player2): Building: Conveyor Lift Mk.2 (Player3)
+Fuego Ironworks - Overworld (Calcium) (Player2): Good Rod (Player2)
+Fuego Ironworks - Overworld (Red Shard) (Player2): Super Potion (Player2)
+Fuego Ironworks - Overworld (Yellow Shard) (Player2): Ether (Player2)
+Old Chateau - Overworld (Old Gateau) (Player2): Recipe: Stun Rebar (Player3)
+Route 205 - Overworld (Guard Spec.) (Player2): Building: Pipeline Pump Mk.2 (Player3)
+Eterna City - Overworld (Super Potion) (Player2): TM88 (Player2)
+Eterna City - Overworld (TM46) (Player2): Ice Heal (Player2)
+Eterna City - HM01 (From Cynthia) (Player2): progressive-laser-weapons-damage (Player1)
+Eterna City Underground Man House - Explorer Kit (Player2): Recipe: Petroleum Diamonds (Player3)
+Eterna City Gym - TM86 (From Gardenia) (Player2): Recipe: Leached Copper Ingot (Player3)
+Oreburgh City Gym - Badge (From Gardenia) (Player2): Pokétch (Player2)
+Eterna City Pokémon Center - Friendship Checker App (Player2): TM51 (Player2)
+Old Chateau - Overworld (TM90) (Player2): Recipe: Steeled Frame (Player3)
+Old Chateau - Overworld (Dread Plate) (Player2): Dusk Ball (Player2)
+Stark Mountain - Overworld (Calcium) (Player2): Hyper Potion (Player2)
+Stark Mountain - Overworld (Nugget) (Player2): Bundle of Three: Power Shards (Player3)
+Stark Mountain - Overworld (Iron Ball) (Player2): Super Potion (Player2)
+Stark Mountain - Overworld (Max Revive) (Player2): Recipe: Plastic AI Limiter (Player3)
+Stark Mountain - Overworld (Ultra Ball) (Player2): Single: Gas Mask (Player3)
+Stark Mountain - Overworld (Rare Candy) (Player2): progressive-vehicle (Player1)
+Stark Mountain - Overworld (Max Elixir) 1 (Player2): PP Up (Player2)
+Stark Mountain - Overworld (TM50) (Player2): progressive-energy-shield (Player1)
+Canalave City - TM48 (Player2): Recipe: Molded Beam (Player3)
+Floaroma Town - TM88 (Middle House) (Player2): concrete (Player1)
+Valor Lakefront - Overworld (Ultra Ball) (Player2): Bundle: Empty Canister (Player3)
+Valor Lakefront - Overworld (TM85) (Player2): Recipe: Pure Copper Ingot (Player3)
+Valor Lakefront - SecretPotion (From Cynthia) (Player2): Max Elixir (Player2)
+Valor Lakefront - Overworld (Iron) (Player2): Recipe: Steel Screw (Player3)
+Valor Lakefront - White Flute (After Returning Suite Key) (Player2): TM71 (Player2)
+Solaceon Ruins - Green Shard (From NPC) (Player2): Bundle of Three: Power Shards (Player3)
+Route 214 - Overworld (Max Repel) (Player2): Full Restore (Player2)
+Route 214 - Overworld (Big Root) (Player2): Amulet Coin (Player2)
+Route 214 - Overworld (Magmarizer) (Player2): Calcium (Player2)
+Route 214 - Overworld (Rare Candy) (Player2): Recipe: Coke Steel Ingot (Player3)
+Route 214 - Overworld (Red Shard) (Player2): progressive-laser-shooting-speed (Player1)
+Maniac Tunnel - Overworld (TM28) (Player2): Zinc (Player2)
+Veilstone City - TM63 (From Roughneck) (Player2): Timer Ball (Player2)
+Veilstone City - Overworld (Full Incense) (Player2): Rare Candy (Player2)
+Veilstone City - Overworld (Star Piece) (Player2): Small Inflated Pocket Dimension (Player3)
+Veilstone City - Overworld (Rare Candy) (Player2): Odd Incense (Player2)
+Eterna City Condominiums - TM67 (Player2): X Accuracy (Player2)
+Veilstone City - Coin Case (Player2): Recipe: Versatile Framework (Player3)
+Veilstone City Gym - Badge (From Maylene) (Player2): progressive-inserter (Player1)
+Veilstone City Gym - TM60 (From Maylene) (Player2): Ultra Ball (Player2)
+Jubilife City Gate to Route 218 - Old Rod (From Fisherman) (Player2): Recipe: Alclad Aluminum Sheet (Player3)
+Solaceon Town - Seal Case (Player2): Charcoal (Player2)
+Old Chateau - Overworld (Rare Candy) (Player2): Expanded Toolbelt (Player3)
+Old Chateau - Overworld (Big Pearl) (Player2): Earth Plate (Player2)
+Floaroma Meadow - Honey x10 (Player2): Ultra Ball (Player2)
+Floaroma Meadow - Works Key (Player2): Lustrous Orb (Player2)
+Floaroma Meadow - Overworld (Ultra Ball) (Player2): Luck Incense (Player2)
+Floaroma Meadow - Overworld (Leaf Stone) (Player2): construction-robotics (Player1)
+Floaroma Meadow - Overworld (Rare Candy) (Player2): Revive (Player2)
+Floaroma Meadow - Overworld (Miracle Seed) (Player2): progressive-follower-robot-count (Player1)
+Jubilife City Condominiums - Quick Claw (Player2): Ultra Ball (Player2)
+Amity Square - Overworld (Spooky Plate) (Player2): TM67 (Player2)
+Amity Square - Overworld (TM45) (Player2): Recipe: Packaged Water (Player3)
+Amity Square - Overworld (TM43) (Player2): Ultra Ball (Player2)
+Amity Square - Random Berry or Accessory (Player2): DOT ARTIST (Player2)
+Amity Square - Overworld (Amulet Coin) (Player2): Bundle: SAM (Player3)
+Galactic HQ - Overworld (TM36) (Player2): TM18 (Player2)
+Veilstone City - Overworld (Dusk Stone) (Player2): Escape Rope (Player2)
+Galactic HQ - Overworld (TM49) (Player2): Recipe: Hatcher Protein (Player3)
+Galactic HQ - Overworld (TM21) (Player2): Odd Keystone (Player2)
+Galactic HQ - Overworld (Dubious Disc) (Player2): progressive-productivity-module (Player1)
+Galactic HQ - Overworld (Galactic Key) (Player2): Building: Smart Splitter (Player3)
+Galactic HQ - Overworld (Zinc) (Player2): Blue Shard (Player2)
+Galactic HQ - Overworld (Protein) (Player2): Iron Ball (Player2)
+Galactic HQ - Overworld (Max Revive) (Player2): Bundle: Rubber (Player3)
+Veilstone Galactic HQ - Master Ball (From Cyrus) (Player2): Building: Radar Tower (Player3)
+Galactic HQ - Overworld (Full Restore) (Player2): Recipe: Iron Wire (Player3)
+Galactic HQ - Overworld (Green Shard) (Player2): Awakening (Player2)
+Galactic HQ - Overworld (Max Elixir) (Player2): TM60 (Player2)
+Eterna City - Exp. Share (From Rowan's Assistant) (Player2): Zinc (Player2)
+Pokémon Mansion - Soothe Bell (From Maid) (Player2): Fresh Water (Player2)
+Pokémon Mansion - Overworld (Luxury Ball) (Player2): Recipe: Computer (Player3)
+Veilstone Department Store - Counter App (Player2): Building: Conveyor Mk.4 (Player3)
+Veilstone Department Store - Sticky Barb (Player2): Recipe: Supercomputer (Player3)
+Route 206 - Overworld (PP Up) (Player2): Recipe: Silicon High-Speed Connector (Player3)
+Route 206 - Overworld (Super Repel) (Player2): Recipe: Electrode Circuit Board (Player3)
+Route 206 - Overworld (Poison Barb) (Player2): TM02 (Player2)
+Route 206 - Overworld (Burn Heal) (Player2): Dread Plate (Player2)
+Floaroma Town Flower Shop - Random Berry (Player2): TM85 (Player2)
+Floaroma Town Flower Shop - Sprayduck (Player2): Building: Manufacturer (Player3)
+Route 207 - Overworld (Poké Ball) (Player2): Honey x10 (Player2)
+Route 207 - Overworld (Timer Ball) (Player2): night-vision-equipment (Player1)
+Route 207 - Overworld (Iron) (Player2): Grip Claw (Player2)
+Route 207 - Overworld (Revive) (Player2): Green Shard (Player2)
+Route 207 - Vs. Seeker (From Counterpart) (Player2): TM56 (Player2)
+Route 207 - Dowsing Machine (From Counterpart) (Player2): progressive-processing (Player1)
+Route 207 - Overworld (Super Potion) (Player2): uranium-ammo (Player1)
+Mt. Coronet - Overworld (Max Repel) (Player2): X Speed (Player2)
+Mt. Coronet - Overworld (Escape Rope) (Player2): HP Up (Player2)
+Mt. Coronet 2F - Black Flute (From Looker) (Player2): Seal Case (Player2)
+Mt. Coronet - Overworld (TM80) (Player2): TM37 (Player2)
+Mt. Coronet - Overworld (Max Revive) (Player2): Poké Ball (Player2)
+Mt. Coronet - Overworld (Adamant Orb) (Player2): lamp (Player1)
+Mt. Coronet - Overworld (Lustrous Orb) (Player2): progressive-laser-shooting-speed (Player1)
+Eterna Forest - Overworld (TM82) (Player2): Destiny Knot (Player2)
+Eterna Forest - Overworld (SilverPowder) (Player2): TM90 (Player2)
+Pokémon Mansion - Overworld (TM87) (Player2): low-density-structure (Player1)
+Mt. Coronet - Overworld (Ice Heal) (Player2): Recipe: Rebar Gun (Player3)
+Mt. Coronet - Overworld (TM69) (Player2): Recipe: Ficsite Ingot (Caterium) (Player3)
+Mt. Coronet - Overworld (Escape Rope) 1 (Player2): HP Up (Player2)
+Mt. Coronet - Overworld (Rare Candy) (Player2): progressive-turret (Player1)
+Mt. Coronet - Overworld (TM02) (Player2): Blue Shard (Player2)
+Mt. Coronet - Overworld (Max Elixir) (Player2): Recipe: Black Powder (Player3)
+Mt. Coronet - Overworld (Ultra Ball) (Player2): Recipe: Fused Quartz Crystal (Player3)
+Mt. Coronet - Overworld (Soft Sand) (Player2): TM24 (Player2)
+Mt. Coronet - Overworld (Revive) (Player2): Recipe: Stinger Protein (Player3)
+Mt. Coronet - Overworld (Light Clay) (Player2): progressive-stronger-explosives (Player1)
+Mt. Coronet - Overworld (Full Restore) (Player2): Iron (Player2)
+Route 216 - Overworld (Max Potion) (Player2): progressive-stronger-explosives (Player1)
+Route 216 - Overworld (HP Up) (Player2): Recipe: Plastic (Player3)
+Route 216 - Overworld (TM13) (Player2): Red Shard (Player2)
+Route 216 - Overworld (Mental Herb) (Player2): Ether (Player2)
+Route 216 - Overworld (Full Heal) (Player2): Antidote (Player2)
+Route 216 - Overworld (Revive) (Player2): MARKING MAP (Player2)
+Route 211 - Overworld (Carbos) (Player2): Elixir (Player2)
+Route 211 East - TM77 (Player2): Max Repel (Player2)
+Route 211 - Overworld (TM29) (Player2): progressive-fluid-handling (Player1)
+Mt. Coronet - Overworld (NeverMeltIce) (Player2): Recipe: Adhered Iron Plate (Player3)
+Route 217 - Overworld (TM07) (Player2): progressive-processing (Player1)
+Route 217 - Overworld (HM08) (Player2): Magost Berry (Player2)
+Route 217 - Overworld (Ultra Ball) (Player2): Recipe: Quickwire Stator (Player3)
+Route 217 - Overworld (Rare Candy) (Player2): Recipe: Coated Cable (Player3)
+Route 217 - Overworld (Blue Shard) (Player2): Green Shard (Player2)
+Route 217 - Overworld (Iron) (Player2): Recipe: Empty Fluid Tank (Player3)
+Route 217 - Icicle Plate (From Hiker After Sharing HM08) (Player2): Recipe: Steel Canister (Player3)
+Route 217 - Spell Tag (Player2): Super Potion (Player2)
+Acuity Lakefront - Overworld (Reaper Cloth) (Player2): Recipe: Caterium Computer (Player3)
+Acuity Lakefront - Overworld (Ultra Ball) (Player2): Protector (Player2)
+Lake Acuity - Overworld (TM14) (Player2): Building: Conveyor Mk.3 (Player3)
+Snowpoint City - Overworld (Ultra Ball) (Player2): Recipe: Steel Ingot (Player3)
+Snowpoint Temple - Overworld (Calcium) (Player2): progressive-follower (Player1)
+Snowpoint City Gym - TM72 (From Candice) (Player2): Escape Rope (Player2)
+Snowpoint City Gym - Badge (From Candice) (Player2): Building: Pipeline Junction Cross (Player3)
+Snowpoint Temple - Overworld (Full Heal) (Player2): Recipe: Dark Matter Trap (Player3)
+Route 215 - Overworld (Max Ether) (Player2): Shiny Stone (Player2)
+Route 215 - Overworld (Hyper Potion) (Player2): Galactic Key (Player2)
+Route 215 - Overworld (Full Heal) (Player2): Fen Badge (Player2)
+Route 215 - Overworld (Fist Plate) (Player2): Recipe: Non-fissile Uranium (Player3)
+Route 215 - Overworld (HP Up) (Player2): Recipe: Battery (Player3)
+Route 215 - TM66 (From Black Belt) (Player2): progressive-laser-weapons-damage (Player1)
+Route 215 - Overworld (TM34) (Player2): Rare Candy (Player2)
+T.G. Eterna Bldg - Overworld (X Speed) (Player2): Dimensional Depot upload from inventory (Player3)
+T.G. Eterna Bldg - Overworld (X Special) (Player2): Single: Chainsaw (Player3)
+T.G. Eterna Bldg - Overworld (Revive) (Player2): Lunar Wing (Player2)
+T.G. Eterna Bldg - Overworld (Up-Grade) (Player2): Recipe: Uranium Fuel Rod (Player3)
+T.G. Eterna Bldg - Overworld (Blue Shard) (Player2): Full Restore (Player2)
+Wayward Cave - Overworld (TM32) (Player2): TM57 (Player2)
+Wayward Cave - Overworld (Escape Rope) (Player2): progressive-worker-robots-speed (Player1)
+Wayward Cave - Overworld (Revive) (Player2): HP Up (Player2)
+Wayward Cave - Overworld (Max Ether) (Player2): progressive-train-network (Player1)
+Wayward Cave - Overworld (Grip Claw) (Player2): Red Shard (Player2)
+Wayward Cave - Overworld (TM26) (Player2): Recipe: Rifle Ammo (Player3)
+Wayward Cave - Overworld (Rare Candy) (Player2): Recipe: Iron Rebar (Player3)
+Lake Valor - Overworld (TM25) 1 (Player2): Recipe: Steel Cast Plate (Player3)
+Route 211 - Overworld (TM12) (Player2): progressive-mining-productivity (Player1)
+Hearthome City Gym - Badge (From Fantina) (Player2): Building: Priority Power Switch (Player3)
+Hearthome City Gym - TM65 (From Fantina) (Player2): TM62 (Player2)
+Oreburgh City - Overworld (Yellow Shard) (Player2): Recipe: Cheap Silica (Player3)
+Oreburgh City - Overworld (Dire Hit) (Player2): Building: Alien Power Augmenter (Player3)
+Oreburgh City - Super Potion (Gift from Worker by Mines) (Player2): progressive-mining-productivity (Player1)
+Oreburgh City Gym - Badge (From Roark) (Player2): Recipe: Reanimated SAM (Player3)
+Oreburgh City Gym - TM76 (From Roark) (Player2): Soft Sand (Player2)
+Oreburgh City - Heal Ball (Gift in North House) (Player2): Recipe: Classic Battery (Player3)
+Oreburgh City - Great Ball (Gift in East House) (Player2): progressive-processing (Player1)
+Oreburgh City - Dusk Ball (Gift in Northwest House) (Player2): Coal Badge (Player2)
+Oreburgh Mine - Overworld (Poké Ball) (Player2): Building: Walls Orange (Player3)
+Oreburgh Mine - Overworld (Escape Rope) (Player2): Green Shard (Player2)
+Oreburgh Mine - Overworld (Potion) (Player2): progressive-research-speed (Player1)
+Oreburgh Gate - HM06 (From Hiker) (Player2): progressive-processing (Player1)
+Oreburgh Gate - Overworld (TM31) (Player2): Recipe: Pure Caterium Ingot (Player3)
+Oreburgh Gate - Overworld (Big Pearl) (Player2): progressive-flamethrower (Player1)
+Oreburgh Gate - Overworld (TM01) (Player2): Recipe: Leached Iron ingot (Player3)
+Oreburgh Gate - Overworld (TM70) (Player2): Yellow Shard (Player2)
+Oreburgh Gate - Overworld (Earth Plate) (Player2): Trap: Alpha Hog (Player3)
+Veilstone City - Overworld (HM02) (Player2): Recipe: Automated Speed Wiring (Player3)
+Hearthome City - Poffin Case (In Pokémon Fan Club) (Player2): lubricant (Player1)
+Sunyshore City Gym - Badge (From Volkner) (Player2): Recipe: Oil-Based Diamonds (Player3)
+Sunyshore City Gym - TM57 (From Volkner) (Player2): Rare Candy (Player2)
+Route 203 - Overworld (X Defend) (Player2): oil-gathering (Player1)
+Route 203 - Overworld (Poké Ball) (Player2): Metal Coat (Player2)
+Route 203 - Overworld (Repel) (Player2): Building: Oil Extractor (Player3)
+Mt. Coronet - Overworld (Dawn Stone) (Player2): Recipe: Packaged Sulfuric Acid (Player3)
+Mt. Coronet - Overworld (Protein) (Player2): Single: Parachute (Player3)
+Canalave City Gym - TM91 (From Byron) (Player2): Recipe: Caterium Wire (Player3)
+Canalave City Gym - Badge (From Byron) (Player2): Yellow Shard (Player2)
+Eterna City - Up-Grade (From Oak) (Player2): White Flute (Player2)
+Solaceon Ruins - Overworld (HM05) (Player2): uranium-mining (Player1)
+Solaceon Ruins - Overworld (Odd Incense) (Player2): Recipe: Caterium Circuit Board (Player3)
+Solaceon Ruins - Overworld (Mind Plate) (Player2): Recipe: Crystal Computer (Player3)
+Solaceon Ruins - Overworld (Nugget) (Player2): progressive-armor (Player1)
+Pokémon Center Basement - Pal Pad (Player2): Water Stone (Player2)
+AWESOME Shop purchase 1 (Player3): progressive-flamethrower (Player1)
+AWESOME Shop purchase 2 (Player3): Parlyz Heal (Player2)
+AWESOME Shop purchase 3 (Player3): progressive-electric-energy-distribution (Player1)
+AWESOME Shop purchase 4 (Player3): TM55 (Player2)
+AWESOME Shop purchase 5 (Player3): solar-panel-equipment (Player1)
+AWESOME Shop purchase 6 (Player3): Recipe: Petroleum Coke (Player3)
+AWESOME Shop purchase 7 (Player3): electric-energy-accumulators (Player1)
+AWESOME Shop purchase 8 (Player3): Building: Wall Outlet Mk.2 (Player3)
+AWESOME Shop purchase 9 (Player3): Bundle: Cluster Nobelisk (Player3)
+AWESOME Shop purchase 10 (Player3): progressive-worker-robots-speed (Player1)
+Hard drive random check 1 (Player3): Calcium (Player2)
+Hard drive random check 2 (Player3): TM03 (Player2)
+Hard drive random check 3 (Player3): Recipe: Compacted Coal (Player3)
+Hard drive random check 4 (Player3): Rare Candy (Player2)
+Hard drive random check 5 (Player3): discharge-defense-equipment (Player1)
+Hard drive random check 6 (Player3): Recipe: Tempered Caterium Ingot (Player3)
+Hard drive random check 7 (Player3): Repel (Player2)
+Hard drive random check 8 (Player3): progressive-wall (Player1)
+Hard drive random check 9 (Player3): Rare Candy (Player2)
+Hard drive random check 10 (Player3): Wave Incense (Player2)
+Hard drive random check 11 (Player3): progressive-flamethrower (Player1)
+Hard drive random check 12 (Player3): Potion (Player2)
+Hard drive random check 13 (Player3): progressive-logistics (Player1)
+Hard drive random check 14 (Player3): Burn Heal (Player2)
+Hard drive random check 15 (Player3): PP Up (Player2)
+Hard drive random check 16 (Player3): TM72 (Player2)
+Hard drive random check 17 (Player3): Dawn Stone (Player2)
+Hard drive random check 18 (Player3): Recipe: Stator (Player3)
+Hard drive random check 19 (Player3): Recipe: Aluminum Rod (Player3)
+Hard drive random check 20 (Player3): Rare Candy (Player2)
+Hard drive random check 21 (Player3): Recipe: Turbo Electric Motor (Player3)
+Hard drive random check 22 (Player3): Recipe: Nuke Nobelisk (Player3)
+Hard drive random check 23 (Player3): Soothe Bell (Player2)
+Hard drive random check 24 (Player3): Recipe: Nuclear Pasta (Player3)
+Hub 1-1, item 1 (Player3): progressive-worker-robots-storage (Player1)
+Hub 1-1, item 2 (Player3): progressive-logistics (Player1)
+Hub 1-1, item 3 (Player3): progressive-science-pack (Player1)
+Hub 1-1, item 4 (Player3): HM02 Fly (Player2)
+Hub 1-1, item 5 (Player3): Full Restore (Player2)
+Hub 1-1, item 6 (Player3): Building: AWESOME Sink (Player3)
+Hub 1-1, item 7 (Player3): Building: Wall Outlet Mk.3 (Player3)
+Hub 1-1, item 8 (Player3): Blue Shard (Player2)
+Hub 1-1, item 9 (Player3): Building: Geothermal Generator (Player3)
+Hub 1-1, item 10 (Player3): Lax Incense (Player2)
+Hub 1-2, item 1 (Player3): Guard Spec. (Player2)
+Hub 1-2, item 2 (Player3): Recipe: Nobelisk (Player3)
+Hub 1-2, item 3 (Player3): Star Piece (Player2)
+Hub 1-2, item 4 (Player3): Relic Badge (Player2)
+Hub 1-2, item 5 (Player3): Recipe: Electrode Aluminum Scrap (Player3)
+Hub 1-2, item 6 (Player3): progressive-train-network (Player1)
+Hub 1-2, item 7 (Player3): progressive-advanced-material-processing (Player1)
+Hub 1-2, item 8 (Player3): progressive-efficiency-module (Player1)
+Hub 1-2, item 9 (Player3): Recipe: Neural-Quantum Processor (Player3)
+Hub 1-2, item 10 (Player3): TM27 (Player2)
+Hub 1-3, item 1 (Player3): Max Potion (Player2)
+Hub 1-3, item 2 (Player3): Building: MAM (Player3)
+Hub 1-3, item 3 (Player3): Mine Badge (Player2)
+Hub 1-3, item 4 (Player3): CALCULATOR (Player2)
+Hub 1-3, item 5 (Player3): Parcel (Player2)
+Hub 1-3, item 6 (Player3): Works Key (Player2)
+Hub 1-3, item 7 (Player3): Recipe: Steel Rod (Player3)
+Hub 1-3, item 8 (Player3): Recipe: Radio Control Unit (Player3)
+Hub 1-3, item 9 (Player3): Icicle Badge (Player2)
+Hub 1-3, item 10 (Player3): SilverPowder (Player2)
+Hub 1-4, item 1 (Player3): progressive-weapon-shooting-speed (Player1)
+Hub 1-4, item 2 (Player3): HM01 Cut (Player2)
+Hub 1-4, item 3 (Player3): Super Rod (Player2)
+Hub 1-4, item 4 (Player3): progressive-military (Player1)
+Hub 1-4, item 5 (Player3): belt-immunity-equipment (Player1)
+Hub 1-4, item 6 (Player3): HM06 Rock Smash (Player2)
+Hub 1-4, item 7 (Player3): Explorer Kit (Player2)
+Hub 1-4, item 8 (Player3): progressive-train-network (Player1)
+Hub 1-4, item 9 (Player3): advanced-circuit (Player1)
+Hub 1-4, item 10 (Player3): TM01 (Player2)
+Hard drive random check 25 (Player3): rocket-fuel (Player1)
+Hard drive random check 26 (Player3): Building: Converter (Player3)
+Hard drive random check 27 (Player3): Recipe: Power Shard (2) (Player3)
+Hard drive random check 28 (Player3): Full Restore (Player2)
+Hard drive random check 29 (Player3): TM81 (Player2)
+Hard drive random check 30 (Player3): Recipe: Factory Cart (Player3)
+Hard drive random check 31 (Player3): Zinc (Player2)
+Hard drive random check 32 (Player3): Single: Rifle (Player3)
+Hard drive random check 33 (Player3): Recipe: Jetpack (Player3)
+Hard drive random check 34 (Player3): progressive-research-speed (Player1)
+Hard drive random check 35 (Player3): Bundle: Nuke Nobelisk (Player3)
+Hard drive random check 36 (Player3): Nugget (Player2)
+Hard drive random check 37 (Player3): Building: Quantum Encoder (Player3)
+Hard drive random check 38 (Player3): Sticky Barb (Player2)
+Hard drive random check 39 (Player3): Recipe: Packaged Liquid Biofuel (Player3)
+Hard drive random check 40 (Player3): Recipe: Uranium Fuel Unit (Player3)
+Hard drive random check 41 (Player3): Recipe: Cooling Device (Player3)
+Hard drive random check 42 (Player3): Ether (Player2)
+Hard drive random check 43 (Player3): Calcium (Player2)
+Hard drive random check 44 (Player3): Single: Rebar Gun (Player3)
+Hard drive random check 45 (Player3): TM89 (Player2)
+Hard drive random check 46 (Player3): Single: Hoverpack (Player3)
+Hard drive random check 47 (Player3): Bundle: Gas Nobelisk (Player3)
+Hard drive random check 48 (Player3): progressive-vehicle (Player1)
+Hub 2-1, item 1 (Player3): solar-energy (Player1)
+Hub 2-1, item 2 (Player3): Red Shard (Player2)
+Hub 2-1, item 3 (Player3): LINK SEARCHER (Player2)
+Hub 2-1, item 4 (Player3): Carbos (Player2)
+Hub 2-1, item 5 (Player3): explosives (Player1)
+Hub 2-1, item 6 (Player3): NeverMeltIce (Player2)
+Hub 2-1, item 7 (Player3): Bundle: Iron Rebar (Player3)
+Hub 2-1, item 8 (Player3): Recipe: Encased Industrial Pipe (Player3)
+Hub 2-1, item 9 (Player3): ANALOG WATCH (Player2)
+Hub 2-1, item 10 (Player3): Recipe: Compacted Steel Ingot (Player3)
+Hub 2-2, item 1 (Player3): TM66 (Player2)
+Hub 2-2, item 2 (Player3): Pure Incense (Player2)
+Hub 2-2, item 3 (Player3): Recipe: Chainsaw (Player3)
+Hub 2-2, item 4 (Player3): Rock Incense (Player2)
+Hub 2-2, item 5 (Player3): Single: Boom Box (Player3)
+Hub 2-2, item 6 (Player3): cliff-explosives (Player1)
+Hub 2-2, item 7 (Player3): TM46 (Player2)
+Hub 2-2, item 8 (Player3): TM32 (Player2)
+Hub 2-2, item 9 (Player3): Smoke Ball (Player2)
+Hub 2-2, item 10 (Player3): COUNTER (Player2)
+Hub 2-3, item 1 (Player3): Potion (Player2)
+Hub 2-3, item 2 (Player3): Protein (Player2)
+Hub 2-3, item 3 (Player3): progressive-flamethrower (Player1)
+Hub 2-3, item 4 (Player3): Recipe: AI Limiter (Player3)
+Hub 2-3, item 5 (Player3): progressive-stronger-explosives (Player1)
+Hub 2-3, item 6 (Player3): Iron (Player2)
+Hub 2-3, item 7 (Player3): Building: Dimensional Depot Uploader (Player3)
+Hub 2-3, item 8 (Player3): Poké Ball (Player2)
+Hub 2-3, item 9 (Player3): Cleanse Tag (Player2)
+Hub 2-3, item 10 (Player3): PP Up (Player2)
+Hub 2-4, item 1 (Player3): Single: Xeno-Zapper (Player3)
+Hub 2-4, item 2 (Player3): Rare Candy (Player2)
+Hub 2-4, item 3 (Player3): Recipe: Insulated Cable (Player3)
+Hub 2-4, item 4 (Player3): Carbos (Player2)
+Hub 2-4, item 5 (Player3): Thunderstone (Player2)
+Hub 2-4, item 6 (Player3): Building: Nuclear Power Plant (Player3)
+Hub 2-4, item 7 (Player3): Shiny Stone (Player2)
+Hub 2-4, item 8 (Player3): TM91 (Player2)
+Hub 2-4, item 9 (Player3): Recipe: Gas Nobelisk (Player3)
+Hub 2-4, item 10 (Player3): Recipe: Rubber Concrete (Player3)
+Hub 2-5, item 1 (Player3): Recipe: Xeno-Basher (Player3)
+Hub 2-5, item 2 (Player3): Hyper Potion (Player2)
+Hub 2-5, item 3 (Player3): Building: Refinery (Player3)
+Hub 2-5, item 4 (Player3): Iron (Player2)
+Hub 2-5, item 5 (Player3): TM14 (Player2)
+Hub 2-5, item 6 (Player3): Building: U-Jelly Landing Pad (Player3)
+Hub 2-5, item 7 (Player3): Quick Ball (Player2)
+Hub 2-5, item 8 (Player3): Transport: Factory Cart (Player3)
+Hub 2-5, item 9 (Player3): Recipe: Fuel (Player3)
+Hub 2-5, item 10 (Player3): Recipe: Biomass (Mycelia) (Player3)
+Hard drive random check 49 (Player3): Poison Barb (Player2)
+Hard drive random check 50 (Player3): Recipe: Packaged Nitric Acid (Player3)
+Hard drive random check 51 (Player3): Mystic Water (Player2)
+Hard drive random check 52 (Player3): Recipe: Nitro Rocket Fuel (Player3)
+Hard drive random check 53 (Player3): HP Up (Player2)
+Hard drive random check 54 (Player3): progressive-physical-projectile-damage (Player1)
+Hard drive random check 55 (Player3): Recipe: Turbo Diamonds (Player3)
+Hard drive random check 56 (Player3): Green Shard (Player2)
+Hard drive random check 57 (Player3): Hyper Potion (Player2)
+Hard drive random check 58 (Player3): Great Ball (Player2)
+Hard drive random check 59 (Player3): Building: Fuel Generator (Player3)
+Hard drive random check 60 (Player3): Recipe: Super-State Computer (Player3)
+Hard drive random check 61 (Player3): Building: Power Switch (Player3)
+Hard drive random check 62 (Player3): Great Ball (Player2)
+Hard drive random check 63 (Player3): Rare Candy (Player2)
+Hard drive random check 64 (Player3): TM47 (Player2)
+Hard drive random check 65 (Player3): Revive (Player2)
+Hard drive random check 66 (Player3): Revive (Player2)
+Hard drive random check 67 (Player3): Recipe: Nobelisk Detonator (Player3)
+Hard drive random check 68 (Player3): Ultra Ball (Player2)
+Hard drive random check 69 (Player3): Single: Hazmat Suit (Player3)
+Hard drive random check 70 (Player3): Building: Conveyor Lift Mk.4 (Player3)
+Hard drive random check 71 (Player3): Expanded Toolbelt (Player3)
+Hard drive random check 72 (Player3): Rare Candy (Player2)
+Hub 3-1, item 1 (Player3): progressive-train-network (Player1)
+Hub 3-1, item 2 (Player3): progressive-laser-weapons-damage (Player1)
+Hub 3-1, item 3 (Player3): Recipe: Superposition Oscillator (Player3)
+Hub 3-1, item 4 (Player3): TM19 (Player2)
+Hub 3-1, item 5 (Player3): Protector (Player2)
+Hub 3-1, item 6 (Player3): Single: Cup (Player3)
+Hub 3-1, item 7 (Player3): Revive (Player2)
+Hub 3-1, item 8 (Player3): Great Ball (Player2)
+Hub 3-1, item 9 (Player3): Big Root (Player2)
+Hub 3-1, item 10 (Player3): Rare Candy (Player2)
+Hub 3-2, item 1 (Player3): Light Clay (Player2)
+Hub 3-2, item 2 (Player3): Dubious Disc (Player2)
+Hub 3-2, item 3 (Player3): Reaper Cloth (Player2)
+Hub 3-2, item 4 (Player3): Recipe: Explosive Rebar (Player3)
+Hub 3-2, item 5 (Player3): progressive-flamethrower (Player1)
+Hub 3-2, item 6 (Player3): Small Inflated Pocket Dimension (Player3)
+Hub 3-2, item 7 (Player3): Recipe: Time Crystal (Player3)
+Hub 3-2, item 8 (Player3): Ultra Ball (Player2)
+Hub 3-2, item 9 (Player3): progressive-train-network (Player1)
+Hub 3-2, item 10 (Player3): Recipe: Diamonds (Player3)
+Hub 3-3, item 1 (Player3): Building: Stackable Conveyor Pole (Player3)
+Hub 3-3, item 2 (Player3): progressive-engine (Player1)
+Hub 3-3, item 3 (Player3): Oval Stone (Player2)
+Hub 3-3, item 4 (Player3): progressive-laser-shooting-speed (Player1)
+Hub 3-3, item 5 (Player3): progressive-inserter (Player1)
+Hub 3-3, item 6 (Player3): progressive-follower-robot-count (Player1)
+Hub 3-3, item 7 (Player3): Recipe: Turbo Rifle Ammo (Packaged) (Player3)
+Hub 3-3, item 8 (Player3): Bundle: Compacted Coal (Player3)
+Hub 3-3, item 9 (Player3): Small Inflated Pocket Dimension (Player3)
+Hub 3-3, item 10 (Player3): Recipe: Shatter Rebar (Player3)
+Hub 3-4, item 1 (Player3): Potion (Player2)
+Hub 3-4, item 2 (Player3): Nugget (Player2)
+Hub 3-4, item 3 (Player3): Single: Nobelisk Detonator (Player3)
+Hub 3-4, item 4 (Player3): TM59 (Player2)
+Hub 3-4, item 5 (Player3): Recipe: Coated Iron Plate (Player3)
+Hub 3-4, item 6 (Player3): Bundle: Gas Filter (Player3)
+Hub 3-4, item 7 (Player3): TM65 (Player2)
+Hub 3-4, item 8 (Player3): Recipe: Turbo Heavy Fuel (Player3)
+Hub 3-4, item 9 (Player3): Recipe: Encased Uranium Cell (Player3)
+Hub 3-4, item 10 (Player3): progressive-train-network (Player1)
+Hard drive random check 73 (Player3): Recipe: Cooling System (Player3)
+Hard drive random check 74 (Player3): Elixir (Player2)
+Hard drive random check 75 (Player3): Leftovers (Player2)
+Hard drive random check 76 (Player3): progressive-weapon-shooting-speed (Player1)
+Hard drive random check 77 (Player3): progressive-armor (Player1)
+Hard drive random check 78 (Player3): progressive-research-speed (Player1)
+Hard drive random check 79 (Player3): Building: Fluid Buffer (Player3)
+Hard drive random check 80 (Player3): Max Revive (Player2)
+Hard drive random check 81 (Player3): Recipe: Turbo Pressure Motor (Player3)
+Hard drive random check 82 (Player3): Big Pearl (Player2)
+Hard drive random check 83 (Player3): Bundle: Satisfactory Pioneering Statue (Player3)
+Hard drive random check 84 (Player3): Bundle: Iodine-Infused Filter (Player3)
+Hard drive random check 85 (Player3): Pal Pad (Player2)
+Hard drive random check 86 (Player3): Max Repel (Player2)
+Hard drive random check 87 (Player3): Full Heal (Player2)
+Hard drive random check 88 (Player3): Super Potion (Player2)
+Hard drive random check 89 (Player3): Rare Candy (Player2)
+Hard drive random check 90 (Player3): TM27 (Player2)
+Hard drive random check 91 (Player3): progressive-physical-projectile-damage (Player1)
+Hard drive random check 92 (Player3): Building: Miner Mk.3 (Player3)
+Hard drive random check 93 (Player3): steel-axe (Player1)
+Hard drive random check 95 (Player3): TM87 (Player2)
+Hard drive random check 96 (Player3): Recipe: Nutritional Inhaler (Player3)
+Hard drive random check 97 (Player3): Rare Candy (Player2)
+Hub 4-1, item 1 (Player3): Recipe: Wet Concrete (Player3)
+Hub 4-1, item 2 (Player3): Building: Coal Generator (Player3)
+Hub 4-1, item 3 (Player3): Escape Rope (Player2)
+Hub 4-1, item 4 (Player3): TM69 (Player2)
+Hub 4-1, item 5 (Player3): Single: Portable Miner (Player3)
+Hub 4-1, item 6 (Player3): Building: Conveyor Lift Mk.5 (Player3)
+Hub 4-1, item 7 (Player3): Recipe: Residual Plastic (Player3)
+Hub 4-1, item 8 (Player3): progressive-weapon-shooting-speed (Player1)
+Hub 4-1, item 9 (Player3): progressive-research-speed (Player1)
+Hub 4-1, item 10 (Player3): DAY-CARE CHECKER (Player2)
+Hub 4-2, item 1 (Player3): Small Inflated Pocket Dimension (Player3)
+Hub 4-2, item 2 (Player3): Up-Grade (Player2)
+Hub 4-2, item 3 (Player3): Building: Programmable Splitter (Player3)
+Hub 4-2, item 4 (Player3): progressive-processing (Player1)
+Hub 4-2, item 5 (Player3): Recipe: SAM Fluctuator (Player3)
+Hub 4-2, item 6 (Player3): Single: Jetpack (Player3)
+Hub 4-2, item 7 (Player3): Building: Conveyor Lift Mk.1 (Player3)
+Hub 4-2, item 8 (Player3): progressive-follower (Player1)
+Hub 4-2, item 9 (Player3): Revive (Player2)
+Hub 4-2, item 10 (Player3): progressive-armor (Player1)
+Hub 4-3, item 1 (Player3): Single: Factory Cart (Player3)
+Hub 4-3, item 2 (Player3): Recipe: Fused Wire (Player3)
+Hub 4-3, item 3 (Player3): Recipe: Electric Motor (Player3)
+Hub 4-3, item 4 (Player3): progressive-turret (Player1)
+Hub 4-3, item 5 (Player3): Single: Xeno-Basher (Player3)
+Hub 4-3, item 6 (Player3): Max Potion (Player2)
+Hub 4-3, item 7 (Player3): Recipe: Stitched Iron Plate (Player3)
+Hub 4-3, item 8 (Player3): progressive-military (Player1)
+Hub 4-3, item 9 (Player3): progressive-weapon-shooting-speed (Player1)
+Hub 4-3, item 10 (Player3): battery (Player1)
+Hub 4-4, item 1 (Player3): Building: Conveyor Lift Mk.6 (Player3)
+Hub 4-4, item 2 (Player3): Recipe: Dark Matter Residue (Player3)
+Hub 4-4, item 3 (Player3): Building: Blender (Player3)
+Hub 4-4, item 4 (Player3): Recipe: Fused Modular Frame (Player3)
+Hub 4-4, item 5 (Player3): Parlyz Heal (Player2)
+Hub 4-4, item 6 (Player3): Recipe: Charcoal (Player3)
+Hub 4-4, item 7 (Player3): progressive-science-pack (Player1)
+Hub 4-4, item 8 (Player3): Leaf Stone (Player2)
+Hub 4-4, item 9 (Player3): Recipe: Heavy Encased Frame (Player3)
+Hub 4-4, item 10 (Player3): Small Inflated Pocket Dimension (Player3)
+Hub 4-5, item 1 (Player3): Building: Pipeline Pump Mk.1 (Player3)
+Hub 4-5, item 2 (Player3): Recipe: Heavy Flexible Frame (Player3)
+Hub 4-5, item 3 (Player3): Recipe: Empty Canister (Player3)
+Hub 4-5, item 4 (Player3): progressive-inserter (Player1)
+Hub 4-5, item 5 (Player3): Recipe: Heavy Modular Frame (Player3)
+Hub 4-5, item 6 (Player3): progressive-worker-robots-speed (Player1)
+Hub 4-5, item 7 (Player3): progressive-automation (Player1)
+Hub 4-5, item 8 (Player3): Recipe: OC Supercomputer (Player3)
+Hub 4-5, item 9 (Player3): Blue Shard (Player2)
+Hub 4-5, item 10 (Player3): Recipe: Heat Sink (Player3)
+Alien Organisms: Inflated Pocket Dimension (Player3): progressive-worker-robots-speed (Player1)
+Alien Organisms: Hostile Organism Detection (Player3): Recipe: Blade Runners (Player3)
+Alien Organisms: Expanded Toolbelt (Player3): Spell Tag (Player2)
+Alien Organisms: Bio-Organic Properties (Player3): TM30 (Player2)
+Alien Organisms: Stinger Research (Player3): Iron (Player2)
+Alien Organisms: Hatcher Research (Player3): PEDOMETER (Player2)
+Alien Organisms: Hog Research (Player3): Recipe: Smart Plating (Player3)
+Alien Organisms: Spitter Research (Player3): Recipe: Vitamin Inhaler (Player3)
+Alien Organisms: Structural Analysis (Player3): Recipe: Packaged Turbofuel (Player3)
+Alien Organisms: Protein Inhaler (Player3): Recipe: Solid Biofuel (Player3)
+Alien Organisms: The Rebar Gun (Player3): artillery (Player1)
+Alien Technology: SAM Analysis (Player3): Recipe: Bolted Frame (Player3)
+Alien Technology: SAM Reanimation (Player3): Bundle: Gas Filter (Player3)
+Alien Technology: SAM Fluctuator (Player3): Dusk Stone (Player2)
+Alien Technology: Mercer Sphere Analysis (Player3): Building: Conveyor Mk.6 (Player3)
+Alien Technology: Dimensional Depot (Player3): progressive-processing (Player1)
+Alien Technology: Manual Depot Uploader (Player3): Recipe: Packaged Nitrogen Gas (Player3)
+Alien Technology: Depot Expansion (200%) (Player3): Fist Plate (Player2)
+Alien Technology: Depot Expansion (300%) (Player3): TM29 (Player2)
+Alien Technology: Depot Expansion (400%) (Player3): Recipe: Aluminum Casing (Player3)
+Alien Technology: Depot Expansion (500%) (Player3): Recipe: Quartz Crystal (Player3)
+Alien Technology: Upload Upgrade: 30/min (Player3): Recipe: Bolted Iron Plate (Player3)
+Alien Technology: Upload Upgrade: 60/min (Player3): Yellow Shard (Player2)
+Alien Technology: Upload Upgrade: 120/min (Player3): Recipe: Sloppy Alumina (Player3)
+Alien Technology: Upload Upgrade: 240/min (Player3): Recipe: Modular Frame (Player3)
+Alien Technology: Somersloop Analysis (Player3): progressive-laser-weapons-damage (Player1)
+Alien Technology: Alien Energy Harvesting (Player3): TM78 (Player2)
+Alien Technology: Production Amplifier (Player3): Recipe: Aluminum Ingot (Player3)
+Alien Technology: Power Augmenter (Player3): Full Restore (Player2)
+Caterium: Caterium Electronics (Player3): Building: Conveyor Mk.5 (Player3)
+Caterium: Bullet Guidance System (Player3): Max Repel (Player2)
+Caterium: High-Speed Connector (Player3): Recipe: Polymer Resin (Player3)
+Caterium: Caterium (Player3): Building: Foundation (Player3)
+Caterium: Caterium Ingots (Player3): X Sp. Def (Player2)
+Caterium: Quickwire (Player3): Recipe: Iodine-Infused Filter (Player3)
+Caterium: Power Switch (Player3): progressive-science-pack (Player1)
+Caterium: Priority Power Switch (Player3): Dusk Ball (Player2)
+Caterium: Power Poles Mk.2 (Player3): TM26 (Player2)
+Caterium: AI Limiter (Player3): progressive-automation (Player1)
+Caterium: Smart Splitter (Player3): Recipe: Quickwire Cable (Player3)
+Caterium: Programmable Splitter (Player3): Max Elixir (Player2)
+Caterium: Zipline (Player3): Poké Ball (Player2)
+Caterium: Geothermal Generator (Player3): Recipe: Concrete (Player3)
+Caterium: Stun Rebar (Player3): Recipe: Rigor Motor (Player3)
+Caterium: Power Poles Mk.3 (Player3): Inflated Pocket Dimension (Player3)
+Mycelia: Therapeutic Inhaler (Player3): Recipe: Steel Pipe (Player3)
+Mycelia: Expanded Toolbelt (Player3): Heal Ball (Player2)
+Mycelia: Mycelia (Player3): progressive-inserter (Player1)
+Mycelia: Fabric (Player3): POKéMON HISTORY (Player2)
+Mycelia: Medical Properties (Player3): Max Elixir (Player2)
+Mycelia: Toxic Cellular Modification (Player3): Recipe: Fused Quickwire (Player3)
+Mycelia: Vitamin Inhaler (Player3): progressive-vehicle (Player1)
+Mycelia: Parachute (Player3): Recipe: Packaged Heavy Oil Residue (Player3)
+Mycelia: Synthethic Polyester Fabric (Player3): progressive-research-speed (Player1)
+Mycelia: Gas Mask (Player3): Bundle: Nobelisk (Player3)
+Nutrients: Bacon Agaric (Player3): personal-laser-defense-equipment (Player1)
+Nutrients: Beryl Nut (Player3): MOVE TESTER (Player2)
+Nutrients: Paleberry (Player3): Building: Water Extractor (Player3)
+Nutrients: Nutritional Processor (Player3): Dubious Disc (Player2)
+Nutrients: Nutritional Inhaler (Player3): Recipe: Caterium Ingot (Player3)
+Power Slugs: Slug Scanning (Player3): Metal Coat (Player2)
+Power Slugs: Blue Power Slugs (Player3): TM40 (Player2)
+Power Slugs: Yellow Power Shards (Player3): Bundle: Stun Rebar (Player3)
+Power Slugs: Purple Power Shards (Player3): Recipe: Polyester Fabric (Player3)
+Power Slugs: Overclock Production (Player3): TM41 (Player2)
+Quartz: Crystal Oscillator (Player3): Building: Conveyor Mk.2 (Player3)
+Quartz: Quartz Crystals (Player3): progressive-speed-module (Player1)
+Quartz: Quartz (Player3): Recipe: Fine Black Powder (Player3)
+Quartz: Shatter Rebar (Player3): Potion (Player2)
+Quartz: Silica (Player3): TM35 (Player2)
+Quartz: Explosive Resonance Application (Player3): Recipe: Steamed Copper Sheet (Player3)
+Quartz: Blade Runners (Player3): effect-transmission (Player1)
+Quartz: The Explorer (Player3): Recipe: Packaged Alumina Solution (Player3)
+Quartz: Material Resonance Screening (Player3): TM21 (Player2)
+Quartz: Radio Signal Scanning (Player3): progressive-engine (Player1)
+Quartz: Inflated Pocket Dimension (Player3): TM42 (Player2)
+Quartz: Radar Technology (Player3): progressive-follower (Player1)
+Sulfur: The Nobelisk Detonator (Player3): Recipe: Sulfuric Acid (Player3)
+Sulfur: Smokeless Powder (Player3): Heal Ball (Player2)
+Sulfur: Sulfur (Player3): TM53 (Player2)
+Sulfur: Inflated Pocket Dimension (Player3): Bundle: Yellow Power Slug (Player3)
+Sulfur: The Rifle (Player3): TM06 (Player2)
+Sulfur: Compacted Coal (Player3): X Defend (Player2)
+Sulfur: Black Powder (Player3): BERRY SEARCHER (Player2)
+Sulfur: Explosive Rebar (Player3): Recipe: Ficsite Ingot (Aluminum) (Player3)
+Sulfur: Cluster Nobelisk (Player3): Building: Power Pole Mk.3 (Player3)
+Sulfur: Experimental Power Generation (Player3): HP Up (Player2)
+Sulfur: Turbo Rifle Ammo (Player3): Journal (Player2)
+Sulfur: Turbo Fuel (Player3): Red Shard (Player2)
+Sulfur: Expanded Toolbelt (Player3): Great Ball (Player2)
+Sulfur: Nuclear Deterrent Development (Player3): progressive-productivity-module (Player1)
+
+Playthrough:
+
+0: {
+  Bag (Player2)
+}
+1: {
+  Automate automation-science-pack (Player1): Automated automation-science-pack (Player1)
+  Jubilife City - Overworld (Potion) (Player2): HM03 Surf (Player2)
+  Jubilife City - Vs. Recorder (From Looker) (Player2): HM04 Strength (Player2)
+  Jubilife City Gate to Route 218 - Old Rod (From Fisherman) (Player2): Recipe: Alclad Aluminum Sheet (Player3)
+  Route 202 - Poké Ball x5 (From Dawn) (Player2): progressive-science-pack (Player1)
+  Trainers’ School - Overworld (X Attack) (Player2): Building: Space Elevator (Player3)
+  route_202_land_4 (Player2): mon_bidoof (Player2)
+  Can Build: Biomass Burner (Player3): Can Build: Biomass Burner (Player3)
+  Can Build: Equipment Workshop (Player3): Can Build: Equipment Workshop (Player3)
+  Can Produce: Bacon Agaric in Overworld (Player3): Can Produce: Bacon Agaric (Player3)
+  Can Produce: Beryl Nut in Overworld (Player3): Can Produce: Beryl Nut (Player3)
+  Can Produce: Hog Remains in Overworld (Player3): Can Produce: Hog Remains (Player3)
+  Can Produce: Mycelia in Overworld (Player3): Can Produce: Mycelia (Player3)
+  Can Produce: Paleberry in Overworld (Player3): Can Produce: Paleberry (Player3)
+  Can Produce: Somersloop in Overworld (Player3): Can Produce: Somersloop (Player3)
+  Can Produce: Wood in Overworld (Player3): Can Produce: Wood (Player3)
+  Hub 1-1, item 2 (Player3): progressive-logistics (Player1)
+  Hub 1-1, item 3 (Player3): progressive-science-pack (Player1)
+  Hub 1-1, item 6 (Player3): Building: AWESOME Sink (Player3)
+  Hub 1-2, item 2 (Player3): Recipe: Nobelisk (Player3)
+  Hub 1-2, item 4 (Player3): Relic Badge (Player2)
+  Hub 1-2, item 5 (Player3): Recipe: Electrode Aluminum Scrap (Player3)
+  Hub 1-2, item 7 (Player3): progressive-advanced-material-processing (Player1)
+  Hub 1-3, item 2 (Player3): Building: MAM (Player3)
+  Hub 1-3, item 3 (Player3): Mine Badge (Player2)
+  Hub 1-3, item 5 (Player3): Parcel (Player2)
+  Hub 1-3, item 6 (Player3): Works Key (Player2)
+  Hub 1-3, item 8 (Player3): Recipe: Radio Control Unit (Player3)
+  Hub 1-3, item 9 (Player3): Icicle Badge (Player2)
+  Hub 1-4, item 2 (Player3): HM01 Cut (Player2)
+  Hub 1-4, item 4 (Player3): progressive-military (Player1)
+  Hub 1-4, item 5 (Player3): belt-immunity-equipment (Player1)
+  Hub 1-4, item 6 (Player3): HM06 Rock Smash (Player2)
+  Hub 1-4, item 8 (Player3): progressive-train-network (Player1)
+  Hub 1-4, item 9 (Player3): advanced-circuit (Player1)
+}
+2: {
+  AP-1-101 (Player1): progressive-automation (Player1)
+  AP-1-140 (Player1): progressive-logistics (Player1)
+  AP-1-292 (Player1): Recipe: Steel Rotor (Player3)
+  AP-1-449 (Player1): Building: AWESOME Shop (Player3)
+  AP-1-504 (Player1): processing-unit (Player1)
+  AP-1-830 (Player1): Forest Badge (Player2)
+  AP-1-938 (Player1): circuit-network (Player1)
+  Automate logistic-science-pack (Player1): Automated logistic-science-pack (Player1)
+  Jubilife City - Coupon 1 (From Poketch Campaign Clown) (Player2): Coupon 1 (Player2)
+  Jubilife City - Coupon 2 (From Poketch Campaign Clown) (Player2): Coupon 2 (Player2)
+  Jubilife City - Coupon 3 (From Poketch Campaign Clown) (Player2): Coupon 3 (Player2)
+  Trainers' School - Town Map (From Parcel) (Player2): Old Charm (Player2)
+  Can Build: AWESOME Sink (Player3): Can Build: AWESOME Sink (Player3)
+  Can Build: MAM (Player3): Can Build: MAM (Player3)
+  Can Build: Power level: Automated (Player3): Can Build: Power level: Automated (Player3)
+  Can Build: Power level: Basic (Player3): Can Build: Power level: Basic (Player3)
+  Can Build: Space Elevator (Player3): Can Build: Space Elevator (Player3)
+}
+3: {
+  AP-2-549 (Player1): Recipe: Fabric (Player3)
+  AP-2-680 (Player1): Building: Power Storage (Player3)
+  Oreburgh City - Dusk Ball (Gift in Northwest House) (Player2): Coal Badge (Player2)
+  Oreburgh City - Great Ball (Gift in East House) (Player2): progressive-processing (Player1)
+  Oreburgh City Gym - Badge (From Roark) (Player2): Recipe: Reanimated SAM (Player3)
+  Oreburgh Gate - HM06 (From Hiker) (Player2): progressive-processing (Player1)
+  Oreburgh Mine - Overworld (Poké Ball) (Player2): Building: Walls Orange (Player3)
+  Route 203 - Overworld (Repel) (Player2): Building: Oil Extractor (Player3)
+  Route 203 - Overworld (X Defend) (Player2): oil-gathering (Player1)
+  Alien Organisms: Hog Research (Player3): Recipe: Smart Plating (Player3)
+  Can Build: AWESOME Shop (Player3): Can Build: AWESOME Shop (Player3)
+  Can Build: Assembler (Player3): Can Build: Assembler (Player3)
+  Can Build: Constructor (Player3): Can Build: Constructor (Player3)
+  Can Build: Foundry (Player3): Can Build: Foundry (Player3)
+  Can Build: Miner Mk.1 (Player3): Can Build: Miner Mk.1 (Player3)
+  Can Build: Smelter (Player3): Can Build: Smelter (Player3)
+  Hard drive random check 13 (Player3): progressive-logistics (Player1)
+  Hard drive random check 18 (Player3): Recipe: Stator (Player3)
+  Hard drive random check 3 (Player3): Recipe: Compacted Coal (Player3)
+  Hard drive random check 8 (Player3): progressive-wall (Player1)
+  Nutrients: Paleberry (Player3): Building: Water Extractor (Player3)
+}
+4: {
+  Celestic Town - Great Ball (From Man in Pokémon Center) (Player2): progressive-energy-shield (Player1)
+  Celestic Town - Overworld (Dragon Fang) (Player2): progressive-military (Player1)
+  Eterna Forest - Overworld (Green Shard) (Player2): Recipe: Iron Pipe (Player3)
+  Eterna Forest - Overworld (Potion) (Player2): Recipe: Object Scanner (Player3)
+  Eterna Forest - Soothe Bell (From Cheryl) (Player2): Recipe: Solid Steel Ingot (Player3)
+  Floaroma Town - TM88 (Middle House) (Player2): concrete (Player1)
+  Floaroma Town Flower Shop - Sprayduck (Player2): Building: Manufacturer (Player3)
+  Old Chateau - Overworld (TM90) (Player2): Recipe: Steeled Frame (Player3)
+  Ravaged Path - Overworld (TM39) (Player2): Recipe: Recycled Rubber (Player3)
+  Route 205 - Overworld (Heal Ball) (Player2): Beacon Badge (Player2)
+  event_eterna_defeat_team_galactic (Player2): event_eterna_defeat_team_galactic (Player2)
+  AWESOME Shop purchase 3 (Player3): progressive-electric-energy-distribution (Player1)
+  AWESOME Shop purchase 6 (Player3): Recipe: Petroleum Coke (Player3)
+  Can Build: Walls Orange (Player3): Can Build: Walls Orange (Player3)
+  Can Produce: Bauxite in Miner Mk.1 (Player3): Can Produce: Bauxite (Player3)
+  Can Produce: Biomass in Constructor (Player3): Can Produce: Biomass (Player3)
+  Can Produce: Caterium Ore in Miner Mk.1 (Player3): Can Produce: Caterium Ore (Player3)
+  Can Produce: Coal in Miner Mk.1 (Player3): Can Produce: Coal (Player3)
+  Can Produce: Copper Ore in Miner Mk.1 (Player3): Can Produce: Copper Ore (Player3)
+  Can Produce: Iron Ore in Miner Mk.1 (Player3): Can Produce: Iron Ore (Player3)
+  Can Produce: Limestone in Miner Mk.1 (Player3): Can Produce: Limestone (Player3)
+  Can Produce: Raw Quartz in Miner Mk.1 (Player3): Can Produce: Raw Quartz (Player3)
+  Can Produce: SAM in Miner Mk.1 (Player3): Can Produce: SAM (Player3)
+  Can Produce: Sulfur in Miner Mk.1 (Player3): Can Produce: Sulfur (Player3)
+}
+5: {
+  Automate military-science-pack (Player1): Automated military-science-pack (Player1)
+  Cycle Shop - Bicycle (Player2): Bicycle (Player2)
+  Can Produce: Compacted Coal in Assembler (Player3): Can Produce: Compacted Coal (Player3)
+  Can Produce: Copper Ingot in Foundry (Player3): Can Produce: Copper Ingot (Player3)
+  Can Produce: Fabric in Assembler (Player3): Can Produce: Fabric (Player3)
+  Can Produce: Iron Ingot in Smelter (Player3): Can Produce: Iron Ingot (Player3)
+  Can Produce: Reanimated SAM in Constructor (Player3): Can Produce: Reanimated SAM (Player3)
+  Can Produce: Silica in Constructor (Player3): Can Produce: Silica (Player3)
+  Caterium: Caterium (Player3): Building: Foundation (Player3)
+  Quartz: Quartz (Player3): Recipe: Fine Black Powder (Player3)
+}
+6: {
+  AP-3-295 (Player1): plastics (Player1)
+  AP-3-547 (Player1): Recipe: Smokeless Powder (Player3)
+  AP-3-589 (Player1): progressive-advanced-material-processing (Player1)
+  AP-3-602 (Player1): Recipe: Copper Sheet (Player3)
+  AP-3-712 (Player1): Recipe: Hazmat Suit (Player3)
+  AP-3-756 (Player1): Building: Pipes Mk.1 (Player3)
+  AP-3-759 (Player1): Recipe: Steel Beam (Player3)
+  Hearthome City - Poffin Case (In Pokémon Fan Club) (Player2): lubricant (Player1)
+  Hearthome City - Shell Bell (In Southeast House) (Player2): Recipe: Alclad Casing (Player3)
+  Pokémon Mansion - Overworld (Luxury Ball) (Player2): Recipe: Computer (Player3)
+  Pokémon Mansion - Overworld (TM87) (Player2): low-density-structure (Player1)
+  Route 206 - Overworld (Super Repel) (Player2): Recipe: Electrode Circuit Board (Player3)
+  Route 207 - Dowsing Machine (From Counterpart) (Player2): progressive-processing (Player1)
+  Route 208 - Odd Keystone (From Black Belt) (Player2): robotics (Player1)
+  Route 209 - Overworld (Great Ball) (Player2): progressive-science-pack (Player1)
+  Route 209 - Overworld (TM47) (Player2): Recipe: Automated Wiring (Player3)
+  Route 212 - Overworld (TM62) (Player2): Recipe: Alumina Solution (Player3)
+  Route 213 - Overworld (PP Up) (Player2): Recipe: Motor (Player3)
+  Route 215 - Overworld (Full Heal) (Player2): Fen Badge (Player2)
+  Route 215 - Overworld (Hyper Potion) (Player2): Galactic Key (Player2)
+  Veilstone City - Coin Case (Player2): Recipe: Versatile Framework (Player3)
+  Can Build: Foundation (Player3): Can Build: Foundation (Player3)
+  Can Produce: Black Powder in Assembler (Player3): Can Produce: Black Powder (Player3)
+  Can Produce: Concrete in Assembler (Player3): Can Produce: Concrete (Player3)
+  Can Produce: Iron Plate in Constructor (Player3): Can Produce: Iron Plate (Player3)
+  Can Produce: Screw in Constructor (Player3): Can Produce: Screw (Player3)
+  Can Produce: Steel Ingot in Foundry (Player3): Can Produce: Steel Ingot (Player3)
+  Can Produce: Steel Pipe in Constructor (Player3): Can Produce: Steel Pipe (Player3)
+  Can Produce: Wire in Constructor (Player3): Can Produce: Wire (Player3)
+}
+7: {
+  Iron Island - Overworld (Red Shard) (Player2): Recipe: Insulated Crystal Oscillator (Player3)
+  Route 221 - Overworld (Protein) (Player2): Cobble Badge (Player2)
+  Valley Windworks - Overworld (TM24) (Player2): Recipe: Pure Quartz Crystal (Player3)
+  event_galactic_hq_defeat_cyrus (Player2): event_galactic_hq_defeat_cyrus (Player2)
+  Can Build: Pipes Mk.1 (Player3): Can Build: Pipes Mk.1 (Player3)
+  Can Produce: Cable in Constructor (Player3): Can Produce: Cable (Player3)
+  Can Produce: Copper Sheet in Constructor (Player3): Can Produce: Copper Sheet (Player3)
+  Can Produce: Nobelisk in Assembler (Player3): Can Produce: Nobelisk (Player3)
+  Can Produce: Reinforced Iron Plate in Assembler (Player3): Can Produce: Reinforced Iron Plate (Player3)
+  Can Produce: Rotor in Assembler (Player3): Can Produce: Rotor (Player3)
+  Can Produce: Stator in Assembler (Player3): Can Produce: Stator (Player3)
+  Can Produce: Steel Beam in Constructor (Player3): Can Produce: Steel Beam (Player3)
+  Hub 2-1, item 8 (Player3): Recipe: Encased Industrial Pipe (Player3)
+  Hub 2-5, item 3 (Player3): Building: Refinery (Player3)
+  Hub 2-5, item 9 (Player3): Recipe: Fuel (Player3)
+}
+8: {
+  Can Build: Water Extractor (Player3): Can Build: Water Extractor (Player3)
+  Can Produce: Automated Wiring in Assembler (Player3): Can Produce: Automated Wiring (Player3)
+  Can Produce: Encased Industrial Beam in Assembler (Player3): Can Produce: Encased Industrial Beam (Player3)
+  Can Produce: Modular Frame in Assembler (Player3): Can Produce: Modular Frame (Player3)
+  Can Produce: Motor in Assembler (Player3): Can Produce: Motor (Player3)
+  Can Produce: Object Scanner in Equipment Workshop (Player3): Can Produce: Object Scanner (Player3)
+  Can Produce: Smart Plating in Assembler (Player3): Can Produce: Smart Plating (Player3)
+  Hub 2-3, item 4 (Player3): Recipe: AI Limiter (Player3)
+  Mycelia: Toxic Cellular Modification (Player3): Recipe: Fused Quickwire (Player3)
+  Sulfur: The Nobelisk Detonator (Player3): Recipe: Sulfuric Acid (Player3)
+}
+9: {
+  Can Build: Oil Extractor (Player3): Can Build: Oil Extractor (Player3)
+  Can Build: Power Storage (Player3): Can Build: Power Storage (Player3)
+  Can Build: Refinery (Player3): Can Build: Refinery (Player3)
+  Can Produce: Versatile Framework in Assembler (Player3): Can Produce: Versatile Framework (Player3)
+  Elevator Phase 1 (Player3): Elevator Phase 1 (Player3)
+  Nutrients: Nutritional Inhaler (Player3): Recipe: Caterium Ingot (Player3)
+}
+10: {
+  Can Produce: Caterium Ingot in Smelter (Player3): Can Produce: Caterium Ingot (Player3)
+  Hub 3-3, item 2 (Player3): progressive-engine (Player1)
+  Hub 3-4, item 9 (Player3): Recipe: Encased Uranium Cell (Player3)
+  Hub 4-1, item 2 (Player3): Building: Coal Generator (Player3)
+  Hub 4-1, item 7 (Player3): Recipe: Residual Plastic (Player3)
+  Hub 4-2, item 4 (Player3): progressive-processing (Player1)
+  Hub 4-2, item 5 (Player3): Recipe: SAM Fluctuator (Player3)
+  Hub 4-3, item 10 (Player3): battery (Player1)
+  Hub 4-4, item 3 (Player3): Building: Blender (Player3)
+  Hub 4-4, item 7 (Player3): progressive-science-pack (Player1)
+  Hub 4-5, item 1 (Player3): Building: Pipeline Pump Mk.1 (Player3)
+  Hub 4-5, item 5 (Player3): Recipe: Heavy Modular Frame (Player3)
+}
+11: {
+  Automate chemical-science-pack (Player1): Automated chemical-science-pack (Player1)
+  Can Build: Coal Generator (Player3): Can Build: Coal Generator (Player3)
+  Can Build: Pipeline Pump Mk.1 (Player3): Can Build: Pipeline Pump Mk.1 (Player3)
+  Can Produce: Quickwire in Assembler (Player3): Can Produce: Quickwire (Player3)
+  Caterium: Quickwire (Player3): Recipe: Iodine-Infused Filter (Player3)
+}
+12: {
+  AP-4-515 (Player1): Recipe: Gas Filter (Player3)
+  Can Build: Power level: Advanced (Player3): Can Build: Power level: Advanced (Player3)
+  Can Produce: AI Limiter in Assembler (Player3): Can Produce: AI Limiter (Player3)
+  Can Produce: Crude Oil in Oil Extractor (Player3): Can Produce: Crude Oil (Player3)
+  Can Produce: Water in Water Extractor (Player3): Can Produce: Water (Player3)
+}
+13: {
+  Can Produce: Alumina Solution in Refinery (Player3): Can Produce: Alumina Solution (Player3)
+  Can Produce: Fuel in Refinery (Player3): Can Produce: Fuel (Player3)
+  Can Produce: Polymer Resin in Refinery (Player3): Can Produce: Polymer Resin (Player3)
+  Can Produce: Quartz Crystal in Refinery (Player3): Can Produce: Quartz Crystal (Player3)
+  Can Produce: Sulfuric Acid in Refinery (Player3): Can Produce: Sulfuric Acid (Player3)
+  Caterium: Power Switch (Player3): progressive-science-pack (Player1)
+}
+14: {
+  Can Produce: Plastic in Refinery (Player3): Can Produce: Plastic (Player3)
+}
+15: {
+  Can Build: Manufacturer (Player3): Can Build: Manufacturer (Player3)
+  Can Produce: Rubber in Refinery (Player3): Can Produce: Rubber (Player3)
+  Caterium: High-Speed Connector (Player3): Recipe: Polymer Resin (Player3)
+}
+16: {
+  Can Produce: Crystal Oscillator in Manufacturer (Player3): Can Produce: Crystal Oscillator (Player3)
+  Can Produce: Gas Filter in Manufacturer (Player3): Can Produce: Gas Filter (Player3)
+  Can Produce: Heavy Oil Residue in Refinery (Player3): Can Produce: Heavy Oil Residue (Player3)
+  Can Produce: SAM Fluctuator in Manufacturer (Player3): Can Produce: SAM Fluctuator (Player3)
+}
+17: {
+  Can Produce: Petroleum Coke in Refinery (Player3): Can Produce: Petroleum Coke (Player3)
+  Can Produce: Smokeless Powder in Refinery (Player3): Can Produce: Smokeless Powder (Player3)
+  Quartz: Radio Signal Scanning (Player3): progressive-engine (Player1)
+}
+18: {
+  Automate utility-science-pack (Player1): Automated utility-science-pack (Player1)
+  Can Produce: Aluminum Scrap in Refinery (Player3): Can Produce: Aluminum Scrap (Player3)
+  Can Produce: Circuit Board in Assembler (Player3): Can Produce: Circuit Board (Player3)
+}
+19: {
+  AP-6-098 (Player1): HM07 Waterfall (Player2)
+  Alien Technology: Production Amplifier (Player3): Recipe: Aluminum Ingot (Player3)
+}
+20: {
+  Can Produce: Aluminum Ingot in Foundry (Player3): Can Produce: Aluminum Ingot (Player3)
+}
+21: {
+  Can Produce: Alclad Aluminum Sheet in Assembler (Player3): Can Produce: Alclad Aluminum Sheet (Player3)
+  Can Produce: Aluminum Casing in Assembler (Player3): Can Produce: Aluminum Casing (Player3)
+}
+22: {
+  Can Build: Blender (Player3): Can Build: Blender (Player3)
+  Can Produce: Hazmat Suit in Equipment Workshop (Player3): Can Produce: Hazmat Suit (Player3)
+  Can Produce: Iodine-Infused Filter in Manufacturer (Player3): Can Produce: Iodine-Infused Filter (Player3)
+}
+23: {
+  Can Produce: Uranium in Miner Mk.1 (Player3): Can Produce: Uranium (Player3)
+}
+24: {
+  Can Produce: Encased Uranium Cell in Blender (Player3): Can Produce: Encased Uranium Cell (Player3)
+}
+25: {
+  Sulfur: Nuclear Deterrent Development (Player3): progressive-productivity-module (Player1)
+}
+26: {
+  Automate production-science-pack (Player1): Automated production-science-pack (Player1)
+}
+27: {
+  AP-6-654 (Player1): HM08 Rock Climb (Player2)
+  AP-6-995 (Player1): rocket-silo (Player1)
+}
+28: {
+  Rocket Launch (Player1): Victory (Player1)
+  event_distortion_world (Player2): event_distortion_world (Player2)
+}
+29: {
+  event_beat_cynthia (Player2): event_beat_cynthia (Player2)
+}
+
+Paths:
+
+Celestic Town - Great Ball (From Man in Pokémon Center) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> route_205_south
+   =>   route_205_south -> route_205_south -> eterna_forest_outside
+   =>   eterna_forest_outside -> eterna_forest_outside -> route_205_north
+   =>   route_205_north -> route_205_north -> eterna_city
+   =>   eterna_city -> eterna_city -> route_211_west
+   =>   route_211_west -> route_211_west -> mt_coronet_1f_north_room_1_left
+   =>   mt_coronet_1f_north_room_1_left -> mt_coronet_1f_north_room_1_left -> mt_coronet_1f_north_room_1_middle
+   =>   mt_coronet_1f_north_room_1_middle -> mt_coronet_1f_north_room_1_middle -> mt_coronet_1f_north_room_1_right
+   =>   mt_coronet_1f_north_room_1_right -> mt_coronet_1f_north_room_1_right -> route_211_east
+   =>   route_211_east -> route_211_east -> celestic_town
+   =>   celestic_town -> celestic_town -> celestic_town_pokecenter_1f
+   =>   celestic_town_pokecenter_1f
+Celestic Town - Overworld (Dragon Fang) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> route_205_south
+   =>   route_205_south -> route_205_south -> eterna_forest_outside
+   =>   eterna_forest_outside -> eterna_forest_outside -> route_205_north
+   =>   route_205_north -> route_205_north -> eterna_city
+   =>   eterna_city -> eterna_city -> route_211_west
+   =>   route_211_west -> route_211_west -> mt_coronet_1f_north_room_1_left
+   =>   mt_coronet_1f_north_room_1_left -> mt_coronet_1f_north_room_1_left -> mt_coronet_1f_north_room_1_middle
+   =>   mt_coronet_1f_north_room_1_middle -> mt_coronet_1f_north_room_1_middle -> mt_coronet_1f_north_room_1_right
+   =>   mt_coronet_1f_north_room_1_right -> mt_coronet_1f_north_room_1_right -> route_211_east
+   =>   route_211_east -> route_211_east -> celestic_town
+   =>   celestic_town
+Cycle Shop - Bicycle (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> route_205_south
+   =>   route_205_south -> route_205_south -> eterna_forest_outside
+   =>   eterna_forest_outside -> eterna_forest_outside -> route_205_north
+   =>   route_205_north -> route_205_north -> eterna_city
+   =>   eterna_city -> eterna_city -> cycle_shop
+   =>   cycle_shop
+Eterna Forest - Overworld (Green Shard) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> route_205_south
+   =>   route_205_south -> route_205_south -> eterna_forest
+   =>   eterna_forest
+Eterna Forest - Overworld (Potion) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> route_205_south
+   =>   route_205_south -> route_205_south -> eterna_forest
+   =>   eterna_forest
+Eterna Forest - Soothe Bell (From Cheryl) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> route_205_south
+   =>   route_205_south -> route_205_south -> eterna_forest
+   =>   eterna_forest
+Floaroma Town - TM88 (Middle House) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> floaroma_town_middle_house
+   =>   floaroma_town_middle_house
+Floaroma Town Flower Shop - Sprayduck (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> flower_shop
+   =>   flower_shop
+Hearthome City - Poffin Case (In Pokémon Fan Club) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> hearthome_city_pokemon_fan_club
+   =>   hearthome_city_pokemon_fan_club
+Hearthome City - Shell Bell (In Southeast House) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> hearthome_city_southeast_house_1f
+   =>   hearthome_city_southeast_house_1f -> hearthome_city_southeast_house_1f -> hearthome_city_southeast_house_2f
+   =>   hearthome_city_southeast_house_2f
+Iron Island - Overworld (Red Shard) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_218_gate_to_jubilife_city
+   =>   route_218_gate_to_jubilife_city -> route_218_gate_to_jubilife_city -> route_218
+   =>   route_218 -> route_218 -> route_218_gate_to_canalave_city
+   =>   route_218_gate_to_canalave_city -> route_218_gate_to_canalave_city -> canalave_city
+   =>   canalave_city -> canalave_city -> iron_island
+   =>   iron_island -> iron_island -> iron_island_1f
+   =>   iron_island_1f -> iron_island_1f -> iron_island_b1f_right_room
+   =>   iron_island_b1f_right_room -> iron_island_b1f_right_room -> iron_island_b2f_left_room
+   =>   iron_island_b2f_left_room
+Jubilife City - Coupon 1 (From Poketch Campaign Clown) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city
+Jubilife City - Coupon 2 (From Poketch Campaign Clown) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city
+Jubilife City - Coupon 3 (From Poketch Campaign Clown) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city
+Jubilife City - Overworld (Potion) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city
+Jubilife City - Vs. Recorder (From Looker) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city
+Jubilife City Gate to Route 218 - Old Rod (From Fisherman) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_218_gate_to_jubilife_city
+   =>   route_218_gate_to_jubilife_city
+Old Chateau - Overworld (TM90) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> route_205_south
+   =>   route_205_south -> route_205_south -> eterna_forest
+   =>   eterna_forest -> eterna_forest -> old_chateau
+   =>   old_chateau -> old_chateau -> old_chateau_corridor
+   =>   old_chateau_corridor -> old_chateau_corridor -> old_chateau_back_east_room
+   =>   old_chateau_back_east_room
+Oreburgh City - Dusk Ball (Gift in Northwest House) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> oreburgh_city_northwest_house_1f
+   =>   oreburgh_city_northwest_house_1f -> oreburgh_city_northwest_house_1f -> oreburgh_city_northwest_house_2f
+   =>   oreburgh_city_northwest_house_2f
+Oreburgh City - Great Ball (Gift in East House) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> oreburgh_city_east_house_1f
+   =>   oreburgh_city_east_house_1f
+Oreburgh City Gym - Badge (From Roark) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> oreburgh_city_gym
+   =>   oreburgh_city_gym
+Oreburgh Gate - HM06 (From Hiker) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f
+Oreburgh Mine - Overworld (Poké Ball) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> oreburgh_mine_b1f
+   =>   oreburgh_mine_b1f
+Pokémon Mansion - Overworld (Luxury Ball) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> route_212_gate_to_hearthome_city
+   =>   route_212_gate_to_hearthome_city -> route_212_gate_to_hearthome_city -> route_212_north_top
+   =>   route_212_north_top -> route_212_north_top -> route_212_north
+   =>   route_212_north -> route_212_north -> pokemon_mansion
+   =>   pokemon_mansion -> pokemon_mansion -> pokemon_mansion_maids_room
+   =>   pokemon_mansion_maids_room
+Pokémon Mansion - Overworld (TM87) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> route_212_gate_to_hearthome_city
+   =>   route_212_gate_to_hearthome_city -> route_212_gate_to_hearthome_city -> route_212_north_top
+   =>   route_212_north_top -> route_212_north_top -> route_212_north
+   =>   route_212_north -> route_212_north -> pokemon_mansion
+   =>   pokemon_mansion -> pokemon_mansion -> pokemon_mansion_office
+   =>   pokemon_mansion_office
+Ravaged Path - Overworld (TM39) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path
+Route 202 - Poké Ball x5 (From Dawn) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202
+Route 203 - Overworld (Repel) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203
+Route 203 - Overworld (X Defend) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203
+Route 205 - Overworld (Heal Ball) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> route_205_south
+   =>   route_205_south
+Route 206 - Overworld (Super Repel) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> route_206
+   =>   route_206 -> route_206 -> route_206_upper
+   =>   route_206_upper
+Route 207 - Dowsing Machine (From Counterpart) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207
+Route 208 - Odd Keystone (From Black Belt) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208
+Route 209 - Overworld (Great Ball) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> route_209_gate_to_hearthome_city
+   =>   route_209_gate_to_hearthome_city -> route_209_gate_to_hearthome_city -> route_209
+   =>   route_209
+Route 209 - Overworld (TM47) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> route_209_gate_to_hearthome_city
+   =>   route_209_gate_to_hearthome_city -> route_209_gate_to_hearthome_city -> route_209
+   =>   route_209
+Route 212 - Overworld (TM62) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> route_212_gate_to_hearthome_city
+   =>   route_212_gate_to_hearthome_city -> route_212_gate_to_hearthome_city -> route_212_north_top
+   =>   route_212_north_top -> route_212_north_top -> route_212_north
+   =>   route_212_north -> route_212_north -> route_212_south
+   =>   route_212_south
+Route 213 - Overworld (PP Up) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> route_212_gate_to_hearthome_city
+   =>   route_212_gate_to_hearthome_city -> route_212_gate_to_hearthome_city -> route_212_north_top
+   =>   route_212_north_top -> route_212_north_top -> route_212_north
+   =>   route_212_north -> route_212_north -> route_212_south
+   =>   route_212_south -> route_212_south -> pastoria_city
+   =>   pastoria_city -> pastoria_city -> route_213_gate_to_pastoria_city
+   =>   route_213_gate_to_pastoria_city -> route_213_gate_to_pastoria_city -> route_213
+   =>   route_213
+Route 215 - Overworld (Full Heal) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> route_209_gate_to_hearthome_city
+   =>   route_209_gate_to_hearthome_city -> route_209_gate_to_hearthome_city -> route_209
+   =>   route_209 -> route_209 -> solaceon_town
+   =>   solaceon_town -> solaceon_town -> route_210_south
+   =>   route_210_south -> route_210_south -> route_215
+   =>   route_215
+Route 215 - Overworld (Hyper Potion) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> route_209_gate_to_hearthome_city
+   =>   route_209_gate_to_hearthome_city -> route_209_gate_to_hearthome_city -> route_209
+   =>   route_209 -> route_209 -> solaceon_town
+   =>   solaceon_town -> solaceon_town -> route_210_south
+   =>   route_210_south -> route_210_south -> route_215
+   =>   route_215
+Route 221 - Overworld (Protein) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_219
+   =>   route_219 -> route_219 -> route_220
+   =>   route_220 -> route_220 -> route_221
+   =>   route_221
+Trainers' School - Town Map (From Parcel) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> trainers_school
+   =>   trainers_school
+Trainers’ School - Overworld (X Attack) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> trainers_school
+   =>   trainers_school
+Valley Windworks - Overworld (TM24) (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> valley_windworks_outside
+   =>   valley_windworks_outside
+Veilstone City - Coin Case (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> route_209_gate_to_hearthome_city
+   =>   route_209_gate_to_hearthome_city -> route_209_gate_to_hearthome_city -> route_209
+   =>   route_209 -> route_209 -> solaceon_town
+   =>   solaceon_town -> solaceon_town -> route_210_south
+   =>   route_210_south -> route_210_south -> route_215
+   =>   route_215 -> route_215 -> route_215_gate_to_veilstone_city
+   =>   route_215_gate_to_veilstone_city -> route_215_gate_to_veilstone_city -> veilstone_city
+   =>   veilstone_city -> veilstone_city -> veilstone_city_southeast_house
+   =>   veilstone_city_southeast_house
+event_beat_cynthia (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> route_212_gate_to_hearthome_city
+   =>   route_212_gate_to_hearthome_city -> route_212_gate_to_hearthome_city -> route_212_north_top
+   =>   route_212_north_top -> route_212_north_top -> route_212_north
+   =>   route_212_north -> route_212_north -> route_212_south
+   =>   route_212_south -> route_212_south -> pastoria_city
+   =>   pastoria_city -> pastoria_city -> route_213_gate_to_pastoria_city
+   =>   route_213_gate_to_pastoria_city -> route_213_gate_to_pastoria_city -> route_213
+   =>   route_213 -> route_213 -> valor_lakefront
+   =>   valor_lakefront -> valor_lakefront -> route_222
+   =>   route_222 -> route_222 -> route_222_gate_to_sunyshore_city
+   =>   route_222_gate_to_sunyshore_city -> route_222_gate_to_sunyshore_city -> sunyshore_city
+   =>   sunyshore_city -> sunyshore_city -> route_223
+   =>   route_223 -> route_223 -> pokemon_league_south_south
+   =>   pokemon_league_south_south -> pokemon_league_south_south -> pokemon_league_south
+   =>   pokemon_league_south -> pokemon_league_south -> pokemon_league_south_pokecenter_1f
+   =>   pokemon_league_south_pokecenter_1f -> pokemon_league_south_pokecenter_1f -> pokemon_league
+   =>   pokemon_league -> pokemon_league -> pokemon_league_north_pokecenter_1f
+   =>   pokemon_league_north_pokecenter_1f -> pokemon_league_north_pokecenter_1f -> pokemon_league_elevator_to_aaron_room
+   =>   pokemon_league_elevator_to_aaron_room -> pokemon_league_elevator_to_aaron_room -> pokemon_league_aaron_room
+   =>   pokemon_league_aaron_room -> pokemon_league_aaron_room -> pokemon_league_elevator_to_bertha_room
+   =>   pokemon_league_elevator_to_bertha_room -> pokemon_league_elevator_to_bertha_room -> pokemon_league_bertha_room
+   =>   pokemon_league_bertha_room -> pokemon_league_bertha_room -> pokemon_league_elevator_to_flint_room
+   =>   pokemon_league_elevator_to_flint_room -> pokemon_league_elevator_to_flint_room -> pokemon_league_flint_room
+   =>   pokemon_league_flint_room -> pokemon_league_flint_room -> pokemon_league_elevator_to_lucian_room
+   =>   pokemon_league_elevator_to_lucian_room -> pokemon_league_elevator_to_lucian_room -> pokemon_league_lucian_room
+   =>   pokemon_league_lucian_room -> pokemon_league_lucian_room -> pokemon_league_elevator_to_champion_room
+   =>   pokemon_league_elevator_to_champion_room -> pokemon_league_elevator_to_champion_room -> pokemon_league_champion_room
+   =>   pokemon_league_champion_room -> pokemon_league_champion_room -> pokemon_league_elevator_to_hall_of_fame
+   =>   pokemon_league_elevator_to_hall_of_fame -> pokemon_league_elevator_to_hall_of_fame -> pokemon_league_hall_of_fame
+   =>   pokemon_league_hall_of_fame
+event_distortion_world (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> mt_coronet_2f_right
+   =>   mt_coronet_2f_right -> mt_coronet_2f_right -> mt_coronet_2f_left
+   =>   mt_coronet_2f_left -> mt_coronet_2f_left -> mt_coronet_3f
+   =>   mt_coronet_3f -> mt_coronet_3f -> mt_coronet_outside_south_entrance
+   =>   mt_coronet_outside_south_entrance -> mt_coronet_outside_south_entrance -> mt_coronet_outside_south
+   =>   mt_coronet_outside_south -> mt_coronet_outside_south -> mt_coronet_4f_rooms_1_and_2_lower
+   =>   mt_coronet_4f_rooms_1_and_2_lower -> mt_coronet_4f_rooms_1_and_2_lower -> mt_coronet_4f_rooms_1_and_2
+   =>   mt_coronet_4f_rooms_1_and_2 -> mt_coronet_4f_rooms_1_and_2 -> mt_coronet_outside_north
+   =>   mt_coronet_outside_north -> mt_coronet_outside_north -> mt_coronet_4f_room_3
+   =>   mt_coronet_4f_room_3 -> mt_coronet_4f_room_3 -> mt_coronet_5f
+   =>   mt_coronet_5f -> mt_coronet_5f -> mt_coronet_6f
+   =>   mt_coronet_6f -> mt_coronet_6f -> spear_pillar
+   =>   spear_pillar -> spear_pillar -> distortion_world
+   =>   distortion_world
+event_eterna_defeat_team_galactic (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_204_south
+   =>   route_204_south -> route_204_south -> ravaged_path
+   =>   ravaged_path -> ravaged_path -> route_204_north
+   =>   route_204_north -> route_204_north -> floaroma_town
+   =>   floaroma_town -> floaroma_town -> route_205_south
+   =>   route_205_south -> route_205_south -> eterna_forest_outside
+   =>   eterna_forest_outside -> eterna_forest_outside -> route_205_north
+   =>   route_205_north -> route_205_north -> eterna_city
+   =>   eterna_city -> eterna_city -> team_galactic_eterna_building_1f
+   =>   team_galactic_eterna_building_1f -> team_galactic_eterna_building_1f -> team_galactic_eterna_building_2f
+   =>   team_galactic_eterna_building_2f -> team_galactic_eterna_building_2f -> team_galactic_eterna_building_3f
+   =>   team_galactic_eterna_building_3f -> team_galactic_eterna_building_3f -> team_galactic_eterna_building_4f
+   =>   team_galactic_eterna_building_4f
+event_galactic_hq_defeat_cyrus (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> jubilife_city
+   =>   jubilife_city -> jubilife_city -> route_203
+   =>   route_203 -> route_203 -> oreburgh_gate_1f
+   =>   oreburgh_gate_1f -> oreburgh_gate_1f -> oreburgh_city
+   =>   oreburgh_city -> oreburgh_city -> route_207_south
+   =>   route_207_south -> route_207_south -> route_207
+   =>   route_207 -> route_207 -> mt_coronet_1f_south
+   =>   mt_coronet_1f_south -> mt_coronet_1f_south -> route_208
+   =>   route_208 -> route_208 -> route_208_gate_to_hearthome_city
+   =>   route_208_gate_to_hearthome_city -> route_208_gate_to_hearthome_city -> hearthome_city
+   =>   hearthome_city -> hearthome_city -> route_209_gate_to_hearthome_city
+   =>   route_209_gate_to_hearthome_city -> route_209_gate_to_hearthome_city -> route_209
+   =>   route_209 -> route_209 -> solaceon_town
+   =>   solaceon_town -> solaceon_town -> route_210_south
+   =>   route_210_south -> route_210_south -> route_215
+   =>   route_215 -> route_215 -> route_215_gate_to_veilstone_city
+   =>   route_215_gate_to_veilstone_city -> route_215_gate_to_veilstone_city -> veilstone_city
+   =>   veilstone_city -> veilstone_city -> galactic_hq_w_key
+   =>   galactic_hq_w_key
+route_202_land_4 (Player2)
+        Menu -> Start Game
+   =>   twinleaf_town_player_house_2f -> twinleaf_town_player_house_2f -> twinleaf_town_player_house_1f
+   =>   twinleaf_town_player_house_1f -> twinleaf_town_player_house_1f -> twinleaf_town
+   =>   twinleaf_town -> twinleaf_town -> route_201
+   =>   route_201 -> route_201 -> sandgem_town
+   =>   sandgem_town -> sandgem_town -> route_202
+   =>   route_202 -> route_202 -> route_202_land
+   =>   route_202_land
