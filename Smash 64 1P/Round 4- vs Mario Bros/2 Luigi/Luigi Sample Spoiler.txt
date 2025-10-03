@@ -1,0 +1,1428 @@
+﻿Archipelago Version 0.6.3  -  Seed: 76371478668792397947
+
+Filling Algorithm:               balanced
+Players:                         3
+Plando Options:                  connections, texts, bosses
+
+Celeste (Open World) APWorld v1.0.5
+
+Player 1: Player1
+Game:                            Celeste (Open World)
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Death Link:                      No
+Death Link Amnesty:              10
+Trap Link:                       No
+Goal Area:                       The Summit A
+Lock Goal Area:                  Yes
+Goal Area Checkpointsanity:      No
+Total Strawberries:              50
+Strawberries Required Percentage:80
+Junk Fill Percentage:            50
+Trap Fill Percentage:            0
+Trap Expiration Action:          Deaths
+Trap Expiration Amount:          5
+Bald Trap Weight:                Medium
+Literature Trap Weight:          Medium
+Stun Trap Weight:                Medium
+Invisible Trap Weight:           Medium
+Fast Trap Weight:                Medium
+Slow Trap Weight:                Medium
+Ice Trap Weight:                 Medium
+Reverse Trap Weight:             Medium
+Screen Flip Trap Weight:         Medium
+Laughter Trap Weight:            Medium
+Hiccup Trap Weight:              Medium
+Zoom Trap Weight:                Medium
+Checkpointsanity:                No
+Binosanity:                      No
+Keysanity:                       No
+Gemsanity:                       No
+Carsanity:                       No
+Roomsanity:                      No
+Include Goldens:                 No
+Include Core:                    No
+Include Farewell:                None
+Include B-Sides:                 No
+Include C-Sides:                 No
+Music Shuffle:                   None
+Require Cassettes:               No
+Madeline Hair Length:            Default
+Madeline One Dash Hair Color:    Strawberry
+Madeline Two Dash Hair Color:    Double
+Madeline No Dash Hair Color:     Empty
+Madeline Feather Hair Color:     Golden
+
+Player 2: Player2
+Game:                            Luigi's Mansion
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Death Link:                      No
+Rank Requirement:                Rank H
+Game Mode:                       Default
+Starting Vacuum:                 Yes
+Walk Speed:                      Normal Speed
+Poltergust 4000:                 Include
+Boo Radar:                       Include
+Hidden Mansion:                  No
+Enable Fear Animation:           Yes
+Enable Pickup Animation:         Yes
+Luigi's Maximum Health:          100
+Music Randomization:             No
+Randomized Door Model:           No
+Early First Key:                 No
+Door Randomization:              Off
+Enemizer:                        Vanilla
+Random Spawn Location:           No
+Portrait Ghost Hints:            No
+Hint Distribution:               Balanced
+Toadsanity:                      No
+ Gold Mice:                      No
+Furnisanity:                     
+Boosanity:                       No
+Portrification:                  No
+Lightsanity:                     No
+Walksanity:                      No
+Speedy Spirits:                  No
+Boo Gates:                       Yes
+Fortune-Teller Requirements:     5
+Balcony Boo Count:               20
+Altar Boo Count:                 40
+King Boo's Health:               500
+Boolossus Diffculty:             Normal
+Boo Health Option:               Choice
+Boo Health Value:                30
+Boo Speed:                       15
+Boo Escape Time:                 120
+Angry Boos:                      No
+Extra Boo Spots:                 No
+Chest Cosmetics:                 Vanilla
+Trap Appearance:                 Filler
+Press A to Mario:                No
+TrapLink:                        No
+EnergyLink:                      No
+Trap Percentage:                 0
+Money Bundle Weight:             10
+Coin Weight:                     15
+Bill Weight:                     10
+Gold Bars Weight:                10
+Gems Weight:                     5
+Poison Trap Weight:              15
+Bomb Weight:                     15
+Ice Trap Weight:                 15
+Banana Trap Weight:              15
+Possession Trap Weight:          5
+Bonk Trap Weight:                15
+Ghost Weight:                    15
+Fear Trap Weight:                25
+Spooky Time Weight:              25
+Squash Trap Weight:              15
+No Vac Trap Weight:              5
+Dust Weight:                     40
+Heart Weight:                    10
+Start Inventory from Pool:       
+
+Player 3: Player3
+Game:                            Mario Kart Double Dash
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Goal:                            All Cup Tour
+Trophy Requirement:              10
+Grand Prix Trophies:             Yes
+Shuffle Extra Trophies:          0
+Logic Difficulty.:               0
+Tracker Unrestricted Logic:      No
+Time Trials:                     Basic
+Course Shuffle:                  Shuffle Once
+All Cup Tour Length:             8
+Mirror is 200cc:                 No
+Shorter Courses:                 No
+Custom Lap Counts:               Wario Colosseum: 2
+Items for Everybody:             4
+Items per Character:             3
+Start Items per Character:       1
+Kart Upgrades:                   10
+Speed Upgrades:                  Yes
+Start Inventory from Pool:       
+
+
+Starting Items:
+
+Progressive Vacuum (Player2)
+Flower Cup (Player3)
+Peach (Player3)
+Red Fire (Player3)
+DK Jumbo (Player3)
+Diddy Kong (Player3)
+Para-Wing (Player3)
+Bowser's Shell for Mario (Player3)
+Yoshi Egg for Luigi (Player3)
+Triple Green Shells for Peach (Player3)
+Lightning for Daisy (Player3)
+Green Shell for Yoshi (Player3)
+Banana for Birdo (Player3)
+Red Shell for Baby Mario (Player3)
+Chain Chomp for Baby Luigi (Player3)
+Mushroom for Toad (Player3)
+Golden Mushroom for Toadette (Player3)
+Star for Koopa (Player3)
+Triple Mushrooms for Paratroopa (Player3)
+Heart for Donkey Kong (Player3)
+Triple Red Shells for Diddy Kong (Player3)
+Giant Banana for Bowser (Player3)
+Red Shell for Bowser Jr. (Player3)
+Triple Green Shells for Wario (Player3)
+Bowser's Shell for Waluigi (Player3)
+Triple Red Shells for Petey Piranha (Player3)
+Triple Red Shells for King Boo (Player3)
+
+Locations:
+
+Prologue - Level Clear (Player1): Dining Room Key (Player2)
+Forsaken City A - Room 2 Strawberry (Player1): Raspberry (Player1)
+Forsaken City A - Room 3 Strawberry (Player1): Luigi (Player3)
+Forsaken City A - Room 3b Strawberry (Player1): Wario Colosseum Time Trial (Player3)
+Forsaken City A - Room 5 Strawberry (Player1): Toad Kart (Player3)
+Forsaken City A - Room 5z Strawberry (Player1): Ruby (Player2)
+Forsaken City A - Room 5a Strawberry (Player1): Acceleration Boost for Wario Car (Player3)
+Forsaken City A - Room 6 Strawberry (Player1): Green Shell for Diddy Kong (Player3)
+Forsaken City A - Crossing (Player1): Forsaken City A - Crossing (Player1)
+Forsaken City A - Room 7zb Strawberry (Player1): Strawberry (Player1)
+Forsaken City A - Room s1 Strawberry (Player1): Crystal Heart 13 (Player1)
+Forsaken City A - Crystal Heart (Player1): Raspberry (Player1)
+Forsaken City A - Room 7z Strawberry (Player1): Pink Cassette Blocks (Player1)
+Forsaken City A - Room 8zb Strawberry (Player1): Crystal Heart 1 (Player1)
+Forsaken City A - Room 7a Strawberry (Player1): Parlor Key (Player2)
+Forsaken City A - Room 9z Strawberry (Player1): Raspberry (Player1)
+Forsaken City A - Room 8b Strawberry (Player1): Dash Switches (Player1)
+Forsaken City A - Room 9 Strawberry (Player1): Nothing (Player3)
+Forsaken City A - Room 9b Strawberry (Player1): Raspberry (Player1)
+Forsaken City A - Chasm (Player1): Forsaken City A - Chasm (Player1)
+Forsaken City A - Room 9c Strawberry (Player1): 2 Gold Bars (Player2)
+Forsaken City A - Room 10zb Strawberry (Player1): Dry Dry Desert Time Trial (Player3)
+Forsaken City A - Room 11 Strawberry (Player1): Triple Mushrooms for Peach (Player3)
+Forsaken City A - Cassette (Player1): Golden Mushroom for Paratroopa (Player3)
+Forsaken City A - Room 12z Strawberry (Player1): Raspberry (Player1)
+Forsaken City A - Level Clear (Player1): 15 Bills (Player2)
+Old Site A - Crystal Heart (Player1): North Rec Room Key (Player2)
+Old Site A - Room 1 Strawberry (Player1): Crystal Heart 4 (Player1)
+Old Site A - Room d0 Strawberry (Player1): Mario's Star (Player2)
+Old Site A - Room d3 Strawberry (Player1): Master Bedroom Key (Player2)
+Old Site A - Room d2 Strawberry 1 (Player1): Raspberry (Player1)
+Old Site A - Room d2 Strawberry 2 (Player1): Strawberry (Player1)
+Old Site A - Cassette (Player1): Triple Green Shells for Daisy (Player3)
+Old Site A - Room d1 Strawberry (Player1): Mario's Letter (Player2)
+Old Site A - Room d6 Strawberry (Player1): Peach Beach Time Trial (Player3)
+Old Site A - Room d4 Strawberry (Player1): Bowser (Player3)
+Old Site A - Room d5 Strawberry (Player1): Acceleration Boost for Piranha Pipes (Player3)
+Old Site A - Intervention (Player1): Old Site A - Intervention (Player1)
+Old Site A - Room 4 Strawberry (Player1): Springs (Player1)
+Old Site A - Room 5 Strawberry (Player1): Raspberry (Player1)
+Old Site A - Room 8 Strawberry (Player1): Nursery Key (Player2)
+Old Site A - Room 9 Strawberry (Player1): Waluigi (Player3)
+Old Site A - Room 9b Strawberry (Player1): Crystal Heart 14 (Player1)
+Old Site A - Room 10 Strawberry (Player1): Raspberry (Player1)
+Old Site A - Room 12c Strawberry (Player1): Raspberry (Player1)
+Old Site A - Room 12d Strawberry (Player1): Large Heart (Player2)
+Old Site A - Awake (Player1): Old Site A - Awake (Player1)
+Old Site A - Room end_3c Strawberry (Player1): Raspberry (Player1)
+Old Site A - Level Clear (Player1): Nothing (Player3)
+Celestial Resort A - Room s2 Strawberry 1 (Player1): Heart Key (Player2)
+Celestial Resort A - Room s2 Strawberry 2 (Player1): Strawberry (Player1)
+Celestial Resort A - Front Door Key (Player1): Celestial Resort A - Front Door Key (Player1)
+Celestial Resort A - Room s3 Strawberry (Player1): 20 Coins (Player2)
+Celestial Resort A - Room 00-a Strawberry (Player1): Nothing (Player3)
+Celestial Resort A - Hallway Key 1 (Player1): Celestial Resort A - Hallway Key 1 (Player1)
+Celestial Resort A - Room 00-b Strawberry (Player1): Nothing (Player3)
+Celestial Resort A - Room 04-b Strawberry (Player1): Nothing (Player3)
+Celestial Resort A - Room 06-a Strawberry (Player1): Raspberry (Player1)
+Celestial Resort A - Room 07-b Strawberry (Player1): Large Heart (Player2)
+Celestial Resort A - Hallway Key 2 (Player1): Celestial Resort A - Hallway Key 2 (Player1)
+Celestial Resort A - Room 06-b Strawberry (Player1): Waluigi Stadium Time Trial (Player3)
+Celestial Resort A - Room 06-c Strawberry (Player1): Emerald (Player2)
+Celestial Resort A - Room 05-c Strawberry (Player1): 1 Gold Bar (Player2)
+Celestial Resort A - Huge Mess (Player1): Celestial Resort A - Huge Mess (Player1)
+Celestial Resort A - Huge Mess Key (Player1): Celestial Resort A - Huge Mess Key (Player1)
+Celestial Resort A - Brown Clutter (Player1): Celestial Resort A - Brown Clutter (Player1)
+Celestial Resort A - Room 12-y Strawberry (Player1): Raspberry (Player1)
+Celestial Resort A - Room 10-y Strawberry (Player1): Petey Piranha (Player3)
+Celestial Resort A - Crystal Heart (Player1): Raspberry (Player1)
+Celestial Resort A - Room 12-c Strawberry (Player1): Fire Element Medal (Player2)
+Celestial Resort A - Room 11-d Strawberry (Player1): Swap Blocks (Player1)
+Celestial Resort A - Green Clutter (Player1): Celestial Resort A - Green Clutter (Player1)
+Celestial Resort A - Room 13-b Strawberry (Player1): Green Shell for Donkey Kong (Player3)
+Celestial Resort A - Room 13-x Strawberry (Player1): Raspberry (Player1)
+Celestial Resort A - Pink Clutter (Player1): Celestial Resort A - Pink Clutter (Player1)
+Celestial Resort A - Room 08-x Strawberry (Player1): Raspberry (Player1)
+Celestial Resort A - Elevator Shaft (Player1): Celestial Resort A - Elevator Shaft (Player1)
+Celestial Resort A - Room 06-d Strawberry (Player1): Raspberry (Player1)
+Celestial Resort A - Room 04-c Strawberry (Player1): Raspberry (Player1)
+Celestial Resort A - Presidential Suite Key (Player1): Celestial Resort A - Presidential Suite Key (Player1)
+Celestial Resort A - Room 03-b Strawberry 1 (Player1): Raspberry (Player1)
+Celestial Resort A - Room 03-b Strawberry 2 (Player1): Anteroom Key (Player2)
+Celestial Resort A - Cassette (Player1): Strawberry (Player1)
+Celestial Resort A - Presidential Suite (Player1): Celestial Resort A - Presidential Suite (Player1)
+Celestial Resort A - Room roof03 Strawberry (Player1): Strawberry (Player1)
+Celestial Resort A - Room roof06 Strawberry 1 (Player1): Strawberry (Player1)
+Celestial Resort A - Room roof06 Strawberry 2 (Player1): Raspberry (Player1)
+Celestial Resort A - Level Clear (Player1): Raspberry (Player1)
+Golden Ridge A - Room a-01x Strawberry (Player1): Nothing (Player3)
+Golden Ridge A - Room a-02 Strawberry (Player1): Toad (Player3)
+Golden Ridge A - Room a-03 Strawberry (Player1): Extra Weight for Goo-Goo Buggy (Player3)
+Golden Ridge A - Room a-04 Strawberry (Player1): Strawberry (Player1)
+Golden Ridge A - Room a-06 Strawberry (Player1): Raspberry (Player1)
+Golden Ridge A - Room a-07 Strawberry (Player1): Red Shell for Baby Luigi (Player3)
+Golden Ridge A - Room a-10 Strawberry (Player1): Triple Red Shells for Paratroopa (Player3)
+Golden Ridge A - Cassette (Player1): Cold Storage Key (Player2)
+Golden Ridge A - Room a-09 Strawberry (Player1): Crystal Heart 3 (Player1)
+Golden Ridge A - Shrine (Player1): Golden Ridge A - Shrine (Player1)
+Golden Ridge A - Room b-01 Strawberry 1 (Player1): Triple Mushrooms for Toadette (Player3)
+Golden Ridge A - Room b-01 Strawberry 2 (Player1): Rattle Buggy (Player3)
+Golden Ridge A - Room b-04 Strawberry (Player1): Raspberry (Player1)
+Golden Ridge A - Room b-07 Strawberry (Player1): Twins Bedroom Key (Player2)
+Golden Ridge A - Room b-03 Strawberry (Player1): Raspberry (Player1)
+Golden Ridge A - Room b-02 Strawberry 1 (Player1): Dust (Player2)
+Golden Ridge A - Room b-02 Strawberry 2 (Player1): Diamond Key (Player2)
+Golden Ridge A - Crystal Heart (Player1): Dust (Player2)
+Golden Ridge A - Room b-secb Strawberry (Player1): Banana for Bowser Jr. (Player3)
+Golden Ridge A - Room b-08 Strawberry (Player1): Raspberry (Player1)
+Golden Ridge A - Room c-00 Strawberry (Player1): Strawberry (Player1)
+Golden Ridge A - Old Trail (Player1): Golden Ridge A - Old Trail (Player1)
+Golden Ridge A - Room c-01 Strawberry (Player1): Triple Green Shells for Koopa (Player3)
+Golden Ridge A - Room c-05 Strawberry (Player1): Raspberry (Player1)
+Golden Ridge A - Room c-06 Strawberry (Player1): Turbo Birdo (Player3)
+Golden Ridge A - Room c-06b Strawberry (Player1): Koopa King (Player3)
+Golden Ridge A - Room c-08 Strawberry (Player1): Nothing (Player3)
+Golden Ridge A - Room c-10 Strawberry (Player1): Crystal Heart 2 (Player1)
+Golden Ridge A - Cliff Face (Player1): Golden Ridge A - Cliff Face (Player1)
+Golden Ridge A - Room d-00b Strawberry (Player1): Progressive CC (Player3)
+Golden Ridge A - Room d-01 Strawberry (Player1): Dust (Player2)
+Golden Ridge A - Room d-04 Strawberry (Player1): Strawberry (Player1)
+Golden Ridge A - Room d-07 Strawberry (Player1): Strawberry (Player1)
+Golden Ridge A - Room d-09 Strawberry (Player1): Raspberry (Player1)
+Golden Ridge A - Level Clear (Player1): Dino Dino Jungle Time Trial (Player3)
+Mirror Temple A - Room a-00x Strawberry (Player1): Blue Cassette Blocks (Player1)
+Mirror Temple A - Room a-01 Strawberry 1 (Player1): Progressive Speed Upgrade (Player3)
+Mirror Temple A - Room a-01 Strawberry 2 (Player1): Strawberry (Player1)
+Mirror Temple A - Room a-02 Strawberry (Player1): Progressive GP Race Skip (Player3)
+Mirror Temple A - Room a-03 Strawberry (Player1): Strawberry (Player1)
+Mirror Temple A - Room a-04 Strawberry (Player1): Raspberry (Player1)
+Mirror Temple A - Room a-05 Strawberry (Player1): 20 Coins & Bills (Player2)
+Mirror Temple A - Room a-06 Strawberry (Player1): Lightning for Peach (Player3)
+Mirror Temple A - Room a-07 Strawberry (Player1): 1 Gold Bar (Player2)
+Mirror Temple A - Entrance Key (Player1): Mirror Temple A - Entrance Key (Player1)
+Mirror Temple A - Room a-11 Strawberry (Player1): Fortune Teller Key (Player2)
+Mirror Temple A - Room a-15 Strawberry (Player1): Strawberry (Player1)
+Mirror Temple A - Room a-14 Strawberry (Player1): Raspberry (Player1)
+Mirror Temple A - Depths (Player1): Mirror Temple A - Depths (Player1)
+Mirror Temple A - Room b-18 Strawberry (Player1): Raspberry (Player1)
+Mirror Temple A - Room b-01c Strawberry (Player1): Strawberry (Player1)
+Mirror Temple A - Room b-20 Strawberry 1 (Player1): Triple Red Shells for Luigi (Player3)
+Mirror Temple A - Room b-20 Strawberry 2 (Player1): Piranha Pipes (Player3)
+Mirror Temple A - Room b-21 Strawberry (Player1): Raspberry (Player1)
+Mirror Temple A - Room b-03 Strawberry (Player1): Fireballs for Everybody (Player3)
+Mirror Temple A - Room b-05 Strawberry (Player1): Nothing (Player3)
+Mirror Temple A - Depths Key (Player1): Mirror Temple A - Depths Key (Player1)
+Mirror Temple A - Room b-10 Strawberry (Player1): Club Key (Player2)
+Mirror Temple A - Room b-12 Strawberry (Player1): Raspberry (Player1)
+Mirror Temple A - Room b-17 Strawberry 2 (Player1): Raspberry (Player1)
+Mirror Temple A - Room b-17 Strawberry 1 (Player1): 15 Bills (Player2)
+Mirror Temple A - Cassette (Player1): Strawberry (Player1)
+Mirror Temple A - Crystal Heart (Player1): Off-road Tires for Koopa Dasher (Player3)
+Mirror Temple A - Unravelling (Player1): Mirror Temple A - Unravelling (Player1)
+Mirror Temple A - Room c-08 Strawberry (Player1): Ballroom Key (Player2)
+Mirror Temple A - Search (Player1): Mirror Temple A - Search (Player1)
+Mirror Temple A - Search Key 1 (Player1): Mirror Temple A - Search Key 1 (Player1)
+Mirror Temple A - Search Key 2 (Player1): Mirror Temple A - Search Key 2 (Player1)
+Mirror Temple A - Room d-04 Strawberry 2 (Player1): Raspberry (Player1)
+Mirror Temple A - Room d-04 Strawberry 1 (Player1): Bullet Blaster (Player3)
+Mirror Temple A - Room d-15 Strawberry 2 (Player1): Raspberry (Player1)
+Mirror Temple A - Search Key 3 (Player1): Mirror Temple A - Search Key 3 (Player1)
+Mirror Temple A - Room d-15 Strawberry 1 (Player1): Raspberry (Player1)
+Mirror Temple A - Room d-13 Strawberry (Player1): Clockwork Key (Player2)
+Mirror Temple A - Room d-19 Strawberry (Player1): Gold Diamond (Player2)
+Mirror Temple A - Rescue (Player1): Mirror Temple A - Rescue (Player1)
+Mirror Temple A - Room e-06 Strawberry (Player1): Gold Diamond (Player2)
+Mirror Temple A - Level Clear (Player1): Mushroom Bridge Time Trial (Player3)
+Reflection A - Hollows (Player1): Reflection A - Hollows (Player1)
+Reflection A - Crystal Heart (Player1): Nothing (Player3)
+Reflection A - Cassette (Player1): Nothing (Player3)
+Reflection A - Reflection (Player1): Reflection A - Reflection (Player1)
+Reflection A - Rock Bottom (Player1): Reflection A - Rock Bottom (Player1)
+Reflection A - Resolution (Player1): Reflection A - Resolution (Player1)
+Reflection A - Level Clear (Player1): Raspberry (Player1)
+The Summit A - Room a-02b Strawberry (Player1): Koopa (Player3)
+The Summit A - Room a-04b Strawberry 1 (Player1): Mario Circuit Time Trial (Player3)
+The Summit A - Room a-04b Strawberry 2 (Player1): Kevins (Player1)
+The Summit A - Room a-05 Strawberry (Player1): Toadette (Player3)
+The Summit A - Gem 1 (Player1): The Summit A - Gem 1 (Player1)
+The Summit A - 500 M (Player1): The Summit A - 500 M (Player1)
+The Summit A - Room b-02 Strawberry (Player1): Crystal Heart 8 (Player1)
+The Summit A - Room b-02b Strawberry (Player1): Crystal Heart 5 (Player1)
+The Summit A - Room b-02e Strawberry (Player1): Red Shell for King Boo (Player3)
+The Summit A - Gem 2 (Player1): The Summit A - Gem 2 (Player1)
+The Summit A - Room b-04 Strawberry (Player1): Crystal Heart 6 (Player1)
+The Summit A - Room b-08 Strawberry (Player1): Progressive Vacuum (Player2)
+The Summit A - Room b-09 Strawberry (Player1): Raspberry (Player1)
+The Summit A - 1000 M (Player1): The Summit A - 1000 M (Player1)
+The Summit A - Room c-03b Strawberry (Player1): Nothing (Player3)
+The Summit A - Room c-05 Strawberry (Player1): Crystal Heart 9 (Player1)
+The Summit A - Room c-06b Strawberry (Player1): Birdo (Player3)
+The Summit A - Gem 3 (Player1): The Summit A - Gem 3 (Player1)
+The Summit A - Room c-07b Strawberry (Player1): Lightning for Birdo (Player3)
+The Summit A - Room c-08 Strawberry (Player1): Giant Banana for Petey Piranha (Player3)
+The Summit A - Room c-09 Strawberry (Player1): Raspberry (Player1)
+The Summit A - Room d-00 Strawberry (Player1): Turbo Yoshi (Player3)
+The Summit A - 1500 M (Player1): The Summit A - 1500 M (Player1)
+The Summit A - Room d-01c Strawberry (Player1): Raspberry (Player1)
+The Summit A - Room d-01d Strawberry (Player1): Boo Pipes (Player3)
+The Summit A - Room d-03 Strawberry (Player1): Heart for Waluigi (Player3)
+The Summit A - Cassette (Player1): Raspberry (Player1)
+The Summit A - Room d-04 Strawberry (Player1): Small Heart (Player2)
+The Summit A - Gem 4 (Player1): The Summit A - Gem 4 (Player1)
+The Summit A - Room d-07 Strawberry (Player1): Raspberry (Player1)
+The Summit A - Room d-08 Strawberry (Player1): Theo Crystal (Player1)
+The Summit A - Room d-10b Strawberry (Player1): Wario Car (Player3)
+The Summit A - 2000 M (Player1): The Summit A - 2000 M (Player1)
+The Summit A - Gem 5 (Player1): The Summit A - Gem 5 (Player1)
+The Summit A - Room e-02 Strawberry (Player1): Mini-turbo Extender for Rattle Buggy (Player3)
+The Summit A - Room e-05 Strawberry (Player1): 20 Coins (Player2)
+The Summit A - Room e-07 Strawberry (Player1): Raspberry (Player1)
+The Summit A - Room e-09 Strawberry (Player1): Green Fire (Player3)
+The Summit A - Room e-11 Strawberry (Player1): Giant Banana for Mario (Player3)
+The Summit A - Room e-12 Strawberry (Player1): Raspberry (Player1)
+The Summit A - Room e-10 Strawberry (Player1): Giant Banana for Waluigi (Player3)
+The Summit A - Room e-13 Strawberry (Player1): Bumpers (Player1)
+The Summit A - Room f-00 Strawberry (Player1): Nothing (Player3)
+The Summit A - 2500 M (Player1): The Summit A - 2500 M (Player1)
+The Summit A - Room f-01 Strawberry (Player1): Chain Chomp for Luigi (Player3)
+The Summit A - Gem 6 (Player1): The Summit A - Gem 6 (Player1)
+The Summit A - Room f-07 Strawberry (Player1): Raspberry (Player1)
+The Summit A - 2500 M Key (Player1): The Summit A - 2500 M Key (Player1)
+The Summit A - Room f-08b Strawberry (Player1): Strawberry Seeds (Player1)
+The Summit A - Room f-08c Strawberry (Player1): Nothing (Player3)
+The Summit A - Room f-11 Strawberry 1 (Player1): Banana for Donkey Kong (Player3)
+The Summit A - Room f-11 Strawberry 2 (Player1): Bloom Coach (Player3)
+The Summit A - Room f-11 Strawberry 3 (Player1): Power Steering for Barrel Train (Player3)
+The Summit A - 3000 M (Player1): The Summit A - 3000 M (Player1)
+The Summit A - Crystal Heart (Player1): Baby Mario (Player3)
+The Summit A - Room g-00b Strawberry 1 (Player1): Bowser's Shell for Daisy (Player3)
+The Summit A - Room g-00b Strawberry 2 (Player1): Triple Green Shells for Petey Piranha (Player3)
+The Summit A - Room g-00b Strawberry 3 (Player1): Raspberry (Player1)
+The Summit A - Room g-01 Strawberry 1 (Player1): Nothing (Player3)
+The Summit A - Room g-01 Strawberry 2 (Player1): White Block (Player1)
+The Summit A - Room g-01 Strawberry 3 (Player1): Dust (Player2)
+The Summit A - Room g-03 Strawberry (Player1): Banana for Koopa (Player3)
+The Summit A - Level Clear (Player1): Granny's House Keys (Player1)
+Victory (Player1): Victory (Player1)
+Luigi's Courage (Player2): Dream Blocks (Player1)
+E. Gadd's Gift (Player2): Red Shell for Luigi (Player3)
+1F Washroom Toilet (Player2): Raspberry (Player1)
+Laundry Room Washing Machine (Player2): Moving Platforms (Player1)
+Hidden Room Large Chest R (Player2): Strawberry (Player1)
+Hidden Room Small Chest R Shelf (Player2): Green Shell for Birdo (Player3)
+Hidden Room Small Chest L Floor (Player2): Star for Donkey Kong (Player3)
+Rec Room Treadmill Key (Player2): Sinking Platforms (Player1)
+Courtyard Birdhouse (Player2): Dust (Player2)
+Sealed Room NW Shelf Chest (Player2): Progressive Flower (Player2)
+Sealed Room NE Shelf Chest (Player2): Heart for Koopa (Player3)
+Sealed Room SE Shelf Chest (Player2): Crystal Heart 11 (Player1)
+Sealed Room Table Chest (Player2): Bowser Jr. (Player3)
+Sealed Room Upper L Big Chest (Player2): Strawberry (Player1)
+Sealed Room Upper R Big Chest (Player2): Raspberry (Player1)
+Armory Gray Chest (left, back Wall) (Player2): Raspberry (Player1)
+Armory Gray Chest (middle, back Wall) (Player2): Triple Green Shells for Toadette (Player3)
+Armory Gray Chest (right, back Wall) (Player2): Nothing (Player3)
+Telephone Room R2 Chest (Player2): Giant Banana for Bowser Jr. (Player3)
+Huge Flower (Boneyard) (Player2): Sitting Room Key (Player2)
+Hidden Room Large Chest L (Player2): Star Cup (Player3)
+Hidden Room Large Chest C (Player2): Raspberry (Player1)
+Hidden Room Small Chest L Shelf (Player2): Red Boosters (Player1)
+Hidden Room Small Chest R Floor (Player2): Progressive Flower (Player2)
+Sealed Room Lower Big Chest (Player2): Raspberry (Player1)
+Sealed Room Upper C Big Chest (Player2): Banana for Waluigi (Player3)
+Sealed Room SW Shelf Chest (Player2): Strawberry (Player1)
+Armory 4th Gray Chest (Player2): Nothing (Player3)
+Armory 5th Gray Chest (Player2): Parade Kart (Player3)
+Telephone Room C Chest (Player2): Yoshi Egg for Yoshi (Player3)
+Telephone Room R1 Chest (Player2): Mushroom for Baby Luigi (Player3)
+Storage Room Cage Button (Player2): Raspberry (Player1)
+Storage Room Wall Button (Player2): Blue Boosters (Player1)
+Visit E. Gadd's Gallery (Player2): Strawberry (Player1)
+Complete Training (Player2): Mario's Shoe (Player2)
+Catch 9 Ghosts in Training (Player2): Strawberry (Player1)
+Wardrobe Clear Chest (Player2): 1F Washroom Key (Player2)
+Observatory Shoot the Moon (Player2): Raspberry (Player1)
+Breaker Box (Player2): Blackout (Player2)
+King Boo (Player2): Mario's Painting (Player2)
+Clockwork Clear (Player2): Defeat Clockwork (Player2)
+Shivers Spawn (Player2): Shivers Spawn (Player2)
+Laundry Room Clear Chest (Player2): Nothing (Player3)
+Hidden Room Clear Chest (Player2): Toadette Kart (Player3)
+Mirror Room Clear Chest (Player2): Strawberry (Player1)
+Kitchen Clear Chest (Player2): Seekers (Player1)
+Graveyard Clear Chest (Player2): Raspberry (Player1)
+Courtyard Clear Chest (Player2): Water Element Medal (Player2)
+Tea Room Clear Chest (Player2): Artist's Studio Key (Player2)
+2F Washroom Clear Chest (Player2): Nothing (Player3)
+Projection Room Clear Chest (Player2): Raspberry (Player1)
+Safari Room Clear Chest (Player2): Strawberry (Player1)
+Ballroom Clear Chest (Player2): Raspberry (Player1)
+Cellar Clear Chest (Player2): Raspberry (Player1)
+Roof Clear Chest (Player2): Strawberry (Player1)
+Sealed Room Clear Chest (Player2): Chain Chomp for Diddy Kong (Player3)
+Armory Clear Chest (Player2): Strawberry (Player1)
+Telephone Room Clear Chest (Player2): Bowser's Shell for Toadette (Player3)
+Van Gore's Painting (Artist's Studio) (Player2): Strawberry (Player1)
+Defeat Chauncey (Player2): Raspberry (Player1)
+Defeat Bogmire (Player2): Sherbet Land Time Trial (Player3)
+Defeat Boolussus (Player2): Raspberry (Player1)
+Butler Clear Chest (Player2): Raspberry (Player1)
+Guest Room Clear Chest (Player2): Fake Item for Everybody (Player3)
+Parlor Clear Chest (Player2): Raspberry (Player1)
+Cold Storage Clear Chest (Player2): Banana for King Boo (Player3)
+Breaker Room Clear Chest (Player2): Heart Coach (Player3)
+Twins' Room Clear Chest (Player2): Koopa Dasher (Player3)
+Billiards Room Clear Chest (Player2): Raspberry (Player1)
+Balcony Clear Chest (Player2): Armory Key (Player2)
+Ceramics Studio Clear Chest (Player2): Raspberry (Player1)
+2F Bathroom Clear Chest (Player2): Daisy (Player3)
+Nana's Room Clear Chest (Player2): Paratroopa (Player3)
+Rec Room Clear Chest (Player2): Giant Banana for Paratroopa (Player3)
+Conservatory Clear Chest (Player2): Raspberry (Player1)
+Dining Room Clear Chest (Player2): Dust (Player2)
+Fortune Teller Clear Chest (Player2): Breaker Room Key (Player2)
+Study Clear Chest (Player2): Mushroom City Time Trial (Player3)
+Master Bedroom Clear Chest (Player2): Spade Key (Player2)
+Nursery Clear Chest (Player2): Off-road Tires for Toadette Kart (Player3)
+Pipe Room Clear Chest (Player2): Goo-Goo Buggy (Player3)
+Ghost Foyer Key (Player2): Yoshi Circuit Time Trial (Player3)
+Fortune Teller Candles (Player2): Strawberry (Player1)
+The Well Key (Player2): 20 Coins (Player2)
+Wardrobe Shelf Key (Player2): Raspberry (Player1)
+1F Bathroom Shelf Key (Player2): Laundry Room Key (Player2)
+Butler's Room Boo (Player2): Boo (Player2)
+Hidden Room Boo (Player2): Boo (Player2)
+Fortune-Teller's Room Boo (Player2): Boo (Player2)
+Mirror Room Boo (Player2): Boo (Player2)
+Laundry Room Boo (Player2): Boo (Player2)
+Kitchen Boo (Player2): Boo (Player2)
+Dining Room Boo (Player2): Boo (Player2)
+Ballroom Boo (Player2): Boo (Player2)
+Billiards Room Boo (Player2): Boo (Player2)
+Projection Room Boo (Player2): Boo (Player2)
+Storage Room Boo (Player2): Boo (Player2)
+Conservatory Boo (Player2): Boo (Player2)
+Rec Room Boo (Player2): Boo (Player2)
+Nursery Boo (Player2): Boo (Player2)
+Twins' Room Boo (Player2): Boo (Player2)
+Sitting Room Boo (Player2): Boo (Player2)
+Guest Room Boo (Player2): Boo (Player2)
+Master Bedroom Boo (Player2): Boo (Player2)
+Study Boo (Player2): Boo (Player2)
+Parlor Boo (Player2): Boo (Player2)
+Wardrobe Boo (Player2): Boo (Player2)
+Anteroom Boo (Player2): Boo (Player2)
+Astral Hall Boo (Player2): Boo (Player2)
+Nana's Room Boo (Player2): Boo (Player2)
+Tea Room Boo (Player2): Boo (Player2)
+Armory Boo (Player2): Boo (Player2)
+Telephone Room Boo (Player2): Boo (Player2)
+Safari Room Boo (Player2): Boo (Player2)
+Ceramics Studio Boo (Player2): Boo (Player2)
+Clockwork Room Boo (Player2): Boo (Player2)
+Artist's Studio Boo (Player2): Boo (Player2)
+Cold Storage Boo (Player2): Boo (Player2)
+Cellar Boo (Player2): Boo (Player2)
+Pipe Room Boo (Player2): Boo (Player2)
+Breaker Room Boo (Player2): Boo (Player2)
+Boolossus Fragment 1 (Player2): Boo (Player2)
+Boolossus Fragment 2 (Player2): Boo (Player2)
+Boolossus Fragment 3 (Player2): Boo (Player2)
+Boolossus Fragment 4 (Player2): Boo (Player2)
+Boolossus Fragment 5 (Player2): Boo (Player2)
+Boolossus Fragment 6 (Player2): Boo (Player2)
+Boolossus Fragment 7 (Player2): Boo (Player2)
+Boolossus Fragment 8 (Player2): Boo (Player2)
+Boolossus Fragment 9 (Player2): Boo (Player2)
+Boolossus Fragment 10 (Player2): Boo (Player2)
+Boolossus Fragment 11 (Player2): Boo (Player2)
+Boolossus Fragment 12 (Player2): Boo (Player2)
+Boolossus Fragment 13 (Player2): Boo (Player2)
+Boolossus Fragment 14 (Player2): Boo (Player2)
+Boolossus Fragment 15 (Player2): Boo (Player2)
+Win With Mario and Luigi (Player3): Crystal Heart 15 (Player1)
+Win With Peach and Daisy (Player3): Progressive Vacuum (Player2)
+Win With Yoshi and Birdo (Player3): Gold Diamond (Player2)
+Win With Baby Mario and Baby Luigi (Player3): Family Hallway Key (Player2)
+Win With Toad and Toadette (Player3): Green Shell for Baby Mario (Player3)
+Win With Koopa and Paratroopa (Player3): Raspberry (Player1)
+Win With Donkey Kong and Diddy Kong (Player3): Raspberry (Player1)
+Win With Bowser and Bowser Jr. (Player3): Raspberry (Player1)
+Win With Wario and Waluigi (Player3): Raspberry (Player1)
+Win With Petey Piranha and King Boo (Player3): Raspberry (Player1)
+Win With Mario Driving Red Fire (Player3): 15 Bills (Player2)
+Win With Luigi Driving Green Fire (Player3): Crystal Heart 10 (Player1)
+Win With Peach Driving Heart Coach (Player3): Raspberry (Player1)
+Win With Daisy Driving Bloom Coach (Player3): Yoshi Egg for Wario (Player3)
+Win With Yoshi Driving Turbo Yoshi (Player3): Rainbow Road Time Trial (Player3)
+Win With Birdo Driving Turbo Birdo (Player3): Barrel Train (Player3)
+Win With Baby Mario Driving Goo-Goo Buggy (Player3): Raspberry (Player1)
+Win With Baby Luigi Driving Rattle Buggy (Player3): Progressive Vacuum (Player2)
+Win With Toad Driving Toad Kart (Player3): Mario's Hat (Player2)
+Win With Toadette Driving Toadette Kart (Player3): Heart for Wario (Player3)
+Win With Koopa Driving Koopa Dasher (Player3): Mini-turbo Extender for Koopa Dasher (Player3)
+Win With Paratroopa Driving Para-Wing (Player3): Wario (Player3)
+Win With Donkey Kong Driving DK Jumbo (Player3): Progressive Vacuum (Player2)
+Win With Diddy Kong Driving Barrel Train (Player3): Strawberry (Player1)
+Win With Bowser Driving Koopa King (Player3): Strawberry (Player1)
+Win With Bowser Jr. Driving Bullet Blaster (Player3): Strawberry (Player1)
+Win With Wario Driving Wario Car (Player3): 20 Coins & Bills (Player2)
+Win With Waluigi Driving Waluigi Racer (Player3): Raspberry (Player1)
+Win With Petey Piranha Driving Piranha Pipes (Player3): Strawberry (Player1)
+Win With King Boo Driving Boo Pipes (Player3): Raspberry (Player1)
+Win Gold With a Light Kart (Player3): Raspberry (Player1)
+Win Gold With a Medium Kart (Player3): Progressive CC (Player3)
+Win Gold With a Heavy Kart (Player3): Gold Diamond (Player2)
+Trophy Goal Completed (Player3): All Cup Tour (Player3)
+Mushroom Cup Finish (Player3): Raspberry (Player1)
+Mushroom Cup Perfect (Player3): Raspberry (Player1)
+Mushroom Cup Bronze 50cc (Player3): Raspberry (Player1)
+Mushroom Cup Silver 50cc (Player3): Raspberry (Player1)
+Mushroom Cup Gold 50cc (Player3): Strawberry (Player1)
+Mushroom Cup Gold 50cc (Trophy) (Player3): Trophy (Player3)
+Mushroom Cup Bronze 100cc (Player3): Raspberry (Player1)
+Mushroom Cup Silver 100cc (Player3): Dust (Player2)
+Mushroom Cup Gold 100cc (Player3): Chain Chomp for Daisy (Player3)
+Mushroom Cup Gold 100cc (Trophy) (Player3): Trophy (Player3)
+Mushroom Cup Bronze 150cc (Player3): Torches (Player1)
+Mushroom Cup Silver 150cc (Player3): Cellar Key (Player2)
+Mushroom Cup Gold 150cc (Player3): Golden Mushroom for Bowser Jr. (Player3)
+Mushroom Cup Gold 150cc (Trophy) (Player3): Trophy (Player3)
+Mushroom Cup Bronze Mirror (Player3): Bob-omb for Everybody (Player3)
+Mushroom Cup Silver Mirror (Player3): Donkey Kong (Player3)
+Mushroom Cup Gold Mirror (Player3): Triple Mushrooms for Toad (Player3)
+Mushroom Cup Gold Mirror (Trophy) (Player3): Trophy (Player3)
+Flower Cup Finish (Player3): Star for King Boo (Player3)
+Flower Cup Perfect (Player3): Raspberry (Player1)
+Flower Cup Bronze 50cc (Player3): Dust (Player2)
+Flower Cup Silver 50cc (Player3): Lower 2F Stairwell Key (Player2)
+Flower Cup Gold 50cc (Player3): Raspberry (Player1)
+Flower Cup Gold 50cc (Trophy) (Player3): Trophy (Player3)
+Flower Cup Bronze 100cc (Player3): Yoshi Egg for Diddy Kong (Player3)
+Flower Cup Silver 100cc (Player3): Baby Luigi (Player3)
+Flower Cup Gold 100cc (Player3): Pipe Room Key (Player2)
+Flower Cup Gold 100cc (Trophy) (Player3): Trophy (Player3)
+Flower Cup Bronze 150cc (Player3): Strawberry (Player1)
+Flower Cup Silver 150cc (Player3): Crystal Heart 12 (Player1)
+Flower Cup Gold 150cc (Player3): Boo Radar (Player2)
+Flower Cup Gold 150cc (Trophy) (Player3): Trophy (Player3)
+Flower Cup Bronze Mirror (Player3): Raspberry (Player1)
+Flower Cup Silver Mirror (Player3): Strawberry (Player1)
+Flower Cup Gold Mirror (Player3): Conservatory Key (Player2)
+Flower Cup Gold Mirror (Trophy) (Player3): Trophy (Player3)
+Star Cup Finish (Player3): Raspberry (Player1)
+Star Cup Perfect (Player3): Mario (Player3)
+Star Cup Bronze 50cc (Player3): Blue Clouds (Player1)
+Star Cup Silver 50cc (Player3): Progressive GP Race Skip (Player3)
+Star Cup Gold 50cc (Player3): Bowser's Shell for Birdo (Player3)
+Star Cup Gold 50cc (Trophy) (Player3): Trophy (Player3)
+Star Cup Bronze 100cc (Player3): Raspberry (Player1)
+Star Cup Silver 100cc (Player3): Golden Mushroom for Bowser (Player3)
+Star Cup Gold 100cc (Player3): Raspberry (Player1)
+Star Cup Gold 100cc (Trophy) (Player3): Trophy (Player3)
+Star Cup Bronze 150cc (Player3): Raspberry (Player1)
+Star Cup Silver 150cc (Player3): Yoshi (Player3)
+Star Cup Gold 150cc (Player3): Waluigi Racer (Player3)
+Star Cup Gold 150cc (Trophy) (Player3): Trophy (Player3)
+Star Cup Bronze Mirror (Player3): Nothing (Player3)
+Star Cup Silver Mirror (Player3): Raspberry (Player1)
+Star Cup Gold Mirror (Player3): Raspberry (Player1)
+Star Cup Gold Mirror (Trophy) (Player3): Trophy (Player3)
+Special Cup Finish (Player3): Billiards Room Key (Player2)
+Special Cup Perfect (Player3): Nothing (Player3)
+Special Cup Bronze 50cc (Player3): Daisy Cruiser Time Trial (Player3)
+Special Cup Silver 50cc (Player3): Raspberry (Player1)
+Special Cup Gold 50cc (Player3): Progressive Speed Upgrade (Player3)
+Special Cup Gold 50cc (Trophy) (Player3): Trophy (Player3)
+Special Cup Bronze 100cc (Player3): Nothing (Player3)
+Special Cup Silver 100cc (Player3): Triple Red Shells for Bowser (Player3)
+Special Cup Gold 100cc (Player3): Strawberry (Player1)
+Special Cup Gold 100cc (Trophy) (Player3): Trophy (Player3)
+Special Cup Bronze 150cc (Player3): Raspberry (Player1)
+Special Cup Silver 150cc (Player3): Nothing (Player3)
+Special Cup Gold 150cc (Player3): Raspberry (Player1)
+Special Cup Gold 150cc (Trophy) (Player3): Trophy (Player3)
+Special Cup Bronze Mirror (Player3): Triple Red Shells for Peach (Player3)
+Special Cup Silver Mirror (Player3): King Boo (Player3)
+Special Cup Gold Mirror (Player3): Strawberry (Player1)
+Special Cup Gold Mirror (Trophy) (Player3): Trophy (Player3)
+All Cup Tour Gold (Player3): Victory (Player3)
+Luigi Circuit Finish (Player3): Raspberry (Player1)
+Peach Beach Finish (Player3): Raspberry (Player1)
+Baby Park Finish (Player3): Traffic Blocks (Player1)
+Dry Dry Desert Finish (Player3): Raspberry (Player1)
+Mushroom Bridge Finish (Player3): Nothing (Player3)
+Mario Circuit Finish (Player3): Yoshi Egg for Mario (Player3)
+Daisy Cruiser Finish (Player3): Spiny Shell for Everybody (Player3)
+Waluigi Stadium Finish (Player3): Mushroom Cup (Player3)
+Sherbet Land Finish (Player3): Baby Park Time Trial (Player3)
+Mushroom City Finish (Player3): Heart for Toad (Player3)
+Yoshi Circuit Finish (Player3): Strawberry (Player1)
+DK Mountain Finish (Player3): Special Cup (Player3)
+Wario Colosseum Finish (Player3): Progressive Speed Upgrade (Player3)
+Dino Dino Jungle Finish (Player3): Raspberry (Player1)
+Bowser's Castle Finish (Player3): Strawberry (Player1)
+Rainbow Road Finish (Player3): Giant Banana for Baby Mario (Player3)
+Luigi Circuit Take The Lead (Player3): Yoshi Egg for Baby Luigi (Player3)
+Luigi Circuit 1st (Player3): Strawberry (Player1)
+Win in Luigi Circuit With Luigi (Player3): Star for Bowser (Player3)
+Peach Beach Take The Lead (Player3): Nothing (Player3)
+Peach Beach 1st (Player3): Strawberry (Player1)
+Win in Peach Beach With Peach (Player3): Move Blocks (Player1)
+Baby Park Take The Lead (Player3): 20 Coins (Player2)
+Baby Park 1st (Player3): Raspberry (Player1)
+Win in Baby Park With Baby Mario and Baby Luigi (Player3): Heart for Petey Piranha (Player3)
+Dry Dry Desert Take The Lead (Player3): Power Steering for Red Fire (Player3)
+Dry Dry Desert 1st (Player3): Nothing (Player3)
+Mushroom Bridge Take The Lead (Player3): Gold Diamond (Player2)
+Mushroom Bridge 1st (Player3): Mario's Glove (Player2)
+Mario Circuit Take The Lead (Player3): Bowser's Castle Time Trial (Player3)
+Mario Circuit 1st (Player3): Strawberry (Player1)
+Win in Mario Circuit With Mario (Player3): Crystal Heart 7 (Player1)
+Daisy Cruiser Take The Lead (Player3): Dust (Player2)
+Daisy Cruiser 1st (Player3): Chain Chomp for Yoshi (Player3)
+Win in Daisy Cruiser With Daisy (Player3): Progressive Vacuum (Player2)
+Waluigi Stadium Take The Lead (Player3): DK Mountain Time Trial (Player3)
+Waluigi Stadium 1st (Player3): Raspberry (Player1)
+Win in Waluigi Stadium With Waluigi (Player3): Raspberry (Player1)
+Sherbet Land Take The Lead (Player3): Strawberry (Player1)
+Sherbet Land 1st (Player3): Raspberry (Player1)
+Mushroom City Take The Lead (Player3): Raspberry (Player1)
+Mushroom City 1st (Player3): Small Heart (Player2)
+Yoshi Circuit Take The Lead (Player3): Ice Element Medal (Player2)
+Yoshi Circuit 1st (Player3): Strawberry (Player1)
+Win in Yoshi Circuit With Yoshi (Player3): 15 Bills (Player2)
+DK Mountain Take The Lead (Player3): Dash Refills (Player1)
+DK Mountain 1st (Player3): Extra Weight for Turbo Birdo (Player3)
+Win in DK Mountain With Donkey Kong (Player3): Safari Room Key (Player2)
+Wario Colosseum Take The Lead (Player3): Raspberry (Player1)
+Wario Colosseum 1st (Player3): Feathers (Player1)
+Win in Wario Colosseum With Wario (Player3): 30 Coins (Player2)
+Dino Dino Jungle Take The Lead (Player3): Luigi Circuit Time Trial (Player3)
+Dino Dino Jungle 1st (Player3): Banana for Mario (Player3)
+Bowser's Castle Take The Lead (Player3): Crystal Heart 16 (Player1)
+Bowser's Castle 1st (Player3): Bowser's Shell for Wario (Player3)
+Win in Bowser's Castle With Bowser (Player3): Strawberry (Player1)
+Rainbow Road Take The Lead (Player3): Progressive CC (Player3)
+Rainbow Road 1st (Player3): Raspberry (Player1)
+Luigi Circuit Time Trial in 1:35 (Player3): Nothing (Player3)
+Peach Beach Time Trial in 1:30 (Player3): Raspberry (Player1)
+Baby Park Time Trial in 1:20 (Player3): Strawberry (Player1)
+Dry Dry Desert Time Trial in 2:00 (Player3): Banana for Baby Mario (Player3)
+Mushroom Bridge Time Trial in 1:40 (Player3): Raspberry (Player1)
+Mario Circuit Time Trial in 1:55 (Player3): Badeline Boosters (Player1)
+Daisy Cruiser Time Trial in 2:00 (Player3): Coins (Player1)
+Waluigi Stadium Time Trial in 2:10 (Player3): Banana for Yoshi (Player3)
+Sherbet Land Time Trial in 1:40 (Player3): Storage Room Key (Player2)
+Mushroom City Time Trial in 2:00 (Player3): Dust (Player2)
+Yoshi Circuit Time Trial in 2:15 (Player3): Pink Clouds (Player1)
+DK Mountain Time Trial in 2:20 (Player3): Diamond (Player2)
+Wario Colosseum Time Trial in 2:35 (Player3): Raspberry (Player1)
+Dino Dino Jungle Time Trial in 2:20 (Player3): Strawberry (Player1)
+Bowser's Castle Time Trial in 3:05 (Player3): Progressive Flower (Player2)
+Rainbow Road Time Trial in 3:30 (Player3): Green Shell for Toad (Player3)
+
+Playthrough:
+
+0: {
+  DK Jumbo (Player3)
+  Flower Cup (Player3)
+  Peach (Player3)
+  Progressive Vacuum (Player2)
+  Red Fire (Player3)
+}
+1: {
+  Celestial Resort A - Front Door Key (Player1): Celestial Resort A - Front Door Key (Player1)
+  Celestial Resort A - Room s2 Strawberry 1 (Player1): Heart Key (Player2)
+  Mirror Temple A - Room a-00x Strawberry (Player1): Blue Cassette Blocks (Player1)
+  Old Site A - Crystal Heart (Player1): North Rec Room Key (Player2)
+  Prologue - Level Clear (Player1): Dining Room Key (Player2)
+  Catch 9 Ghosts in Training (Player2): Strawberry (Player1)
+  Ghost Foyer Key (Player2): Yoshi Circuit Time Trial (Player3)
+  Luigi's Courage (Player2): Dream Blocks (Player1)
+  Visit E. Gadd's Gallery (Player2): Strawberry (Player1)
+  DK Mountain Finish (Player3): Special Cup (Player3)
+}
+2: {
+  Old Site A - Room 4 Strawberry (Player1): Springs (Player1)
+  Old Site A - Room d2 Strawberry 2 (Player1): Strawberry (Player1)
+  1F Bathroom Shelf Key (Player2): Laundry Room Key (Player2)
+  Shivers Spawn (Player2): Shivers Spawn (Player2)
+  Baby Park Finish (Player3): Traffic Blocks (Player1)
+  Bowser's Castle Finish (Player3): Strawberry (Player1)
+  Special Cup Finish (Player3): Billiards Room Key (Player2)
+  Wario Colosseum Finish (Player3): Progressive Speed Upgrade (Player3)
+  Yoshi Circuit Finish (Player3): Strawberry (Player1)
+}
+3: {
+  Old Site A - Room d4 Strawberry (Player1): Bowser (Player3)
+  Hidden Room Large Chest L (Player2): Star Cup (Player3)
+  Hidden Room Large Chest R (Player2): Strawberry (Player1)
+  Hidden Room Small Chest L Shelf (Player2): Red Boosters (Player1)
+  Laundry Room Washing Machine (Player2): Moving Platforms (Player1)
+}
+4: {
+  DK Mountain Take The Lead (Player3): Dash Refills (Player1)
+  Flower Cup Gold 50cc (Trophy) (Player3): Trophy (Player3)
+  Flower Cup Silver 50cc (Player3): Lower 2F Stairwell Key (Player2)
+  Luigi Circuit 1st (Player3): Strawberry (Player1)
+  Mushroom Bridge Take The Lead (Player3): Gold Diamond (Player2)
+  Peach Beach 1st (Player3): Strawberry (Player1)
+  Rainbow Road Take The Lead (Player3): Progressive CC (Player3)
+  Sherbet Land Finish (Player3): Baby Park Time Trial (Player3)
+  Sherbet Land Take The Lead (Player3): Strawberry (Player1)
+  Special Cup Bronze 50cc (Player3): Daisy Cruiser Time Trial (Player3)
+  Special Cup Gold 50cc (Player3): Progressive Speed Upgrade (Player3)
+  Special Cup Gold 50cc (Trophy) (Player3): Trophy (Player3)
+  Star Cup Bronze 50cc (Player3): Blue Clouds (Player1)
+  Star Cup Gold 50cc (Trophy) (Player3): Trophy (Player3)
+  Waluigi Stadium Finish (Player3): Mushroom Cup (Player3)
+  Wario Colosseum 1st (Player3): Feathers (Player1)
+  Win in Bowser's Castle With Bowser (Player3): Strawberry (Player1)
+  Win in Peach Beach With Peach (Player3): Move Blocks (Player1)
+  Yoshi Circuit 1st (Player3): Strawberry (Player1)
+  Yoshi Circuit Take The Lead (Player3): Ice Element Medal (Player2)
+}
+5: {
+  Celestial Resort A - Hallway Key 1 (Player1): Celestial Resort A - Hallway Key 1 (Player1)
+  Forsaken City A - Room 7a Strawberry (Player1): Parlor Key (Player2)
+  Forsaken City A - Room 7z Strawberry (Player1): Pink Cassette Blocks (Player1)
+  Forsaken City A - Room 7zb Strawberry (Player1): Strawberry (Player1)
+  Forsaken City A - Room 8b Strawberry (Player1): Dash Switches (Player1)
+  Old Site A - Room d3 Strawberry (Player1): Master Bedroom Key (Player2)
+  Courtyard Clear Chest (Player2): Water Element Medal (Player2)
+  Rec Room Treadmill Key (Player2): Sinking Platforms (Player1)
+  Baby Park Time Trial in 1:20 (Player3): Strawberry (Player1)
+  Daisy Cruiser Time Trial in 2:00 (Player3): Coins (Player1)
+  Flower Cup Gold 100cc (Player3): Pipe Room Key (Player2)
+  Flower Cup Gold 100cc (Trophy) (Player3): Trophy (Player3)
+  Flower Cup Silver 100cc (Player3): Baby Luigi (Player3)
+  Mario Circuit 1st (Player3): Strawberry (Player1)
+  Mushroom Cup Gold 50cc (Player3): Strawberry (Player1)
+  Mushroom Cup Gold 50cc (Trophy) (Player3): Trophy (Player3)
+  Special Cup Gold 100cc (Player3): Strawberry (Player1)
+  Special Cup Gold 100cc (Trophy) (Player3): Trophy (Player3)
+  Star Cup Gold 100cc (Trophy) (Player3): Trophy (Player3)
+  Yoshi Circuit Time Trial in 2:15 (Player3): Pink Clouds (Player1)
+}
+6: {
+  Celestial Resort A - Hallway Key 2 (Player1): Celestial Resort A - Hallway Key 2 (Player1)
+  Mirror Temple A - Room a-01 Strawberry 2 (Player1): Strawberry (Player1)
+  Defeat Bogmire (Player2): Sherbet Land Time Trial (Player3)
+  Tea Room Clear Chest (Player2): Artist's Studio Key (Player2)
+  Win Gold With a Medium Kart (Player3): Progressive CC (Player3)
+}
+7: {
+  Celestial Resort A - Brown Clutter (Player1): Celestial Resort A - Brown Clutter (Player1)
+  Celestial Resort A - Green Clutter (Player1): Celestial Resort A - Green Clutter (Player1)
+  Celestial Resort A - Pink Clutter (Player1): Celestial Resort A - Pink Clutter (Player1)
+  Celestial Resort A - Room 10-y Strawberry (Player1): Petey Piranha (Player3)
+  Celestial Resort A - Room 11-d Strawberry (Player1): Swap Blocks (Player1)
+  Celestial Resort A - Room 12-c Strawberry (Player1): Fire Element Medal (Player2)
+  Flower Cup Bronze 150cc (Player3): Strawberry (Player1)
+  Flower Cup Gold 150cc (Player3): Boo Radar (Player2)
+  Flower Cup Gold 150cc (Trophy) (Player3): Trophy (Player3)
+  Mushroom Cup Silver 150cc (Player3): Cellar Key (Player2)
+  Sherbet Land Time Trial in 1:40 (Player3): Storage Room Key (Player2)
+  Special Cup Gold 150cc (Trophy) (Player3): Trophy (Player3)
+  Star Cup Gold 150cc (Trophy) (Player3): Trophy (Player3)
+}
+8: {
+  Celestial Resort A - Huge Mess Key (Player1): Celestial Resort A - Huge Mess Key (Player1)
+  Mirror Temple A - Entrance Key (Player1): Mirror Temple A - Entrance Key (Player1)
+  Mirror Temple A - Room a-11 Strawberry (Player1): Fortune Teller Key (Player2)
+  Mirror Temple A - Room a-15 Strawberry (Player1): Strawberry (Player1)
+  Astral Hall Boo (Player2): Boo (Player2)
+  Billiards Room Boo (Player2): Boo (Player2)
+  Butler's Room Boo (Player2): Boo (Player2)
+  Cellar Boo (Player2): Boo (Player2)
+  Dining Room Boo (Player2): Boo (Player2)
+  Hidden Room Boo (Player2): Boo (Player2)
+  Kitchen Boo (Player2): Boo (Player2)
+  Kitchen Clear Chest (Player2): Seekers (Player1)
+  Laundry Room Boo (Player2): Boo (Player2)
+  Nana's Room Boo (Player2): Boo (Player2)
+  Parlor Boo (Player2): Boo (Player2)
+  Pipe Room Boo (Player2): Boo (Player2)
+  Projection Room Boo (Player2): Boo (Player2)
+  Rec Room Boo (Player2): Boo (Player2)
+  Tea Room Boo (Player2): Boo (Player2)
+  Trophy Goal Completed (Player3): All Cup Tour (Player3)
+}
+9: {
+  Celestial Resort A - Presidential Suite Key (Player1): Celestial Resort A - Presidential Suite Key (Player1)
+  Celestial Resort A - Room 03-b Strawberry 2 (Player1): Anteroom Key (Player2)
+  Mirror Temple A - Cassette (Player1): Strawberry (Player1)
+  Mirror Temple A - Room b-01c Strawberry (Player1): Strawberry (Player1)
+  Mirror Temple A - Room b-20 Strawberry 2 (Player1): Piranha Pipes (Player3)
+  Mirror Temple A - Room c-08 Strawberry (Player1): Ballroom Key (Player2)
+  Mirror Temple A - Room d-04 Strawberry 1 (Player1): Bullet Blaster (Player3)
+  Mirror Temple A - Room d-13 Strawberry (Player1): Clockwork Key (Player2)
+  Fortune Teller Candles (Player2): Strawberry (Player1)
+  Mirror Room Boo (Player2): Boo (Player2)
+  Mirror Room Clear Chest (Player2): Strawberry (Player1)
+  All Cup Tour Gold (Player3): Victory (Player3)
+}
+10: {
+  Celestial Resort A - Room roof03 Strawberry (Player1): Strawberry (Player1)
+  Celestial Resort A - Room roof06 Strawberry 1 (Player1): Strawberry (Player1)
+  Anteroom Boo (Player2): Boo (Player2)
+  Ballroom Boo (Player2): Boo (Player2)
+  Storage Room Boo (Player2): Boo (Player2)
+  Storage Room Wall Button (Player2): Blue Boosters (Player1)
+  Wardrobe Boo (Player2): Boo (Player2)
+  Win With Petey Piranha Driving Piranha Pipes (Player3): Strawberry (Player1)
+}
+11: {
+  Golden Ridge A - Cassette (Player1): Cold Storage Key (Player2)
+  Golden Ridge A - Level Clear (Player1): Dino Dino Jungle Time Trial (Player3)
+  Golden Ridge A - Room a-04 Strawberry (Player1): Strawberry (Player1)
+  Golden Ridge A - Room b-02 Strawberry 2 (Player1): Diamond Key (Player2)
+  Golden Ridge A - Room c-00 Strawberry (Player1): Strawberry (Player1)
+  Golden Ridge A - Room c-06b Strawberry (Player1): Koopa King (Player3)
+  Golden Ridge A - Room d-00b Strawberry (Player1): Progressive CC (Player3)
+  Golden Ridge A - Room d-04 Strawberry (Player1): Strawberry (Player1)
+  Golden Ridge A - Room d-07 Strawberry (Player1): Strawberry (Player1)
+}
+12: {
+  Cold Storage Boo (Player2): Boo (Player2)
+  Dino Dino Jungle Time Trial in 2:20 (Player3): Strawberry (Player1)
+  Flower Cup Gold Mirror (Player3): Conservatory Key (Player2)
+  Flower Cup Silver Mirror (Player3): Strawberry (Player1)
+  Mushroom Cup Silver Mirror (Player3): Donkey Kong (Player3)
+  Special Cup Gold Mirror (Player3): Strawberry (Player1)
+  Win With Bowser Driving Koopa King (Player3): Strawberry (Player1)
+}
+13: {
+  Conservatory Boo (Player2): Boo (Player2)
+  Win in DK Mountain With Donkey Kong (Player3): Safari Room Key (Player2)
+}
+14: {
+  Artist's Studio Boo (Player2): Boo (Player2)
+  Boolossus Fragment 1 (Player2): Boo (Player2)
+  Boolossus Fragment 10 (Player2): Boo (Player2)
+  Boolossus Fragment 11 (Player2): Boo (Player2)
+  Boolossus Fragment 12 (Player2): Boo (Player2)
+  Boolossus Fragment 13 (Player2): Boo (Player2)
+  Boolossus Fragment 14 (Player2): Boo (Player2)
+  Boolossus Fragment 15 (Player2): Boo (Player2)
+  Boolossus Fragment 2 (Player2): Boo (Player2)
+  Boolossus Fragment 3 (Player2): Boo (Player2)
+  Boolossus Fragment 4 (Player2): Boo (Player2)
+  Boolossus Fragment 5 (Player2): Boo (Player2)
+  Boolossus Fragment 6 (Player2): Boo (Player2)
+  Boolossus Fragment 7 (Player2): Boo (Player2)
+  Boolossus Fragment 8 (Player2): Boo (Player2)
+  Boolossus Fragment 9 (Player2): Boo (Player2)
+  Clockwork Clear (Player2): Defeat Clockwork (Player2)
+  Clockwork Room Boo (Player2): Boo (Player2)
+  Safari Room Boo (Player2): Boo (Player2)
+  Safari Room Clear Chest (Player2): Strawberry (Player1)
+  Telephone Room Boo (Player2): Boo (Player2)
+  Van Gore's Painting (Artist's Studio) (Player2): Strawberry (Player1)
+}
+15: {
+  Roof Clear Chest (Player2): Strawberry (Player1)
+  Sealed Room SW Shelf Chest (Player2): Strawberry (Player1)
+  Sealed Room Table Chest (Player2): Bowser Jr. (Player3)
+  Sealed Room Upper L Big Chest (Player2): Strawberry (Player1)
+}
+16: {
+  Win With Bowser Jr. Driving Bullet Blaster (Player3): Strawberry (Player1)
+}
+17: {
+  The Summit A - Room a-04b Strawberry 1 (Player1): Mario Circuit Time Trial (Player3)
+}
+18: {
+  Mario Circuit Time Trial in 1:55 (Player3): Badeline Boosters (Player1)
+}
+19: {
+  The Summit A - 2500 M Key (Player1): The Summit A - 2500 M Key (Player1)
+  The Summit A - Gem 1 (Player1): The Summit A - Gem 1 (Player1)
+  The Summit A - Gem 2 (Player1): The Summit A - Gem 2 (Player1)
+  The Summit A - Gem 3 (Player1): The Summit A - Gem 3 (Player1)
+  The Summit A - Gem 4 (Player1): The Summit A - Gem 4 (Player1)
+  The Summit A - Gem 5 (Player1): The Summit A - Gem 5 (Player1)
+  The Summit A - Gem 6 (Player1): The Summit A - Gem 6 (Player1)
+}
+20: {
+  The Summit A - Crystal Heart (Player1): Baby Mario (Player3)
+  The Summit A - Level Clear (Player1): Granny's House Keys (Player1)
+}
+21: {
+  Victory (Player1): Victory (Player1)
+  Win With Baby Mario and Baby Luigi (Player3): Family Hallway Key (Player2)
+}
+22: {
+  Master Bedroom Clear Chest (Player2): Spade Key (Player2)
+}
+23: {
+  King Boo (Player2): Mario's Painting (Player2)
+}
+
+Paths:
+
+1F Bathroom Shelf Key (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 1F Bathroom
+   =>   1F Bathroom
+Anteroom Boo (Player2)
+        Foyer -> Foyer -> Parlor
+   =>   Parlor -> Parlor -> Anteroom
+   =>   Anteroom
+Artist's Studio Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Artist's Studio
+   =>   Artist's Studio
+Astral Hall Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Astral Hall
+   =>   Astral Hall
+Ballroom Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Ballroom
+   =>   Ballroom
+Billiards Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Billiards Room
+   =>   Billiards Room
+Boolossus Fragment 1 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 10 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 11 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 12 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 13 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 14 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 15 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 2 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 3 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 4 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 5 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 6 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 7 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 8 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Boolossus Fragment 9 (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony
+Butler's Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Laundry Room
+   =>   Laundry Room -> Laundry Room -> Butler's Room
+   =>   Butler's Room
+Catch 9 Ghosts in Training (Player2)
+        Foyer (Player2)
+Cellar Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Basement Stairwell
+   =>   Basement Stairwell -> Basement Stairwell -> Cellar
+   =>   Cellar
+Clockwork Clear (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony -> Balcony -> West Attic Hallway
+   =>   West Attic Hallway -> West Attic Hallway -> Telephone Room
+   =>   Telephone Room -> Telephone Room -> Clockwork Room
+   =>   Clockwork Room
+Clockwork Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony -> Balcony -> West Attic Hallway
+   =>   West Attic Hallway -> West Attic Hallway -> Telephone Room
+   =>   Telephone Room -> Telephone Room -> Clockwork Room
+   =>   Clockwork Room
+Cold Storage Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Basement Stairwell
+   =>   Basement Stairwell -> Basement Stairwell -> Cellar
+   =>   Cellar -> Cellar -> Basement Hallway
+   =>   Basement Hallway -> Basement Hallway -> Cold Storage
+   =>   Cold Storage
+Conservatory Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Conservatory
+   =>   Conservatory
+Courtyard Clear Chest (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> Rec Room
+   =>   Rec Room -> Rec Room -> Courtyard
+   =>   Courtyard
+Defeat Bogmire (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Dining Room
+   =>   Dining Room -> Dining Room -> Kitchen
+   =>   Kitchen -> Kitchen -> Boneyard
+   =>   Boneyard -> Boneyard -> Graveyard
+   =>   Graveyard
+Dining Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Dining Room
+   =>   Dining Room
+Fortune Teller Candles (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Fortune-Teller's Room
+   =>   Fortune-Teller's Room
+Ghost Foyer Key (Player2)
+        Foyer (Player2)
+Hidden Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Laundry Room
+   =>   Laundry Room -> Laundry Room -> Butler's Room
+   =>   Butler's Room -> Butler's Room -> Hidden Room
+   =>   Hidden Room
+Hidden Room Large Chest L (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Laundry Room
+   =>   Laundry Room -> Laundry Room -> Butler's Room
+   =>   Butler's Room -> Butler's Room -> Hidden Room
+   =>   Hidden Room
+Hidden Room Large Chest R (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Laundry Room
+   =>   Laundry Room -> Laundry Room -> Butler's Room
+   =>   Butler's Room -> Butler's Room -> Hidden Room
+   =>   Hidden Room
+Hidden Room Small Chest L Shelf (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Laundry Room
+   =>   Laundry Room -> Laundry Room -> Butler's Room
+   =>   Butler's Room -> Butler's Room -> Hidden Room
+   =>   Hidden Room
+King Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Basement Stairwell
+   =>   Basement Stairwell -> Basement Stairwell -> Cellar
+   =>   Cellar -> Cellar -> Basement Hallway
+   =>   Basement Hallway -> Basement Hallway -> Altar Hallway
+   =>   Altar Hallway -> Altar Hallway -> Secret Altar
+   =>   Secret Altar
+Kitchen Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Dining Room
+   =>   Dining Room -> Dining Room -> Kitchen
+   =>   Kitchen
+Kitchen Clear Chest (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Dining Room
+   =>   Dining Room -> Dining Room -> Kitchen
+   =>   Kitchen
+Laundry Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Laundry Room
+   =>   Laundry Room
+Laundry Room Washing Machine (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Laundry Room
+   =>   Laundry Room
+Luigi's Courage (Player2)
+        Foyer (Player2)
+Master Bedroom Clear Chest (Player2)
+        Foyer -> Foyer -> Family Hallway
+   =>   Family Hallway -> Family Hallway -> Master Bedroom
+   =>   Master Bedroom
+Mirror Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Fortune-Teller's Room
+   =>   Fortune-Teller's Room -> Fortune-Teller's Room -> Mirror Room
+   =>   Mirror Room
+Mirror Room Clear Chest (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Fortune-Teller's Room
+   =>   Fortune-Teller's Room -> Fortune-Teller's Room -> Mirror Room
+   =>   Mirror Room
+Nana's Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Nana's Room
+   =>   Nana's Room
+Parlor Boo (Player2)
+        Foyer -> Foyer -> Parlor
+   =>   Parlor
+Pipe Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Basement Stairwell
+   =>   Basement Stairwell -> Basement Stairwell -> Cellar
+   =>   Cellar -> Cellar -> Basement Hallway
+   =>   Basement Hallway -> Basement Hallway -> Pipe Room
+   =>   Pipe Room
+Projection Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Billiards Room
+   =>   Billiards Room -> Billiards Room -> Projection Room
+   =>   Projection Room
+Rec Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> Rec Room
+   =>   Rec Room
+Rec Room Treadmill Key (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> Rec Room
+   =>   Rec Room
+Roof Clear Chest (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony -> Balcony -> West Attic Hallway
+   =>   West Attic Hallway -> West Attic Hallway -> Telephone Room
+   =>   Telephone Room -> Telephone Room -> Clockwork Room
+   =>   Clockwork Room -> Clockwork Room -> Roof
+   =>   Roof
+Safari Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room
+Safari Room Clear Chest (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room
+Sealed Room SW Shelf Chest (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony -> Balcony -> West Attic Hallway
+   =>   West Attic Hallway -> West Attic Hallway -> Telephone Room
+   =>   Telephone Room -> Telephone Room -> Clockwork Room
+   =>   Clockwork Room -> Clockwork Room -> Roof
+   =>   Roof -> Roof -> Sealed Room
+   =>   Sealed Room
+Sealed Room Table Chest (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony -> Balcony -> West Attic Hallway
+   =>   West Attic Hallway -> West Attic Hallway -> Telephone Room
+   =>   Telephone Room -> Telephone Room -> Clockwork Room
+   =>   Clockwork Room -> Clockwork Room -> Roof
+   =>   Roof -> Roof -> Sealed Room
+   =>   Sealed Room
+Sealed Room Upper L Big Chest (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony -> Balcony -> West Attic Hallway
+   =>   West Attic Hallway -> West Attic Hallway -> Telephone Room
+   =>   Telephone Room -> Telephone Room -> Clockwork Room
+   =>   Clockwork Room -> Clockwork Room -> Roof
+   =>   Roof -> Roof -> Sealed Room
+   =>   Sealed Room
+Shivers Spawn (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway
+Storage Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Ballroom
+   =>   Ballroom -> Ballroom -> Storage Room
+   =>   Storage Room
+Storage Room Wall Button (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> Ballroom
+   =>   Ballroom -> Ballroom -> Storage Room
+   =>   Storage Room
+Tea Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> Tea Room
+   =>   Tea Room
+Tea Room Clear Chest (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> Tea Room
+   =>   Tea Room
+Telephone Room Boo (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Balcony
+   =>   Balcony -> Balcony -> West Attic Hallway
+   =>   West Attic Hallway -> West Attic Hallway -> Telephone Room
+   =>   Telephone Room
+Van Gore's Painting (Artist's Studio) (Player2)
+        Foyer -> Foyer -> 1F Hallway
+   =>   1F Hallway -> 1F Hallway -> 2F Stairwell
+   =>   2F Stairwell -> 2F Stairwell -> 2F Rear Hallway
+   =>   2F Rear Hallway -> 2F Rear Hallway -> Safari Room
+   =>   Safari Room -> Safari Room -> East Attic Hallway
+   =>   East Attic Hallway -> East Attic Hallway -> Artist's Studio
+   =>   Artist's Studio
+Visit E. Gadd's Gallery (Player2)
+        Foyer (Player2)
+Wardrobe Boo (Player2)
+        Foyer -> Foyer -> Parlor
+   =>   Parlor -> Parlor -> Anteroom
+   =>   Anteroom -> Anteroom -> Wardrobe
+   =>   Wardrobe
