@@ -1,0 +1,2439 @@
+﻿Archipelago Version 0.6.3  -  Seed: 398821322069266575
+
+Filling Algorithm:               balanced
+Players:                         3
+Plando Options:                  connections, texts, bosses
+
+Player 1: Player1
+Game:                            Pokemon Crystal
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Goal:                            Elite Four
+Johto Only:                      Off
+Elite Four Requirement:          Badges
+Elite Four Count:                8
+Red Requirement:                 Badges
+Red Count:                       16
+Mt. Silver Requirement:          Badges
+Mt. Silver Count:                16
+Radio Tower Requirement:         Badges
+Radio Tower Count:               7
+Route 44 Access Requirement:     Badges
+Route 44 Access Count:           7
+Vanilla Clair:                   No
+Randomize Starting Town:         No
+Starting Town Blocklist:         
+Randomize Badges:                Completely Random
+Randomize Hidden Items:          No
+Require Itemfinder:              Logically Required
+Route 32 Access Condition:       Egg From Aide
+Kanto Access Requirement:        Wake Snorlax
+Kanto Access Count:              8
+Red Gyarados Access:             Vanilla
+Route 2 Access:                  Ledge
+Route 3 Access:                  Vanilla
+Blackthorn Dark Cave Access:     Vanilla
+National Park Access:            Vanilla
+Mount Mortar Access:             Vanilla
+Johto Trainersanity:             0
+Kanto Trainersanity:             0
+Trainersanity Alerts:            Message Box
+Randomize Wilds:                 Vanilla
+Dexsanity:                       0
+Dexsanity Starters:              Allow
+Dexcountsanity:                  0
+Dexcountsanity Step:             1
+Dexcountsanity Leniency:         0
+Wild Encounter Methods Required: Fishing, Headbutt, Land, Rock Smash, Surfing
+Enforce Wild Encounter Methods Logic:No
+Static Pokemon Required:         Yes
+Evolution Methods Required:      Happiness, Level, Level Tyrogue, Use Item
+Evolution Gym Levels:            8
+Breeding Method Required:        With Ditto
+Shopsanity:                      
+Shopsanity Prices:               Vanilla
+Minimum Shopsanity Price:        100
+Maximum Shopsanity Price:        3000
+Provide Shop Hints:              Off
+Shopsanity Restrict Rare Candies:No
+Randomize Pokegear:              No
+Randomize Berry Trees:           No
+Randomize Pokemon Requests:      Off
+Shuffle Fly Unlocks:             Off
+Randomize Starters:              Vanilla
+Starter Blocklist:               
+Starter BST Range:               310
+Wild Encounter Blocklist:        
+Encounter Grouping:              All Split
+Force Fully Evolved:             0
+Encounter Slot Distribution:     Remove One Percents
+Randomize Static Pokemon:        No
+Static Blocklist:                
+Level Scaling:                   Off
+Randomize Trades:                Vanilla
+Randomize Trainer Parties:       Vanilla
+Trainer Party Blocklist:         
+Boost Trainer Pokemon Levels:    Vanilla
+Trainer Level Boost Value:       1
+Randomize Learnsets:             Vanilla
+Metronome Only:                  No
+Move Learnset Type Bias:         -1
+Randomize Move Values:           Vanilla
+Randomize Move Types:            No
+Randomize TM Moves:              No
+TM Compatibility:                -1
+HM Compatibility:                -1
+HM Power Cap:                    255
+Randomize Base Stats:            Vanilla
+Randomize Types:                 Vanilla
+Randomize Evolution:             Vanilla
+Evolution Blocklist:             
+Randomize Palettes:              Vanilla
+Randomize Music:                 Off
+Move Blocklist:                  
+TM Blocklist:                    
+Free Fly Location:               Off
+Fly Location Blocklist:          
+Early Fly:                       No
+Fly Cheese:                      Out Of Logic
+HM Badge Requirements:           Vanilla
+Remove Badge Requirement:        
+Remove Ilex Forest Cut Tree:     Yes
+Saffron Gatehouse Tea:           
+East - West Underground:         No
+Undergrounds Require Power:      Both
+Reusable TMs:                    No
+Minimum Catch Rate:              0
+Skip Elite Four:                 No
+Better Marts:                    No
+Experience Modifier:             20
+Starting Money:                  3000
+All Pokemon Seen:                No
+Phone Trap Weight:               0
+Sleep Trap Weight:               0
+Poison Trap Weight:              0
+Burn Trap Weight:                0
+Freeze Trap Weight:              0
+Paralysis Trap Weight:           0
+Remote Items:                    No
+Game Options:                    ap_item_sound: on, auto_run: off, battle_animations: all, battle_move_stats: off, battle_shift: shift, bike_music: on, blind_trainers: off, catch_exp: off, dex_area_beep: off, exp_distribution: gen2, fast_egg_hatch: off, fast_egg_make: off, guaranteed_catch: off, low_hp_beep: on, menu_account: on, poison_flicker: on, rods_always_work: off, short_fanfares: off, skip_dex_registration: off, skip_nicknames: off, sound: mono, spinners: normal, surf_music: on, text_frame: 1, text_speed: mid, time_of_day: auto, trainersanity_indication: off, turbo_button: none
+Enable Mischief:                 No
+Start Inventory from Pool:       
+Death Link:                      No
+
+Player 2: Player2
+Game:                            Pokemon Emerald
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Goal:                            Champion
+Randomize Badges:                Completely Random
+Randomize HMs:                   Completely Random
+Randomize Key Items:             Yes
+Randomize Bikes:                 No
+Randomize Event Tickets:         No
+Randomize Fishing Rods:          No
+Randomize Overworld Items:       Yes
+Randomize Hidden Items:          No
+Randomize NPC Gifts:             No
+Randomize Berry Trees:           No
+Dexsanity:                       No
+Trainersanity:                   No
+Item Pool Type:                  Shuffled
+Require Itemfinder:              Yes
+Require Flash:                   Both
+Elite Four Requirement:          Badges
+Elite Four Count:                8
+Norman Requirement:              Badges
+Norman Count:                    4
+Legendary Hunt Requires Catching:No
+Legendary Hunt Count:            3
+Allowed Legendary Hunt Encounters:Deoxys, Groudon, Ho-Oh, Kyogre, Latias, Latios, Lugia, Mew, Rayquaza, Regice, Regirock, Registeel
+Randomize Wild Pokemon:          Vanilla
+Wild Encounter Blacklist:        
+Randomize Starters:              Vanilla
+Starter Blacklist:               
+Randomize Trainer Parties:       Vanilla
+Trainer Party Blacklist:         
+Force Fully Evolved:             100
+Randomize Legendary Encounters:  Vanilla
+Randomize Misc Pokemon:          Vanilla
+Randomize Types:                 Vanilla
+Randomize Abilities:             Vanilla
+Ability Blacklist:               
+Level Up Moves:                  Vanilla
+Move Match Type Bias:            0
+Move Normal Type Bias:           0
+TM/Tutor Compatibility:          -1
+HM Compatibility:                -1
+TM/Tutor Moves:                  No
+Reusable TMs and Tutors:         No
+Move Blacklist:                  
+Minimum Catch Rate:              3
+Guaranteed Catch:                No
+Normalize Encounter Rates:       No
+Exp Modifier:                    100
+Blind Trainers:                  No
+Purge Spinners:                  No
+Match Trainer Levels:            Off
+Match Trainer Levels Modifier:   0
+Double Battle Chance:            0
+Better Shops:                    No
+Remove Roadblocks:               
+Extra Boulders:                  No
+Extra Bumpy Slope:               No
+Modify Route 118:                No
+Free Fly Location:               No
+Free Fly Blacklist:              Dewford Town, Littleroot Town, Oldale Town, Petalburg City, Rustboro City
+HM Requirements:                 Vanilla
+Turbo A:                         No
+Receive Item Messages:           All
+Remote Items:                    No
+Randomize Music:                 No
+Randomize Fanfares:              No
+Death Link:                      No
+Wonder Trading:                  Yes
+Easter Egg:                      EMERALD SECRET
+
+Player 3: Player3
+Game:                            Sonic Heroes
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Goal:                            Metal Overlord
+Goal Unlock Condition:           Both
+Emerald Stage Location Type:     Priority
+Skip Metal Madness:              Yes
+Emblem Pool Size:                12
+Required Emblems Percent:        70
+Required Rank:                   E
+Dont lose the Bonus Key when dying or getting hit:No
+Number of Level Gates:           3
+Sonic Story:                     Disabled
+Super Hard Mode Sonic Act 2:     No
+Sonic Key Sanity:                Disabled
+Sonic Checkpoint Sanity:         Disabled
+Dark Story:                      Disabled
+Dark Sanity:                     Disabled
+Dark Key Sanity:                 Disabled
+Dark Checkpoint Sanity:          Disabled
+Rose Story:                      Mission A Only
+Rose Sanity:                     Disabled
+Rose Key Sanity:                 Disabled
+Rose Checkpoint Sanity:          Disabled
+Chaotix Story:                   Disabled
+Chaotix Sanity:                  Disabled
+Chaotix Key Sanity:              Disabled
+Chaotix Checkpoint Sanity:       Disabled
+Sanity Excluded Percent:         80
+Ring Link Enabled:               No
+Ring Link on Metal Overlord:     No
+Modern Ring Loss Enabled:        No
+Trap Fill Percentage:            0
+Stealth Trap Weight:             50
+Freeze Trap Weight:              50
+No Swap Trap Weight:             50
+Ring Trap Weight:                50
+Charmy Trap Weight:              50
+Death Link:                      No
+THE EMBLEM POOL SIZE IS 12
+
+Connecting Region Gate 3 to Region Metal Overlord with rule: Emblems Required: 8 AND all 7 Chaos Emeralds
+
+Connecting Region Gate 0 to Region Team Rose Level 12 with rule: None
+
+Connecting Region Gate 0 to Region Emerald 6 with rule: None
+
+Connecting Region Gate 0 to Region Team Rose Level 11 with rule: None
+
+Connecting Region Gate 0 to Region Team Rose Level 2 with rule: None
+
+Connecting Region Gate 0 to Region Emerald 1 with rule: None
+
+Connecting Region Gate 0 to Region Team Rose Level 1 with rule: None
+
+Connecting Region Menu to Region Gate 0 with rule: None
+
+Connecting Region Gate 1 to Region Team Rose Level 3 with rule: None
+
+Connecting Region Gate 1 to Region Team Rose Level 14 with rule: None
+
+Connecting Region Gate 1 to Region Emerald 7 with rule: None
+
+Connecting Region Gate 1 to Region Team Rose Level 9 with rule: None
+
+Connecting Region Gate 1 to Region Team Rose Level 6 with rule: None
+
+Connecting Region Gate 1 to Region Emerald 3 with rule: None
+
+Connecting Region Gate 0 to Region Gate Boss between Gate 0 and Gate 1 with rule: Emblems Required: 2
+
+Connecting Region Gate Boss between Gate 0 and Gate 1 to Region Team Fight 2 with rule: None
+
+Connecting Region Gate Boss between Gate 0 and Gate 1 to Region Gate 1 with rule: Boss Gate Item 1 Required
+
+Connecting Region Gate 2 to Region Team Rose Level 8 with rule: None
+
+Connecting Region Gate 2 to Region Emerald 4 with rule: None
+
+Connecting Region Gate 2 to Region Team Rose Level 5 with rule: None
+
+Connecting Region Gate 2 to Region Team Rose Level 4 with rule: None
+
+Connecting Region Gate 2 to Region Emerald 2 with rule: None
+
+Connecting Region Gate 1 to Region Gate Boss between Gate 1 and Gate 2 with rule: Emblems Required: 4
+
+Connecting Region Gate Boss between Gate 1 and Gate 2 to Region Egg Albatross with rule: None
+
+Connecting Region Gate Boss between Gate 1 and Gate 2 to Region Gate 2 with rule: Boss Gate Item 2 Required
+
+Connecting Region Gate 3 to Region Team Rose Level 13 with rule: None
+
+Connecting Region Gate 3 to Region Team Rose Level 10 with rule: None
+
+Connecting Region Gate 3 to Region Emerald 5 with rule: None
+
+Connecting Region Gate 3 to Region Team Rose Level 7 with rule: None
+
+Connecting Region Gate 2 to Region Gate Boss between Gate 2 and Gate 3 with rule: Emblems Required: 6
+
+Connecting Region Gate Boss between Gate 2 and Gate 3 to Region Team Fight 1 with rule: None
+
+Connecting Region Gate Boss between Gate 2 and Gate 3 to Region Gate 3 with rule: Boss Gate Item 3 Required
+THE FULL ITEM POOL SIZE IS 25
+
+Gate Costs is: [2, 4, 6, 8]
+
+Pokemon Crystal (Player1):
+
+
+Locations:
+
+Azalea Gym - Hive Badge from Bugsy (Player1): Shield (Player3)
+Azalea Gym - TM49 from Bugsy (Player1): Silver Wing (Player1)
+Blackthorn City - Spell Tag from Santos (Player1): Nugget (Player2)
+Blackthorn Gym - Rising Badge from Clair (Player1): X Special (Player2)
+Blackthorn Gym - TM24 from Clair (Player1): Full Restore (Player1)
+Burned Tower 1F - Item (Player1): Revive (Player1)
+Burned Tower B1F - Item (Player1): 5 Rings (Player3)
+Celadon Gym - Rainbow Badge from Erika (Player1): Elixer (Player1)
+Celadon Gym - TM19 from Erika (Player1): GS Ball (Player1)
+Celadon City - TM03 from Man on Mansion Roof (Player1): Iron (Player1)
+Cerulean Gym - Cascade Badge from Misty (Player1): Ice Heal (Player2)
+Cerulean Gym - Machine Part in Water (Player1): HM05 Flash (Player1)
+Charcoal Kiln - Charcoal (Player1): HP Up (Player2)
+Cherrygrove City - Mystic Water from Island Man (Player1): Dire Hit (Player1)
+Cianwood City - HM02 from Chuck's Wife (Player1): Super Potion (Player1)
+Cianwood Gym - Storm Badge from Chuck (Player1): Max Revive (Player1)
+Cianwood Gym - TM01 from Chuck (Player1): Dragon Scale (Player1)
+Cianwood Pharmacy - Secretpotion (Player1): TM26 (Player1)
+Copycat's House - Pass from Copycat (Player1): TM47 (Player1)
+Ecruteak City - HM03 from Theater Director (Player1): TM03 (Player1)
+Dark Cave Blackthorn Entrance - Blackglasses from Man (Player1): Psncureberry (Player1)
+Dark Cave Blackthorn Entrance - Southeast Item (Player1): Escape Rope (Player2)
+Dark Cave Blackthorn Entrance - Southwest Item (Player1): Parlyz Heal (Player1)
+Dark Cave Violet Entrance - West Item (Player1): Protein (Player1)
+Dark Cave Violet Entrance - Southeast Item (Left) (Player1): Rare Candy (Player1)
+Dark Cave Violet Entrance - Southeast Item (Right) (Player1): X Defend (Player2)
+Dark Cave Violet Entrance - Northeast Item (Player1): Carbos (Player1)
+Dragon's Den B1F - Northeast Item (Player1): X Accuracy (Player2)
+Dragon's Den B1F - West Item (Player1): Star Piece (Player2)
+Dragon's Den B1F - East Item (Player1): Max Revive (Player2)
+Ecruteak City - Fog Badge from Morty (Player1): Super Potion (Player2)
+Ecruteak Gym - TM30 from Morty (Player1): Pink Bow (Player1)
+Ecruteak City - Itemfinder from Itemfinder Guy (Player1): Berry (Player1)
+Elm's Lab - Master Ball from Elm (Player1): S.S. Ticket (Player2)
+Elm's Lab - Gift from Aide after returning Mystery Egg (Player1): Master Ball (Player2)
+Elm's Lab - Potion from Aide (Player1): HP Up (Player1)
+Elm's Lab - S.S. Ticket from Elm (Player1): Nugget (Player1)
+S.S. Aqua - Metal Coat from Grandpa (Player1): Nugget (Player1)
+Fighting Dojo - Item (Player1): Moon Stone (Player2)
+Fuchsia Gym - Soul Badge from Janine (Player1): Dive Ball (Player2)
+Fuchsia Gym - TM06 from Janine (Player1): Amulet Coin (Player1)
+Goldenrod City - Bicycle from Bike Shop (Player1): Soul Badge (Player1)
+Goldenrod Dept. Store 5F - TM21 from Receptionist (Player1): Harbor Mail (Player2)
+Goldenrod Dept. Store 5F - TM27 from Receptionist (Player1): Glitter Mail (Player2)
+Goldenrod Dept. Store B1F - Northwest Item (Player1): Fog Badge (Player1)
+Goldenrod Dept. Store B1F - South Item (Player1): Max Potion (Player1)
+Goldenrod Dept. Store B1F - Southeast Item (Player1): Poke Ball (Player1)
+Goldenrod Dept. Store B1F - Item behind Card Key Door (Player1): Escape Rope (Player2)
+Goldenrod City - Squirtbottle from Flower Shop (Player1): Room 1 Key (Player2)
+Goldenrod Gym - Plain Badge from Whitney (Player1): TM36 (Player1)
+Goldenrod Gym - TM45 from Whitney (Player1): Protein (Player1)
+Goldenrod City - Post-E4 GS Ball from Trade Corner Receptionist (Player1): Nugget (Player1)
+Goldenrod UG - Item (Player1): Ultra Ball (Player1)
+Goldenrod UG B2F - East Item (Player1): Mineral Badge (Player1)
+Goldenrod UG B2F - Southwest Item (Player1): Full Restore (Player1)
+Goldenrod UG Warehouse - Southeast Item (Player1): Big Pearl (Player2)
+Goldenrod UG Warehouse - Center Item (Player1): Nugget (Player1)
+Goldenrod UG Warehouse - Northwest Item (Player1): Ultra Ball (Player1)
+Goldenrod UG Warehouse - Card Key from Director (Player1): Ultra Ball (Player1)
+Ice Path 1F - HM07 in Itemball (Player1): Protein (Player2)
+Ice Path 1F - Southeast Item (Player1): TM13 (Player2)
+Ice Path 1F - East Item (Player1): HP Up (Player1)
+Ice Path B1F - Item (Player1): Blackbelt (Player1)
+Ice Path B2F - Southeast Item (Player1): Super Repel (Player2)
+Ice Path B2F - Northwest Item (Player1): Rare Candy (Player2)
+Ice Path B2F - Center Item (Player1): HM07 Waterfall (Player2)
+Ice Path B3F - Item (Player1): Rare Candy (Player2)
+Ilex Forest - North Item (Player1): Revive (Player1)
+Ilex Forest - Northeast Item (Player1): Mystic Water (Player1)
+Ilex Forest - West Item (Player1): Max Revive (Player1)
+Ilex Forest - TM02 from Headbutt Guy (Player1): Protein (Player2)
+Ilex Forest - HM01 from Farfetch'd Guy (Player1): Itemfinder (Player1)
+Ilex Forest - Southeast Item (Player1): Revival Herb (Player2)
+Azalea Town - Lure Ball from Kurt (Player1): Green Chaos Emerald (Player3)
+Lake of Rage - Red Scale from Gyarados (Player1): Rare Candy (Player1)
+Lake of Rage - Blackbelt from Wesley (Player1): Antidote (Player1)
+Lake of Rage - Northwest Item (Player1): Emblem (Player3)
+Lake of Rage - Northeast Item (Player1): Charcoal (Player1)
+Lake of Rage - TM10 from Hidden Power House (Player1): Meteorite (Player2)
+Mahogany Gym - Glacier Badge from Pryce (Player1): Flying Level Up (Player3)
+Mahogany Gym - TM16 from Pryce (Player1): Nevermeltice (Player1)
+Mount Mortar 1F Inside - Southeast Item (Player1): Rare Candy (Player1)
+Mount Mortar 1F Inside - West Item (Player1): Leaf Stone (Player2)
+Mount Mortar 1F Inside - East Item (Player1): Lost Item (Player1)
+Mount Mortar 1F Inside - Center Item (Left) (Player1): TM11 (Player1)
+Mount Mortar 1F Inside - Northwest Item (Player1): Full Restore (Player1)
+Mount Mortar 1F Inside - Center Item (Right) (Player1): TM37 (Player1)
+Mount Mortar 1F Inside - North Item (Player1): Mysteryberry (Player1)
+Mount Mortar 1F Outside - Item up West Ladder (Player1): Dragon Fang (Player1)
+Mount Mortar 1F Outside - Item up East Ladder (Player1): TM30 (Player1)
+Mount Mortar 2F - North Item (Player1): Full Heal (Player2)
+Mount Mortar 2F - Northwest Item (Player1): Ultra Ball (Player1)
+Mount Mortar 2F - Northeast Item (Player1): Repel (Player2)
+Mount Mortar 2F - East Item (Player1): Earth Badge (Player1)
+Mount Mortar 2F - Southwest Item (Player1): TM29 (Player2)
+Mount Mortar 2F - Center Item (Player1): Coin Case (Player2)
+Mount Mortar B1F - West Item (Player1): Thunder Stone (Player2)
+Mount Mortar B1F - Southeast Item (Player1): Max Repel (Player1)
+Mount Mortar B1F - East Item (Player1): Awakening (Player1)
+Mount Mortar B1F - Northeast Item (Player1): 10 Rings (Player3)
+Mount Mortar B1F - South Item (Player1): Elixer (Player1)
+Route 30 - Exp Share from Mr Pokemon (Player1): Guard Spec (Player1)
+Route 30 - Mystery Egg from Mr Pokemon (Player1): Revive (Player2)
+Saffron City - TM29 from Mr Psychic (Player1): Calcium (Player1)
+National Park - Northeast Item (Player1): Card Key (Player1)
+National Park - Southwest Item (Player1): Heal Powder (Player1)
+National Park - Quick Claw from Lady (Player1): Burn Heal (Player1)
+Olivine City - HM04 from Sailor in Cafe (Player1): Ultra Ball (Player1)
+Olivine City - Good Rod from Fishing Guru (Player1): Revival Herb (Player1)
+Olivine Gym - Mineral Badge from Jasmine (Player1): Blackglasses (Player1)
+Olivine Gym - TM23 from Jasmine (Player1): Power Level Up (Player3)
+Olivine Lighthouse 3F - Item (Player1): Max Elixir (Player2)
+Olivine Lighthouse 5F - East Item (Player1): Max Revive (Player1)
+Olivine Lighthouse 5F - Center Item (Player1): Storm Badge (Player1)
+Olivine Lighthouse 5F - Southwest Item (Player1): Emblem (Player3)
+Olivine Lighthouse 6F - Item (Player1): X Attack (Player1)
+Pewter City - Silver Wing from Old Man (Player1): Escape Rope (Player2)
+Pewter Gym - Boulder Badge from Brock (Player1): Elixir (Player2)
+Vermilion City - Rare Candy from Fan Club President (Player1): Escape Rope (Player2)
+Vermilion City - Lost Item from Guy in Fan Club (Player1): HM04 Strength (Player2)
+Power Plant - TM07 from Manager (Player1): Escape Rope (Player1)
+Radio Tower 2F - Blue Card from Buena (Player1): Yellow Chaos Emerald (Player3)
+Radio Tower 3F - TM11 from Woman (Player1): Room 6 Key (Player2)
+Radio Tower 4F - Pink Bow from Mary (Player1): Full Heal (Player1)
+Radio Tower 5F - Basement Key from False Director (Player1): Harbor Mail (Player2)
+Radio Tower 5F - Clear Bell from Rocket Boss (Player1): Revive (Player1)
+Radio Tower 5F - Item (Player1): Escape Rope (Player1)
+Rock Tunnel 1F - East Item (Player1): Go Goggles (Player2)
+Rock Tunnel 1F - Center Item (Player1): Ultra Ball (Player1)
+Rock Tunnel B1F - South Item (Player1): Escape Rope (Player1)
+Rock Tunnel B1F - West Item (Player1): Super Repel (Player1)
+Rock Tunnel B1F - North Item (Player1): TM18 (Player1)
+Route 12 - Item behind North Cut Tree (Player1): Potion (Player1)
+Route 12 - Item behind South Cut Tree across Water (Player1): TM45 (Player1)
+Route 12 - Super Rod from Fishing Guru (Player1): Water Stone (Player2)
+Route 15 - Item (Player1): Potion (Player1)
+Route 2 - West Item in Forest (Player1): Iron (Player1)
+Route 2 - Center Item in Forest (Player1): HP Up (Player2)
+Route 2 - Northeast Item (Player1): Mystery Egg (Player1)
+Route 2 - Southeast Item (Player1): PP Max (Player2)
+Route 2 - Nugget from Guy (Player1): Star Piece (Player2)
+Route 25 - Nugget Bridge Prize (Player1): Max Potion (Player2)
+Route 25 - Item behind Cut Tree (Player1): Plain Badge (Player1)
+Route 26 - Item (Player1): TM39 (Player1)
+Route 27 - West Item across Water (Player1): Feather Badge (Player2)
+Route 27 - East Item behind Whirlpool (Player1): Purple Chaos Emerald (Player3)
+Route 27 - TM37 from Woman in House (Player1): Ultra Ball (Player2)
+Route 28 - TM47 from Celebrity in House (Player1): TM40 (Player1)
+Route 29 - Pink Bow from Tuscany (Player1): Max Potion (Player1)
+Route 29 - Item (Player1): Quick Claw (Player1)
+Route 30 - Item (Player1): Calcium (Player1)
+Route 30 - Berry from House (Player1): Zinc (Player2)
+Route 31 - South Item (Player1): PP Up (Player1)
+Route 31 - Northeast Item (Player1): Green Shard (Player2)
+Route 31 - TM50 for delivering Kenya (Player1): Revive (Player1)
+Route 32 - Miracle Seed from Man in North (Player1): Gold Berry (Player1)
+Route 32 - Poison Barb from Frieda (Player1): Ultra Ball (Player1)
+Route 32 - South Item (Player1): TM02 (Player2)
+Route 32 - North Item (Player1): Max Potion (Player1)
+Route 32 - TM05 from Roar Guy (Player1): Sea Incense (Player2)
+Route 32 - Old Rod from Pokecenter Fishing Guru (Player1): PP Up (Player1)
+Route 34 - Item across Water (Player1): Nugget (Player2)
+Route 34 - Soft Sand from Kate (Player1): Good Rod (Player1)
+Route 34 - TM12 from Woman in Gate (Player1): Ice Heal (Player1)
+Route 35 - Item (Player1): Moon Stone (Player1)
+Route 35 - HP Up after delivering Kenya (Player1): Stone Badge (Player2)
+Route 36 - Hard Stone from Arthur (Player1): Max Elixir (Player2)
+Route 36 - TM08 from Rock Smash Guy (Player1): Dynamo Badge (Player2)
+Route 37 - Magnet from Sunny (Player1): TM43 (Player1)
+Moomoo Farm - TM13 after feeding Moomoo (Player1): Hyper Potion (Player1)
+Route 4 - Item (Player1): Mysteryberry (Player1)
+Route 40 - Sharp Beak from Monica (Player1): Wave Mail (Player2)
+Route 42 - West Item (Player1): Poke Ball (Player2)
+Route 42 - Item across Water (Player1): Ether (Player2)
+Route 43 - Item (Player1): Big Pearl (Player2)
+Route 43 - TM36 from Guard in Gate (Player1): Elixir (Player2)
+Route 44 - West Item (Player1): Nugget (Player1)
+Route 44 - East Item (Player1): Big Pearl (Player2)
+Route 44 - Center Item across Water (Player1): Ether (Player2)
+Route 45 - North Item (Player1): Max Elixir (Player2)
+Route 45 - Center Item (Top) (Player1): TM16 (Player1)
+Route 45 - Center Item (Bottom) (Player1): PP Up (Player2)
+Route 45 - Southwest Item (Player1): X Speed (Player2)
+Route 46 - Item (Player1): TM24 (Player1)
+Route 5 - Cleanse Tag from Woman in House (Player1): Revive (Player2)
+Ruins of Alph - Aerodactyl Room Top Right Item (Player1): Energy Root (Player1)
+Ruins of Alph - Aerodactyl Room Bottom Left Item (Player1): Full Heal (Player2)
+Ruins of Alph - Aerodactyl Room Top Left Item (Player1): TM01 (Player1)
+Ruins of Alph - Aerodactyl Room Bottom Right Item (Player1): TM18 (Player2)
+Ruins of Alph - Ho-Oh Room Top Right Item (Player1): Metal Coat (Player1)
+Ruins of Alph - Ho-Oh Room Bottom Left Item (Player1): Devon Scope (Player2)
+Ruins of Alph - Ho-Oh Room Bottom Right Item (Player1): Zephyr Badge (Player1)
+Ruins of Alph - Ho-Oh Room Top Left Item (Player1): HM01 Cut (Player2)
+Ruins of Alph - Kabuto Room Bottom Left Item (Player1): Max Ether (Player1)
+Ruins of Alph - Kabuto Room Top Right Item (Player1): TM30 (Player2)
+Ruins of Alph - Kabuto Room Top Left Item (Player1): Full Restore (Player1)
+Ruins of Alph - Kabuto Room Bottom Right Item (Player1): Great Ball (Player1)
+Ruins of Alph - Omanyte Room Bottom Left Item (Player1): Max Ether (Player2)
+Ruins of Alph - Omanyte Room Bottom Right Item (Player1): Never-Melt Ice (Player2)
+Ruins of Alph - Omanyte Room Top Left Item (Player1): Guard Spec (Player2)
+Ruins of Alph - Omanyte Room Top Right Item (Player1): Great Ball (Player2)
+Saffron Gym - Marsh Badge from Sabrina (Player1): TM06 (Player2)
+Seafoam Gym - Volcano Badge from Blaine (Player1): TM49 (Player1)
+Silph Co 1F - Up-Grade from Guard (Player1): Max Revive (Player1)
+Silver Cave 2F - North Chamber Item (Player1): Max Potion (Player1)
+Silver Cave 2F - South Chamber Item (Player1): Super Rod (Player1)
+Silver Cave 1F - Southwest Item (Player1): PP Up (Player1)
+Silver Cave 1F - Northwest Item (Player1): Full Heal (Player1)
+Silver Cave 1F - Southeast Item (Player1): Machine Part (Player1)
+Silver Cave 1F - Center Item (Player1): X Attack (Player1)
+Silver Cave 2F - Northeast Item (Player1): Potion (Player2)
+Silver Cave 2F - West Item (Player1): TM42 (Player1)
+Silver Cave 2F - East Item (Player1): Charcoal (Player1)
+Slowpoke Well B1F - Item (Player1): Poke Ball (Player2)
+Slowpoke Well B2F - Kings Rock from Man (Player1): Hyper Potion (Player2)
+Slowpoke Well B2F - Item (Player1): TM27 (Player1)
+Sprout Tower 1F - Item (Player1): Carbos (Player2)
+Sprout Tower 2F - Item (Player1): HM03 Surf (Player2)
+Sprout Tower 3F - HM05 from Sage (Player1): HM07 Waterfall (Player1)
+Sprout Tower 3F - North Item (Player1): Full Restore (Player1)
+Sprout Tower 3F - South Item (Player1): Full Heal (Player1)
+Rocket HQ B1F - Item besides Computer (Player1): TM01 (Player2)
+Rocket HQ B1F - East Item (Player1): Rainbow Wing (Player1)
+Rocket HQ B1F - South Item (Player1): TM21 (Player1)
+Rocket HQ B2F - HM06 from Lance (Player1): Red Chaos Emerald (Player3)
+Rocket HQ B2F - Item (Player1): Full Heal (Player1)
+Rocket HQ B3F - East Item (Player1): S.S. Ticket (Player1)
+Rocket HQ B3F - North Item (Player1): Ultra Ball (Player2)
+Rocket HQ B3F - West Item (Left) (Player1): TM22 (Player1)
+Rocket HQ B3F - Center Item (Player1): Zinc (Player2)
+Rocket HQ B3F - West Item (Right) (Player1): Super Repel (Player2)
+Tin Tower 1F - Rainbow Wing (Player1): Repel (Player1)
+Tin Tower 3F - Item (Player1): Carbos (Player1)
+Tin Tower 4F - Southwest Item (Player1): HP Up (Player1)
+Tin Tower 4F - Southeast Item (Player1): Shadow Mail (Player2)
+Tin Tower 4F - East Item (Player1): TM28 (Player1)
+Tin Tower 5F - Item (Player1): Full Restore (Player1)
+Tin Tower 6F - Item (Player1): Bicycle (Player1)
+Tin Tower 7F - Item (Player1): PP Up (Player2)
+Tin Tower 8F - Northwest Item (Player1): Revive (Player2)
+Tin Tower 8F - Center Item (Player1): Protein (Player1)
+Tin Tower 8F - South Item (Player1): Hive Badge (Player1)
+Tin Tower 9F - Item (Player1): PP Up (Player1)
+Tohjo Falls - Item (Player1): TM07 (Player1)
+Union Cave 1F - South Item (Player1): TM12 (Player1)
+Union Cave 1F - East Item (Player1): Full Heal (Player2)
+Union Cave 1F - West Item (Player1): Dire Hit (Player2)
+Union Cave 1F - North Item (Player1): Iron (Player2)
+Union Cave B1F - West Item (Player1): Poke Ball (Player2)
+Union Cave B1F - East Item (Player1): Up-Grade (Player1)
+Union Cave B2F - North Item (Player1): Protein (Player2)
+Union Cave B2F - Center Item (Player1): Stardust (Player1)
+Vermilion City - HP Up from Man nowhere near PokeCenter (Player1): Blue Chaos Emerald (Player3)
+Vermilion Gym - Thunder Badge from Lt. Surge (Player1): Bead Mail (Player2)
+Victory Road 1F - North Item (Right) (Player1): TM02 (Player1)
+Victory Road 2F - Northeast Item (Player1): Max Ether (Player1)
+Victory Road 2F - South Item (Player1): Great Ball (Player1)
+Victory Road 1F - North Item (Left) (Player1): Repel (Player2)
+Victory Road 2F - Northwest Item (Player1): Full Restore (Player2)
+Violet City - Northwest Item across Water (Player1): PP Up (Player2)
+Violet City - Northeast Item across Water (Player1): Rare Candy (Player2)
+Violet Gym - TM31 from Falkner (Player1): Balance Badge (Player2)
+Violet Gym - Zephyr Badge from Falkner (Player1): Wood Mail (Player2)
+Viridian City - TM42 from Sleepy Guy (Player1): Emblem (Player3)
+Viridian Gym - Earth Badge from Blue (Player1): Soft Sand (Player1)
+Whirl Islands B1F - Southeast Item (Player1): Energy Powder (Player2)
+Whirl Islands B1F - Southwest Item (Player1): Ultra Ball (Player2)
+Whirl Islands B1F - South Item (Player1): Escape Rope (Player1)
+Whirl Islands B1F - Northwest Item (Player1): Nugget (Player1)
+Whirl Islands B1F - North Item (Player1): Full Heal (Player2)
+Whirl Islands B2F - East Item (Player1): PP Up (Player1)
+Whirl Islands B2F - West Item (Player1): Wailmer Pail (Player2)
+Whirl Islands B2F - North Item (Player1): Max Potion (Player1)
+Whirl Islands 1F - Item in Northeast Island (Player1): Secretpotion (Player1)
+Whirl Islands 1F - Item in Southwest Island (Player1): Carbos (Player2)
+EVENT_VISITED_LITTLEROOT_TOWN (Player2): EVENT_VISITED_LITTLEROOT_TOWN (Player2)
+FREE_FLY_LOCATION (Player2): EVENT_VISITED_LITTLEROOT_TOWN (Player2)
+TERRA_CAVE_LOCATION (Player2): TERRA_CAVE_ROUTE_118_2 (Player2)
+MARINE_CAVE_LOCATION (Player2): MARINE_CAVE_ROUTE_129_1 (Player2)
+EVENT_VISITED_OLDALE_TOWN (Player2): EVENT_VISITED_OLDALE_TOWN (Player2)
+EVENT_VISITED_PETALBURG_CITY (Player2): EVENT_VISITED_PETALBURG_CITY (Player2)
+EVENT_DEFEAT_NORMAN (Player2): EVENT_DEFEAT_NORMAN (Player2)
+EVENT_RETURN_DEVON_GOODS (Player2): EVENT_RETURN_DEVON_GOODS (Player2)
+EVENT_VISITED_RUSTBORO_CITY (Player2): EVENT_VISITED_RUSTBORO_CITY (Player2)
+EVENT_DEFEAT_ROXANNE (Player2): EVENT_DEFEAT_ROXANNE (Player2)
+EVENT_TALK_TO_MR_STONE (Player2): EVENT_TALK_TO_MR_STONE (Player2)
+EVENT_VISITED_DEWFORD_TOWN (Player2): EVENT_VISITED_DEWFORD_TOWN (Player2)
+EVENT_DEFEAT_BRAWLY (Player2): EVENT_DEFEAT_BRAWLY (Player2)
+EVENT_AQUA_STEALS_SUBMARINE (Player2): EVENT_AQUA_STEALS_SUBMARINE (Player2)
+EVENT_VISITED_SLATEPORT_CITY (Player2): EVENT_VISITED_SLATEPORT_CITY (Player2)
+EVENT_BUY_HARBOR_MAIL (Player2): EVENT_BUY_HARBOR_MAIL (Player2)
+EVENT_TALK_TO_DOCK (Player2): EVENT_TALK_TO_DOCK (Player2)
+EVENT_RESCUE_CAPT_STERN (Player2): EVENT_RESCUE_CAPT_STERN (Player2)
+EVENT_VISITED_MAUVILLE_CITY (Player2): EVENT_VISITED_MAUVILLE_CITY (Player2)
+EVENT_DEFEAT_WATTSON (Player2): EVENT_DEFEAT_WATTSON (Player2)
+EVENT_VISITED_VERDANTURF_TOWN (Player2): EVENT_VISITED_VERDANTURF_TOWN (Player2)
+EVENT_VISITED_FALLARBOR_TOWN (Player2): EVENT_VISITED_FALLARBOR_TOWN (Player2)
+EVENT_VISITED_LAVARIDGE_TOWN (Player2): EVENT_VISITED_LAVARIDGE_TOWN (Player2)
+EVENT_DEFEAT_FLANNERY (Player2): EVENT_DEFEAT_FLANNERY (Player2)
+EVENT_VISITED_FORTREE_CITY (Player2): EVENT_VISITED_FORTREE_CITY (Player2)
+EVENT_MOVE_TUTOR_DIG (Player2): EVENT_MOVE_TUTOR_DIG (Player2)
+EVENT_WINGULL_QUEST_1 (Player2): EVENT_WINGULL_QUEST_1 (Player2)
+EVENT_DEFEAT_WINONA (Player2): EVENT_DEFEAT_WINONA (Player2)
+EVENT_VISITED_LILYCOVE_CITY (Player2): EVENT_VISITED_LILYCOVE_CITY (Player2)
+EVENT_VISITED_MOSSDEEP_CITY (Player2): EVENT_VISITED_MOSSDEEP_CITY (Player2)
+EVENT_DEFEAT_TATE_AND_LIZA (Player2): EVENT_DEFEAT_TATE_AND_LIZA (Player2)
+EVENT_DEFEAT_MAXIE_AT_SPACE_STATION (Player2): EVENT_DEFEAT_MAXIE_AT_SPACE_STATION (Player2)
+EVENT_STEVEN_GIVES_DIVE (Player2): EVENT_STEVEN_GIVES_DIVE (Player2)
+EVENT_WINGULL_QUEST_2 (Player2): EVENT_WINGULL_QUEST_2 (Player2)
+EVENT_RAYQUAZA_STOPS_FIGHT (Player2): EVENT_RAYQUAZA_STOPS_FIGHT (Player2)
+EVENT_VISITED_SOOTOPOLIS_CITY (Player2): EVENT_VISITED_SOOTOPOLIS_CITY (Player2)
+EVENT_DEFEAT_JUAN (Player2): EVENT_DEFEAT_JUAN (Player2)
+EVENT_VISITED_PACIFIDLOG_TOWN (Player2): EVENT_VISITED_PACIFIDLOG_TOWN (Player2)
+EVENT_VISITED_EVER_GRANDE_CITY (Player2): EVENT_VISITED_EVER_GRANDE_CITY (Player2)
+EVENT_DEFEAT_CHAMPION (Player2): EVENT_DEFEAT_CHAMPION (Player2)
+EVENT_RECOVER_DEVON_GOODS (Player2): EVENT_RECOVER_DEVON_GOODS (Player2)
+EVENT_DELIVER_LETTER (Player2): EVENT_DELIVER_LETTER (Player2)
+EVENT_RELEASE_GROUDON (Player2): EVENT_RELEASE_GROUDON (Player2)
+EVENT_ENCOUNTER_REGIROCK (Player2): EVENT_ENCOUNTER_REGIROCK (Player2)
+EVENT_MAGMA_STEALS_METEORITE (Player2): EVENT_MAGMA_STEALS_METEORITE (Player2)
+EVENT_DEFEAT_STEVEN (Player2): EVENT_DEFEAT_STEVEN (Player2)
+EVENT_ENCOUNTER_REGICE (Player2): EVENT_ENCOUNTER_REGICE (Player2)
+EVENT_TURN_OFF_GENERATOR (Player2): EVENT_TURN_OFF_GENERATOR (Player2)
+EVENT_ENCOUNTER_REGISTEEL (Player2): EVENT_ENCOUNTER_REGISTEEL (Player2)
+EVENT_CLEAR_AQUA_HIDEOUT (Player2): EVENT_CLEAR_AQUA_HIDEOUT (Player2)
+EVENT_RELEASE_KYOGRE (Player2): EVENT_RELEASE_KYOGRE (Player2)
+EVENT_ENCOUNTER_RAYQUAZA (Player2): EVENT_ENCOUNTER_RAYQUAZA (Player2)
+EVENT_UNDO_REGI_SEAL (Player2): EVENT_UNDO_REGI_SEAL (Player2)
+EVENT_ENCOUNTER_GROUDON (Player2): EVENT_ENCOUNTER_GROUDON (Player2)
+EVENT_ENCOUNTER_KYOGRE (Player2): EVENT_ENCOUNTER_KYOGRE (Player2)
+EVENT_ENCOUNTER_LATIAS (Player2): EVENT_ENCOUNTER_LATIAS (Player2)
+EVENT_ENCOUNTER_MEW (Player2): EVENT_ENCOUNTER_MEW (Player2)
+EVENT_ENCOUNTER_DEOXYS (Player2): EVENT_ENCOUNTER_DEOXYS (Player2)
+EVENT_ENCOUNTER_LUGIA (Player2): EVENT_ENCOUNTER_LUGIA (Player2)
+EVENT_ENCOUNTER_HO_OH (Player2): EVENT_ENCOUNTER_HO_OH (Player2)
+EVENT_MEET_FLOWER_SHOP_OWNER (Player2): EVENT_MEET_FLOWER_SHOP_OWNER (Player2)
+EVENT_COMPLETE_TRICK_HOUSE_1 (Player2): EVENT_COMPLETE_TRICK_HOUSE_1 (Player2)
+EVENT_COMPLETE_TRICK_HOUSE_2 (Player2): EVENT_COMPLETE_TRICK_HOUSE_2 (Player2)
+EVENT_COMPLETE_TRICK_HOUSE_3 (Player2): EVENT_COMPLETE_TRICK_HOUSE_3 (Player2)
+EVENT_COMPLETE_TRICK_HOUSE_4 (Player2): EVENT_COMPLETE_TRICK_HOUSE_4 (Player2)
+EVENT_COMPLETE_TRICK_HOUSE_5 (Player2): EVENT_COMPLETE_TRICK_HOUSE_5 (Player2)
+EVENT_COMPLETE_TRICK_HOUSE_6 (Player2): EVENT_COMPLETE_TRICK_HOUSE_6 (Player2)
+EVENT_COMPLETE_TRICK_HOUSE_7 (Player2): EVENT_COMPLETE_TRICK_HOUSE_7 (Player2)
+EVENT_RECOVER_METEORITE (Player2): EVENT_RECOVER_METEORITE (Player2)
+EVENT_ENCOUNTER_LATIOS (Player2): EVENT_ENCOUNTER_LATIOS (Player2)
+EVENT_DEFEAT_SHELLY (Player2): EVENT_DEFEAT_SHELLY (Player2)
+Artisan Cave 1F - Item (Player2): Big Pearl (Player2)
+Artisan Cave B1F - Item (Player2): Max Elixer (Player1)
+Littleroot Town - Aurora Ticket from Norman (Player2): Aurora Ticket (Player2)
+Littleroot Town - Eon Ticket from Norman (Player2): Eon Ticket (Player2)
+Littleroot Town - Mystic Ticket from Norman (Player2): Mystic Ticket (Player2)
+Littleroot Town - Old Sea Map from Norman (Player2): Old Sea Map (Player2)
+Littleroot Town - S.S. Ticket from Norman (Player2): Super Repel (Player2)
+Petalburg City - Item Past Pond North (Player2): Blue Card (Player1)
+Petalburg City - Item Past Pond South (Player2): Max Revive (Player2)
+Petalburg City - HM03 from Wally's Uncle (Player2): Elixer (Player1)
+Petalburg Gym - Balance Badge (Player2): Elixer (Player1)
+Rustboro City - Item Behind Fences (Player2): Kings Rock (Player1)
+Rustboro Gym - Stone Badge (Player2): HM02 Fly (Player1)
+Devon Corp 3F - Letter from Mr. Stone (Player2): HP Up (Player2)
+Rustboro City - HM01 from Cutter's House (Player2): Ether (Player1)
+Dewford Town - Old Rod from Fisherman (Player2): Old Rod (Player2)
+Dewford Gym - Knuckle Badge (Player2): X Special (Player1)
+Mauville City - Item (Player2): Heat Badge (Player2)
+Mauville City - Basement Key from Wattson (Player2): Focus Band (Player1)
+Mauville Gym - Dynamo Badge (Player2): Emblem (Player3)
+Mauville City - Acro Bike (Player2): Acro Bike (Player2)
+Mauville City - Mach Bike (Player2): Mach Bike (Player2)
+Mauville City - HM06 from Rock Smash Guy (Player2): Glacier Badge (Player1)
+Mauville City - Coin Case from Lady in House (Player2): Potion (Player2)
+Lavaridge Town - Go Goggles from Rival (Player2): Calcium (Player2)
+Lavaridge Gym - Heat Badge (Player2): Great Ball (Player2)
+Fortree Gym - Feather Badge (Player2): Potion (Player1)
+Lilycove City - Item on Peninsula (Player2): Rare Candy (Player2)
+Lilycove City - Pokeblock Case from Contest Hall (Player2): Star Piece (Player1)
+Mossdeep City - Item (Player2): Mystic Water (Player1)
+Mossdeep Gym - Mind Badge (Player2): Escape Rope (Player1)
+Mossdeep City - HM08 from Steven's House (Player2): Calcium (Player2)
+Mossdeep City - Super Rod from Fisherman in House (Player2): Super Rod (Player2)
+Sootopolis City - HM07 from Wallace (Player2): Hyper Potion (Player1)
+Sootopolis Gym - Rain Badge (Player2): X Defend (Player1)
+Petalburg Woods - Item Northwest (Player2): Elixer (Player1)
+Petalburg Woods - Item Southwest (Player2): Max Elixer (Player1)
+Petalburg Woods - Item Past Tree Northeast (Player2): X Accuracy (Player1)
+Petalburg Woods - Item Past Tree South (Player2): TM04 (Player1)
+Rusturf Tunnel - Item West (Player2): Ether (Player1)
+Rusturf Tunnel - Recover Devon Goods (Player2): Escape Rope (Player1)
+Rusturf Tunnel - Item East (Player2): Nugget (Player1)
+Rusturf Tunnel - HM04 from Tunneler (Player2): Knuckle Badge (Player2)
+Granite Cave 1F - Item Before Ladder (Player2): Cleanse Tag (Player1)
+Granite Cave 1F - HM05 from Hiker (Player2): TM31 (Player1)
+Granite Cave B1F - Item in Alcove (Player2): Thunder Badge (Player1)
+Granite Cave B2F - Item After Mud Slope (Player2): TM48 (Player2)
+Granite Cave B2F - Item After Crumbling Floor (Player2): TM23 (Player1)
+Fiery Path - Item Behind Boulders 1 (Player2): PP Up (Player1)
+Fiery Path - Item Behind Boulders 2 (Player2): Max Elixer (Player1)
+Magma Hideout 1F - Item on Ledge (Player2): Revive (Player1)
+Magma Hideout 2F - Item on West Platform (Player2): TM50 (Player1)
+Magma Hideout 2F - Item on East Platform (Player2): Ultra Ball (Player1)
+Magma Hideout 3F - Item Before Last Floor (Player2): Nugget (Player1)
+Magma Hideout 3F - Item in Drill Room (Player2): Rain Badge (Player2)
+Magma Hideout 3F - Item After Groudon (Player2): Hyper Potion (Player1)
+Magma Hideout 4F - Item Before Groudon (Player2): Calcium (Player1)
+Meteor Falls 1F - Item Northeast (Player2): Full Heal (Player1)
+Meteor Falls 1F - Item West (Player2): Mind Badge (Player2)
+Meteor Falls 1F - Item Before Steven's Cave (Player2): PP Up (Player2)
+Meteor Falls 1F - Item Below Waterfall (Player2): PP Up (Player2)
+Meteor Falls B1F - Item in North Cave (Player2): Nugget (Player1)
+Abandoned Ship - Captain's Office Key (Player2): Zinc (Player2)
+Abandoned Ship 1F - Item in East Side Northwest Room (Player2): HM06 Rock Smash (Player2)
+Abandoned Ship 1F - Item in West Side North Room (Player2): TM10 (Player1)
+Abandoned Ship B1F - Item in South Rooms (Player2): Exp Share (Player1)
+Abandoned Ship B1F - Item in North Rooms (Player2): PP Up (Player1)
+Abandoned Ship B1F - Item in Storage Room (Player2): Emblem (Player3)
+Abandoned Ship HF - Room 6 Key (Player2): Luxury Ball (Player2)
+Abandoned Ship HF - Room 2 Key (Player2): Emblem (Player3)
+Abandoned Ship HF - Item in Room 6 (Player2): Carbos (Player2)
+Abandoned Ship HF - Room 4 Key (Player2): Ether (Player1)
+Abandoned Ship HF - Item in Room 1 (Player2): TM35 (Player1)
+Abandoned Ship HF - Scanner (Player2): HP Up (Player1)
+Abandoned Ship HF - Room 1 Key (Player2): Yellow Shard (Player2)
+Abandoned Ship HF - Item in Room 3 (Player2): Poison Barb (Player1)
+New Mauville - Item 1 (Player2): Blue Shard (Player2)
+New Mauville - Item 3 (Player2): Letter (Player2)
+New Mauville - Item 2 (Player2): Clear Bell (Player1)
+New Mauville - Item 4 (Player2): HP Up (Player1)
+New Mauville - Item 5 (Player2): Elixir (Player2)
+Scorched Slab - Item (Player2): Max Revive (Player1)
+Mt Pyre 2F - Item (Player2): Itemfinder (Player2)
+Mt Pyre 3F - Item (Player2): TM29 (Player1)
+Mt Pyre 4F - Item (Player2): TM13 (Player1)
+Mt Pyre 5F - Item (Player2): PP Up (Player2)
+Mt Pyre 6F - Item (Player2): Hyper Potion (Player2)
+Mt Pyre Exterior - Item 2 (Player2): Spell Tag (Player1)
+Mt Pyre Exterior - Item 1 (Player2): Rare Candy (Player1)
+Mt Pyre Summit - Magma Emblem from Old Lady (Player2): Max Elixer (Player1)
+Aqua Hideout B1F - Item in East Room (Player2): Mech Mail (Player2)
+Aqua Hideout B1F - Item in Center Room 1 (Player2): Pink Bow (Player1)
+Aqua Hideout B1F - Item in Center Room 2 (Player2): Paralyze Heal (Player2)
+Aqua Hideout B2F - Item in Long Hallway (Player2): Nest Ball (Player2)
+Shoal Cave Entrance - Item on Ledge (Player2): Miracle Seed (Player1)
+Shoal Cave Inner Room - Item in Center (Player2): Lure Ball (Player1)
+Shoal Cave Stairs Room - Item (Player2): Hard Stone (Player1)
+Shoal Cave Ice Room - Item 1 (Player2): Carbos (Player1)
+Shoal Cave Ice Room - Item 2 (Player2): Dire Hit (Player1)
+Seafloor Cavern Room 9 - Item Before Kyogre (Player2): TM20 (Player1)
+Victory Road 1F - Item East (Player2): HM08 Dive (Player2)
+Victory Road 1F - Item on Southeast Ledge (Player2): Ultra Ball (Player1)
+Victory Road B1F - Item on Northeast Ledge (Player2): Rare Candy (Player2)
+Victory Road B1F - Item Behind Boulders (Player2): Rare Candy (Player2)
+Victory Road B2F - Item Above Waterfall (Player2): Ether (Player1)
+Route 102 - Item (Player2): HM03 Surf (Player1)
+Route 103 - Item Near Berries (Player2): Room 2 Key (Player2)
+Route 103 - Item in Tree Maze (Player2): TM07 (Player2)
+Route 104 - Item Near Briney on Ledge (Player2): Max Revive (Player2)
+Route 104 - Item Behind Flower Shop (Player2): Sharp Beak (Player1)
+Route 104 - Item East Past Pond (Player2): Volcano Badge (Player1)
+Route 104 - Item Behind Tree (Player2): Gold Berry (Player1)
+Route 104 - Wailmer Pail from Flower Shop Lady (Player2): Great Ball (Player2)
+Route 105 - Item on Island (Player2): Ultra Ball (Player1)
+Route 106 - Item on West Beach (Player2): Burn Heal (Player2)
+Route 108 - Item Between Trainers (Player2): Rare Candy (Player2)
+Route 109 - Item on Island (Player2): Heal Powder (Player2)
+Route 109 - Item on Beach (Player2): Elixir (Player2)
+Route 110 - Item South of Rival (Player2): Nugget (Player2)
+Route 110 - Item South of Berries (Player2): Potion (Player1)
+Route 110 - Itemfinder from Rival (Player2): Max Repel (Player2)
+Route 110 - Item on Island (Player2): TM05 (Player1)
+Trick House Puzzle 1 - Item (Player2): TM47 (Player1)
+Trick House Puzzle 2 - Item 1 (Player2): TM11 (Player2)
+Trick House Puzzle 2 - Item 2 (Player2): Nugget (Player2)
+Trick House Puzzle 3 - Item 1 (Player2): Red Scale (Player1)
+Trick House Puzzle 3 - Item 2 (Player2): HP Up (Player1)
+Trick House Puzzle 4 - Item (Player2): Moon Stone (Player1)
+Trick House Puzzle 6 - Item (Player2): Potion (Player2)
+Trick House Puzzle 7 - Item (Player2): Star Piece (Player2)
+Trick House Puzzle 8 - Item (Player2): Nest Ball (Player2)
+Route 111 - Item Near Winstrates (Player2): Potion (Player1)
+Route 111 - Item West of Pond Near Winstrates (Player2): TM22 (Player2)
+Route 111 - Item Desert Near Tower (Player2): Fire Stone (Player2)
+Route 111 - Item Desert South (Player2): X Speed (Player1)
+Route 112 - Item on Ledges (Player2): Ultra Ball (Player1)
+Mt Chimney - Meteorite from Machine (Player2): Max Potion (Player1)
+Jagged Pass - Item Below Hideout (Player2): Emblem (Player3)
+Route 113 - Item Near Fallarbor South (Player2): Rare Candy (Player1)
+Route 113 - Item on Ledge (Player2): Boulder Badge (Player1)
+Route 113 - Item Past Three Trainers (Player2): Super Potion (Player1)
+Route 114 - Item Between Trainers (Player2): Rare Candy (Player1)
+Route 114 - Item Behind Smashable Rock (Player2): Heal Powder (Player1)
+Route 114 - Item Above Waterfall (Player2): PP Up (Player2)
+Route 115 - Item on Beach (Player2): Emblem (Player3)
+Route 115 - Item on Ledge (Player2): TM23 (Player2)
+Route 115 - Item Behind Smashable Rock (Player2): Max Revive (Player1)
+Route 115 - Item North Near Trainers (Player2): Potion (Player1)
+Route 115 - Item Near Mud Slope (Player2): Cascade Badge (Player1)
+Route 115 - Item Past Mud Slope (Player2): Storage Key (Player2)
+Route 116 - Item in Grass (Player2): Scanner (Player2)
+Route 116 - Item Near Tunnel (Player2): TM26 (Player2)
+Route 116 - Item in Tree Maze 2 (Player2): Shield (Player3)
+Route 116 - Item in Tree Maze 1 (Player2): Revive (Player2)
+Route 116 - Item in East (Player2): Full Heal (Player1)
+Route 117 - Item Behind Flower Patch (Player2): Tropic Mail (Player2)
+Route 117 - Item Behind Tree (Player2): Poke Ball (Player1)
+Route 118 - Item (Player2): Protein (Player1)
+Route 118 - Good Rod from Fisherman (Player2): Good Rod (Player2)
+Route 119 - Item in South Tall Grass 2 (Player2): Marsh Badge (Player1)
+Route 119 - Item in South Tall Grass 1 (Player2): HM04 Strength (Player1)
+Route 119 - Item Across River South (Player2): Ether (Player2)
+Route 119 - Item East of Mud Slope (Player2): Magma Emblem (Player2)
+Route 119 - Item Near Mud Slope (Player2): TM44 (Player1)
+Route 119 - Item on River Bank (Player2): Room 4 Key (Player2)
+Route 119 - HM02 from Rival Battle (Player2): Max Elixer (Player1)
+Route 119 - Item Near South Waterfall (Player2): Net Ball (Player2)
+Route 119 - Item Above North Waterfall 1 (Player2): TM34 (Player1)
+Route 119 - Item Above North Waterfall 2 (Player2): Basement Key (Player1)
+Route 120 - Devon Scope from Steven (Player2): Rare Candy (Player2)
+Route 120 - Item Near North Pond (Player2): Ultra Ball (Player1)
+Route 120 - Item in Tall Grass South (Player2): Paralyze Heal (Player2)
+Route 120 - Item in Tall Grass Maze (Player2): White Chaos Emerald (Player3)
+Route 120 - Item in North Puddles (Player2): Hyper Potion (Player2)
+Route 120 - Item Behind Southwest Pool (Player2): Rising Badge (Player1)
+Route 121 - Item in Maze 2 (Player2): Pokeblock Case (Player2)
+Route 121 - Item in Maze 1 (Player2): Elixir (Player2)
+Route 121 - Item Near Safari Zone (Player2): Pass (Player1)
+Safari Zone N - Item in Grass (Player2): Iron (Player1)
+Safari Zone NW - Item Behind Pond (Player2): TM06 (Player1)
+Safari Zone NE - Item on Ledge (Player2): Antidote (Player1)
+Safari Zone SW - Item Behind Pond (Player2): TM19 (Player1)
+Safari Zone SE - Item in Grass (Player2): Max Revive (Player2)
+Route 123 - Item Below Ledges (Player2): Potion (Player2)
+Route 123 - Item on Ledges 4 (Player2): Hyper Potion (Player1)
+Route 123 - Item on Ledges 1 (Player2): Coin Case (Player1)
+Route 123 - Item on Ledges 3 (Player2): HM02 Fly (Player2)
+Route 123 - Item on Ledges 2 (Player2): Max Ether (Player1)
+Route 124 - Item in Northwest Area (Player2): TM13 (Player1)
+Route 124 - Item in Northeast Area (Player2): Lax Incense (Player2)
+Route 124 - Item in Southwest Area (Player2): Emblem (Player3)
+Route 125 - Item Between Trainers (Player2): Berry (Player1)
+Route 126 - Item in Separated Area (Player2): TM46 (Player1)
+Route 127 - Item Between Trainers (Player2): X Attack (Player2)
+Route 127 - Item North (Player2): Iron (Player2)
+Route 127 - Item East (Player2): Hyper Potion (Player1)
+Route 132 - Item 1 (Player2): Master Ball (Player1)
+Route 132 - Item 2 (Player2): Max Ether (Player2)
+Route 133 - Item 1 (Player2): Magnet (Player1)
+Route 133 - Item 2 (Player2): TM08 (Player1)
+Route 133 - Item 3 (Player2): Stardust (Player2)
+Route 134 - Item 1 (Player2): Orange Mail (Player2)
+Route 134 - Item 2 (Player2): Old Rod (Player1)
+Ocean Palace Emerald Stage (Player3): HM06 Whirlpool (Player1)
+Power Plant Emerald Stage (Player3): Emblem (Player3)
+Bingo Highway Emerald Stage (Player3): Basement Key (Player2)
+Bullet Station Emerald Stage (Player3): HM05 Flash (Player2)
+Lost Jungle Emerald Stage (Player3): HM01 Cut (Player1)
+Mystic Mansion Emerald Stage (Player3): Cyan Chaos Emerald (Player3)
+Final Fortress Emerald Stage (Player3): Rainbow Badge (Player1)
+Seaside Hill Rose Act 1 (Player3): Calcium (Player1)
+Ocean Palace Rose Act 1 (Player3): Emblem (Player3)
+Grand Metropolis Rose Act 1 (Player3): Smoke Ball (Player1)
+Power Plant Rose Act 1 (Player3): Elixer (Player1)
+Casino Park Rose Act 1 (Player3): Red Shard (Player2)
+Bingo Highway Rose Act 1 (Player3): Energypowder (Player1)
+Rail Canyon Rose Act 1 (Player3): Super Potion (Player1)
+Bullet Station Rose Act 1 (Player3): Hyper Potion (Player2)
+Frog Forest Rose Act 1 (Player3): Parlyz Heal (Player1)
+Lost Jungle Rose Act 1 (Player3): Nugget (Player2)
+Hang Castle Rose Act 1 (Player3): Emblem (Player3)
+Mystic Mansion Rose Act 1 (Player3): Squirtbottle (Player1)
+Egg Fleet Rose Act 1 (Player3): Carbos (Player2)
+Final Fortress Rose Act 1 (Player3): Devon Goods (Player2)
+Boss Gate 1 (Player3): Boss Gate Item 1 (Player3)
+Team Fight 2 Rose (Player3): Nugget (Player2)
+Boss Gate 2 (Player3): Boss Gate Item 2 (Player3)
+Egg Albatross Rose (Player3): TM37 (Player2)
+Boss Gate 3 (Player3): Boss Gate Item 3 (Player3)
+Team Fight 1 Rose (Player3): Hyper Potion (Player2)
+Metal Overlord (Player3): Full Restore (Player2)
+Victory Location (Player3): Victory (Player3)
+
+Playthrough:
+
+0: {
+
+}
+1: {
+  EVENT_GOT_POKEGEAR (Player1): EVENT_GOT_POKEGEAR (Player1)
+  Sprout Tower 2F - Item (Player1): HM03 Surf (Player2)
+  Sprout Tower 3F - HM05 from Sage (Player1): HM07 Waterfall (Player1)
+  Violet Gym - TM31 from Falkner (Player1): Balance Badge (Player2)
+  WildGrass_ROUTE_31_3 (Player1): BELLSPROUT (Player1)
+  Route 102 - Item (Player2): HM03 Surf (Player1)
+  Route 115 - Item on Beach (Player2): Emblem (Player3)
+  Hang Castle Rose Act 1 (Player3): Emblem (Player3)
+  Mystic Mansion Emerald Stage (Player3): Cyan Chaos Emerald (Player3)
+  Mystic Mansion Rose Act 1 (Player3): Squirtbottle (Player1)
+  Ocean Palace Emerald Stage (Player3): HM06 Whirlpool (Player1)
+  Ocean Palace Rose Act 1 (Player3): Emblem (Player3)
+}
+2: {
+  EVENT_CLEARED_SLOWPOKE_WELL (Player1): EVENT_CLEARED_SLOWPOKE_WELL (Player1)
+  EVENT_GOLDENROD_EVOLUTION_ITEMS (Player1): EVENT_GOLDENROD_EVOLUTION_ITEMS (Player1)
+  EVENT_GOT_KENYA (Player1): EVENT_GOT_KENYA (Player1)
+  EVENT_GOT_RADIO_CARD (Player1): EVENT_GOT_RADIO_CARD (Player1)
+  Goldenrod City - Bicycle from Bike Shop (Player1): Soul Badge (Player1)
+  Goldenrod Dept. Store B1F - Northwest Item (Player1): Fog Badge (Player1)
+  Ilex Forest - HM01 from Farfetch'd Guy (Player1): Itemfinder (Player1)
+  National Park - Northeast Item (Player1): Card Key (Player1)
+  Olivine Lighthouse 5F - Center Item (Player1): Storm Badge (Player1)
+  Radio Tower 2F - Blue Card from Buena (Player1): Yellow Chaos Emerald (Player3)
+  Route 36 - TM08 from Rock Smash Guy (Player1): Dynamo Badge (Player2)
+  WildGrass_SLOWPOKE_WELL_B1F_4 (Player1): SLOWPOKE (Player1)
+  Abandoned Ship 1F - Item in East Side Northwest Room (Player2): HM06 Rock Smash (Player2)
+  EVENT_DEFEAT_SHELLY (Player2): EVENT_DEFEAT_SHELLY (Player2)
+  EVENT_MAGMA_STEALS_METEORITE (Player2): EVENT_MAGMA_STEALS_METEORITE (Player2)
+  Mauville City - HM06 from Rock Smash Guy (Player2): Glacier Badge (Player1)
+  Mauville City - Item (Player2): Heat Badge (Player2)
+  Mauville City - Mach Bike (Player2): Mach Bike (Player2)
+  Meteor Falls 1F - Item West (Player2): Mind Badge (Player2)
+  Route 104 - Item East Past Pond (Player2): Volcano Badge (Player1)
+  Route 113 - Item on Ledge (Player2): Boulder Badge (Player1)
+  Route 115 - Item Near Mud Slope (Player2): Cascade Badge (Player1)
+  Route 119 - Item East of Mud Slope (Player2): Magma Emblem (Player2)
+  Route 119 - Item in South Tall Grass 1 (Player2): HM04 Strength (Player1)
+  Route 119 - Item in South Tall Grass 2 (Player2): Marsh Badge (Player1)
+  Boss Gate 1 (Player3): Boss Gate Item 1 (Player3)
+}
+3: {
+  Azalea Town - Lure Ball from Kurt (Player1): Green Chaos Emerald (Player3)
+  EVENT_DECIDED_TO_HELP_LANCE (Player1): EVENT_DECIDED_TO_HELP_LANCE (Player1)
+  EVENT_GAVE_KENYA (Player1): EVENT_GAVE_KENYA (Player1)
+  Evolve Slowpoke into Slowking (Player1): SLOWKING (Player1)
+  Goldenrod UG B2F - East Item (Player1): Mineral Badge (Player1)
+  Route 27 - West Item across Water (Player1): Feather Badge (Player2)
+  WildWater_MOUNT_MORTAR_1F_OUTSIDE_3 (Player1): SEAKING (Player1)
+  Jagged Pass - Item Below Hideout (Player2): Emblem (Player3)
+  Route 115 - Item Past Mud Slope (Player2): Storage Key (Player2)
+  Route 120 - Item Behind Southwest Pool (Player2): Rising Badge (Player1)
+  Route 120 - Item in Tall Grass Maze (Player2): White Chaos Emerald (Player3)
+  Route 121 - Item Near Safari Zone (Player2): Pass (Player1)
+  Rusturf Tunnel - HM04 from Tunneler (Player2): Knuckle Badge (Player2)
+  Bingo Highway Emerald Stage (Player3): Basement Key (Player2)
+  Final Fortress Emerald Stage (Player3): Rainbow Badge (Player1)
+}
+4: {
+  Cerulean Gym - Machine Part in Water (Player1): HM05 Flash (Player1)
+  EVENT_BEAT_ELITE_FOUR (Player1): EVENT_BEAT_ELITE_FOUR (Player1)
+  Mount Mortar 2F - East Item (Player1): Earth Badge (Player1)
+  Rocket HQ B1F - East Item (Player1): Rainbow Wing (Player1)
+  Rocket HQ B2F - HM06 from Lance (Player1): Red Chaos Emerald (Player3)
+  Route 27 - East Item behind Whirlpool (Player1): Purple Chaos Emerald (Player3)
+  Route 35 - HP Up after delivering Kenya (Player1): Stone Badge (Player2)
+  Abandoned Ship B1F - Item in Storage Room (Player2): Emblem (Player3)
+  New Mauville - Item 2 (Player2): Clear Bell (Player1)
+  Boss Gate 2 (Player3): Boss Gate Item 2 (Player3)
+}
+5: {
+  Ruins of Alph - Ho-Oh Room Bottom Right Item (Player1): Zephyr Badge (Player1)
+  Tin Tower 8F - South Item (Player1): Hive Badge (Player1)
+  Bullet Station Emerald Stage (Player3): HM05 Flash (Player2)
+  Power Plant Emerald Stage (Player3): Emblem (Player3)
+}
+6: {
+  Granite Cave B1F - Item in Alcove (Player2): Thunder Badge (Player1)
+  Boss Gate 3 (Player3): Boss Gate Item 3 (Player3)
+}
+7: {
+  Lost Jungle Emerald Stage (Player3): HM01 Cut (Player1)
+}
+8: {
+  Lake of Rage - Northwest Item (Player1): Emblem (Player3)
+  Route 25 - Item behind Cut Tree (Player1): Plain Badge (Player1)
+}
+9: {
+  Ice Path B2F - Center Item (Player1): HM07 Waterfall (Player2)
+  Silver Cave 1F - Southeast Item (Player1): Machine Part (Player1)
+  Vermilion City - HP Up from Man nowhere near PokeCenter (Player1): Blue Chaos Emerald (Player3)
+}
+10: {
+  EVENT_RESTORED_POWER_TO_KANTO (Player1): EVENT_RESTORED_POWER_TO_KANTO (Player1)
+}
+11: {
+  EVENT_GOT_EXPN_CARD (Player1): EVENT_GOT_EXPN_CARD (Player1)
+  Vermilion City - Lost Item from Guy in Fan Club (Player1): HM04 Strength (Player2)
+}
+12: {
+  Viridian City - TM42 from Sleepy Guy (Player1): Emblem (Player3)
+  EVENT_RELEASE_GROUDON (Player2): EVENT_RELEASE_GROUDON (Player2)
+  Magma Hideout 3F - Item in Drill Room (Player2): Rain Badge (Player2)
+}
+13: {
+  EVENT_AQUA_STEALS_SUBMARINE (Player2): EVENT_AQUA_STEALS_SUBMARINE (Player2)
+  Victory Location (Player3): Victory (Player3)
+}
+14: {
+  EVENT_CLEAR_AQUA_HIDEOUT (Player2): EVENT_CLEAR_AQUA_HIDEOUT (Player2)
+}
+15: {
+  EVENT_DEFEAT_CHAMPION (Player2): EVENT_DEFEAT_CHAMPION (Player2)
+}
+
+Paths:
+
+Abandoned Ship 1F - Item in East Side Northwest Room (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> REGION_ROUTE104/SOUTH -> REGION_ROUTE104/SOUTH_WATER
+   =>   REGION_ROUTE104/SOUTH_WATER -> REGION_ROUTE104/SOUTH_WATER -> REGION_ROUTE105/MAIN
+   =>   REGION_ROUTE105/MAIN -> REGION_ROUTE105/MAIN -> REGION_ROUTE106/SEA
+   =>   REGION_ROUTE106/SEA -> REGION_ROUTE106/SEA -> REGION_ROUTE106/EAST
+   =>   REGION_ROUTE106/EAST -> REGION_ROUTE106/EAST -> REGION_DEWFORD_TOWN/MAIN
+   =>   REGION_DEWFORD_TOWN/MAIN -> REGION_DEWFORD_TOWN/MAIN -> REGION_ROUTE107/MAIN
+   =>   REGION_ROUTE107/MAIN -> REGION_ROUTE107/MAIN -> REGION_ROUTE108/MAIN
+   =>   REGION_ROUTE108/MAIN -> MAP_ROUTE108:0/MAP_ABANDONED_SHIP_DECK:0
+   =>   REGION_ABANDONED_SHIP_DECK/ENTRANCE -> MAP_ABANDONED_SHIP_DECK:2/MAP_ABANDONED_SHIP_CORRIDORS_1F:1
+   =>   REGION_ABANDONED_SHIP_CORRIDORS_1F/EAST -> MAP_ABANDONED_SHIP_CORRIDORS_1F:6/MAP_ABANDONED_SHIP_ROOMS_1F:2
+   =>   REGION_ABANDONED_SHIP_ROOMS_1F/NORTH_WEST
+Abandoned Ship B1F - Item in Storage Room (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> REGION_ROUTE104/SOUTH -> REGION_ROUTE104/SOUTH_WATER
+   =>   REGION_ROUTE104/SOUTH_WATER -> REGION_ROUTE104/SOUTH_WATER -> REGION_ROUTE105/MAIN
+   =>   REGION_ROUTE105/MAIN -> REGION_ROUTE105/MAIN -> REGION_ROUTE106/SEA
+   =>   REGION_ROUTE106/SEA -> REGION_ROUTE106/SEA -> REGION_ROUTE106/EAST
+   =>   REGION_ROUTE106/EAST -> REGION_ROUTE106/EAST -> REGION_DEWFORD_TOWN/MAIN
+   =>   REGION_DEWFORD_TOWN/MAIN -> REGION_DEWFORD_TOWN/MAIN -> REGION_ROUTE107/MAIN
+   =>   REGION_ROUTE107/MAIN -> REGION_ROUTE107/MAIN -> REGION_ROUTE108/MAIN
+   =>   REGION_ROUTE108/MAIN -> MAP_ROUTE108:0/MAP_ABANDONED_SHIP_DECK:0
+   =>   REGION_ABANDONED_SHIP_DECK/ENTRANCE -> MAP_ABANDONED_SHIP_DECK:2/MAP_ABANDONED_SHIP_CORRIDORS_1F:1
+   =>   REGION_ABANDONED_SHIP_CORRIDORS_1F/EAST -> MAP_ABANDONED_SHIP_CORRIDORS_1F:9/MAP_ABANDONED_SHIP_CORRIDORS_B1F:7
+   =>   REGION_ABANDONED_SHIP_CORRIDORS_B1F/MAIN -> MAP_ABANDONED_SHIP_CORRIDORS_B1F:5/MAP_ABANDONED_SHIP_ROOM_B1F:0
+   =>   REGION_ABANDONED_SHIP_ROOM_B1F/MAIN
+Azalea Town - Lure Ball from Kurt (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_ROUTE_34
+   =>   REGION_ROUTE_34 -> REGION_ROUTE_34 -> REGION_ROUTE_34_ILEX_FOREST_GATE
+   =>   REGION_ROUTE_34_ILEX_FOREST_GATE -> REGION_ROUTE_34_ILEX_FOREST_GATE -> REGION_ILEX_FOREST:NORTH
+   =>   REGION_ILEX_FOREST:NORTH -> REGION_ILEX_FOREST:NORTH -> REGION_ILEX_FOREST:SOUTH
+   =>   REGION_ILEX_FOREST:SOUTH -> REGION_ILEX_FOREST:SOUTH -> REGION_ILEX_FOREST_AZALEA_GATE
+   =>   REGION_ILEX_FOREST_AZALEA_GATE -> REGION_ILEX_FOREST_AZALEA_GATE -> REGION_AZALEA_TOWN
+   =>   REGION_AZALEA_TOWN -> REGION_AZALEA_TOWN -> REGION_KURTS_HOUSE
+   =>   REGION_KURTS_HOUSE
+Cerulean Gym - Machine Part in Water (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_GOLDENROD_MAGNET_TRAIN_STATION
+   =>   REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION
+   =>   REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_CITY
+   =>   REGION_SAFFRON_CITY -> REGION_SAFFRON_CITY -> REGION_ROUTE_5_SAFFRON_GATE
+   =>   REGION_ROUTE_5_SAFFRON_GATE -> REGION_ROUTE_5_SAFFRON_GATE -> REGION_ROUTE_5
+   =>   REGION_ROUTE_5 -> REGION_ROUTE_5 -> REGION_CERULEAN_CITY
+   =>   REGION_CERULEAN_CITY -> REGION_CERULEAN_CITY -> REGION_CERULEAN_GYM
+   =>   REGION_CERULEAN_GYM
+EVENT_AQUA_STEALS_SUBMARINE (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> REGION_ROUTE104/SOUTH -> REGION_ROUTE104/SOUTH_WATER
+   =>   REGION_ROUTE104/SOUTH_WATER -> REGION_ROUTE104/SOUTH_WATER -> REGION_ROUTE105/MAIN
+   =>   REGION_ROUTE105/MAIN -> REGION_ROUTE105/MAIN -> REGION_ROUTE106/SEA
+   =>   REGION_ROUTE106/SEA -> REGION_ROUTE106/SEA -> REGION_ROUTE106/EAST
+   =>   REGION_ROUTE106/EAST -> REGION_ROUTE106/EAST -> REGION_DEWFORD_TOWN/MAIN
+   =>   REGION_DEWFORD_TOWN/MAIN -> REGION_DEWFORD_TOWN/MAIN -> REGION_ROUTE107/MAIN
+   =>   REGION_ROUTE107/MAIN -> REGION_ROUTE107/MAIN -> REGION_ROUTE108/MAIN
+   =>   REGION_ROUTE108/MAIN -> REGION_ROUTE108/MAIN -> REGION_ROUTE109/SEA
+   =>   REGION_ROUTE109/SEA -> REGION_ROUTE109/SEA -> REGION_ROUTE109/BEACH
+   =>   REGION_ROUTE109/BEACH -> REGION_ROUTE109/BEACH -> REGION_SLATEPORT_CITY/MAIN
+   =>   REGION_SLATEPORT_CITY/MAIN
+EVENT_BEAT_ELITE_FOUR (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_27:WEST
+   =>   REGION_ROUTE_27:WEST -> REGION_ROUTE_27:WEST -> REGION_TOHJO_FALLS:WEST
+   =>   REGION_TOHJO_FALLS:WEST -> REGION_TOHJO_FALLS:WEST -> REGION_TOHJO_FALLS:EAST
+   =>   REGION_TOHJO_FALLS:EAST -> REGION_TOHJO_FALLS:EAST -> REGION_ROUTE_27:CENTER
+   =>   REGION_ROUTE_27:CENTER -> REGION_ROUTE_27:CENTER -> REGION_ROUTE_27:EAST
+   =>   REGION_ROUTE_27:EAST -> REGION_ROUTE_27:EAST -> REGION_ROUTE_26
+   =>   REGION_ROUTE_26 -> REGION_ROUTE_26 -> REGION_VICTORY_ROAD_GATE
+   =>   REGION_VICTORY_ROAD_GATE -> REGION_VICTORY_ROAD_GATE -> REGION_VICTORY_ROAD
+   =>   REGION_VICTORY_ROAD -> REGION_VICTORY_ROAD -> REGION_ROUTE_23
+   =>   REGION_ROUTE_23 -> REGION_ROUTE_23 -> REGION_INDIGO_PLATEAU_POKECENTER_1F
+   =>   REGION_INDIGO_PLATEAU_POKECENTER_1F -> REGION_INDIGO_PLATEAU_POKECENTER_1F -> REGION_WILLS_ROOM
+   =>   REGION_WILLS_ROOM -> REGION_WILLS_ROOM -> REGION_KOGAS_ROOM
+   =>   REGION_KOGAS_ROOM -> REGION_KOGAS_ROOM -> REGION_BRUNOS_ROOM
+   =>   REGION_BRUNOS_ROOM -> REGION_BRUNOS_ROOM -> REGION_KARENS_ROOM
+   =>   REGION_KARENS_ROOM -> REGION_KARENS_ROOM -> REGION_LANCES_ROOM
+   =>   REGION_LANCES_ROOM -> REGION_LANCES_ROOM -> REGION_HALL_OF_FAME
+   =>   REGION_HALL_OF_FAME
+EVENT_CLEARED_SLOWPOKE_WELL (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_ROUTE_34
+   =>   REGION_ROUTE_34 -> REGION_ROUTE_34 -> REGION_ROUTE_34_ILEX_FOREST_GATE
+   =>   REGION_ROUTE_34_ILEX_FOREST_GATE -> REGION_ROUTE_34_ILEX_FOREST_GATE -> REGION_ILEX_FOREST:NORTH
+   =>   REGION_ILEX_FOREST:NORTH -> REGION_ILEX_FOREST:NORTH -> REGION_ILEX_FOREST:SOUTH
+   =>   REGION_ILEX_FOREST:SOUTH -> REGION_ILEX_FOREST:SOUTH -> REGION_ILEX_FOREST_AZALEA_GATE
+   =>   REGION_ILEX_FOREST_AZALEA_GATE -> REGION_ILEX_FOREST_AZALEA_GATE -> REGION_AZALEA_TOWN
+   =>   REGION_AZALEA_TOWN -> REGION_AZALEA_TOWN -> REGION_SLOWPOKE_WELL_B1F
+   =>   REGION_SLOWPOKE_WELL_B1F
+EVENT_CLEAR_AQUA_HIDEOUT (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> REGION_MAUVILLE_CITY/MAIN -> REGION_ROUTE118/WEST
+   =>   REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST_WATER
+   =>   REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/EAST_WATER
+   =>   REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST
+   =>   REGION_ROUTE118/EAST -> REGION_ROUTE118/EAST -> REGION_ROUTE119/LOWER
+   =>   REGION_ROUTE119/LOWER -> REGION_ROUTE119/LOWER -> REGION_ROUTE119/MIDDLE
+   =>   REGION_ROUTE119/MIDDLE -> REGION_ROUTE119/MIDDLE -> REGION_ROUTE119/UPPER
+   =>   REGION_ROUTE119/UPPER -> REGION_ROUTE119/UPPER -> REGION_FORTREE_CITY/MAIN
+   =>   REGION_FORTREE_CITY/MAIN -> REGION_FORTREE_CITY/MAIN -> REGION_ROUTE120/NORTH
+   =>   REGION_ROUTE120/NORTH -> REGION_ROUTE120/NORTH -> REGION_ROUTE120/SOUTH
+   =>   REGION_ROUTE120/SOUTH -> REGION_ROUTE120/SOUTH -> REGION_ROUTE121/WEST
+   =>   REGION_ROUTE121/WEST -> REGION_ROUTE121/WEST -> REGION_ROUTE121/EAST
+   =>   REGION_ROUTE121/EAST -> REGION_ROUTE121/EAST -> REGION_LILYCOVE_CITY/MAIN
+   =>   REGION_LILYCOVE_CITY/MAIN -> REGION_LILYCOVE_CITY/MAIN -> REGION_LILYCOVE_CITY/SEA
+   =>   REGION_LILYCOVE_CITY/SEA -> MAP_LILYCOVE_CITY:6/MAP_AQUA_HIDEOUT_1F:0
+   =>   REGION_AQUA_HIDEOUT_1F/WATER -> REGION_AQUA_HIDEOUT_1F/WATER -> REGION_AQUA_HIDEOUT_1F/MAIN
+   =>   REGION_AQUA_HIDEOUT_1F/MAIN -> MAP_AQUA_HIDEOUT_1F:2/MAP_AQUA_HIDEOUT_B1F:0
+   =>   REGION_AQUA_HIDEOUT_B1F/WEST_TOP_RIGHT -> MAP_AQUA_HIDEOUT_B1F:5/MAP_AQUA_HIDEOUT_B1F:8
+   =>   REGION_AQUA_HIDEOUT_B1F/WEST_BOTTOM -> MAP_AQUA_HIDEOUT_B1F:10/MAP_AQUA_HIDEOUT_B1F:6
+   =>   REGION_AQUA_HIDEOUT_B1F/WEST_TOP_CENTER -> MAP_AQUA_HIDEOUT_B1F:1/MAP_AQUA_HIDEOUT_B2F:0
+   =>   REGION_AQUA_HIDEOUT_B2F/TOP_RIGHT -> MAP_AQUA_HIDEOUT_B2F:3/MAP_AQUA_HIDEOUT_B2F:5
+   =>   REGION_AQUA_HIDEOUT_B2F/TOP_LEFT -> MAP_AQUA_HIDEOUT_B2F:2/MAP_AQUA_HIDEOUT_B1F:3
+   =>   REGION_AQUA_HIDEOUT_B1F/WEST_TOP_LEFT -> MAP_AQUA_HIDEOUT_B1F:2/MAP_AQUA_HIDEOUT_B2F:1
+   =>   REGION_AQUA_HIDEOUT_B2F/TOP_CENTER -> MAP_AQUA_HIDEOUT_B2F:4/MAP_AQUA_HIDEOUT_B2F:8
+   =>   REGION_AQUA_HIDEOUT_B2F/BOTTOM_RIGHT
+EVENT_DECIDED_TO_HELP_LANCE (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_37
+   =>   REGION_ROUTE_37 -> REGION_ROUTE_37 -> REGION_ECRUTEAK_CITY
+   =>   REGION_ECRUTEAK_CITY -> REGION_ECRUTEAK_CITY -> REGION_ROUTE_42_ECRUTEAK_GATE
+   =>   REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42:WEST
+   =>   REGION_ROUTE_42:WEST -> REGION_ROUTE_42:WEST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST -> REGION_MOUNT_MORTAR_1F_INSIDE:FRONT
+   =>   REGION_MOUNT_MORTAR_1F_INSIDE:FRONT -> REGION_MOUNT_MORTAR_1F_INSIDE:FRONT -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE -> REGION_ROUTE_42:EAST
+   =>   REGION_ROUTE_42:EAST -> REGION_ROUTE_42:EAST -> REGION_MAHOGANY_TOWN
+   =>   REGION_MAHOGANY_TOWN -> REGION_MAHOGANY_TOWN -> REGION_ROUTE_43_MAHOGANY_GATE
+   =>   REGION_ROUTE_43_MAHOGANY_GATE -> REGION_ROUTE_43_MAHOGANY_GATE -> REGION_ROUTE_43
+   =>   REGION_ROUTE_43 -> REGION_ROUTE_43 -> REGION_LAKE_OF_RAGE
+   =>   REGION_LAKE_OF_RAGE -> REGION_LAKE_OF_RAGE -> REGION_LAKE_OF_RAGE:WATER
+   =>   REGION_LAKE_OF_RAGE:WATER
+EVENT_DEFEAT_CHAMPION (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> REGION_MAUVILLE_CITY/MAIN -> REGION_ROUTE118/WEST
+   =>   REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST_WATER
+   =>   REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/EAST_WATER
+   =>   REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST
+   =>   REGION_ROUTE118/EAST -> REGION_ROUTE118/EAST -> REGION_ROUTE119/LOWER
+   =>   REGION_ROUTE119/LOWER -> REGION_ROUTE119/LOWER -> REGION_ROUTE119/MIDDLE
+   =>   REGION_ROUTE119/MIDDLE -> REGION_ROUTE119/MIDDLE -> REGION_ROUTE119/UPPER
+   =>   REGION_ROUTE119/UPPER -> REGION_ROUTE119/UPPER -> REGION_FORTREE_CITY/MAIN
+   =>   REGION_FORTREE_CITY/MAIN -> REGION_FORTREE_CITY/MAIN -> REGION_ROUTE120/NORTH
+   =>   REGION_ROUTE120/NORTH -> REGION_ROUTE120/NORTH -> REGION_ROUTE120/SOUTH
+   =>   REGION_ROUTE120/SOUTH -> REGION_ROUTE120/SOUTH -> REGION_ROUTE121/WEST
+   =>   REGION_ROUTE121/WEST -> REGION_ROUTE121/WEST -> REGION_ROUTE121/EAST
+   =>   REGION_ROUTE121/EAST -> REGION_ROUTE121/EAST -> REGION_LILYCOVE_CITY/MAIN
+   =>   REGION_LILYCOVE_CITY/MAIN -> REGION_LILYCOVE_CITY/MAIN -> REGION_LILYCOVE_CITY/SEA
+   =>   REGION_LILYCOVE_CITY/SEA -> REGION_LILYCOVE_CITY/SEA -> REGION_ROUTE124/MAIN
+   =>   REGION_ROUTE124/MAIN -> REGION_ROUTE124/MAIN -> REGION_MOSSDEEP_CITY/MAIN
+   =>   REGION_MOSSDEEP_CITY/MAIN -> REGION_MOSSDEEP_CITY/MAIN -> REGION_ROUTE127/MAIN
+   =>   REGION_ROUTE127/MAIN -> REGION_ROUTE127/MAIN -> REGION_ROUTE128/MAIN
+   =>   REGION_ROUTE128/MAIN -> REGION_ROUTE128/MAIN -> REGION_EVER_GRANDE_CITY/SEA
+   =>   REGION_EVER_GRANDE_CITY/SEA -> REGION_EVER_GRANDE_CITY/SEA -> REGION_EVER_GRANDE_CITY/SOUTH
+   =>   REGION_EVER_GRANDE_CITY/SOUTH -> MAP_EVER_GRANDE_CITY:2/MAP_VICTORY_ROAD_1F:0
+   =>   REGION_VICTORY_ROAD_1F/SOUTH_WEST -> MAP_VICTORY_ROAD_1F:4/MAP_VICTORY_ROAD_B1F:4
+   =>   REGION_VICTORY_ROAD_B1F/MAIN_LOWER_WEST -> REGION_VICTORY_ROAD_B1F/MAIN_LOWER_WEST -> REGION_VICTORY_ROAD_B1F/MAIN_LOWER_EAST
+   =>   REGION_VICTORY_ROAD_B1F/MAIN_LOWER_EAST -> MAP_VICTORY_ROAD_B1F:0/MAP_VICTORY_ROAD_B2F:0
+   =>   REGION_VICTORY_ROAD_B2F/LOWER_EAST -> REGION_VICTORY_ROAD_B2F/LOWER_EAST -> REGION_VICTORY_ROAD_B2F/LOWER_EAST_WATER
+   =>   REGION_VICTORY_ROAD_B2F/LOWER_EAST_WATER -> REGION_VICTORY_ROAD_B2F/LOWER_EAST_WATER -> REGION_VICTORY_ROAD_B2F/UPPER_WATER
+   =>   REGION_VICTORY_ROAD_B2F/UPPER_WATER -> REGION_VICTORY_ROAD_B2F/UPPER_WATER -> REGION_VICTORY_ROAD_B2F/LOWER_WEST_WATER
+   =>   REGION_VICTORY_ROAD_B2F/LOWER_WEST_WATER -> REGION_VICTORY_ROAD_B2F/LOWER_WEST_WATER -> REGION_VICTORY_ROAD_B2F/LOWER_WEST
+   =>   REGION_VICTORY_ROAD_B2F/LOWER_WEST -> MAP_VICTORY_ROAD_B2F:3/MAP_VICTORY_ROAD_B1F:6
+   =>   REGION_VICTORY_ROAD_B1F/SOUTH_WEST_MAIN -> REGION_VICTORY_ROAD_B1F/SOUTH_WEST_MAIN -> REGION_VICTORY_ROAD_B1F/SOUTH_WEST_LADDER_UP
+   =>   REGION_VICTORY_ROAD_B1F/SOUTH_WEST_LADDER_UP -> MAP_VICTORY_ROAD_B1F:5/MAP_VICTORY_ROAD_1F:2
+   =>   REGION_VICTORY_ROAD_1F/NORTH_EAST -> MAP_VICTORY_ROAD_1F:1/MAP_EVER_GRANDE_CITY:3
+   =>   REGION_EVER_GRANDE_CITY/NORTH -> MAP_EVER_GRANDE_CITY:0/MAP_EVER_GRANDE_CITY_POKEMON_LEAGUE_1F:0
+   =>   REGION_EVER_GRANDE_CITY_POKEMON_LEAGUE_1F/MAIN -> REGION_EVER_GRANDE_CITY_POKEMON_LEAGUE_1F/MAIN -> REGION_EVER_GRANDE_CITY_POKEMON_LEAGUE_1F/BEHIND_BADGE_CHECKERS
+   =>   REGION_EVER_GRANDE_CITY_POKEMON_LEAGUE_1F/BEHIND_BADGE_CHECKERS -> MAP_EVER_GRANDE_CITY_POKEMON_LEAGUE_1F:2,3/MAP_EVER_GRANDE_CITY_HALL5:0
+   =>   REGION_EVER_GRANDE_CITY_HALL5/MAIN -> MAP_EVER_GRANDE_CITY_HALL5:1/MAP_EVER_GRANDE_CITY_SIDNEYS_ROOM:0
+   =>   REGION_EVER_GRANDE_CITY_SIDNEYS_ROOM/MAIN -> MAP_EVER_GRANDE_CITY_SIDNEYS_ROOM:1/MAP_EVER_GRANDE_CITY_HALL1:0
+   =>   REGION_EVER_GRANDE_CITY_HALL1/MAIN -> MAP_EVER_GRANDE_CITY_HALL1:1/MAP_EVER_GRANDE_CITY_PHOEBES_ROOM:0
+   =>   REGION_EVER_GRANDE_CITY_PHOEBES_ROOM/MAIN -> MAP_EVER_GRANDE_CITY_PHOEBES_ROOM:1/MAP_EVER_GRANDE_CITY_HALL2:0
+   =>   REGION_EVER_GRANDE_CITY_HALL2/MAIN -> MAP_EVER_GRANDE_CITY_HALL2:1/MAP_EVER_GRANDE_CITY_GLACIAS_ROOM:0
+   =>   REGION_EVER_GRANDE_CITY_GLACIAS_ROOM/MAIN -> MAP_EVER_GRANDE_CITY_GLACIAS_ROOM:1/MAP_EVER_GRANDE_CITY_HALL3:0
+   =>   REGION_EVER_GRANDE_CITY_HALL3/MAIN -> MAP_EVER_GRANDE_CITY_HALL3:1/MAP_EVER_GRANDE_CITY_DRAKES_ROOM:0
+   =>   REGION_EVER_GRANDE_CITY_DRAKES_ROOM/MAIN -> MAP_EVER_GRANDE_CITY_DRAKES_ROOM:1/MAP_EVER_GRANDE_CITY_HALL4:0
+   =>   REGION_EVER_GRANDE_CITY_HALL4/MAIN -> MAP_EVER_GRANDE_CITY_HALL4:1/MAP_EVER_GRANDE_CITY_CHAMPIONS_ROOM:0
+   =>   REGION_EVER_GRANDE_CITY_CHAMPIONS_ROOM/MAIN
+EVENT_DEFEAT_SHELLY (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> REGION_MAUVILLE_CITY/MAIN -> REGION_ROUTE118/WEST
+   =>   REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST_WATER
+   =>   REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/EAST_WATER
+   =>   REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST
+   =>   REGION_ROUTE118/EAST -> REGION_ROUTE118/EAST -> REGION_ROUTE119/LOWER
+   =>   REGION_ROUTE119/LOWER -> REGION_ROUTE119/LOWER -> REGION_ROUTE119/MIDDLE
+   =>   REGION_ROUTE119/MIDDLE -> MAP_ROUTE119:0/MAP_ROUTE119_WEATHER_INSTITUTE_1F:0
+   =>   REGION_ROUTE119_WEATHER_INSTITUTE_1F/MAIN -> MAP_ROUTE119_WEATHER_INSTITUTE_1F:2/MAP_ROUTE119_WEATHER_INSTITUTE_2F:0
+   =>   REGION_ROUTE119_WEATHER_INSTITUTE_2F/MAIN
+EVENT_GAVE_KENYA (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31
+EVENT_GOLDENROD_EVOLUTION_ITEMS (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_GOLDENROD_DEPT_STORE_1F
+   =>   REGION_GOLDENROD_DEPT_STORE_1F
+EVENT_GOT_EXPN_CARD (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_GOLDENROD_MAGNET_TRAIN_STATION
+   =>   REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION
+   =>   REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_CITY
+   =>   REGION_SAFFRON_CITY -> REGION_SAFFRON_CITY -> REGION_ROUTE_8_SAFFRON_GATE
+   =>   REGION_ROUTE_8_SAFFRON_GATE -> REGION_ROUTE_8_SAFFRON_GATE -> REGION_ROUTE_8
+   =>   REGION_ROUTE_8 -> REGION_ROUTE_8 -> REGION_LAVENDER_TOWN
+   =>   REGION_LAVENDER_TOWN -> REGION_LAVENDER_TOWN -> REGION_LAV_RADIO_TOWER_1F
+   =>   REGION_LAV_RADIO_TOWER_1F
+EVENT_GOT_KENYA (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE
+EVENT_GOT_POKEGEAR (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F
+EVENT_GOT_RADIO_CARD (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_RADIO_TOWER_1F
+   =>   REGION_RADIO_TOWER_1F
+EVENT_MAGMA_STEALS_METEORITE (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> MAP_ROUTE104:4,5/MAP_PETALBURG_WOODS:2,3
+   =>   REGION_PETALBURG_WOODS/WEST_PATH -> MAP_PETALBURG_WOODS:0,1/MAP_ROUTE104:2,3
+   =>   REGION_ROUTE104/NORTH -> REGION_ROUTE104/NORTH -> REGION_RUSTBORO_CITY/MAIN
+   =>   REGION_RUSTBORO_CITY/MAIN -> REGION_RUSTBORO_CITY/MAIN -> REGION_ROUTE115/SOUTH_BELOW_LEDGE
+   =>   REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SEA
+   =>   REGION_ROUTE115/SEA -> REGION_ROUTE115/SEA -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE
+   =>   REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_ABOVE_LEDGE
+   =>   REGION_ROUTE115/SOUTH_ABOVE_LEDGE -> MAP_ROUTE115:0/MAP_METEOR_FALLS_1F_1R:1
+   =>   REGION_METEOR_FALLS_1F_1R/MAIN
+EVENT_RELEASE_GROUDON (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> MAP_ROUTE104:4,5/MAP_PETALBURG_WOODS:2,3
+   =>   REGION_PETALBURG_WOODS/WEST_PATH -> MAP_PETALBURG_WOODS:0,1/MAP_ROUTE104:2,3
+   =>   REGION_ROUTE104/NORTH -> REGION_ROUTE104/NORTH -> REGION_RUSTBORO_CITY/MAIN
+   =>   REGION_RUSTBORO_CITY/MAIN -> REGION_RUSTBORO_CITY/MAIN -> REGION_ROUTE115/SOUTH_BELOW_LEDGE
+   =>   REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SEA
+   =>   REGION_ROUTE115/SEA -> REGION_ROUTE115/SEA -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE
+   =>   REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_ABOVE_LEDGE
+   =>   REGION_ROUTE115/SOUTH_ABOVE_LEDGE -> MAP_ROUTE115:0/MAP_METEOR_FALLS_1F_1R:1
+   =>   REGION_METEOR_FALLS_1F_1R/MAIN -> MAP_METEOR_FALLS_1F_1R:0/MAP_ROUTE114:0
+   =>   REGION_ROUTE114/MAIN -> REGION_ROUTE114/MAIN -> REGION_FALLARBOR_TOWN/MAIN
+   =>   REGION_FALLARBOR_TOWN/MAIN -> REGION_FALLARBOR_TOWN/MAIN -> REGION_ROUTE113/MAIN
+   =>   REGION_ROUTE113/MAIN -> REGION_ROUTE113/MAIN -> REGION_ROUTE111/NORTH
+   =>   REGION_ROUTE111/NORTH -> REGION_ROUTE111/NORTH -> REGION_ROUTE112/NORTH
+   =>   REGION_ROUTE112/NORTH -> MAP_ROUTE112:5/MAP_FIERY_PATH:1
+   =>   REGION_FIERY_PATH/MAIN -> MAP_FIERY_PATH:0/MAP_ROUTE112:4
+   =>   REGION_ROUTE112/SOUTH_EAST -> REGION_ROUTE112/SOUTH_EAST -> REGION_ROUTE112/CABLE_CAR_STATION_ENTRANCE
+   =>   REGION_ROUTE112/CABLE_CAR_STATION_ENTRANCE -> MAP_ROUTE112:0,1/MAP_ROUTE112_CABLE_CAR_STATION:0,1
+   =>   REGION_ROUTE112_CABLE_CAR_STATION/MAIN -> REGION_ROUTE112_CABLE_CAR_STATION/MAIN -> REGION_MT_CHIMNEY_CABLE_CAR_STATION/MAIN
+   =>   REGION_MT_CHIMNEY_CABLE_CAR_STATION/MAIN -> MAP_MT_CHIMNEY_CABLE_CAR_STATION:0,1/MAP_MT_CHIMNEY:0,1
+   =>   REGION_MT_CHIMNEY/MAIN -> MAP_MT_CHIMNEY:2,3/MAP_JAGGED_PASS:2,3
+   =>   REGION_JAGGED_PASS/TOP -> REGION_JAGGED_PASS/TOP -> REGION_JAGGED_PASS/MIDDLE
+   =>   REGION_JAGGED_PASS/MIDDLE -> MAP_JAGGED_PASS:4/MAP_MAGMA_HIDEOUT_1F:0
+   =>   REGION_MAGMA_HIDEOUT_1F/ENTRANCE -> REGION_MAGMA_HIDEOUT_1F/ENTRANCE -> REGION_MAGMA_HIDEOUT_1F/MAIN
+   =>   REGION_MAGMA_HIDEOUT_1F/MAIN -> MAP_MAGMA_HIDEOUT_1F:1/MAP_MAGMA_HIDEOUT_2F_1R:1
+   =>   REGION_MAGMA_HIDEOUT_2F_1R/MAIN -> MAP_MAGMA_HIDEOUT_2F_1R:2/MAP_MAGMA_HIDEOUT_3F_1R:2
+   =>   REGION_MAGMA_HIDEOUT_3F_1R/MAIN -> MAP_MAGMA_HIDEOUT_3F_1R:0/MAP_MAGMA_HIDEOUT_4F:0
+   =>   REGION_MAGMA_HIDEOUT_4F/MAIN
+EVENT_RESTORED_POWER_TO_KANTO (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_GOLDENROD_MAGNET_TRAIN_STATION
+   =>   REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION
+   =>   REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_CITY
+   =>   REGION_SAFFRON_CITY -> REGION_SAFFRON_CITY -> REGION_ROUTE_8_SAFFRON_GATE
+   =>   REGION_ROUTE_8_SAFFRON_GATE -> REGION_ROUTE_8_SAFFRON_GATE -> REGION_ROUTE_8
+   =>   REGION_ROUTE_8 -> REGION_ROUTE_8 -> REGION_LAVENDER_TOWN
+   =>   REGION_LAVENDER_TOWN -> REGION_LAVENDER_TOWN -> REGION_ROUTE_10_SOUTH
+   =>   REGION_ROUTE_10_SOUTH -> REGION_ROUTE_10_SOUTH -> REGION_ROCK_TUNNEL_1F
+   =>   REGION_ROCK_TUNNEL_1F -> REGION_ROCK_TUNNEL_1F -> REGION_ROUTE_9
+   =>   REGION_ROUTE_9 -> REGION_ROUTE_9 -> REGION_ROUTE_10_NORTH
+   =>   REGION_ROUTE_10_NORTH -> REGION_ROUTE_10_NORTH -> REGION_POWER_PLANT
+   =>   REGION_POWER_PLANT
+Evolve Slowpoke into Slowking (Player1)
+        Menu -> Menu -> Evolutions
+   =>   Evolutions
+Goldenrod City - Bicycle from Bike Shop (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_GOLDENROD_BIKE_SHOP
+   =>   REGION_GOLDENROD_BIKE_SHOP
+Goldenrod Dept. Store B1F - Northwest Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_GOLDENROD_DEPT_STORE_1F
+   =>   REGION_GOLDENROD_DEPT_STORE_1F -> REGION_GOLDENROD_DEPT_STORE_1F -> REGION_GOLDENROD_DEPT_STORE_ELEVATOR
+   =>   REGION_GOLDENROD_DEPT_STORE_ELEVATOR -> REGION_GOLDENROD_DEPT_STORE_ELEVATOR -> REGION_GOLDENROD_DEPT_STORE_B1F
+   =>   REGION_GOLDENROD_DEPT_STORE_B1F
+Goldenrod UG B2F - East Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_GOLDENROD_DEPT_STORE_1F
+   =>   REGION_GOLDENROD_DEPT_STORE_1F -> REGION_GOLDENROD_DEPT_STORE_1F -> REGION_GOLDENROD_DEPT_STORE_ELEVATOR
+   =>   REGION_GOLDENROD_DEPT_STORE_ELEVATOR -> REGION_GOLDENROD_DEPT_STORE_ELEVATOR -> REGION_GOLDENROD_DEPT_STORE_B1F
+   =>   REGION_GOLDENROD_DEPT_STORE_B1F -> REGION_GOLDENROD_DEPT_STORE_B1F -> REGION_GOLDENROD_DEPT_STORE_B1F:WAREHOUSE
+   =>   REGION_GOLDENROD_DEPT_STORE_B1F:WAREHOUSE -> REGION_GOLDENROD_DEPT_STORE_B1F:WAREHOUSE -> REGION_GOLDENROD_UNDERGROUND_WAREHOUSE
+   =>   REGION_GOLDENROD_UNDERGROUND_WAREHOUSE -> REGION_GOLDENROD_UNDERGROUND_WAREHOUSE -> REGION_GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES
+   =>   REGION_GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES
+Granite Cave B1F - Item in Alcove (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> REGION_ROUTE104/SOUTH -> REGION_ROUTE104/SOUTH_WATER
+   =>   REGION_ROUTE104/SOUTH_WATER -> REGION_ROUTE104/SOUTH_WATER -> REGION_ROUTE105/MAIN
+   =>   REGION_ROUTE105/MAIN -> REGION_ROUTE105/MAIN -> REGION_ROUTE106/SEA
+   =>   REGION_ROUTE106/SEA -> REGION_ROUTE106/SEA -> REGION_ROUTE106/EAST
+   =>   REGION_ROUTE106/EAST -> MAP_ROUTE106:0/MAP_GRANITE_CAVE_1F:0
+   =>   REGION_GRANITE_CAVE_1F/LOWER -> MAP_GRANITE_CAVE_1F:2/MAP_GRANITE_CAVE_B1F:1
+   =>   REGION_GRANITE_CAVE_B1F/LOWER
+Ice Path B2F - Center Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_37
+   =>   REGION_ROUTE_37 -> REGION_ROUTE_37 -> REGION_ECRUTEAK_CITY
+   =>   REGION_ECRUTEAK_CITY -> REGION_ECRUTEAK_CITY -> REGION_ROUTE_42_ECRUTEAK_GATE
+   =>   REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42:WEST
+   =>   REGION_ROUTE_42:WEST -> REGION_ROUTE_42:WEST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST -> REGION_MOUNT_MORTAR_1F_INSIDE:FRONT
+   =>   REGION_MOUNT_MORTAR_1F_INSIDE:FRONT -> REGION_MOUNT_MORTAR_1F_INSIDE:FRONT -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE -> REGION_ROUTE_42:EAST
+   =>   REGION_ROUTE_42:EAST -> REGION_ROUTE_42:EAST -> REGION_MAHOGANY_TOWN
+   =>   REGION_MAHOGANY_TOWN -> REGION_MAHOGANY_TOWN -> REGION_ROUTE_44
+   =>   REGION_ROUTE_44 -> REGION_ROUTE_44 -> REGION_ICE_PATH_1F:WEST
+   =>   REGION_ICE_PATH_1F:WEST -> REGION_ICE_PATH_1F:WEST -> REGION_ICE_PATH_B1F:NORTH
+   =>   REGION_ICE_PATH_B1F:NORTH -> REGION_ICE_PATH_B1F:NORTH -> REGION_ICE_PATH_B2F_MAHOGANY_SIDE
+   =>   REGION_ICE_PATH_B2F_MAHOGANY_SIDE -> REGION_ICE_PATH_B2F_MAHOGANY_SIDE -> REGION_ICE_PATH_B2F_MAHOGANY_SIDE:MIDDLE
+   =>   REGION_ICE_PATH_B2F_MAHOGANY_SIDE:MIDDLE
+Ilex Forest - HM01 from Farfetch'd Guy (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_ROUTE_34
+   =>   REGION_ROUTE_34 -> REGION_ROUTE_34 -> REGION_ROUTE_34_ILEX_FOREST_GATE
+   =>   REGION_ROUTE_34_ILEX_FOREST_GATE -> REGION_ROUTE_34_ILEX_FOREST_GATE -> REGION_ILEX_FOREST:NORTH
+   =>   REGION_ILEX_FOREST:NORTH -> REGION_ILEX_FOREST:NORTH -> REGION_ILEX_FOREST:SOUTH
+   =>   REGION_ILEX_FOREST:SOUTH
+Jagged Pass - Item Below Hideout (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> MAP_ROUTE104:4,5/MAP_PETALBURG_WOODS:2,3
+   =>   REGION_PETALBURG_WOODS/WEST_PATH -> MAP_PETALBURG_WOODS:0,1/MAP_ROUTE104:2,3
+   =>   REGION_ROUTE104/NORTH -> REGION_ROUTE104/NORTH -> REGION_RUSTBORO_CITY/MAIN
+   =>   REGION_RUSTBORO_CITY/MAIN -> REGION_RUSTBORO_CITY/MAIN -> REGION_ROUTE115/SOUTH_BELOW_LEDGE
+   =>   REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SEA
+   =>   REGION_ROUTE115/SEA -> REGION_ROUTE115/SEA -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE
+   =>   REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_ABOVE_LEDGE
+   =>   REGION_ROUTE115/SOUTH_ABOVE_LEDGE -> MAP_ROUTE115:0/MAP_METEOR_FALLS_1F_1R:1
+   =>   REGION_METEOR_FALLS_1F_1R/MAIN -> MAP_METEOR_FALLS_1F_1R:0/MAP_ROUTE114:0
+   =>   REGION_ROUTE114/MAIN -> REGION_ROUTE114/MAIN -> REGION_FALLARBOR_TOWN/MAIN
+   =>   REGION_FALLARBOR_TOWN/MAIN -> REGION_FALLARBOR_TOWN/MAIN -> REGION_ROUTE113/MAIN
+   =>   REGION_ROUTE113/MAIN -> REGION_ROUTE113/MAIN -> REGION_ROUTE111/NORTH
+   =>   REGION_ROUTE111/NORTH -> REGION_ROUTE111/NORTH -> REGION_ROUTE112/NORTH
+   =>   REGION_ROUTE112/NORTH -> MAP_ROUTE112:5/MAP_FIERY_PATH:1
+   =>   REGION_FIERY_PATH/MAIN -> MAP_FIERY_PATH:0/MAP_ROUTE112:4
+   =>   REGION_ROUTE112/SOUTH_EAST -> REGION_ROUTE112/SOUTH_EAST -> REGION_ROUTE112/CABLE_CAR_STATION_ENTRANCE
+   =>   REGION_ROUTE112/CABLE_CAR_STATION_ENTRANCE -> MAP_ROUTE112:0,1/MAP_ROUTE112_CABLE_CAR_STATION:0,1
+   =>   REGION_ROUTE112_CABLE_CAR_STATION/MAIN -> REGION_ROUTE112_CABLE_CAR_STATION/MAIN -> REGION_MT_CHIMNEY_CABLE_CAR_STATION/MAIN
+   =>   REGION_MT_CHIMNEY_CABLE_CAR_STATION/MAIN -> MAP_MT_CHIMNEY_CABLE_CAR_STATION:0,1/MAP_MT_CHIMNEY:0,1
+   =>   REGION_MT_CHIMNEY/MAIN -> MAP_MT_CHIMNEY:2,3/MAP_JAGGED_PASS:2,3
+   =>   REGION_JAGGED_PASS/TOP -> REGION_JAGGED_PASS/TOP -> REGION_JAGGED_PASS/MIDDLE
+   =>   REGION_JAGGED_PASS/MIDDLE
+Lake of Rage - Northwest Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_37
+   =>   REGION_ROUTE_37 -> REGION_ROUTE_37 -> REGION_ECRUTEAK_CITY
+   =>   REGION_ECRUTEAK_CITY -> REGION_ECRUTEAK_CITY -> REGION_ROUTE_42_ECRUTEAK_GATE
+   =>   REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42:WEST
+   =>   REGION_ROUTE_42:WEST -> REGION_ROUTE_42:WEST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST -> REGION_MOUNT_MORTAR_1F_INSIDE:FRONT
+   =>   REGION_MOUNT_MORTAR_1F_INSIDE:FRONT -> REGION_MOUNT_MORTAR_1F_INSIDE:FRONT -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE -> REGION_ROUTE_42:EAST
+   =>   REGION_ROUTE_42:EAST -> REGION_ROUTE_42:EAST -> REGION_MAHOGANY_TOWN
+   =>   REGION_MAHOGANY_TOWN -> REGION_MAHOGANY_TOWN -> REGION_ROUTE_43_MAHOGANY_GATE
+   =>   REGION_ROUTE_43_MAHOGANY_GATE -> REGION_ROUTE_43_MAHOGANY_GATE -> REGION_ROUTE_43
+   =>   REGION_ROUTE_43 -> REGION_ROUTE_43 -> REGION_LAKE_OF_RAGE
+   =>   REGION_LAKE_OF_RAGE -> REGION_LAKE_OF_RAGE -> REGION_LAKE_OF_RAGE:CUT
+   =>   REGION_LAKE_OF_RAGE:CUT
+Magma Hideout 3F - Item in Drill Room (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> MAP_ROUTE104:4,5/MAP_PETALBURG_WOODS:2,3
+   =>   REGION_PETALBURG_WOODS/WEST_PATH -> MAP_PETALBURG_WOODS:0,1/MAP_ROUTE104:2,3
+   =>   REGION_ROUTE104/NORTH -> REGION_ROUTE104/NORTH -> REGION_RUSTBORO_CITY/MAIN
+   =>   REGION_RUSTBORO_CITY/MAIN -> REGION_RUSTBORO_CITY/MAIN -> REGION_ROUTE115/SOUTH_BELOW_LEDGE
+   =>   REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SEA
+   =>   REGION_ROUTE115/SEA -> REGION_ROUTE115/SEA -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE
+   =>   REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_ABOVE_LEDGE
+   =>   REGION_ROUTE115/SOUTH_ABOVE_LEDGE -> MAP_ROUTE115:0/MAP_METEOR_FALLS_1F_1R:1
+   =>   REGION_METEOR_FALLS_1F_1R/MAIN -> MAP_METEOR_FALLS_1F_1R:0/MAP_ROUTE114:0
+   =>   REGION_ROUTE114/MAIN -> REGION_ROUTE114/MAIN -> REGION_FALLARBOR_TOWN/MAIN
+   =>   REGION_FALLARBOR_TOWN/MAIN -> REGION_FALLARBOR_TOWN/MAIN -> REGION_ROUTE113/MAIN
+   =>   REGION_ROUTE113/MAIN -> REGION_ROUTE113/MAIN -> REGION_ROUTE111/NORTH
+   =>   REGION_ROUTE111/NORTH -> REGION_ROUTE111/NORTH -> REGION_ROUTE112/NORTH
+   =>   REGION_ROUTE112/NORTH -> MAP_ROUTE112:5/MAP_FIERY_PATH:1
+   =>   REGION_FIERY_PATH/MAIN -> MAP_FIERY_PATH:0/MAP_ROUTE112:4
+   =>   REGION_ROUTE112/SOUTH_EAST -> REGION_ROUTE112/SOUTH_EAST -> REGION_ROUTE112/CABLE_CAR_STATION_ENTRANCE
+   =>   REGION_ROUTE112/CABLE_CAR_STATION_ENTRANCE -> MAP_ROUTE112:0,1/MAP_ROUTE112_CABLE_CAR_STATION:0,1
+   =>   REGION_ROUTE112_CABLE_CAR_STATION/MAIN -> REGION_ROUTE112_CABLE_CAR_STATION/MAIN -> REGION_MT_CHIMNEY_CABLE_CAR_STATION/MAIN
+   =>   REGION_MT_CHIMNEY_CABLE_CAR_STATION/MAIN -> MAP_MT_CHIMNEY_CABLE_CAR_STATION:0,1/MAP_MT_CHIMNEY:0,1
+   =>   REGION_MT_CHIMNEY/MAIN -> MAP_MT_CHIMNEY:2,3/MAP_JAGGED_PASS:2,3
+   =>   REGION_JAGGED_PASS/TOP -> REGION_JAGGED_PASS/TOP -> REGION_JAGGED_PASS/MIDDLE
+   =>   REGION_JAGGED_PASS/MIDDLE -> MAP_JAGGED_PASS:4/MAP_MAGMA_HIDEOUT_1F:0
+   =>   REGION_MAGMA_HIDEOUT_1F/ENTRANCE -> REGION_MAGMA_HIDEOUT_1F/ENTRANCE -> REGION_MAGMA_HIDEOUT_1F/MAIN
+   =>   REGION_MAGMA_HIDEOUT_1F/MAIN -> MAP_MAGMA_HIDEOUT_1F:1/MAP_MAGMA_HIDEOUT_2F_1R:1
+   =>   REGION_MAGMA_HIDEOUT_2F_1R/MAIN -> MAP_MAGMA_HIDEOUT_2F_1R:2/MAP_MAGMA_HIDEOUT_3F_1R:2
+   =>   REGION_MAGMA_HIDEOUT_3F_1R/MAIN -> MAP_MAGMA_HIDEOUT_3F_1R:1/MAP_MAGMA_HIDEOUT_3F_2R:0
+   =>   REGION_MAGMA_HIDEOUT_3F_2R/MAIN
+Mauville City - HM06 from Rock Smash Guy (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> MAP_MAUVILLE_CITY:4/MAP_MAUVILLE_CITY_HOUSE1:0
+   =>   REGION_MAUVILLE_CITY_HOUSE1/MAIN
+Mauville City - Item (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN
+Mauville City - Mach Bike (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> MAP_MAUVILLE_CITY:2/MAP_MAUVILLE_CITY_BIKE_SHOP:0
+   =>   REGION_MAUVILLE_CITY_BIKE_SHOP/MAIN
+Meteor Falls 1F - Item West (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> MAP_ROUTE104:4,5/MAP_PETALBURG_WOODS:2,3
+   =>   REGION_PETALBURG_WOODS/WEST_PATH -> MAP_PETALBURG_WOODS:0,1/MAP_ROUTE104:2,3
+   =>   REGION_ROUTE104/NORTH -> REGION_ROUTE104/NORTH -> REGION_RUSTBORO_CITY/MAIN
+   =>   REGION_RUSTBORO_CITY/MAIN -> REGION_RUSTBORO_CITY/MAIN -> REGION_ROUTE115/SOUTH_BELOW_LEDGE
+   =>   REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SEA
+   =>   REGION_ROUTE115/SEA -> REGION_ROUTE115/SEA -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE
+   =>   REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_ABOVE_LEDGE
+   =>   REGION_ROUTE115/SOUTH_ABOVE_LEDGE -> MAP_ROUTE115:0/MAP_METEOR_FALLS_1F_1R:1
+   =>   REGION_METEOR_FALLS_1F_1R/MAIN
+Mount Mortar 2F - East Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_37
+   =>   REGION_ROUTE_37 -> REGION_ROUTE_37 -> REGION_ECRUTEAK_CITY
+   =>   REGION_ECRUTEAK_CITY -> REGION_ECRUTEAK_CITY -> REGION_ROUTE_42_ECRUTEAK_GATE
+   =>   REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42:WEST
+   =>   REGION_ROUTE_42:WEST -> REGION_ROUTE_42:WEST -> REGION_ROUTE_42:CENTER
+   =>   REGION_ROUTE_42:CENTER -> REGION_ROUTE_42:CENTER -> REGION_MOUNT_MORTAR_1F_OUTSIDE:CENTER
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:CENTER -> REGION_MOUNT_MORTAR_1F_OUTSIDE:CENTER -> REGION_MOUNT_MORTAR_2F_OUTSIDE
+   =>   REGION_MOUNT_MORTAR_2F_OUTSIDE -> REGION_MOUNT_MORTAR_2F_OUTSIDE -> REGION_MOUNT_MORTAR_2F_INSIDE
+   =>   REGION_MOUNT_MORTAR_2F_INSIDE
+National Park - Northeast Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK
+New Mauville - Item 2 (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_ROUTE110/NORTH_WATER
+   =>   REGION_ROUTE110/NORTH_WATER -> MAP_ROUTE110:0/MAP_NEW_MAUVILLE_ENTRANCE:0
+   =>   REGION_NEW_MAUVILLE_ENTRANCE/MAIN -> MAP_NEW_MAUVILLE_ENTRANCE:1/MAP_NEW_MAUVILLE_INSIDE:0
+   =>   REGION_NEW_MAUVILLE_INSIDE/MAIN
+Olivine Lighthouse 5F - Center Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_37
+   =>   REGION_ROUTE_37 -> REGION_ROUTE_37 -> REGION_ECRUTEAK_CITY
+   =>   REGION_ECRUTEAK_CITY -> REGION_ECRUTEAK_CITY -> REGION_ROUTE_38_ECRUTEAK_GATE
+   =>   REGION_ROUTE_38_ECRUTEAK_GATE -> REGION_ROUTE_38_ECRUTEAK_GATE -> REGION_ROUTE_38
+   =>   REGION_ROUTE_38 -> REGION_ROUTE_38 -> REGION_ROUTE_39
+   =>   REGION_ROUTE_39 -> REGION_ROUTE_39 -> REGION_OLIVINE_CITY
+   =>   REGION_OLIVINE_CITY -> REGION_OLIVINE_CITY -> REGION_OLIVINE_LIGHTHOUSE_1F
+   =>   REGION_OLIVINE_LIGHTHOUSE_1F -> REGION_OLIVINE_LIGHTHOUSE_1F -> REGION_OLIVINE_LIGHTHOUSE_2F
+   =>   REGION_OLIVINE_LIGHTHOUSE_2F -> REGION_OLIVINE_LIGHTHOUSE_2F -> REGION_OLIVINE_LIGHTHOUSE_3F
+   =>   REGION_OLIVINE_LIGHTHOUSE_3F -> REGION_OLIVINE_LIGHTHOUSE_3F -> REGION_OLIVINE_LIGHTHOUSE_4F
+   =>   REGION_OLIVINE_LIGHTHOUSE_4F -> REGION_OLIVINE_LIGHTHOUSE_4F -> REGION_OLIVINE_LIGHTHOUSE_5F
+   =>   REGION_OLIVINE_LIGHTHOUSE_5F
+Radio Tower 2F - Blue Card from Buena (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_RADIO_TOWER_1F
+   =>   REGION_RADIO_TOWER_1F -> REGION_RADIO_TOWER_1F -> REGION_RADIO_TOWER_2F
+   =>   REGION_RADIO_TOWER_2F
+Rocket HQ B1F - East Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_37
+   =>   REGION_ROUTE_37 -> REGION_ROUTE_37 -> REGION_ECRUTEAK_CITY
+   =>   REGION_ECRUTEAK_CITY -> REGION_ECRUTEAK_CITY -> REGION_ROUTE_42_ECRUTEAK_GATE
+   =>   REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42:WEST
+   =>   REGION_ROUTE_42:WEST -> REGION_ROUTE_42:WEST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST -> REGION_MOUNT_MORTAR_1F_INSIDE:FRONT
+   =>   REGION_MOUNT_MORTAR_1F_INSIDE:FRONT -> REGION_MOUNT_MORTAR_1F_INSIDE:FRONT -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE -> REGION_ROUTE_42:EAST
+   =>   REGION_ROUTE_42:EAST -> REGION_ROUTE_42:EAST -> REGION_MAHOGANY_TOWN
+   =>   REGION_MAHOGANY_TOWN -> REGION_MAHOGANY_TOWN -> REGION_MAHOGANY_MART_1F
+   =>   REGION_MAHOGANY_MART_1F -> REGION_MAHOGANY_MART_1F -> REGION_TEAM_ROCKET_BASE_B1F
+   =>   REGION_TEAM_ROCKET_BASE_B1F
+Rocket HQ B2F - HM06 from Lance (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_37
+   =>   REGION_ROUTE_37 -> REGION_ROUTE_37 -> REGION_ECRUTEAK_CITY
+   =>   REGION_ECRUTEAK_CITY -> REGION_ECRUTEAK_CITY -> REGION_ROUTE_42_ECRUTEAK_GATE
+   =>   REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42:WEST
+   =>   REGION_ROUTE_42:WEST -> REGION_ROUTE_42:WEST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:WEST -> REGION_MOUNT_MORTAR_1F_INSIDE:FRONT
+   =>   REGION_MOUNT_MORTAR_1F_INSIDE:FRONT -> REGION_MOUNT_MORTAR_1F_INSIDE:FRONT -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE -> REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST:ENTRANCE -> REGION_ROUTE_42:EAST
+   =>   REGION_ROUTE_42:EAST -> REGION_ROUTE_42:EAST -> REGION_MAHOGANY_TOWN
+   =>   REGION_MAHOGANY_TOWN -> REGION_MAHOGANY_TOWN -> REGION_MAHOGANY_MART_1F
+   =>   REGION_MAHOGANY_MART_1F -> REGION_MAHOGANY_MART_1F -> REGION_TEAM_ROCKET_BASE_B1F
+   =>   REGION_TEAM_ROCKET_BASE_B1F -> REGION_TEAM_ROCKET_BASE_B1F -> REGION_TEAM_ROCKET_BASE_B2F
+   =>   REGION_TEAM_ROCKET_BASE_B2F
+Route 102 - Item (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN
+Route 104 - Item East Past Pond (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> MAP_ROUTE104:4,5/MAP_PETALBURG_WOODS:2,3
+   =>   REGION_PETALBURG_WOODS/WEST_PATH -> MAP_PETALBURG_WOODS:0,1/MAP_ROUTE104:2,3
+   =>   REGION_ROUTE104/NORTH -> REGION_ROUTE104/NORTH -> REGION_ROUTE104/NORTH_POND
+   =>   REGION_ROUTE104/NORTH_POND -> REGION_ROUTE104/NORTH_POND -> REGION_ROUTE104/TREE_ALCOVE_1
+   =>   REGION_ROUTE104/TREE_ALCOVE_1
+Route 113 - Item on Ledge (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> MAP_ROUTE104:4,5/MAP_PETALBURG_WOODS:2,3
+   =>   REGION_PETALBURG_WOODS/WEST_PATH -> MAP_PETALBURG_WOODS:0,1/MAP_ROUTE104:2,3
+   =>   REGION_ROUTE104/NORTH -> REGION_ROUTE104/NORTH -> REGION_RUSTBORO_CITY/MAIN
+   =>   REGION_RUSTBORO_CITY/MAIN -> REGION_RUSTBORO_CITY/MAIN -> REGION_ROUTE115/SOUTH_BELOW_LEDGE
+   =>   REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SEA
+   =>   REGION_ROUTE115/SEA -> REGION_ROUTE115/SEA -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE
+   =>   REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_BEACH_NEAR_CAVE -> REGION_ROUTE115/SOUTH_ABOVE_LEDGE
+   =>   REGION_ROUTE115/SOUTH_ABOVE_LEDGE -> MAP_ROUTE115:0/MAP_METEOR_FALLS_1F_1R:1
+   =>   REGION_METEOR_FALLS_1F_1R/MAIN -> MAP_METEOR_FALLS_1F_1R:0/MAP_ROUTE114:0
+   =>   REGION_ROUTE114/MAIN -> REGION_ROUTE114/MAIN -> REGION_FALLARBOR_TOWN/MAIN
+   =>   REGION_FALLARBOR_TOWN/MAIN -> REGION_FALLARBOR_TOWN/MAIN -> REGION_ROUTE113/MAIN
+   =>   REGION_ROUTE113/MAIN
+Route 115 - Item Near Mud Slope (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> MAP_ROUTE104:4,5/MAP_PETALBURG_WOODS:2,3
+   =>   REGION_PETALBURG_WOODS/WEST_PATH -> MAP_PETALBURG_WOODS:0,1/MAP_ROUTE104:2,3
+   =>   REGION_ROUTE104/NORTH -> REGION_ROUTE104/NORTH -> REGION_RUSTBORO_CITY/MAIN
+   =>   REGION_RUSTBORO_CITY/MAIN -> REGION_RUSTBORO_CITY/MAIN -> REGION_ROUTE115/SOUTH_BELOW_LEDGE
+   =>   REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SEA
+   =>   REGION_ROUTE115/SEA -> REGION_ROUTE115/SEA -> REGION_ROUTE115/NORTH_BELOW_SLOPE
+   =>   REGION_ROUTE115/NORTH_BELOW_SLOPE
+Route 115 - Item Past Mud Slope (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> MAP_ROUTE104:4,5/MAP_PETALBURG_WOODS:2,3
+   =>   REGION_PETALBURG_WOODS/WEST_PATH -> MAP_PETALBURG_WOODS:0,1/MAP_ROUTE104:2,3
+   =>   REGION_ROUTE104/NORTH -> REGION_ROUTE104/NORTH -> REGION_RUSTBORO_CITY/MAIN
+   =>   REGION_RUSTBORO_CITY/MAIN -> REGION_RUSTBORO_CITY/MAIN -> REGION_ROUTE115/SOUTH_BELOW_LEDGE
+   =>   REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SOUTH_BELOW_LEDGE -> REGION_ROUTE115/SEA
+   =>   REGION_ROUTE115/SEA -> REGION_ROUTE115/SEA -> REGION_ROUTE115/NORTH_BELOW_SLOPE
+   =>   REGION_ROUTE115/NORTH_BELOW_SLOPE -> REGION_ROUTE115/NORTH_BELOW_SLOPE -> REGION_ROUTE115/NORTH_ABOVE_SLOPE
+   =>   REGION_ROUTE115/NORTH_ABOVE_SLOPE
+Route 115 - Item on Beach (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE102/MAIN
+   =>   REGION_ROUTE102/MAIN -> REGION_ROUTE102/MAIN -> REGION_PETALBURG_CITY/MAIN
+   =>   REGION_PETALBURG_CITY/MAIN -> REGION_PETALBURG_CITY/MAIN -> REGION_ROUTE104/SOUTH
+   =>   REGION_ROUTE104/SOUTH -> MAP_ROUTE104:4,5/MAP_PETALBURG_WOODS:2,3
+   =>   REGION_PETALBURG_WOODS/WEST_PATH -> MAP_PETALBURG_WOODS:0,1/MAP_ROUTE104:2,3
+   =>   REGION_ROUTE104/NORTH -> REGION_ROUTE104/NORTH -> REGION_RUSTBORO_CITY/MAIN
+   =>   REGION_RUSTBORO_CITY/MAIN -> REGION_RUSTBORO_CITY/MAIN -> REGION_ROUTE115/SOUTH_BELOW_LEDGE
+   =>   REGION_ROUTE115/SOUTH_BELOW_LEDGE
+Route 119 - Item East of Mud Slope (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> REGION_MAUVILLE_CITY/MAIN -> REGION_ROUTE118/WEST
+   =>   REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST_WATER
+   =>   REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/EAST_WATER
+   =>   REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST
+   =>   REGION_ROUTE118/EAST -> REGION_ROUTE118/EAST -> REGION_ROUTE119/LOWER
+   =>   REGION_ROUTE119/LOWER -> REGION_ROUTE119/LOWER -> REGION_ROUTE119/MIDDLE
+   =>   REGION_ROUTE119/MIDDLE
+Route 119 - Item in South Tall Grass 1 (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> REGION_MAUVILLE_CITY/MAIN -> REGION_ROUTE118/WEST
+   =>   REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST_WATER
+   =>   REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/EAST_WATER
+   =>   REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST
+   =>   REGION_ROUTE118/EAST -> REGION_ROUTE118/EAST -> REGION_ROUTE119/LOWER
+   =>   REGION_ROUTE119/LOWER
+Route 119 - Item in South Tall Grass 2 (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> REGION_MAUVILLE_CITY/MAIN -> REGION_ROUTE118/WEST
+   =>   REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST_WATER
+   =>   REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/EAST_WATER
+   =>   REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST
+   =>   REGION_ROUTE118/EAST -> REGION_ROUTE118/EAST -> REGION_ROUTE119/LOWER
+   =>   REGION_ROUTE119/LOWER
+Route 120 - Item Behind Southwest Pool (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> REGION_MAUVILLE_CITY/MAIN -> REGION_ROUTE118/WEST
+   =>   REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST_WATER
+   =>   REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/EAST_WATER
+   =>   REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST
+   =>   REGION_ROUTE118/EAST -> REGION_ROUTE118/EAST -> REGION_ROUTE119/LOWER
+   =>   REGION_ROUTE119/LOWER -> REGION_ROUTE119/LOWER -> REGION_ROUTE119/MIDDLE
+   =>   REGION_ROUTE119/MIDDLE -> REGION_ROUTE119/MIDDLE -> REGION_ROUTE119/UPPER
+   =>   REGION_ROUTE119/UPPER -> REGION_ROUTE119/UPPER -> REGION_FORTREE_CITY/MAIN
+   =>   REGION_FORTREE_CITY/MAIN -> REGION_FORTREE_CITY/MAIN -> REGION_ROUTE120/NORTH
+   =>   REGION_ROUTE120/NORTH -> REGION_ROUTE120/NORTH -> REGION_ROUTE120/SOUTH
+   =>   REGION_ROUTE120/SOUTH -> REGION_ROUTE120/SOUTH -> REGION_ROUTE120/SOUTH_PONDS
+   =>   REGION_ROUTE120/SOUTH_PONDS
+Route 120 - Item in Tall Grass Maze (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> REGION_MAUVILLE_CITY/MAIN -> REGION_ROUTE118/WEST
+   =>   REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST_WATER
+   =>   REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/EAST_WATER
+   =>   REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST
+   =>   REGION_ROUTE118/EAST -> REGION_ROUTE118/EAST -> REGION_ROUTE119/LOWER
+   =>   REGION_ROUTE119/LOWER -> REGION_ROUTE119/LOWER -> REGION_ROUTE119/MIDDLE
+   =>   REGION_ROUTE119/MIDDLE -> REGION_ROUTE119/MIDDLE -> REGION_ROUTE119/UPPER
+   =>   REGION_ROUTE119/UPPER -> REGION_ROUTE119/UPPER -> REGION_FORTREE_CITY/MAIN
+   =>   REGION_FORTREE_CITY/MAIN -> REGION_FORTREE_CITY/MAIN -> REGION_ROUTE120/NORTH
+   =>   REGION_ROUTE120/NORTH -> REGION_ROUTE120/NORTH -> REGION_ROUTE120/SOUTH
+   =>   REGION_ROUTE120/SOUTH
+Route 121 - Item Near Safari Zone (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> REGION_MAUVILLE_CITY/MAIN -> REGION_ROUTE118/WEST
+   =>   REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST -> REGION_ROUTE118/WEST_WATER
+   =>   REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/WEST_WATER -> REGION_ROUTE118/EAST_WATER
+   =>   REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST_WATER -> REGION_ROUTE118/EAST
+   =>   REGION_ROUTE118/EAST -> REGION_ROUTE118/EAST -> REGION_ROUTE119/LOWER
+   =>   REGION_ROUTE119/LOWER -> REGION_ROUTE119/LOWER -> REGION_ROUTE119/MIDDLE
+   =>   REGION_ROUTE119/MIDDLE -> REGION_ROUTE119/MIDDLE -> REGION_ROUTE119/UPPER
+   =>   REGION_ROUTE119/UPPER -> REGION_ROUTE119/UPPER -> REGION_FORTREE_CITY/MAIN
+   =>   REGION_FORTREE_CITY/MAIN -> REGION_FORTREE_CITY/MAIN -> REGION_ROUTE120/NORTH
+   =>   REGION_ROUTE120/NORTH -> REGION_ROUTE120/NORTH -> REGION_ROUTE120/SOUTH
+   =>   REGION_ROUTE120/SOUTH -> REGION_ROUTE120/SOUTH -> REGION_ROUTE121/WEST
+   =>   REGION_ROUTE121/WEST -> REGION_ROUTE121/WEST -> REGION_ROUTE121/EAST
+   =>   REGION_ROUTE121/EAST
+Route 25 - Item behind Cut Tree (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_GOLDENROD_MAGNET_TRAIN_STATION
+   =>   REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION
+   =>   REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_CITY
+   =>   REGION_SAFFRON_CITY -> REGION_SAFFRON_CITY -> REGION_ROUTE_5_SAFFRON_GATE
+   =>   REGION_ROUTE_5_SAFFRON_GATE -> REGION_ROUTE_5_SAFFRON_GATE -> REGION_ROUTE_5
+   =>   REGION_ROUTE_5 -> REGION_ROUTE_5 -> REGION_CERULEAN_CITY
+   =>   REGION_CERULEAN_CITY -> REGION_CERULEAN_CITY -> REGION_ROUTE_24
+   =>   REGION_ROUTE_24 -> REGION_ROUTE_24 -> REGION_ROUTE_25
+   =>   REGION_ROUTE_25
+Route 27 - East Item behind Whirlpool (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_27:WEST
+   =>   REGION_ROUTE_27:WEST -> REGION_ROUTE_27:WEST -> REGION_TOHJO_FALLS:WEST
+   =>   REGION_TOHJO_FALLS:WEST -> REGION_TOHJO_FALLS:WEST -> REGION_TOHJO_FALLS:EAST
+   =>   REGION_TOHJO_FALLS:EAST -> REGION_TOHJO_FALLS:EAST -> REGION_ROUTE_27:CENTER
+   =>   REGION_ROUTE_27:CENTER -> REGION_ROUTE_27:CENTER -> REGION_ROUTE_27:EAST
+   =>   REGION_ROUTE_27:EAST -> REGION_ROUTE_27:EAST -> REGION_ROUTE_27:EASTWHIRLPOOL
+   =>   REGION_ROUTE_27:EASTWHIRLPOOL
+Route 27 - West Item across Water (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_27:WEST
+   =>   REGION_ROUTE_27:WEST -> REGION_ROUTE_27:WEST -> REGION_ROUTE_27:WESTWATER
+   =>   REGION_ROUTE_27:WESTWATER
+Route 35 - HP Up after delivering Kenya (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE
+Route 36 - TM08 from Rock Smash Guy (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST
+Ruins of Alph - Ho-Oh Room Bottom Right Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_ROUTE_34
+   =>   REGION_ROUTE_34 -> REGION_ROUTE_34 -> REGION_ROUTE_34_ILEX_FOREST_GATE
+   =>   REGION_ROUTE_34_ILEX_FOREST_GATE -> REGION_ROUTE_34_ILEX_FOREST_GATE -> REGION_ILEX_FOREST:NORTH
+   =>   REGION_ILEX_FOREST:NORTH -> REGION_ILEX_FOREST:NORTH -> REGION_ILEX_FOREST:SOUTH
+   =>   REGION_ILEX_FOREST:SOUTH -> REGION_ILEX_FOREST:SOUTH -> REGION_ILEX_FOREST_AZALEA_GATE
+   =>   REGION_ILEX_FOREST_AZALEA_GATE -> REGION_ILEX_FOREST_AZALEA_GATE -> REGION_AZALEA_TOWN
+   =>   REGION_AZALEA_TOWN -> REGION_AZALEA_TOWN -> REGION_ROUTE_33
+   =>   REGION_ROUTE_33 -> REGION_ROUTE_33 -> REGION_UNION_CAVE_1F
+   =>   REGION_UNION_CAVE_1F -> REGION_UNION_CAVE_1F -> REGION_UNION_CAVE_B1F
+   =>   REGION_UNION_CAVE_B1F -> REGION_UNION_CAVE_B1F -> REGION_UNION_CAVE_B1F:NORTH
+   =>   REGION_UNION_CAVE_B1F:NORTH -> REGION_UNION_CAVE_B1F:NORTH -> REGION_RUINS_OF_ALPH_OUTSIDE:TRAINER
+   =>   REGION_RUINS_OF_ALPH_OUTSIDE:TRAINER -> REGION_RUINS_OF_ALPH_OUTSIDE:TRAINER -> REGION_RUINS_OF_ALPH_HO_OH_CHAMBER
+   =>   REGION_RUINS_OF_ALPH_HO_OH_CHAMBER -> REGION_RUINS_OF_ALPH_HO_OH_CHAMBER -> REGION_RUINS_OF_ALPH_HO_OH_ITEM_ROOM
+   =>   REGION_RUINS_OF_ALPH_HO_OH_ITEM_ROOM
+Rusturf Tunnel - HM04 from Tunneler (Player2)
+        Menu -> Start Game
+   =>   REGION_LITTLEROOT_TOWN/MAIN -> REGION_LITTLEROOT_TOWN/MAIN -> REGION_ROUTE101/MAIN
+   =>   REGION_ROUTE101/MAIN -> REGION_ROUTE101/MAIN -> REGION_OLDALE_TOWN/MAIN
+   =>   REGION_OLDALE_TOWN/MAIN -> REGION_OLDALE_TOWN/MAIN -> REGION_ROUTE103/WEST
+   =>   REGION_ROUTE103/WEST -> REGION_ROUTE103/WEST -> REGION_ROUTE103/WATER
+   =>   REGION_ROUTE103/WATER -> REGION_ROUTE103/WATER -> REGION_ROUTE103/EAST
+   =>   REGION_ROUTE103/EAST -> REGION_ROUTE103/EAST -> REGION_ROUTE110/MAIN
+   =>   REGION_ROUTE110/MAIN -> REGION_ROUTE110/MAIN -> REGION_MAUVILLE_CITY/MAIN
+   =>   REGION_MAUVILLE_CITY/MAIN -> REGION_MAUVILLE_CITY/MAIN -> REGION_ROUTE117/MAIN
+   =>   REGION_ROUTE117/MAIN -> REGION_ROUTE117/MAIN -> REGION_VERDANTURF_TOWN/MAIN
+   =>   REGION_VERDANTURF_TOWN/MAIN -> MAP_VERDANTURF_TOWN:4/MAP_RUSTURF_TUNNEL:1
+   =>   REGION_RUSTURF_TUNNEL/EAST
+Silver Cave 1F - Southeast Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_27:WEST
+   =>   REGION_ROUTE_27:WEST -> REGION_ROUTE_27:WEST -> REGION_TOHJO_FALLS:WEST
+   =>   REGION_TOHJO_FALLS:WEST -> REGION_TOHJO_FALLS:WEST -> REGION_TOHJO_FALLS:EAST
+   =>   REGION_TOHJO_FALLS:EAST -> REGION_TOHJO_FALLS:EAST -> REGION_ROUTE_27:CENTER
+   =>   REGION_ROUTE_27:CENTER -> REGION_ROUTE_27:CENTER -> REGION_ROUTE_27:EAST
+   =>   REGION_ROUTE_27:EAST -> REGION_ROUTE_27:EAST -> REGION_ROUTE_26
+   =>   REGION_ROUTE_26 -> REGION_ROUTE_26 -> REGION_VICTORY_ROAD_GATE
+   =>   REGION_VICTORY_ROAD_GATE -> REGION_VICTORY_ROAD_GATE -> REGION_ROUTE_28
+   =>   REGION_ROUTE_28 -> REGION_ROUTE_28 -> REGION_SILVER_CAVE_OUTSIDE
+   =>   REGION_SILVER_CAVE_OUTSIDE -> REGION_SILVER_CAVE_OUTSIDE -> REGION_SILVER_CAVE_ROOM_1
+   =>   REGION_SILVER_CAVE_ROOM_1
+Sprout Tower 2F - Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_SPROUT_TOWER_1F
+   =>   REGION_SPROUT_TOWER_1F -> REGION_SPROUT_TOWER_1F -> REGION_SPROUT_TOWER_2F
+   =>   REGION_SPROUT_TOWER_2F
+Sprout Tower 3F - HM05 from Sage (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_SPROUT_TOWER_1F
+   =>   REGION_SPROUT_TOWER_1F -> REGION_SPROUT_TOWER_1F -> REGION_SPROUT_TOWER_2F
+   =>   REGION_SPROUT_TOWER_2F -> REGION_SPROUT_TOWER_2F -> REGION_SPROUT_TOWER_3F
+   =>   REGION_SPROUT_TOWER_3F
+Tin Tower 8F - South Item (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_37
+   =>   REGION_ROUTE_37 -> REGION_ROUTE_37 -> REGION_ECRUTEAK_CITY
+   =>   REGION_ECRUTEAK_CITY -> REGION_ECRUTEAK_CITY -> REGION_ECRUTEAK_TIN_TOWER_ENTRANCE
+   =>   REGION_ECRUTEAK_TIN_TOWER_ENTRANCE -> REGION_ECRUTEAK_TIN_TOWER_ENTRANCE -> REGION_WISE_TRIOS_ROOM
+   =>   REGION_WISE_TRIOS_ROOM -> REGION_WISE_TRIOS_ROOM -> REGION_TIN_TOWER_1F
+   =>   REGION_TIN_TOWER_1F -> REGION_TIN_TOWER_1F -> REGION_TIN_TOWER_2F
+   =>   REGION_TIN_TOWER_2F -> REGION_TIN_TOWER_2F -> REGION_TIN_TOWER_3F
+   =>   REGION_TIN_TOWER_3F -> REGION_TIN_TOWER_3F -> REGION_TIN_TOWER_4F
+   =>   REGION_TIN_TOWER_4F -> REGION_TIN_TOWER_4F -> REGION_TIN_TOWER_5F
+   =>   REGION_TIN_TOWER_5F -> REGION_TIN_TOWER_5F -> REGION_TIN_TOWER_6F
+   =>   REGION_TIN_TOWER_6F -> REGION_TIN_TOWER_6F -> REGION_TIN_TOWER_7F
+   =>   REGION_TIN_TOWER_7F -> REGION_TIN_TOWER_7F -> REGION_TIN_TOWER_8F
+   =>   REGION_TIN_TOWER_8F
+Vermilion City - HP Up from Man nowhere near PokeCenter (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_GOLDENROD_MAGNET_TRAIN_STATION
+   =>   REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION
+   =>   REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_CITY
+   =>   REGION_SAFFRON_CITY -> REGION_SAFFRON_CITY -> REGION_ROUTE_6_SAFFRON_GATE
+   =>   REGION_ROUTE_6_SAFFRON_GATE -> REGION_ROUTE_6_SAFFRON_GATE -> REGION_ROUTE_6
+   =>   REGION_ROUTE_6 -> REGION_ROUTE_6 -> REGION_VERMILION_CITY
+   =>   REGION_VERMILION_CITY
+Vermilion City - Lost Item from Guy in Fan Club (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_GOLDENROD_MAGNET_TRAIN_STATION
+   =>   REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION
+   =>   REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_CITY
+   =>   REGION_SAFFRON_CITY -> REGION_SAFFRON_CITY -> REGION_ROUTE_6_SAFFRON_GATE
+   =>   REGION_ROUTE_6_SAFFRON_GATE -> REGION_ROUTE_6_SAFFRON_GATE -> REGION_ROUTE_6
+   =>   REGION_ROUTE_6 -> REGION_ROUTE_6 -> REGION_VERMILION_CITY
+   =>   REGION_VERMILION_CITY -> REGION_VERMILION_CITY -> REGION_POKEMON_FAN_CLUB
+   =>   REGION_POKEMON_FAN_CLUB
+Violet Gym - TM31 from Falkner (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_VIOLET_GYM
+   =>   REGION_VIOLET_GYM
+Viridian City - TM42 from Sleepy Guy (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_GOLDENROD_MAGNET_TRAIN_STATION
+   =>   REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_GOLDENROD_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION
+   =>   REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_MAGNET_TRAIN_STATION -> REGION_SAFFRON_CITY
+   =>   REGION_SAFFRON_CITY -> REGION_SAFFRON_CITY -> REGION_ROUTE_6_SAFFRON_GATE
+   =>   REGION_ROUTE_6_SAFFRON_GATE -> REGION_ROUTE_6_SAFFRON_GATE -> REGION_ROUTE_6
+   =>   REGION_ROUTE_6 -> REGION_ROUTE_6 -> REGION_VERMILION_CITY
+   =>   REGION_VERMILION_CITY -> REGION_VERMILION_CITY -> REGION_DIGLETTS_CAVE
+   =>   REGION_DIGLETTS_CAVE -> REGION_DIGLETTS_CAVE -> REGION_ROUTE_2:NORTHEAST
+   =>   REGION_ROUTE_2:NORTHEAST -> REGION_ROUTE_2:NORTHEAST -> REGION_ROUTE_2:WEST
+   =>   REGION_ROUTE_2:WEST -> REGION_ROUTE_2:WEST -> REGION_VIRIDIAN_CITY
+   =>   REGION_VIRIDIAN_CITY
+WildGrass_ROUTE_31_3 (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> WildGrass_ROUTE_31
+   =>   WildGrass_ROUTE_31
+WildGrass_SLOWPOKE_WELL_B1F_4 (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_36:WEST
+   =>   REGION_ROUTE_36:WEST -> REGION_ROUTE_36:WEST -> REGION_ROUTE_36_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_ROUTE_36_NATIONAL_PARK_GATE -> REGION_NATIONAL_PARK
+   =>   REGION_NATIONAL_PARK -> REGION_NATIONAL_PARK -> REGION_ROUTE_35_NATIONAL_PARK_GATE
+   =>   REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35_NATIONAL_PARK_GATE -> REGION_ROUTE_35
+   =>   REGION_ROUTE_35 -> REGION_ROUTE_35 -> REGION_ROUTE_35_GOLDENROD_GATE
+   =>   REGION_ROUTE_35_GOLDENROD_GATE -> REGION_ROUTE_35_GOLDENROD_GATE -> REGION_GOLDENROD_CITY
+   =>   REGION_GOLDENROD_CITY -> REGION_GOLDENROD_CITY -> REGION_ROUTE_34
+   =>   REGION_ROUTE_34 -> REGION_ROUTE_34 -> REGION_ROUTE_34_ILEX_FOREST_GATE
+   =>   REGION_ROUTE_34_ILEX_FOREST_GATE -> REGION_ROUTE_34_ILEX_FOREST_GATE -> REGION_ILEX_FOREST:NORTH
+   =>   REGION_ILEX_FOREST:NORTH -> REGION_ILEX_FOREST:NORTH -> REGION_ILEX_FOREST:SOUTH
+   =>   REGION_ILEX_FOREST:SOUTH -> REGION_ILEX_FOREST:SOUTH -> REGION_ILEX_FOREST_AZALEA_GATE
+   =>   REGION_ILEX_FOREST_AZALEA_GATE -> REGION_ILEX_FOREST_AZALEA_GATE -> REGION_AZALEA_TOWN
+   =>   REGION_AZALEA_TOWN -> REGION_AZALEA_TOWN -> REGION_SLOWPOKE_WELL_B1F
+   =>   REGION_SLOWPOKE_WELL_B1F -> REGION_SLOWPOKE_WELL_B1F -> WildGrass_SLOWPOKE_WELL_B1F
+   =>   WildGrass_SLOWPOKE_WELL_B1F
+WildWater_MOUNT_MORTAR_1F_OUTSIDE_3 (Player1)
+        Menu -> Start Game
+   =>   REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_2F -> REGION_PLAYERS_HOUSE_1F
+   =>   REGION_PLAYERS_HOUSE_1F -> REGION_PLAYERS_HOUSE_1F -> REGION_NEW_BARK_TOWN
+   =>   REGION_NEW_BARK_TOWN -> REGION_NEW_BARK_TOWN -> REGION_ROUTE_29
+   =>   REGION_ROUTE_29 -> REGION_ROUTE_29 -> REGION_CHERRYGROVE_CITY
+   =>   REGION_CHERRYGROVE_CITY -> REGION_CHERRYGROVE_CITY -> REGION_ROUTE_30
+   =>   REGION_ROUTE_30 -> REGION_ROUTE_30 -> REGION_ROUTE_31
+   =>   REGION_ROUTE_31 -> REGION_ROUTE_31 -> REGION_ROUTE_31_VIOLET_GATE
+   =>   REGION_ROUTE_31_VIOLET_GATE -> REGION_ROUTE_31_VIOLET_GATE -> REGION_VIOLET_CITY
+   =>   REGION_VIOLET_CITY -> REGION_VIOLET_CITY -> REGION_ROUTE_36:EAST
+   =>   REGION_ROUTE_36:EAST -> REGION_ROUTE_36:EAST -> REGION_ROUTE_37
+   =>   REGION_ROUTE_37 -> REGION_ROUTE_37 -> REGION_ECRUTEAK_CITY
+   =>   REGION_ECRUTEAK_CITY -> REGION_ECRUTEAK_CITY -> REGION_ROUTE_42_ECRUTEAK_GATE
+   =>   REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42_ECRUTEAK_GATE -> REGION_ROUTE_42:WEST
+   =>   REGION_ROUTE_42:WEST -> REGION_ROUTE_42:WEST -> REGION_ROUTE_42:CENTER
+   =>   REGION_ROUTE_42:CENTER -> REGION_ROUTE_42:CENTER -> REGION_MOUNT_MORTAR_1F_OUTSIDE:CENTER
+   =>   REGION_MOUNT_MORTAR_1F_OUTSIDE:CENTER -> REGION_MOUNT_MORTAR_1F_OUTSIDE:CENTER -> WildWater_MOUNT_MORTAR_1F_OUTSIDE
+   =>   WildWater_MOUNT_MORTAR_1F_OUTSIDE
