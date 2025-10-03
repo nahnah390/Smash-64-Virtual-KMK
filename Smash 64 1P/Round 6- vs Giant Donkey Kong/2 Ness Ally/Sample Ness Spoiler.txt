@@ -1,0 +1,1503 @@
+﻿Archipelago Version 0.6.3  -  Seed: 42313885743596508561
+
+Filling Algorithm:               balanced
+Players:                         4
+Plando Options:                  connections, texts, bosses
+
+Player 1: Player1
+Game:                            EarthBound
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     Flying Man, Jeff, Paula, Poo
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Giygas Required:                 Yes
+Required Sanctuaries:            4
+Skip Prayer Sequences:           Yes
+Random Starting Location:        No
+Sanctuary Alternate Goal:        No
+Magicant Mode:                   Psi Location
+Monkey Caves Mode:               Hunt
+Local Teleports:                 No
+Character Shuffle:               Shuffled
+Starting Character:              Ness
+PSI Shuffle:                     None
+Flash as Favorite:               No
+Enemy Shuffle:                   No
+Boss Shuffle:                    No
+Decouple Diamond Dog:            No
+Add Giygas to Boss Pool:         No
+Safe Final Boss:                 Yes
+Randomize Enemy Attributes:      No
+Randomize Enemy Stats:           No
+Randomize Enemy Attacks:         No
+Experience Percentage:           150
+Money Drop Multiplier:           1
+Starting Money:                  20
+Easy Deaths:                     Yes
+Easy Combat:                     No
+Progressive Weapons:             No
+Progressive Armor:               No
+Armorizer:                       Off
+Weaponizer:                      Off
+Elemental Resistance Chance:     15
+Equipamizer Stat Cap:            Yes
+Autoscale Party Members:         No
+Remote Items:                    No
+Random Flavors:                  Yes
+Randomize Battle Backgrounds:    No
+Randomize Swirl Colors:          No
+Match Present Sprites:           Yes
+nonlocal_items_use_local_presents:No
+Prefixed Items:                  No
+Photos in pool:                  20
+Franklin Badge Protection:       No
+Shuffle Drops:                   No
+Common Filler Weight:            80
+Uncommon Filler Weight:          30
+Rare Filler Weight:              5
+Money Weight:                    0
+No Free Sanctuaries:             No
+Overworld Music Randomizer:      Normal
+Randomize Battle Music:          No
+Randomize Fanfares:              Off
+Random PSI Palettes:             Normal
+Shuffle Map Palettes:            Normal
+Shop Randomizer:                 Off
+Scout Shop Checks:               Progression Only
+Dungeon Shuffle:                 No
+Start Inventory from Pool:       
+Death Link:                      No
+Death Link Mode:                 Mortal
+Energy Link:                     No
+
+Starting Location:    Ness's House
+Franklin Badge Protection:    Thunder
+
+Area Levels:
+ Northern Onett: Level 1
+ Onett: Level 2
+ Arcade: Level 3
+ Fourside: Level 3
+ Dusty Dunes Desert: Level 3
+ Magnet Hill: Level 5
+ Moonside: Level 7
+ Dalaam: Level 8
+ Monkey Caves: Level 8
+ Threed: Level 10
+ Andonuts Lab Area: Level 10
+ Winters: Level 10
+ Rainy Circle: Level 12
+ Snow Wood Boarding School: Level 14
+ Brickroad Maze: Level 14
+ Southern Winters: Level 15
+ Saturn Valley: Level 16
+ Grapefruit Falls: Level 16
+ Belch's Factory: Level 17
+ Threed Underground: Level 19
+ Pink Cloud: Level 21
+ Twoson: Level 23
+ Upper Saturn Valley: Level 23
+ Peaceful Rest Valley: Level 23
+ Milky Well: Level 25
+ Happy-Happy Village: Level 28
+ Lilliput Steps: Level 28
+ Happy-Happy HQ: Level 30
+ Fourside Dept. Store: Level 31
+ Boogey Tent: Level 32
+ Deep Darkness: Level 32
+ Tenda Village: Level 32
+ Magicant: Level 32
+ Deep Darkness Darkness: Level 33
+ Lumine Hall: Level 35
+ Sea of Eden: Level 37
+ Lost Underworld: Level 38
+ Fire Spring: Level 40
+ Cave of the Present: Level 42
+ Scaraba: Level 42
+ Cave of the Past: Level 42
+ Pyramid: Level 44
+ Endgame: Level 46
+ Southern Scaraba: Level 46
+ Dungeon Man: Level 47
+ Giant Step: Level 49
+ Monotoli Building: Level 51
+ Gold Mine: Level 53
+ Everdred's House: Level 55
+ Summers: Level 56
+ Summers Museum: Level 56
+ Stonehenge Base: Level 56
+
+Player 2: Player2
+Game:                            Golden Sun The Lost Age
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Goal:                            Doom Dragon
+Random Goals Count:              0
+Djinn Hunt Count:                56
+Summon Hunt Count:               10
+Item Shuffle:                    All Chests And Tablets
+Reveal Required For Hidden Items:Yes
+Omit Locations:                  Omit Superbosses And Inner Sanctum
+Shortcut Mars Lighthouse:        No
+Shortcut Magma Rock:             No
+Add Elven Shirt and Cleric's ring:Yes
+Add Normally Unobtainable Equipment:No
+Lemurian Ship:                   Ship Door Unlocked
+Start with Ship Wings:           No
+Anemos Inner Sanctum Access:     Vanilla
+Character Shuffle:               Vanilla Shuffled
+Second Starting Character:       Ivan
+Scale Characters:                Yes
+Max Scaled Level:                24
+Character Stats Shuffle:         Adjust Character Stats
+Character Element Shuffle:       Shuffle Character Elements
+No utility Psynergy from classes:Yes
+Randomize class stat boosts:     No
+Character Element Shuffle:       Randomize By Psynergy Group
+Character Element Shuffle:       Adjust Learning Levels
+Adjust Psynergy Power:           No
+Adjust Psynergy PP Cost:         No
+Randomize Psynergy AoE:          No
+Adjust Enemy Psynergy Power:     No
+Randomize Enemy Psynergy AoE:    No
+Enemy Elemental Resistance Shuffle:Vanilla
+Start with Healing Psynergy:     No
+Start with Revive Psynergy:      No
+Shuffle Djinn:                   Vanilla Shuffled
+Djinn Logic:                     100
+Shuffle Djinn stat boosts:       Yes
+Adjust Djinn attack power:       No
+Randomize Djinn Area of Effect:  No
+Scale Djinn battle difficulty:   Yes
+Randomize Summon costs:          No
+Adjust Summon Power:             No
+Shuffle Equipment Compatability: No
+Adjust Equipment Prices:         No
+Adjust Equipment Stats:          No
+Shuffle weapon attack:           No
+Shuffle Weapon Effects:          No
+Shuffle armour defense:          No
+Shuffle Armour Effects:          No
+Randomize Curses:                No
+Remove all Curses:               Yes
+Show items outside chest:        Yes
+Avoid costs no PP:               Yes
+Retreat costs no PP:             Yes
+Scale Exp:                       3
+Scale Coins:                     4
+Starting levels:                 5
+Sanctum revive cost:             Reduced
+Toggleable Avoid and always works:Yes
+Enable Hard Mode:                No
+Reduce Encounter Rate:           No
+Easier Bosses:                   No
+Named Puzzles:                   Vanilla
+Manual Retreat Glitch:           No
+Music Shuffle:                   No
+Teleport Everywhere:             Yes
+Auto Run:                        Yes
+Coop:                            Off
+Disable Shopkeeper Gametickets:  Yes
+Start Inventory from Pool:       
+Trap Chance:                     0
+Mimic Trap Weight:               5
+Scale Mimics:                    Yes
+Forge Material Filler Weight:    25
+Forge Materials are Filler:      No
+Rusty Material Filler Weight:    10
+Stat Boost Filler Weight:        20
+Uncommon Consumable Filler Weight:25
+Forged Equipment Filler Weight:  0
+Lucky Equipment Filler Weight:   0
+Artifacts are Filler:            No
+Shop Equipment Filler Weight:    10
+Coin Filler Weight:              15
+Common Consumable Filler Weight: 50
+
+Player 3: Player3
+Game:                            Psychonauts
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     Dufflebag, Hatbox, Purse, Steamertrunk, Suitcase
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Start with Levitation:           No
+Start with Mental Magnet:        Yes
+Start with Cobweb Duster:        No
+Random Starting Minds:           3
+Lootbox Vaults:                  Yes
+Easy Milla Race:                 No
+Easy Flight Mode:                No
+Enemy Damage Multiplier:         1
+Instant Death Mode:              No
+Goal:                            Asylum Brain Tank
+Brains Required:                 10
+Require Meat Circus:             Yes
+Deep Arrowhead Shuffle:          No
+Mental Cobweb Shuffle:           No
+
+Player 4: Player4
+Game:                            Undertale
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Required Route:                  Neutral
+Starting Area:                   Ruins
+Key Piece Hunt:                  No
+Key Piece Amount:                5
+Randomize LOVE:                  No
+Randomize Stats:                 No
+Include Temy Armor:              Yes
+No Equippables:                  No
+Only Temmie Flakes:              No
+Progressive Armor:               No
+Progressive Weapons:             No
+Randomize Item Button:           No
+
+
+Starting Items:
+
+Ness (Player1)
+Sasha's Button (Player3)
+Gloria's Mind (Player3)
+Kid Coach's Mind (Player3)
+ITEM (Player4)
+FIGHT (Player4)
+ACT (Player4)
+MERCY (Player4)
+Ruins Key (Player4)
+
+Locations:
+
+Poo - Starting Item (Player1): Suitcase Tag (Player3)
+Sanctuary Goal (Player1): Power of the Earth (Player1)
+Onett - Tracy Gift (Player1): Tremor Bit (Player2)
+Onett - Tracy's Room Present (Player1): Unicorn Ring (Player2)
+Onett - Hilltop Present (Player1): Guardian Ring (Player2)
+Onett - Meteor Item (Player1): Purse Tag (Player3)
+Onett - Buzz Buzz (Player1): Small Arrowhead Bundle (Player3)
+Onett - Mani Mani Statue (Player1): PsiCard (Player3)
+Onett - Library Counter (Player1): PsiChallengeMarker (Player3)
+Onett - Library Bookshelf (Player1): PsiChallengeMarker (Player3)
+Onett - Burger Shop Trashcan (Player1): Fourside Teleport (Player1)
+Onett - Treehouse Guy (Player1): Photograph (Player1)
+Onett - South Road Present (Player1): Masamune (Player2)
+Onett - Hotel Trashcan (Player1): Game Ticket (Player2)
+Onett - Arcade Trashcan (Player1): Elven Shirt (Player2)
+Onett - Mayor Pirkle (Player1): Progressive Shield (Player3)
+Onett - Traveling Entertainer (Player1): Dragon Axe (Player2)
+Giant Step - First Cave Present (Player1): Memory Vault (Player3)
+Giant Step - Floor 2 Cave Present (Player1): Photograph (Player1)
+Giant Step - Floor 3 Present (Player1): Plain Roll (Player1)
+Giant Step Sanctuary (Player1): Melody (Player1)
+Twoson - Bike Shop Rental (Player1): Diadem of Kings (Player1)
+Twoson - Antique Shop (Player1): Dark Matter (Player2)
+Twoson - Paula's Room Present (Player1): Max Lives Up (Player3)
+Twoson - Apple Kid Trashcan (Player1): Bramble Seed (Player2)
+Twoson - South of Town Present (Player1): PsiCard (Player3)
+Twoson - Orange Kid Donation (Player1): Small Arrowhead Bundle (Player3)
+Twoson - Apple Kid Invention (Player1): 500G (Player4)
+Twoson - Apple Kid's Mouse (Player1): PsiCard (Player3)
+Twoson - Paula's Mother (Player1): Xterminator Spray (Player1)
+Twoson - Insignificant Location (Player1): Handbag Strap (Player1)
+Twoson - Everdred Meeting (Player1): Chops' Brain (Player3)
+Peaceful Rest Valley - Split Hill Present (Player1): PsiCard (Player3)
+Peaceful Rest Valley - Hill Nook Present (Player1): Photograph (Player1)
+Peaceful Rest Valley - South of Bridge Present (Player1): Bazooka (Player1)
+Peaceful Rest Valley - Dead End Present (Player1): Rain Pendant (Player1)
+Peaceful Rest Valley - River Overlook Present (Player1): Punch Card (Player4)
+Peaceful Rest Valley - North Side Present (Player1): Purse Tag (Player3)
+Happy-Happy Village - Donation Lady (Player1): Megaphone (Player3)
+Happy-Happy Village - Prisoner Item (Player1): Psychonauts Comic Issue #1 (Player3)
+Happy-Happy Village - Prisoner (Player1): Jeff (Player1)
+Happy-Happy Village - Right HQ Present (Player1): Rusty Sword - Robber's Blade (Player2)
+Happy-Happy Village - Left HQ Present (Player1): Magicant Teleport (Player1)
+Happy-Happy Village - Defeat Carpainter (Player1): Confusion Ammo Up (Player3)
+Carpainter Defeated (Player1): Valley Bridge Repair (Player1)
+Lilliput Steps - Southwest Pool Present (Player1): Memory Vault (Player3)
+Lilliput Steps - East Cliff Present (Player1): Photograph (Player1)
+Lilliput Steps - North Stream Present (Player1): PsiCard (Player3)
+Lilliput Steps Sanctuary (Player1): Melody (Player1)
+Threed - Cemetery Trashcan (Player1): PsiCard (Player3)
+Threed - Downtown Trashcan (Player1): Phoebe's Brain (Player3)
+Threed - East Side Trashcan (Player1): Chicken (Player1)
+Threed - Northeast Shack Trashcan (Player1): Power Bread (Player2)
+Threed - Hospital Drawer (Player1): Muni Robe (Player2)
+Threed - Zombie Prisoner (Player1): Flying Man (Player1)
+Threed Underground - Left Coffin (Player1): Small Arrowhead Bundle (Player3)
+Threed Underground - Right Coffin (Player1): Photograph (Player1)
+Threed - Boogey Tent Trashcan (Player1): Protein Drink (Player1)
+Grapefruit Falls - South Present (Player1): Hatbox Tag (Player3)
+Grapefruit Falls - North Present (Player1): Cherub's Band (Player1)
+Grapefruit Falls - Saturn Cave Present (Player1): Butterscotch Pie (Player4)
+Belch's Factory - Top Right Room Trashcan (Player1): Small Arrowhead Bundle (Player3)
+Belch's Factory - Pit Room Trashcan #1 (Player1): Photograph (Player1)
+Belch's Factory - Pit Room Trashcan #2 (Player1): Gold Doubloon (Player3)
+Belch's Factory - Balcony Room Trashcan #1 (Player1): Heart Locket (Player4)
+Belch's Factory - Balcony Room Trashcan #2 (Player1): Golden Acorn (Player3)
+Belch's Factory - Balcony Room Trashcan #3 (Player1): Star Dust (Player2)
+Belch Defeated (Player1): Threed Tunnels Clear (Player1)
+Saturn Valley - Ladder Present (Player1): Suporma (Player1)
+Saturn Valley - Trashcan #1 (Player1): Herb (Player2)
+Saturn Valley - Trashcan #2 (Player1): Psy Crystal (Player2)
+Saturn Valley - Trashcan #3 (Player1): PsiCard (Player3)
+Saturn Valley - Post Belch Gift #1 (Player1): Mr. Baseball Cap (Player1)
+Saturn Valley - Post Belch Gift #2 (Player1): Progressive Pyrokinesis (Player3)
+Saturn Valley - Post Belch Gift #3 (Player1): Candle (Player3)
+Saturn Valley - Saturn Coffee (Player1): Big Bottle Rocket (Player1)
+Milky Well - Cavern Present (Player1): Toy Knife (Player4)
+Milky Well Sanctuary (Player1): Melody (Player1)
+Dusty Dunes - Northwest Corner Present (Player1): Hatbox Tag (Player3)
+Dusty Dunes - South Side Present (Player1): Viper (Player1)
+Dusty Dunes - Surrounding Rocks Present (Player1): Megaera (Player2)
+Dusty Dunes - Black Sesame Present (Player1): PsiChallengeMarker (Player3)
+Dusty Dunes - Oasis Present (Player1): Memory Vault (Player3)
+Dusty Dunes - Northeast Corner Present (Player1): Pizza (Player1)
+Dusty Dunes - North Central Present (Player1): Pasta di Summers (Player1)
+Dusty Dunes - Shining Spot (Player1): UFO Engine (Player1)
+Dusty Dunes - East Peninsula Present (Player1): Hotland Key (Player4)
+Dusty Dunes - Mine Reward (Player1): Zip Gun (Player1)
+Gold Mine - Mouse Crossroad Present #1 (Player1): Progressive Confusion (Player3)
+Gold Mine - Mouse Crossroad Present #2 (Player1): Toothbrush (Player1)
+Gold Mine - B1F Lonely Mole Present (Player1): Lost Underworld Teleport (Player1)
+Gold Mine - South Hall Present (Player1): Bramble Seed (Player2)
+Gold Mine - South Corner Present (Player1): Potion (Player2)
+Gold Mine - South Mole Present #1 (Player1): PsiCard (Player3)
+Gold Mine - South Mole Present #2 (Player1): Travel Charm (Player1)
+Gold Mine - North Crossroad Detour Present (Player1): Dufflebag Tag (Player3)
+Gold Mine - North Mole Present (Player1): Steamertrunk Tag (Player3)
+Gold Mine - West Mole Present (Player1): Blue Key (Player2)
+Gold Mine - B1F Isolated Present (Player1): Dinosaur Bone (Player3)
+Gold Mine - West Crossroad Detour Present (Player1): Sea Tea (Player4)
+Gold Mine - B1F Junction Present (Player1): PsiCard (Player3)
+Gold Mine - B1F Junction Mole Present (Player1): Memory Vault (Player3)
+Monkey Caves - 1F Right Chest (Player1): Broken Spray Can (Player1)
+Monkey Caves - 1F Left Chest (Player1): Small Arrowhead Bundle (Player3)
+Monkey Caves - West 2F Left Chest (Player1): PsiCard (Player3)
+Monkey Caves - West 2F Right Chest #1 (Player1): Sea Pendant (Player1)
+Monkey Caves - West 2F Right Chest #2 (Player1): Dufflebag Tag (Player3)
+Monkey Caves - East 2F Left Chest (Player1): Monkey's Love (Player1)
+Monkey Caves - East 2F Right Chest (Player1): Shaman's Rod (Player2)
+Monkey Caves - East West 3F Right Chest #1 (Player1): Voodoo Doll (Player3)
+Monkey Caves - East West 3F Right Chest #2 (Player1): Chef's Special (Player1)
+Monkey Caves - West End Chest (Player1): Diamond (Player1)
+Monkey Caves - West End Trashcan (Player1): Trout Yogurt (Player1)
+Monkey Caves - East End Chest (Player1): Shyness Book (Player1)
+Monkey Caves - East End Trashcan (Player1): Tear Stone (Player2)
+Monkey Caves - Bow Monkey Gift (Player1): Palm Megabomb (Player3)
+Monkey Caves - Talah Rama Chest #1 (Player1): Purse Tag (Player3)
+Monkey Caves - Talah Rama Chest #2 (Player1): Bottle Rocket (Player1)
+Monkey Caves - Talah Rama Gift (Player1): Small Arrowhead Bundle (Player3)
+Monkey Caves - Monkey Power (Player1): Oil Drop (Player2)
+Fourside - Venus Gift (Player1): Small Arrowhead Bundle (Player3)
+Fourside - Bakery 2F Gift (Player1): Orihalcon (Player2)
+Fourside - Post-Moonside Delivery (Player1): Mars Star (Player2)
+Moonside - Two Trees Present (Player1): PsiCard (Player3)
+Moonside - East Island Present (Player1): Broken Laser (Player1)
+Moonside - Businessman Present (Player1): Dufflebag Tag (Player3)
+Moonside - West Island Present (Player1): Weasel's Claw (Player2)
+Moonside - Hospital Present (Player1): Trainer's Whip (Player2)
+Fourside - Department Store Blackout (Player1): Power Bread (Player2)
+Magnet Hill - West Entrance Trashcan (Player1): Progressive Invisibility (Player3)
+Magnet Hill - First Room Free Door Trashcan (Player1): Snake (Player1)
+Magnet Hill - First Room Barrel Door Trashcan (Player1): Oarsman's Badge (Player3)
+Magnet Hill - Second Room Dead End Trashcan (Player1): Cloudy Glasses (Player4)
+Magnet Hill - Final Room Door Trashcan (Player1): Dalaam Teleport (Player1)
+Fourside - Magnet Hill Chest (Player1): PsiCard (Player3)
+Magnet Hill Sanctuary (Player1): Melody (Player1)
+Monotoli Building - One Table Present (Player1): Gold Watch (Player3)
+Monotoli Building - Two Table Present (Player1): Pirate Scope (Player3)
+Monotoli Building - Electra Gift (Player1): PsiCard (Player3)
+Monotoli Building - Monotoli Gift (Player1): Sprig of Parsley (Player1)
+Monotoli Building - Monotoli Character (Player1): Teddy Bear (Player1)
+Winters - Drugstore Saleswoman (Player1): Star Dust (Player2)
+Snow Wood - Many Present Room Present #1 (Player1): Cloak of Kings (Player1)
+Snow Wood - Many Present Room Present #2 (Player1): Cheap Bracelet (Player1)
+Snow Wood - Many Present Room Present #3 (Player1): Broken Gadget (Player1)
+Snow Wood - Many Present Room Present #4 (Player1): Dufflebag Tag (Player3)
+Snow Wood - Many Present Room Present #5 (Player1): Sol Blade (Player2)
+Snow Wood - Many Present Room Present #6 (Player1): Steamertrunk Tag (Player3)
+Snow Wood - Many Present Room Present #7 (Player1): Saturn Valley Teleport (Player1)
+Snow Wood - Upper Right Locker (Player1): Ribbon (Player1)
+Snow Wood - Upper Left Locker (Player1): Dragon Skin (Player2)
+Snow Wood - Bottom Right Locker (Player1): Storm Brand (Player2)
+Snow Wood - Bottom Left Locker (Player1): Night Pendant (Player1)
+Snow Wood - Maxwell Item (Player1): Hyper Beam (Player1)
+Snow Wood - Bedroom (Player1): Super Plush Bear (Player1)
+Brick Road Maze - Top Path Present (Player1): 1000G (Player4)
+Brick Road Maze - Guarded Present (Player1): PsiCard (Player3)
+Brick Road Maze - Out of the Way Present (Player1): PsiChallengeMarker (Player3)
+Brick Road Maze - Alcove Present (Player1): Mint (Player2)
+Brick Road Maze - Near Exit Present (Player1): Pencil Eraser (Player1)
+Rainy Circle - Isolated Present (Player1): Nils' Brain (Player3)
+Rainy Circle - East Cliff Present (Player1): Psy Crystal (Player2)
+Rainy Circle - Near Ropes Present (Player1): PsiCard (Player3)
+Rainy Circle Sanctuary (Player1): Melody (Player1)
+Andonuts Lab - Present (Player1): Turtle Boots (Player2)
+Andonuts Lab - Mouse (Player1): Diamond Band (Player1)
+Stonehenge - Purple Maze Present (Player1): Small Arrowhead Bundle (Player3)
+Stonehenge - Dead End Present (Player1): PsiCard (Player3)
+Stonehenge - Near End of the Maze Present (Player1): PsiCard (Player3)
+Stonehenge - Bridge Room East Balcony Present (Player1): JT's Brain (Player3)
+Stonehenge - Bridge Room Lower Present (Player1): Potion (Player2)
+Stonehenge - Flashing Room Right Path Present (Player1): Elton's Brain (Player3)
+Stonehenge - Flashing Room Center Present (Player1): Potion (Player2)
+Stonehenge - Flashing Room Upper Present (Player1): Coins 315 (Player2)
+Stonehenge - Kidnapped Mr. Saturn (Player1): Elixir (Player2)
+Stonehenge - Tony Item (Player1): Antidote (Player2)
+Summers - Magic Cake (Player1): Brain Stone (Player1)
+Summers - Museum Item (Player1): PsiCard (Player3)
+Dalaam - Throne Room Chest #1 (Player1): Progressive Clairvoyance (Player3)
+Dalaam - Throne Room Chest #2 (Player1): Lucky Medal (Player2)
+Dalaam - Throne Room Chest #3 (Player1): Refreshing Herb (Player1)
+Dalaam - Trial of Mu (Player1): Themis' Axe (Player2)
+Dalaam - Restaurant Chest #1 (Player1): Flora (Player2)
+Dalaam - Restaurant Chest #2 (Player1): Coin of Defense (Player1)
+Dalaam - Do Do Guy's House Chest (Player1): Rust Promoter (Player1)
+Dalaam - Upper House Chest (Player1): King Banana (Player1)
+Dalaam - Throne Character (Player1): Poo (Player1)
+Pink Cloud - Three Holes Present (Player1): Beef Jerky (Player1)
+Pink Cloud - Left Hole Present (Player1): Deep Darkness Teleport (Player1)
+Pink Cloud - Ground Floor Present (Player1): Small Arrowhead Bundle (Player3)
+Pink Cloud Sanctuary (Player1): Melody (Player1)
+Scaraba - Snake Bag Salesman (Player1): Milk (Player2)
+Pyramid - Anteroom Sarcophagus (Player1): Sprig of Parsley (Player1)
+Pyramid - Northwest Door Sarcophagus (Player1): Dusty Dunes Teleport (Player1)
+Pyramid - Hallway Sarcophagus #1 (Player1): Max Lives Up (Player3)
+Pyramid - Hallway Sarcophagus #2 (Player1): Psy Crystal (Player2)
+Pyramid - Switch Room Sarcophagus (Player1): Oil Drop (Player2)
+Pyramid - Pedestal Item (Player1): PsiCard (Player3)
+Pyramid - Way Out Sarcophagus (Player1): PsiCard (Player3)
+Scaraba - Star Master (Player1): Vial (Player2)
+Scaraba - Key Holder (Player1): PsiCard (Player3)
+Dungeon Man - 1F Dead End Present (Player1): Broad Sword (Player2)
+Dungeon Man - 1F Long Walk Present (Player1): Hypnos' Sword (Player2)
+Dungeon Man - 1F Disappointing Present (Player1): Waterfall Key (Player4)
+Dungeon Man - 1F Opinion Present (Player1): Sacred Feather (Player2)
+Dungeon Man - 1F No Sign Present (Player1): Dufflebag Tag (Player3)
+Dungeon Man - 2F Unnecessary Billboard Present (Player1): Crystal Powder (Player2)
+Dungeon Man - 2F Dungeon Exploration Present (Player1): PsiCard (Player3)
+Dungeon Man - 2F South Ledge Present (Player1): Gloria's Trophy (Player3)
+Dungeon Man - 2F North Alcove Present (Player1): Insecticide Spray (Player1)
+Dungeon Man - 3F Present (Player1): Left Home Key (Player4)
+Dungeon Man - 2F Hole Present (Player1): Bisicle (Player4)
+Dungeon Man - 1F Exit Ledge Present (Player1): Astronaut Food (Player4)
+Dungeon Man Submarine (Player1): Submarine to Deep Darkness (Player1)
+Deep Darkness - Teleporting Monkey (Player1): Franklin Badge (Player1)
+Deep Darkness - Crest of Darkness Present (Player1): Miner's Skull (Player3)
+Deep Darkness - Helicopter Present (Player1): Small Arrowhead Bundle (Player3)
+Deep Darkness - Yellow Bird Present (Player1): Witch's Wand (Player2)
+Deep Darkness - Swamp Present (Player1): PsiCard (Player3)
+Deep Darkness - Corner Present (Player1): Salt Packet (Player1)
+Deep Darkness - Alcove Present (Player1): Phantasmal Mail (Player2)
+Deep Darkness - North Alcove Truffle (Player1): Diamond Band (Player1)
+Deep Darkness - Near Land Truffle (Player1): Small Arrowhead Bundle (Player3)
+Deep Darkness - Present Truffle (Player1): Coins 383 (Player2)
+Deep Darkness - Village Truffle (Player1): Progressive Confusion (Player3)
+Deep Darkness - Entrance Truffle (Player1): Super Bomb (Player1)
+Deep Darkness - Barf Character (Player1): Paula (Player1)
+Tenda Village - Trashcan (Player1): PsiChallengeMarker (Player3)
+Tenda Village - Tenda Tea (Player1): PsiCard (Player3)
+Tenda Village - Tenda Gift (Player1): Deluxe Fry Pan (Player1)
+Tenda Village - Tenda Gift #2 (Player1): Suitcase Tag (Player3)
+Lumine Hall - B1F Non-Talkative Rock Present (Player1): Full Metal Vest (Player2)
+Lumine Hall - 1F North Path Present (Player1): Broken Air Gun (Player1)
+Lumine Hall - B1F Thankful Rock Corner Present (Player1): Fossil (Player3)
+Lumine Hall - B1F Thankful Rock Junction Present (Player1): Pharaoh's Curse (Player1)
+Lumine Hall - 1F Above Belly Button Present (Player1): PsiCard (Player3)
+Lumine Hall - B1F Belly Button Present (Player1): Snake (Player1)
+Lumine Hall - 1F Near Exit Present (Player1): Diver's Helmet (Player3)
+Lumine Hall - 1F Dead End Present (Player1): Broken Harmonica (Player1)
+Lumine Hall - B1F West Alcove Present (Player1): PsiCard (Player3)
+Lumine Hall Sanctuary (Player1): Melody (Player1)
+Lost Underworld - Talking Rock (Player1): Game Ticket (Player2)
+Lost Underworld - East Present (Player1): Sprig of Parsley (Player1)
+Lost Underworld - Northeast Present (Player1): Magicant Bat (Player1)
+Lost Underworld - Northeast of Tenda Tribe Present (Player1): Coins 12 (Player2)
+Lost Underworld - Southwest of Tenda Tribe Present (Player1): Scoop Gem (Player2)
+Lost Underworld - Evacuation Present (Player1): PsiCard (Player3)
+Fire Spring - 1st Cave Present (Player1): Scaraba Teleport (Player1)
+Fire Spring - East Corner Present (Player1): Condor Egg (Player3)
+Fire Spring - Volcano Present (Player1): PsiCard (Player3)
+Fire Spring - Lone Cave Present (Player1): Winters Teleport (Player1)
+Fire Spring - Upper Volcano Present (Player1): Hatbox Tag (Player3)
+Fire Spring Sanctuary (Player1): Melody (Player1)
+Magicant - Ness's Gift (Player1): Large Arrowhead Bundle (Player3)
+Magicant - Present Near Ness (Player1): Daedalus (Player2)
+Magicant - Lonely Present (Player1): Police Badge (Player1)
+Magicant - North Present (Player1): Threed Teleport (Player1)
+Magicant - Hills Present (Player1): Max Lives Up (Player3)
+Magicant - Town Present (Player1): Progressive Poo PSI (Player1)
+Magicant - Ness's Nightmare (Player1): Jester's Armlet (Player2)
+Cave of the Present - Star Master (Player1): Key to the Shack (Player1)
+Cave of the Present - Broken Phase Distorter (Player1): Vial (Player2)
+Any ATM (Player1): ATM Access (Player1)
+Cave of the Past - Present (Player1): Memory Vault (Player3)
+Giygas (Player1): Saved Earth (Player1)
+Felix - Growth (Player2): Cleric's Ring (Player2)
+Felix - Shaman's Rod (Player2): Smoke Bomb (Player2)
+Idejima - Recruit Jenna (Player2): Ivan (Player2)
+Idejima - Recruit Sheba (Player2): Piers (Player2)
+Victory Event (Player2): Victory (Player2)
+Sheba - Mind Read (Player2): Bramble Seed (Player2)
+Sheba - Whirlwind (Player2): Water of Life (Player2)
+Piers - Douse Drop (Player2): Mythril Silver (Player2)
+Piers - Frost Jewel (Player2): Meditation Rod (Player2)
+3rd Party Member - Mercury Djinni Spring (Player2): Gale (Player2)
+3rd Party Member - Mercury Djinni Shade (Player2): Eddy (Player2)
+Mia - Carry Stone (Player2): OnePiece Dress (Player2)
+Ivan - Lifting Gem (Player2): Frost Jewel (Player2)
+Garet - Orb of Force (Player2): Star Dust (Player2)
+Isaac - Catch Beads (Player2): Clarity Circlet (Player2)
+4th Party Member - Venus Djinni Flint (Player2): Quartz (Player2)
+5th Party Member - Venus Djinni Granite (Player2): Chill (Player2)
+6th Party Member - Venus Djinni Quartz (Player2): Geode (Player2)
+7th Party Member - Venus Djinni Vine (Player2): Lull (Player2)
+7th Party Member - Venus Djinni Sap (Player2): Luff (Player2)
+8th Party Member - Venus Djinni Ground (Player2): Sour (Player2)
+5th Party Member - Mercury Djinni Fizz (Player2): Fog (Player2)
+6th Party Member - Mercury Djinni Sleet (Player2): Mud (Player2)
+6th Party Member - Mercury Djinni Mist (Player2): Fury (Player2)
+7th Party Member - Mercury Djinni Spritz (Player2): Shine (Player2)
+7th Party Member - Mercury Djinni Hail (Player2): Rime (Player2)
+8th Party Member - Mercury Djinni Tonic (Player2): Corona (Player2)
+4th Party Member - Mars Djinni Forge (Player2): Petra (Player2)
+5th Party Member - Mars Djinni Fever (Player2): Whorl (Player2)
+6th Party Member - Mars Djinni Corona (Player2): Iron (Player2)
+7th Party Member - Mars Djinni Scorch (Player2): Ground (Player2)
+8th Party Member - Mars Djinni Ember (Player2): Aroma (Player2)
+8th Party Member - Mars Djinni Flash (Player2): Granite (Player2)
+4th Party Member - Jupiter Djinni Gust (Player2): Meld (Player2)
+5th Party Member - Jupiter Djinni Breeze (Player2): Balm (Player2)
+6th Party Member - Jupiter Djinni Zephyr (Player2): Wheeze (Player2)
+7th Party Member - Jupiter Djinni Smog (Player2): Kindle (Player2)
+8th Party Member - Jupiter Djinni Kite (Player2): Breath (Player2)
+8th Party Member - Jupiter Djinni Squall (Player2): Char (Player2)
+Daila - Sea God's Tear (Player2): Rusty Sword - Robber's Blade (Player2)
+South of Daila - Venus Djinni Echo (Player2): Steam (Player2)
+Kandorean Temple - Mimic (Player2): Small Arrowhead Bundle (Player3)
+Kandorean Temple - Lash Pebble (Player2): Lightning Sword (Player2)
+Kandorean Temple - Mysterious Card (Player2): Memory Vault (Player3)
+Kandorean Temple - Chestbeaters (Player2): Chestbeaters defeated (Player2)
+Kandorean Temple - Mercury Djinni Fog (Player2): Fever (Player2)
+Shrine of the Sea God - Jupiter Djinni Breath (Player2): Cannon (Player2)
+Shrine of the Sea God - Breaking Bridges Room (Player2): Eclipse (Player2)
+Shrine of the Sea God - Right Prong (Player2): Memory Vault (Player3)
+Dehkan Plateau - Second Screen Ledge (Player2): PsiCard (Player3)
+Dehkan Plateau - Pound Cube (Player2): Lash Pebble (Player2)
+Dehkan Plateau - Third Screen (Player2): Memory Vault (Player3)
+Dehkan Plateau - First Screen (Player2): Dufflebag Tag (Player3)
+Dehkan Plateau - Second Screen Drop-down (Player2): Bionic Slingshot (Player1)
+Dehkan Plateau - Lash Required Chest (Player2): PsiCard (Player3)
+Dehkan Plateau - Mars Djinni Cannon (Player2): Gel (Player2)
+Indra Cavern - Zagan Tablet (Player2): Squirrel Roast Dinner (Player3)
+Madra - Mayor's Gift (Player2): Small Arrowhead Bundle (Player3)
+Madra - Ledge Chest (Player2): Purse Tag (Player3)
+West of Madra - Venus Djinni Iron (Player2): Ether (Player2)
+Madra - Mars Djinni Char (Player2): Blitz (Player2)
+Madra Catacombs - Ruin Key (Player2): Rusty Staff - Dracomace (Player2)
+Madra Catacombs - Tremor Bit (Player2): Witch's Wand (Player2)
+Madra Catacombs - Main Cave East (Player2): Left Prong (Player2)
+Madra Catacombs - Ruins West Room (Player2): Sugar Packet (Player1)
+Madra Catacombs - Main Cave South (Player2): Hatbox Tag (Player3)
+Madra Catacombs - Moloch Tablet (Player2): Chef's Fry Pan (Player1)
+Osenia Cliffs - Pirate Sword (Player2): Purse Tag (Player3)
+Yampi Desert - Djinni Room Chest (Player2): Pop Gun (Player1)
+Yampi Desert - Guardian Ring (Player2): Cherry Wood Pipe (Player3)
+Yampi Desert - Scoop Gem (Player2): Hand-Aid (Player1)
+Yampi Desert - King Scorpion (Player2): King Scorpion defeated (Player2)
+Yampi Desert - Jupiter Djinni Blitz (Player2): Reflux (Player2)
+Yampi Desert - Reveal Circle (Player2): Plunger (Player3)
+Yampi Desert - Trainer's Whip (Player2): Steamertrunk Tag (Player3)
+Yampi Desert - Sand Flow Cave South (Player2): Spider Cider (Player4)
+Yampi Desert - Sand Flow Cave North (Player2): Max Ammo Up (Player3)
+Yampi Desert - Yampi Desert Cave Entrance (Player2): Hatbox Tag (Player3)
+Yampi Desert Cave - Shortcut Room Chest (Player2): Memory Vault (Player3)
+Yampi Desert Cave - Halfway Chest (Player2): Long Sword (Player2)
+Yampi Desert Cave - Half-buried Item (Player2): Photograph (Player1)
+Yampi Desert Cave - Venus Djinni Crystal (Player2): Zephyr (Player2)
+Alhafra - Reveal Circle (Player2): 500G (Player4)
+Alhafra Briggs (Player2): Briggs defeated (Player2)
+Alhafra Prison Briggs (Player2): Briggs escaped (Player2)
+Alhafra - Cave Left Side (Player2): Small Arrowhead Bundle (Player3)
+Alhafra - Cave Left Side Two (Player2): Saturn Ribbon (Player1)
+Alhafra - Cave Left Side Three (Player2): Slingshot (Player1)
+Alhafra - Cave Right Side (Player2): Broken Iron (Player1)
+Alhafra - Cave Right Side Two (Player2): Steamertrunk Tag (Player3)
+Alhafra - Cave Right Side Three (Player2): Mist Potion (Player2)
+Mikasalla - Ledge Chest (Player2): Bad Key Machine (Player1)
+Northeast of Mikasalla - Mercury Djinni Sour (Player2): Spritz (Player2)
+Mikasalla - Mars Djinni Spark (Player2): Core (Player2)
+Garoh - Ledge Chest (Player2): Tendakraut (Player1)
+Garoh - Jupiter Djinni Ether (Player2): Shade (Player2)
+Air's Rock Exterior - First Room - Mimic (Player2): Star Dust (Player2)
+Air's Rock Exterior - First Room - Middle (Player2): Sea Tea (Player4)
+Air's Rock Interior - Right Path (Player2): Bobby's Brain (Player3)
+Air's Rock Interior - Left Path - Blue 4 Room (Player2): Dufflebag Tag (Player3)
+Air's Rock Interior - Left Path - Blue 2 Room (Player2): Hatbox Tag (Player3)
+Air's Rock Exterior - Summit Chest (Player2): Carton of Cream (Player1)
+Air's Rock Interior - Tablet Room Chest (Player2): Right Home Key (Player4)
+Air's Rock Exterior - Cliff Ascent (Player2): Punch Card (Player4)
+Air's Rock Exterior - First Room - Lower Left (Player2): Cup of Noodles (Player1)
+Air's Rock Exterior - First Room - Top Right (Player2): Small Arrowhead Bundle (Player3)
+Air's Rock Exterior - Frost Ledge (Player2): Thick Fry Pan (Player1)
+Air's Rock Interior - Top Floor (Player2): Coins 82 (Player2)
+Air's Rock Interior - Left Path - Blue 5 Room (Player2): Festival Coat (Player2)
+Air's Rock Interior - Flora Tablet (Player2): Water of Life (Player2)
+Air's Rock Interior - Reveal Tablet (Player2): Progressive Telekinesis (Player3)
+Osenia Cavern - Megaera Tablet (Player2): Large Arrowhead Bundle (Player3)
+Gondowan Cliffs - Healing Fungus (Player2): Memory Vault (Player3)
+Gondowan Cliffs - Laughing Fungus (Player2): Hatbox Tag (Player3)
+Gondowan Cliffs - Left Ledge (Player2): Snake (Player1)
+Gondowan Cliffs - Mars Djinni Kindle (Player2): Squall (Player2)
+Naribwe - Thorn Crown (Player2): Magical Cassock (Player2)
+Naribwe - Reveal Circle (Player2): Goddess Band (Player1)
+Southwest of Naribwe - Mercury Djinni Chill (Player2): Echo (Player2)
+Kibombo Mountains - South Screen (Player2): Tomegathericon (Player2)
+Kibombo Mountains - North Screen (Player2): Baseball Cap (Player1)
+Kibombo Mountains - North Screen Two (Player2): Bean Croquette (Player1)
+Kibombo Mountains - Jupiter Djinni Waft (Player2): Scorch (Player2)
+Kibombo - Recruit Piers (Player2): Jenna (Player2)
+Gabomba Reward - Gabomba Reward (Player2): Erinyes Tunic (Player2)
+Gabomba Statue - Early Isaac Room Two (Player2): Elka's Brain (Player3)
+Gabomba Statue - Right Side Chest (Player2): Straight Jacket (Player3)
+Gabomba Statue - Early Isaac Room (Player2): Purse Tag (Player3)
+Gabomba Statue Ritual (Player2): Gabomba Statue Completed (Player2)
+Gabomba Statue - Venus Djinni Steel (Player2): Serac (Player2)
+Gabomba Catacombs - Tomegathericon (Player2): Pak of Bubble Gum (Player1)
+Gabomba Catacombs - Venus Djinni Mud (Player2): Spring (Player2)
+Lemurian Ship - Engine Room (Player2): Ship (Player2)
+Lemurian Ship - Aqua Hydra (Player2): Aqua Hydra defeated (Player2)
+Lemurian Ship - Frost Pillar (Player2): PsiCard (Player3)
+Lemurian Ship - Submerged Chest (Player2): Blaze (Player2)
+E Tundaria Islet - Penguin's Treasure (Player2): Rolling Pin (Player3)
+West Indra Islet - Dog's Treasure (Player2): Memory Vault (Player3)
+SE Angara Islet - Bird's Treasure (Player2): Steamertrunk Tag (Player3)
+N Osenia Islet - Cow's Treasure (Player2): Spider Donut (Player4)
+Islet Cave - Central Room Bottom (Player2): PsiCard (Player3)
+Islet Cave - Central Room Top (Player2): Suitcase Tag (Player3)
+Islet Cave - Venus Djinni Meld (Player2): Fugue (Player2)
+Islet Cave - Mercury Djinni Serac (Player2): Gust (Player2)
+Apojii Islands - Jupiter Djinni Haze (Player2): Dew (Player2)
+Aqua Rock Exterior - 1F - Top Ledge (Player2): Milla's Mind (Player3)
+Aqua Rock Interior - 3F - Steam Ledge (Player2): PsiCard (Player3)
+Aqua Rock Interior - 1F - Mimic (Player2): Thorn Crown (Player2)
+Aqua Rock Exterior - 1F - Middle Ledge (Player2): Cold Remedy (Player1)
+Aqua Rock Interior - 1F - Aquarius Stone (Player2): Game Ticket (Player2)
+Aqua Rock Interior - 3F - Entrance Room South (Player2): Rust Promoter (Player1)
+Aqua Rock Interior - 1F - Main Room Left (Player2): Progressive Invisibility (Player3)
+Aqua Rock Exterior - 2F - Frost Pillars (Player2): Glamburger (Player4)
+Aqua Rock Exterior - 2F - Waterfall (Player2): Small Arrowhead Bundle (Player3)
+Aqua Rock Interior - 1F - Submerged Chest (Player2): Glass Eye (Player3)
+Aqua Rock Interior - 2F - Waterfall (Player2): Ixion Mail (Player2)
+Aqua Rock Interior - 1F - Left Side (Player2): Hard Hat (Player1)
+Aqua Rock Interior - Parch Tablet (Player2): Handbag Strap (Player1)
+Aqua Rock - Mercury Djinni Steam (Player2): Tonic (Player2)
+Izumo - Ruins Ledge (Player2): Bag of Dragonite (Player1)
+Izumo - Ulysses Tablet (Player2): Steamertrunk Tag (Player3)
+Izumo - Mars Djinni Coal (Player2): Coal (Player2)
+Gaia Rock - Cliff Ledge Chest (Player2): Confusion Ammo Up (Player3)
+Gaia Rock - Summit Chest (Player2): Edgar's Mind (Player3)
+Gaia Rock - Maze Items (Player2): PsiCard (Player3)
+Gaia Rock - Maze Items Two (Player2): Wad of Bills (Player1)
+Gaia Rock - Dancing Idol (Player2): Pretty Stone (Player2)
+Gaia Rock - Serpent (Player2): Serpent defeated (Player2)
+Gaia Rock - Sand Tablet (Player2): Suitcase Tag (Player3)
+Treasure Isle - Entrance Rooms (Player2): Crystal's Brain (Player3)
+Treasure Isle - Entrance Rooms Two (Player2): Coins 123 (Player2)
+Treasure Isle - Entrance Rooms Three (Player2): Max Lives Up (Player3)
+Treasure Isle - Entrance Rooms Four (Player2): 1000G (Player4)
+Treasure Isle - Entrance Rooms Five (Player2): Spirit Gloves (Player2)
+Treasure Isle - Entrance Rooms Six (Player2): PsiCard (Player3)
+Treasure Isle - Main Room South (Player2): Boiled Egg (Player1)
+Treasure Isle - Main Room South Two (Player2): Franke's Brain (Player3)
+Treasure Isle - Main Room South Three (Player2): Insignificant Item (Player1)
+Treasure Isle - Main Room South Four (Player2): Bicycle (Player1)
+Treasure Isle - Main Room South Five (Player2): PsiChallengeMarker (Player3)
+Treasure Isle - Main Room South Six (Player2): Big League Bat (Player1)
+Treasure Isle - Main Room North (Player2): Phaeton's Blade (Player2)
+Treasure Isle - Main Room North Two (Player2): Valkyrie Mail (Player2)
+Treasure Isle - Main Room North Three (Player2): Max Lives Up (Player3)
+Treasure Isle - Main Room North Four (Player2): Carrot Key (Player1)
+Treasure Isle - Main Room North Five (Player2): PsiCard (Player3)
+Treasure Isle - Main Room North Six (Player2): Fujin Shield (Player2)
+Treasure Isle - Three-path Room (Player2): Dogen's Brain (Player3)
+Treasure Isle - Mimic (Player2): Milka's Brain (Player3)
+Treasure Isle - Venus Djinni Bane (Player2): Torch (Player2)
+Treasure Isle - Jupiter Djinni Gale (Player2): Hail (Player2)
+Treasure Isle - Depths Front (Player2): Small Arrowhead Bundle (Player3)
+Treasure Isle - Depths Back (Player2): Spider Cider (Player4)
+Tundaria Tower - Center Prong (Player2): Max Ammo Up (Player3)
+Southwest of Tundaria Tower - Jupiter Djinni Wheeze (Player2): Flash (Player2)
+Tundaria Tower - 2F - South Room (Player2): Clem's Brain (Player3)
+Tundaria Tower - 1F - East Room Ledge (Player2): Birthday Cake (Player3)
+Tundaria Tower - 2F - North Room (Player2): Chloe's Brain (Player3)
+Tundaria Tower - 4F - West Room (Player2): Toothbrush (Player1)
+Tundaria Tower - 4F - West Room Two (Player2): Memory Vault (Player3)
+Tundaria Tower - 1F - East Room Ledge Two (Player2): Empty Gun (Player4)
+Tundaria Tower - 1F - West Room Ledge Two (Player2): Tiny Ruby (Player1)
+Tundaria Tower - 1F - West Room Ledge (Player2): Orihalcon (Player2)
+Tundaria Tower - Burst Brooch (Player2): PsiCard (Player3)
+Tundaria Tower - Mars Djinni Reflux (Player2): Vine (Player2)
+Ankohl Ruins - Entrance Rooms (Player2): Reveal (Player2)
+Ankohl Ruins - Entrance Rooms Two (Player2): Small Arrowhead Bundle (Player3)
+Ankohl Ruins - Entrance Rooms Three (Player2): Magic Pudding (Player1)
+Ankohl Ruins - Entrance Rooms Four (Player2): Dark Matter (Player2)
+Ankohl Ruins - Entrance Rooms Five (Player2): Tear Stone (Player2)
+Ankohl Ruins - Entrance Rooms Six (Player2): Water of Life (Player2)
+Ankohl Ruins - Face Rooms 2 and 7 (Player2): Zagan (Player2)
+Ankohl Ruins - Face Rooms 2 and 7 Two (Player2): Punch Card (Player4)
+Ankohl Ruins - Right Path - Ledge Chest (Player2): PsiCard (Player3)
+Ankohl Ruins - Face Rooms 1 and 6 (Player2): Memory Vault (Player3)
+Ankohl Ruins - Left Path - Sand Path (Player2): Zombie Paper (Player1)
+Ankohl Ruins - Left Path - Filled Pit (Player2): Small Arrowhead Bundle (Player3)
+Ankohl Ruins - Right Path - Behind Ivy (Player2): Azul (Player2)
+Ankohl Ruins - Left Path - Winding Path (Player2): Fertility Idol (Player3)
+Ankohl Ruins - Right Path - After Roadblock (Player2): PsiCard (Player3)
+Ankohl Ruins - Left Path - Thanatos Mace (Player2): Lili's Bracelet (Player3)
+Ankohl Ruins - Left Prong (Player2): Purse Tag (Player3)
+Champa - Trident (Player2): Broken Iron (Player1)
+Champa - Reveal Circle (Player2): Mist Sabre (Player2)
+Champa - Avimander (Player2): Avimander defeated (Player2)
+Yallam - Masamune (Player2): Coins 210 (Player2)
+Taopo Swamp - Magma Chamber (Player2): Viking Helm (Player2)
+Taopo Swamp - First Screen (Player2): Guts Capsule (Player1)
+Taopo Swamp - North-West Cave - Half-buried Item (Player2): Bramble Seed (Player2)
+Taopo Swamp - South-East Cave - Half-buried Item (Player2): Summers Teleport (Player1)
+Taopa Swamp - Venus Djinni Flower (Player2): Haze (Player2)
+Sea of Time - Poseidon (Player2): Poseidon defeated (Player2)
+Lemuria - Eclipse Tablet (Player2): Purse Tag (Player3)
+Lemuria - Grindstone (Player2): Broken Spray Can (Player1)
+Ancient Lemuria - Mercury Djinni Rime (Player2): Fizz (Player2)
+SW Atteka Islet - Jupiter Djinni Luff (Player2): Ember (Player2)
+SW Atteka Islet - Gaia Falls Chest (Player2): Beef Jerky (Player1)
+Hesperia Settlement - Cave Item (Player2): Cyclone Chip (Player2)
+Hesperia Settlement - Mars Djinni Tinder (Player2): Flower (Player2)
+Northeast Of Shaman Village - Venus Djinni Petra (Player2): Bane (Player2)
+Shaman Village Cave - Mercury Djinni Eddy (Player2): Mist (Player2)
+Shaman Village - Trial Road Side Path (Player2): Viper (Player1)
+Shaman Village - Next to Moapa's House (Player2): PsiCard (Player3)
+Shaman Village - Sand Wall (Player2): Coins 15 (Player2)
+Shaman Village - Moapa (Player2): Moapa defeated (Player2)
+Shaman Village - Trial Road Cleared (Player2): Rusty Mace - Hagbone Mace (Player2)
+Shaman Village - Jupiter Djinni Aroma (Player2): Gasp (Player2)
+Shaman Village - Trial Road Side Path - Jupiter Djinni Gasp (Player2): Smog (Player2)
+Atteka Inlet - Ledge Chest (Player2): PsiCard (Player3)
+Atteka Inlet - Venus Djinni Geode (Player2): Spark (Player2)
+Contigo - Free Corn Sample (Player2): PsiCard (Player3)
+Contigo - Front of Anemos Sanctum (Player2): Benny's Brain (Player3)
+Contigo - Venus Djinni Salt (Player2): Kite (Player2)
+West of Contigo - Mars Djinni Core (Player2): Steel (Player2)
+Contigo - Mars Djinni Shine (Player2): Flint (Player2)
+Jupiter Lighthouse - West Wing - Blue Key (Player2): Legendary Bat (Player1)
+Jupiter Lighthouse - Rolling Pillar Room (Player2): Smoke Bomb (Player2)
+Jupiter Lighthouse - Jumping Pillar Room (Player2): Circlet (Player2)
+Jupiter Lighthouse - East Wing - Hover Room (Player2): Death Ray (Player1)
+Jupiter Lighthouse - West Wing - Middle Room Two (Player2): Carry Stone (Player2)
+Jupiter Lighthouse - West Wing - Mimic (Player2): Dufflebag Tag (Player3)
+Jupiter Lighthouse - West Wing - Middle Room (Player2): Large Arrowhead Bundle (Player3)
+Jupiter Lighthouse - East Wing Approach (Player2): Nut (Player2)
+Jupiter Lighthouse - Reveal Circle (Player2): Progressive Pyrokinesis (Player3)
+Jupiter Lighthouse - Red Key (Player2): PsiCard (Player3)
+Jupiter Lighthouse - East Wing - Nightmare Room (Player2): Mist Potion (Player2)
+Jupiter Lighthouse - Jupiter Djinni Whorl (Player2): Crystal (Player2)
+Jupiter_Lighthouse Aeri - Agatio and Karst (Player2): Jupiter Beacon Lit (Player2)
+Contigo - Recruit Isaac (Player2): Garet (Player2)
+Contigo - Recruit Garet (Player2): Mia (Player2)
+Contigo - Recruit Ivan (Player2): Sheba (Player2)
+Contigo - Recruit Mia (Player2): Isaac (Player2)
+Contigo - Reunion (Player2): Reunion (Player2)
+Contigo - Wings of Anemos (Player2): Wings of Anemos (Player2)
+Atteka Cavern - Coatlicue Tablet (Player2): PsiCard (Player3)
+Gondowan Settlement - Cave Item (Player2): Fred's Letter (Player3)
+Magma Rock Interior - Entrance Mimic (Player2): Musket (Player3)
+Magma Rock Exterior - 2F West - Top (Player2): Right Prong (Player2)
+Magma Rock Exterior - 2F West - Bottom (Player2): Suitcase Tag (Player3)
+Magma Rock Exterior - 1F - Ledge (Player2): Key to the Cabin (Player1)
+Magma Rock - Mars Djinni Torch (Player2): Breeze (Player2)
+Magma Rock - Mars Djinni Fury (Player2): Tinder (Player2)
+Magma Rock Interior - 4F - West Side (Player2): Hyper Beam (Player1)
+Magma Rock Interior - 3F - West Side (Player2): Coins 383 (Player2)
+Magma Rock Interior - 2F - Center (Player2): Burnt Pan (Player4)
+Magma Rock Interior - 2F - North-East Sluice (Player2): Hieroglyph Copy (Player1)
+Magma Rock Interior - Blaze Tablet (Player2): Fred's Mind (Player3)
+Magma Rock Interior - Magma Ball (Player2): Tee Ball Bat (Player1)
+Loho - Half-buried Item (Player2): Photograph (Player1)
+Loho - Item Under Boulder (Player2): Moloch (Player2)
+Loho - Jupiter Djinni Lull (Player2): Salt (Player2)
+Loho - Ship Cannon (Player2): Ship Cannon (Player2)
+Angara Cavern - Haures Tablet (Player2): Peanut Cheese Bar (Player1)
+Kalt Island - Mercury Djinni Gel (Player2): Sap (Player2)
+Prox - Mercury Djinni Dew (Player2): Waft (Player2)
+Prox - Half-buried Item (Player2): Sea God's Tear (Player2)
+Prox - Venus Djinni Mold (Player2): Sleet (Player2)
+Mars Lighthouse (Lower) - Flame Dragons (Player2): Steamertrunk Tag (Player3)
+Mars Lighthouse (Lower) - Sol Blade (Player2): Suitcase Tag (Player3)
+Mars Lighthouse (Lower) - Elevator Chest (Player2): Platinum Band (Player1)
+Mars Lighthouse (Lower) - Entrance Mimic (Player2): PsiCard (Player3)
+Mars Lighthouse (Lower) - Orihalcon (Player2): Stop Sign (Player3)
+Mars Lighthouse (Lower) - Valkyrie Mail (Player2): Sand (Player2)
+Mars Lighthouse - Flame Dragons (Player2): Flame Dragons - defeated (Player2)
+Mars Lighthouse (Lower) - Teleport Lapis (Player2): Holmes Hat (Player1)
+Mars Lighthouse - Mercury Djinni Balm (Player2): Forge (Player2)
+Mars Lighthouse - Heated (Player2): Mars Lighthouse Heated (Player2)
+Mars Lighthouse - Mars Djinni Fugue (Player2): Mold (Player2)
+Mars Lighthouse (Upper) - Chest outside Mars Wing (Player2): Chick (Player1)
+Mars Lighthouse (Upper) - Chest inside Jupiter Wing (Player2): PsiCard (Player3)
+Mars Lighthouse - Doom Dragon (Player2): Doom Dragon Defeated (Player2)
+(CA Lab) Behind Furniture (Player3): Suitcase (Player3)
+(CA Lab) Staircase Ledges (Player3): Steamertrunk Tag (Player3)
+(CA Lab) Upper Ledge (Player3): Steamertrunk (Player3)
+(CA GPC) Top of GPC (Player3): Suitcase (Player3)
+(CA GPC) Under GPC (Player3): Neutralizer (Player1)
+(CA GPC) Mountain Lion Log Bridge (Player3): Psy Crystal (Player2)
+(CA GPC) Above Entrance to Lake (Player3): Cobweb Duster (Player3)
+(CA GPC) Rock Wall Behind Tree (Player3): Maloof's Brain (Player3)
+(CA GPC) Rock Wall Top (Player3): PsiChallengeMarker (Player3)
+(CA GPC) Tree Near Fence (Player3): Instant Noodles (Player4)
+(CA GPC) Tree Near Geyser (Player3): Chicken (Player1)
+(CA GPC) Fence Behind GPC (Player3): Dancing Idol (Player2)
+(CA GPC) Near the Bear (Player3): Max Ammo Up (Player3)
+(CA GPC) Rocky Platforms Behind GPC Right (Player3): Oil Drop (Player2)
+(CA GPC) Rocky Platforms Behind GPC Left (Player3): Ruler (Player1)
+(CA GPC) Top of Log Flume (Player3): Bean Croquette (Player1)
+(CA GPC) Ride the Log Flume (Player3): Rusty Sword - Pirate's Sabre (Player2)
+(CA GPC) Bottom of Log Flume (Player3): Catch Beads (Player2)
+(CA GPC) Big Rock Near Ford (Player3): Holmes Hat (Player1)
+(CA GPC) Inside the Ruined Cabin (Player3): Broken Spray Can (Player1)
+(CA GPC) Branch Swinging Course Start (Player3): Disk Axe (Player2)
+(CA GPC) Branch Swinging Course Mid (Player3): Grindstone (Player2)
+(CA GPC) Branch Swinging Course End (Player3): Steamertrunk (Player3)
+(CA GPC) Branch Above Squirrel (Player3): Corn (Player2)
+(CA GPC) Creek Grate (Player3): Wet Towel (Player1)
+(CA GPC) Squirrel's Acorn (Player3): Purse (Player3)
+(CA GPC) Wedged in the Geyser (Player3): Max Ammo Up (Player3)
+(CA Main) Fence Near Kids' Cabins (Player3): PsiCard (Player3)
+(CA Main) Under Lodge Front Steps (Player3): Slingshot (Player1)
+(CA Main) Behind Tree Near Lodge (Player3): Snake (Player1)
+(CA Main) Under the Lodge (Player3): Dufflebag (Player3)
+(CA Main) Loudspeaker 1 Platform (Player3): Broken Spray Can (Player1)
+(CA Main) Under Lodge Metal Roof (Player3): Priceless Coin (Player3)
+(CA Main) Loudspeaker Tightrope Walk (Player3): PsiCard (Player3)
+(CA Main) Loudspeaker 2 Platform (Player3): Water of Life (Player2)
+(CA Main) Lodge Roof (Player3): Nice Cream (Player4)
+(CA Main) Metal Roof Outcropping (Player3): Photograph (Player1)
+(CA Main) Loudspeaker Above Stump (Player3): Manly Bandanna (Player4)
+(CA Main) Tree Platform Left (Player3): Memory Vault (Player3)
+(CA Main) Tree Platform Right (Player3): PsiCard (Player3)
+(CA Main) Rock Wall Top (Player3): Trident (Player2)
+(CA Main) Parking Lot Arch (Player3): Steamertrunk (Player3)
+(CA Main) Parking Lot Small Log (Player3): PsiCard (Player3)
+(CA Main) Oleander's Car (Player3): Lifting Gem (Player2)
+(CA Main) Parking Lot Basketball Hoop (Player3): Whirlwind (Player2)
+(CA Main) Parking Lot Outhouse (Player3): Trick Yo-yo (Player1)
+(CA Main) Rock Near Bench (Player3): Pound Cube (Player2)
+(CA Main) Parking Lot History Board (Player3): Broken Pipe (Player1)
+(CA Cabins) Grinding on the Roots (Player3): PsiCard (Player3)
+(CA Cabins) Under Stairs (Player3): PsiCard (Player3)
+(CA Cabins) Top of Loudspeaker (Player3): Aquarius Stone (Player2)
+(CA Cabins) Cabin Roof 1 (Player3): Deluxe Fry Pan (Player1)
+(CA Cabins) Trampoline Above Outhouse (Player3): Photograph (Player1)
+(CA Cabins) Trampoline Platform (Player3): Antidote (Player2)
+(CA Cabins) Cabins Outhouse (Player3): Circlet (Player2)
+(CA Cabins) Behind Cabin (Player3): Bisicle (Player4)
+(CA Cabins) Roof of Cabin 2 (Player3): Apple (Player2)
+(CA Cabins) Cave Entrance (Player3): PsiCard (Player3)
+(CA Cabins) Deep Cave Path (Player3): PsiCard (Player3)
+(CA Cabins) Deep Cave Ladder (Player3): Cracked Bat (Player1)
+(CA Cabins) High-Up Tightrope (Player3): Piggy Nose (Player1)
+(CA Cabins) Cave Refrigerator (Player3): Hatbox (Player3)
+(CA Reception) Graveyard Bear (Player3): PsiCard (Player3)
+(CA Reception) Near Beehive (Player3): Bowl of Rice Gruel (Player1)
+(CA Reception) Mineshaft Trailer Entrance (Player3): Fresh Egg (Player1)
+(CA Reception) Tightrope Start (Player3): PsiCard (Player3)
+(CA Reception) Tightrope End (Player3): Candle (Player3)
+(CA Reception) Rocks Near Trailer (Player3): PsiCard (Player3)
+(CA Reception) Fireplace Tree Rock (Player3): Crystal Powder (Player2)
+(CA Reception) Big Log Platform (Player3): Broken Machine (Player1)
+(CA Reception) Above Waterfall Left (Player3): Cowboy Hat (Player4)
+(CA Reception) Above Waterfall Right (Player3): Toothbrush (Player1)
+(CA Reception) Behind the Waterfall (Player3): Max Lives Up (Player3)
+(CA Reception) Weird Tree Left (Player3): Hatbox (Player3)
+(CA Reception) Weird Tree Right (Player3): Bottle Rocket (Player1)
+(CA Reception) Log Hill Top (Player3): Mist Potion (Player2)
+(CA Reception) Log Hill Behind (Player3): PsiCard (Player3)
+(CA Reception) Mineshaft Grind Rail (Player3): Sand Lot Bat (Player1)
+(CA Reception) Mineshaft Upper Entrance (Player3): Coatlique (Player2)
+(CA Reception) Mineshaft Above Upper Entrance (Player3): Popsicle (Player1)
+(CA Reception) Inside Mineshaft (Player3): Hatbox (Player3)
+(CA Reception) Mineshaft Bear (Player3): Hatbox (Player3)
+(CA Reception) Swamp Bird's Nest (Player3): Small Arrowhead Bundle (Player3)
+(CA Reception) Collapsed Cave (Player3): Water of Life (Player2)
+(CA Reception) Fireplace Tree Lower (Player3): For Sale Sign (Player1)
+(CA Reception) Fireplace Tree Top (Player3): Large Arrowhead Bundle (Player3)
+(CA Reception) Swamp Skinny Poles (Player3): PsiCard (Player3)
+(CA Reception) Hornet Nest (Player3): Hatbox (Player3)
+(CA Lake) Under the First Bridge (Player3): PsiCard (Player3)
+(CA Lake) Behind Stump (Player3): Fire Brand (Player2)
+(CA Lake) Left of Entrance Rock Wall (Player3): Purse (Player3)
+(CA Lake) Poles on Lake (Player3): Moon Beam Gun (Player1)
+(CA Lake) Bathysphere Roof (Player3): Loboto Painting (Player3)
+(CA Lake) Bathysphere Dock (Player3): PsiCard (Player3)
+(CA Lake) Metal Roof Above Docks (Player3): Haures (Player2)
+(CA Lake) Above Ford Ropes (Player3): PsiCard (Player3)
+(CA Lake) Above Ford Cabin Platform (Player3): Tough Glove (Player4)
+(CA Lake) Outside Cougar Cave (Player3): Growth (Player2)
+(CA Lake) Inside Cougar Cave (Player3): Magic Tart (Player1)
+(CA Lake) Bulletin Board Bushes (Player3): Purse (Player3)
+(CA Lake) Pink Trees Platform Left (Player3): Small Arrowhead Bundle (Player3)
+(CA Lake) Pink Trees Platform Right (Player3): Sugar Packet (Player1)
+(CA Lake) Rock Wall Upper (Player3): Peanut Cheese Bar (Player1)
+(CA Lake) Lake Shore (Player3): Eagle Claw (Player3)
+(CA Lake) Tiny Island (Player3): Thanatos Mace (Player2)
+(CA Lake) Rock Wall Gap (Player3): Silk Robe (Player2)
+(CA Lake) Lungfish Boss Complete (Player3): Vial of Serum (Player1)
+(CA Lake) Top of Big Rock (Player3): Memory Vault (Player3)
+(CA Lodge) Main Lodge Rafters (Player3): Confusion Ammo Up (Player3)
+(CA Ford) Top of Sanctuary (Player3): Signed Banana (Player1)
+(CA Ford) Bottom of Sanctuary (Player3): Mr. Baseball Cap (Player1)
+(Rank) PSI Rank 05 (Player3): Orb of Force (Player2)
+(Rank) PSI Rank 10 (Player3): Coins 383 (Player2)
+(Rank) PSI Rank 15 (Player3): Tin of Cocoa (Player1)
+(Rank) PSI Rank 20 (Player3): Confusion Ammo Up (Player3)
+(Rank) PSI Rank 25 (Player3): Douse Drop (Player2)
+(Rank) PSI Rank 30 (Player3): Alastor's Hood (Player2)
+(Rank) PSI Rank 35 (Player3): Junk Food (Player4)
+(Rank) PSI Rank 40 (Player3): Snake (Player1)
+(Rank) PSI Rank 45 (Player3): Small Arrowhead Bundle (Player3)
+(Rank) PSI Rank 50 (Player3): Li'l Turtle (Player2)
+(Rank) PSI Rank 55 (Player3): Psy Crystal (Player2)
+(Rank) PSI Rank 60 (Player3): Ulysses (Player2)
+(Rank) PSI Rank 65 (Player3): PsiCard (Player3)
+(Rank) PSI Rank 70 (Player3): Dufflebag Tag (Player3)
+(Rank) PSI Rank 75 (Player3): Souvenir Coin (Player1)
+(Rank) PSI Rank 80 (Player3): Mikhail's Brain (Player3)
+(Rank) PSI Rank 85 (Player3): Slingshot (Player1)
+(Rank) PSI Rank 90 (Player3): Coins 315 (Player2)
+(Rank) PSI Rank 95 (Player3): Suitcase (Player3)
+(Rank) PSI Rank 101 (Player3): Holmes Hat (Player1)
+(AS Grounds) Rock Wall Bottom (Player3): Purse (Player3)
+(AS Grounds) Rock Wall Ladder (Player3): Game Ticket (Player2)
+(AS Grounds) Fountain Top (Player3): Travel Charm (Player1)
+(AS Grounds) Hedge Alcove (Player3): Progressive Marksmanship (Player3)
+(AS Grounds) Asylum Doors Right (Player3): Hatbox (Player3)
+(AS Grounds) Asylum Doors Left (Player3): Purse (Player3)
+(AS Grounds) Corner Near Fence (Player3): Sand Lot Bat (Player1)
+(AS Grounds) Ledge Before Gloria (Player3): Steamertrunk Tag (Player3)
+(AS Grounds) Outside Front Gate (Player3): Mr. Baseball Cap (Player1)
+(AS Grounds) Pillar Above Gate (Player3): Key to the Tower (Player1)
+(AS Courtyard) Above Elevator (Player3): Steamertrunk (Player3)
+(AS Courtyard) Ledge Above Fred Left (Player3): Dufflebag (Player3)
+(AS Courtyard) Ledge Above Fred Right (Player3): PsiCard (Player3)
+(AS Courtyard) Ledge Opposite Elevator (Player3): Cookie (Player1)
+(AS Courtyard) Edgar's Room (Player3): PsiCard (Player3)
+(AS Courtyard) Behind Elevator (Player3): Dufflebag (Player3)
+(AS Courtyard) Junk Corner (Player3): Progressive Poo PSI (Player1)
+(AS Courtyard) Above Edgar (Player3): Small Arrowhead Bundle (Player3)
+(AS Courtyard) Crow's Basket (Player3): Iris (Player2)
+(AS Upper) Behind Mattress Wall (Player3): Pixie's Bracelet (Player1)
+(AS Upper) Checkered Bathroom (Player3): Photograph (Player1)
+(AS Upper) Room Near Checkered Bathroom (Player3): Cloud Brand (Player2)
+(AS Upper) Elevator Shaft (Player3): Quentin's Brain (Player3)
+(AS Upper) Room Left of Pipe Slide (Player3): Suitcase Tag (Player3)
+(AS Upper) Floating in Hole (Player3): Hatbox Tag (Player3)
+(AS Upper) Next to Hole (Player3): Hatbox (Player3)
+(AS Upper) Crumbling Outer Wall Planks (Player3): Steamertrunk (Player3)
+(AS Upper) Crumbling Outer Wall Pillar (Player3): Stun Gun (Player1)
+(AS Upper) Crumbling Outer Wall Below Platform (Player3): Yogurt Dispenser (Player1)
+(AS Upper) Crumbling Outer Wall Platform (Player3): Progressive Shield (Player3)
+(AS Upper) Room Above Tilted Stairs (Player3): Suitcase (Player3)
+(AS Upper) Acid Room Floor (Player3): Pasta di Summers (Player1)
+(AS Upper) Acid Room Table (Player3): PsiCard (Player3)
+(AS Upper) Acid Room Window (Player3): PsiCard (Player3)
+(AS Upper) Acid Room Overhang (Player3): Turkey Sandwich (Player3)
+(AS Upper) Small Windows Ledge (Player3): PsiCard (Player3)
+(AS Upper) Round Wood Platform (Player3): Salamander Tail (Player2)
+(AS Upper) Grate Climb Bottom (Player3): Steamertrunk (Player3)
+(AS Upper) Grate Climb Mid (Player3): Steamertrunk (Player3)
+(AS Upper) Sink Platform Left (Player3): Photograph (Player1)
+(AS Upper) Sink Platform Right (Player3): Ruler (Player1)
+(AS Upper) Pipes Below Chair Door (Player3): PsiCard (Player3)
+(AS Upper) Room Opposite Chair Door (Player3): Sylph Feather (Player2)
+(AS Upper) Pipe Slide Near Chair Door (Player3): PsiChallengeMarker (Player3)
+(AS Upper) Rafters Above Chair Door (Player3): Twoson Teleport (Player1)
+(AS Lab) Lab Caged Crow Left (Player3): PsiCard (Player3)
+(AS Lab) Lab Caged Crow Right (Player3): Dufflebag (Player3)
+(AS Lab) Next to Pokeylope (Player3): Contact Lens (Player1)
+(AS Lab) Lab Top Railing Left 1 (Player3): Stag Beetle (Player1)
+(AS Lab) Lab Top Railing Left 2 (Player3): Charon (Player2)
+(AS Lab) Lab Top Elevator (Player3): Talisman Ribbon (Player1)
+(AS Lab) Lab Top Railing Right (Player3): PsiCard (Player3)
+(AS Lab) Tea Room (Player3): Suitcase (Player3)
+(BB Area 1) Jumping Tutorial 1 (Player3): Vial (Player2)
+(BB Area 1) Jumping Tutorial 2 (Player3): PsiCard (Player3)
+(BB Area 1) Pole-Climbing Tutorial Floor (Player3): Elixir (Player2)
+(BB Area 1) Below the Triple Trampolines (Player3): Jar of Fly Honey (Player1)
+(BB Area 2) Giant Soldier Cut-Out (Player3): Smoke Bomb (Player2)
+(BB Area 2) Dodging Bullets 1 (Player3): Water of Life (Player2)
+(BB Area 2) Dodging Bullets 2 (Player3): PsiCard (Player3)
+(BB Area 2) Machine Gun Turret (Player3): Dark Matter (Player2)
+(BB Area 2) Pole-Swinging Tutorial (Player3): Cookie (Player2)
+(BB Area 2) Trapeze Platform (Player3): Steamertrunk (Player3)
+(BB Area 2) Inside Plane Wreckage (Player3): Pharaoh's Curse (Player1)
+(BB Finale) End of Obstacle Course Left (Player3): Abandoned Quiche (Player4)
+(BB Finale) End of Obstacle Course Right (Player3): PsiCard (Player3)
+(BB Finale) Basic Braining Complete (Player3): Star Dust (Player2)
+(BB Area 2) Trapeze Cobweb (Player3): PsiChallengeMarker (Player3)
+(SA Main) On the Bed (Player3): Hatbox (Player3)
+(SA Main) On the Pillow (Player3): Astronaut Food (Player4)
+(SA Main) Building Blocks Left (Player3): Magic Truffle (Player1)
+(SA Main) Building Blocks Below (Player3): Torn Notebook (Player4)
+(SA Main) Building Blocks Right (Player3): Photograph (Player1)
+(SA Main) Top of Bed Frame (Player3): Flame Pendant (Player1)
+(SA Main) Round Platforms Bottom (Player3): PsiCard (Player3)
+(SA Main) Round Platforms Near Valve (Player3): PsiCard (Player3)
+(SA Main) Side of Cube Face 3 (Player3): Mettaton Plush (Player4)
+(SA Main) Bottom of Shoebox Ladder (Player3): PsiCard (Player3)
+(SA Main) Shoebox Pedestal (Player3): PsiCard (Player3)
+(SA Main) Shoebox Tower Top (Player3): Bone Armlet (Player2)
+(SA Main) Flame Tower Steps (Player3): PsiCard (Player3)
+(SA Main) Flame Tower Top 1 (Player3): Chick (Player1)
+(SA Main) Flame Tower Top 2 (Player3): Bracer of Kings (Player1)
+(SA Main) Sasha's Shooting Gallery Complete (Player3): PsiCard (Player3)
+(SA Main) Round Platforms Far from Valve (Player3): Lungfish Call (Player3)
+(MI Area 1) Intro Rings Tutorial (Player3): Tenda Village Teleport (Player1)
+(MI Area 1) Dancing Camper Platform 1 (Player3): temy armor (Player4)
+(MI Area 1) Demon Room (Player3): PsiCard (Player3)
+(MI Area 1) Windy Ladder Bottom (Player3): Gelato de Resort (Player1)
+(MI Area 1) Pinball Plunger (Player3): Max Ammo Up (Player3)
+(MI Area 1) Plunger Party Ledge (Player3): PsiCard (Player3)
+(MI Area 1) Grindrail Rings (Player3): Suitcase (Player3)
+(MI Area 1) Censor Hallway (Player3): Apple (Player2)
+(MI Area 1) Pink Bowl Bottom (Player3): Hamburger (Player1)
+(MI Area 1) Pink Bowl Small Platform (Player3): PsiCard (Player3)
+(MI Finale) Bubbly Fan Bottom (Player3): Wet Towel (Player1)
+(MI Finale) Bubbly Fan Platform (Player3): PsiCard (Player3)
+(MI Finale) Bubbly Fan Top (Player3): Core Key (Player4)
+(MI Finale) Milla's Party Room (Player3): Purse Tag (Player3)
+(MI Finale) Milla's Dance Party Complete (Player3): Protein Drink (Player1)
+(BT Main) Outside Caravan (Player3): Laughing Fungus (Player2)
+(BT Main) Behind the Egg (Player3): Corn (Player2)
+(BT Main) Shadow Monster Path (Player3): Memory Vault (Player3)
+(BT Main) Shadow Monster Blue Mushrooms (Player3): Memory Vault (Player3)
+(BT Main) Ledge Behind Shadow Monster (Player3): Salamander Tail (Player2)
+(BT Main) Below the Steep Ledge (Player3): Purse Tag (Player3)
+(BT Main) Forest Path Blue Mushrooms (Player3): Dufflebag (Player3)
+(BT Main) Forest Blue Ledge (Player3): Purse (Player3)
+(BT Main) Forest High Platform (Player3): Photograph (Player1)
+(BT Main) Forest Path Thorns (Player3): Hatbox (Player3)
+(BT Main) Behind Thorn Tower Left (Player3): Bottle of Water (Player1)
+(BT Main) Behind Thorn Tower Mid (Player3): Rusty Axe - Captain's Axe (Player2)
+(BT Main) Behind Thorn Tower Right (Player3): Memory Vault (Player3)
+(BT Boss) Brain Tumbler Experiment Complete (Player3): Sylph Feather (Player2)
+(LO Main) Skyscraper Start (Player3): HP-Sucker (Player1)
+(LO Main) Corner Near First Jail (Player3): Trout Yogurt (Player1)
+(LO Main) Skyscraper before Dam (Player3): Healing Fungus (Player2)
+(LO Main) Behind Lasers Left 1 (Player3): Steamertrunk (Player3)
+(LO Main) Behind Lasers Left 2 (Player3): PsiCard (Player3)
+(LO Main) Behind Lasers Right (Player3): Rusty Sword - Pirate's Sabre (Player2)
+(LO Main) Blimp Hop (Player3): Face Steak (Player4)
+(LO Main) End of Dam (Player3): Small Arrowhead Bundle (Player3)
+(LO Main) End of Dam Platform (Player3): Toy Air Gun (Player1)
+(LO Main) Skyscraper after Dam (Player3): Small Arrowhead Bundle (Player3)
+(LO Main) Near Battleships (Player3): Small Arrowhead Bundle (Player3)
+(LO Main) On the Bridge (Player3): Coins 666 (Player2)
+(LO Main) Ground after Bridge (Player3): Iris Robe (Player2)
+(LO Main) Skyscraper after Bridge (Player3): Progressive Levitation (Player3)
+(LO Main) Train Tunnel (Player3): Mysterious Card (Player2)
+(LO Main) Final Skyscrapers Left (Player3): Eraser Eraser (Player1)
+(LO Main) Final Skyscrapers Right (Player3): Herb (Player2)
+(LO Boss) Kochamara Intro Left (Player3): PsiCard (Player3)
+(LO Boss) Kochamara Intro Right (Player3): Nut (Player2)
+(LO Boss) Lungfishopolis Complete (Player3): Photograph (Player1)
+(MM Neighborhood) Boyd's Fridge (Player3): Cup of Coffee (Player1)
+(MM Neighborhood) Inside First House (Player3): Nurse's Cap (Player2)
+(MM Neighborhood) Inside Second House (Player3): Ruler (Player1)
+(MM Neighborhood) Car Trunk 1 (Player3): Steamertrunk Tag (Player3)
+(MM Neighborhood) Roof after Road Crew (Player3): PsiCard (Player3)
+(MM Neighborhood) Car Trunk 2 (Player3): Mr. Saturn Coin (Player1)
+(MM Neighborhood) Car House Backyard (Player3): Red Key (Player2)
+(MM Neighborhood) Graveyard Patio (Player3): PsiCard (Player3)
+(MM Neighborhood) Graveyard Behind Tree (Player3): Hedge Trimmers (Player3)
+(MM Neighborhood) Behind Graveyard (Player3): PsiCard (Player3)
+(MM Neighborhood) Hedge Maze (Player3): Suitcase Tag (Player3)
+(MM Neighborhood) Car Trunk 3 (Player3): Vernon's Brain (Player3)
+(MM Neighborhood) Post Office Roof (Player3): PsiCard (Player3)
+(MM Neighborhood) Post Office Lobby (Player3): Tear Stone (Player2)
+(MM Neighborhood) Landscapers House Backyard (Player3): Coin of Slumber (Player1)
+(MM Neighborhood) Landscapers House Table (Player3): Travel Charm (Player1)
+(MM Neighborhood) Landscapers House Kitchen (Player3): PsiCard (Player3)
+(MM Neighborhood) Powerline Island Sandbox (Player3): Ballet Shoes (Player4)
+(MM Neighborhood) Powerline Island Left (Player3): Hard Nut (Player2)
+(MM Neighborhood) Powerline Island Right (Player3): Potion (Player2)
+(MM Neighborhood) Inside Webbed Garage (Player3): Dufflebag (Player3)
+(MM Neighborhood) Post Office Basement (Player3): Progressive Marksmanship (Player3)
+(MM Depository) Behind Book Depository (Player3): Bean Croquette (Player1)
+(MM Depository) Milkman Complete (Player3): Dufflebag (Player3)
+(TH Stage) Near the Critic (Player3): Suitcase (Player3)
+(TH Stage) Below the Spotlight (Player3): Blow Mace (Player2)
+(TH Stage) Behind Stage (Player3): Purse (Player3)
+(TH Stage) In the Audience (Player3): Mythril Silver (Player2)
+(TH Stage) Behind Stage Cobweb (Player3): Purse (Player3)
+(TH Stage) Storage Room Floor (Player3): Ruin Key (Player2)
+(TH Stage) Storage Room Left (Player3): Banana (Player1)
+(TH Stage) Storage Room Right Lower (Player3): Small Arrowhead Bundle (Player3)
+(TH Stage) Storage Room Right Upper (Player3): Flowers (Player3)
+(TH Stage) Bonita's Room (Player3): Bionic Slingshot (Player1)
+(TH Catwalks) Doghouse Slicers (Player3): Corn (Player2)
+(TH Catwalks) Big Platform 1 (Player3): Great Charm (Player1)
+(TH Catwalks) Big Platform 2 (Player3): Progressive Telekinesis (Player3)
+(TH Catwalks) Big Platform 3 (Player3): PsiChallengeMarker (Player3)
+(TH Catwalks) Big Platform Above (Player3): Catastrophe (Player2)
+(TH Catwalks) Next to Oatmeal (Player3): PsiCard (Player3)
+(TH Catwalks) Candle Basket (Player3): Kabob (Player1)
+(TH Catwalks) Curtain Slide (Player3): Meteorite Piece (Player1)
+(TH Catwalks) Gloria's Theater Complete (Player3): Photograph (Player1)
+(WW Main) Fred's Room (Player3): Purse (Player3)
+(WW Main) The Fireplace (Player3): PsiCard (Player3)
+(WW Main) Game Board (Player3): Snake Bag (Player1)
+(WW Main) Outside Villager 1 House (Player3): Faded Ribbon (Player4)
+(WW Main) Small Arch Top (Player3): Protractor (Player1)
+(WW Main) Small Arch Below (Player3): Magma Ball (Player2)
+(WW Main) Top of Villager 2's House (Player3): PsiCard (Player3)
+(WW Main) Castle Tower (Player3): Boyd's Mind (Player3)
+(WW Main) Castle Inside (Player3): Broken Iron (Player1)
+(WW Main) Castle Wall (Player3): PsiCard (Player3)
+(WW Main) Help the Carpenter (Player3): Key to the Locker (Player1)
+(WW Main) Top of Villager 3's House (Player3): Steamertrunk (Player3)
+(WW Main) Top of Knight's House (Player3): Psy Crystal (Player2)
+(WW Main) Carpenter's Roof (Player3): PsiCard (Player3)
+(WW Main) Tightrope Room (Player3): Red Cloth (Player2)
+(WW Main) Under the Guillotine (Player3): Mr. Baseball Cap (Player1)
+(WW Main) Fred's House Basement (Player3): Baseball Cap (Player1)
+(WW Main) Blacksmith's Left Building (Player3): Jar of Hot Sauce (Player1)
+(WW Main) Blacksmith's Right Building (Player3): PsiCard (Player3)
+(WW Main) Blacksmith's Haybale (Player3): Suitcase Tag (Player3)
+(WW Main) Help Villager 1 (Player3): Gelato de Resort (Player1)
+(WW Main) Help the Knight (Player3): Mint (Player2)
+(WW Main) Help Villager 2 (Player3): Suitcase (Player3)
+(WW Main) Help Villager 3 (Player3): PsiCard (Player3)
+(WW Main) Waterloo World Complete (Player3): Hatbox (Player3)
+(BV Streets) Club Street Lady (Player3): Snowman Piece (Player4)
+(BV Streets) Alleyways Ledge (Player3): Vial of Serum (Player1)
+(BV Streets) Sewers Main (Player3): Memory Vault (Player3)
+(BV Streets) Near Diego's House (Player3): Refreshing Herb (Player1)
+(BV Streets) Club Street Metal Balcony (Player3): Suitcase Tag (Player3)
+(BV Streets) Heart Street HIGH Balcony (Player3): Lucky Pepper (Player2)
+(BV Streets) Club Street Gated (Player3): Temmie Flakes (Player4)
+(BV Streets) The Garden (Player3): Dufflebag (Player3)
+(BV Streets) Diego's Bed (Player3): Lucky Medal (Player2)
+(BV Streets) Diego's Room (Player3): Suitcase (Player3)
+(BV Streets) Diego's House Grindrail (Player3): Worn Dagger (Player4)
+(BV Streets) Grindrail Balcony (Player3): Max Ammo Up (Player3)
+(BV Streets) Burn the Logs (Player3): Wet Towel (Player1)
+(BV Edgar) Sanctuary Ground (Player3): PsiCard (Player3)
+(BV Edgar) Tiger Wrestler (Player3): Photograph (Player1)
+(BV Edgar) Dragon Wrestler (Player3): Hawk Eye (Player1)
+(BV Edgar) Eagle Wrestler (Player3): Suitcase (Player3)
+(BV Edgar) Sanctuary Balcony (Player3): Knight's Shield (Player2)
+(BV Edgar) Cobra Wrestler (Player3): Teleport Lapis (Player2)
+(BV Edgar) Black Velvetopia Complete (Player3): Broken Trumpet (Player1)
+(MC Main) Crumbling Path (Player3): Letter For Tony (Player1)
+(MC Main) Crumbling Path End Right (Player3): Dufflebag (Player3)
+(MC Main) Crumbling Path End Left (Player3): Dufflebag (Player3)
+(MC Main) Ollie Escort Floor (Player3): Progressive Clairvoyance (Player3)
+(MC Main) Entrance Awning (Player3): Cracked Bat (Player1)
+(MC Main) Ollie Escort Middle (Player3): PsiCard (Player3)
+(MC Main) Ollie Escort Top Left (Player3): PsiCard (Player3)
+(MC Main) Ollie Escort Top Right (Player3): Purse (Player3)
+(MC Main) Tunnel of Love Start (Player3): Sasha's Mind (Player3)
+(MC Main) Tunnel of Love Corner (Player3): Adult Coach's Mind (Player3)
+(MC Main) Tunnel of Love Rail (Player3): Plain Yogurt (Player1)
+(MC Main) Next to the Final Door (Player3): Small Arrowhead Bundle (Player3)
+(CA Ford) Redeemed Required Brains (Player3): Filler (Player3)
+(AS Lab) Oleander Boss Defeated (Player3): Filler (Player3)
+(MC Boss) Final Boss Defeated (Player3): Victory (Player3)
+Candy 1 (Player4): Progressive Levitation (Player3)
+Candy 2 (Player4): Progressive Marksmanship (Player3)
+Candy 3 (Player4): Mint (Player2)
+Candy 4 (Player4): Super Plush Bear (Player1)
+Donut Sale (Player4): Old Tutu (Player4)
+Cider Sale (Player4): Snowdin Key (Player4)
+Ribbon Cracks (Player4): Mist Potion (Player2)
+Toy Knife Edge (Player4): Hover Jade (Player2)
+B.Scotch Pie Given (Player4): Teddy Bear (Player1)
+Snowman (Player4): PsiCard (Player3)
+Nicecream Snowdin (Player4): Hatbox Tag (Player3)
+Bunny 1 (Player4): Weasel's Claw (Player2)
+Bunny 2 (Player4): Spider Donut (Player4)
+Bunny 3 (Player4): Kitty's Brain (Player3)
+Bunny 4 (Player4): Large Arrowhead Bundle (Player3)
+Papyrus Date (Player4): Papyrus Date (Player4)
+Nicecream Waterfall (Player4): Linda's Mind (Player3)
+Nicecream Punch Card (Player4): Photograph (Player1)
+Quiche Bench (Player4): Tee Ball Bat (Player1)
+Tutu Hidden (Player4): Mind Read (Player2)
+Card Reward (Player4): Secret Herb (Player1)
+Grass Shoes (Player4): Small Arrowhead Bundle (Player3)
+Astro 1 (Player4): Mining Permit (Player1)
+Astro 2 (Player4): Progressive Levitation (Player3)
+Gerson 1 (Player4): Photograph (Player1)
+Gerson 2 (Player4): Dufflebag Tag (Player3)
+Gerson 3 (Player4): Happy-Happy Village Teleport (Player1)
+Gerson 4 (Player4): Platinum Band (Player1)
+TemmieShop 1 (Player4): Handbag Strap (Player1)
+TemmieShop 2 (Player4): Lucky Pepper (Player2)
+TemmieShop 3 (Player4): Progressive Shield (Player3)
+TemmieShop 4 (Player4): Hatbox Tag (Player3)
+Undyne Date (Player4): Undyne Date (Player4)
+Noodles Fridge (Player4): Pirate's Sword (Player2)
+Pan Hidden (Player4): Jar of Delisauce (Player1)
+Apron Hidden (Player4): Psy Crystal (Player2)
+Bratty Catty 1 (Player4): Psy Crystal (Player2)
+Bratty Catty 2 (Player4): Bread Roll (Player1)
+Bratty Catty 3 (Player4): Burst Brooch (Player2)
+Bratty Catty 4 (Player4): Photograph (Player1)
+Burgerpants 1 (Player4): Golem Core (Player2)
+Burgerpants 2 (Player4): Broken Bazooka (Player1)
+Burgerpants 3 (Player4): PsiCard (Player3)
+Burgerpants 4 (Player4): Rabbit's Foot (Player1)
+Alphys Date (Player4): Alphys Date (Player4)
+Trash Burger (Player4): Stained Apron (Player4)
+Mettaton Plot (Player4): Coins 210 (Player2)
+Present Knife (Player4): Broken Tube (Player1)
+Present Locket (Player4): Small Arrowhead Bundle (Player3)
+Left New Home Key (Player4): Parch (Player2)
+Right New Home Key (Player4): Center Prong (Player2)
+
+Playthrough:
+
+0: {
+  Gloria's Mind (Player3)
+  Kid Coach's Mind (Player3)
+  Ness (Player1)
+  Ruins Key (Player4)
+  Sasha's Button (Player3)
+}
+1: {
+  Onett - Burger Shop Trashcan (Player1): Fourside Teleport (Player1)
+  Onett - Tracy Gift (Player1): Tremor Bit (Player2)
+  Dehkan Plateau - Pound Cube (Player2): Lash Pebble (Player2)
+  Idejima - Recruit Jenna (Player2): Ivan (Player2)
+  Idejima - Recruit Sheba (Player2): Piers (Player2)
+  Mikasalla - Ledge Chest (Player2): Bad Key Machine (Player1)
+  Northeast of Mikasalla - Mercury Djinni Sour (Player2): Spritz (Player2)
+  South of Daila - Venus Djinni Echo (Player2): Steam (Player2)
+  West of Madra - Venus Djinni Iron (Player2): Ether (Player2)
+  (CA Ford) Top of Sanctuary (Player3): Signed Banana (Player1)
+  (CA GPC) Above Entrance to Lake (Player3): Cobweb Duster (Player3)
+  (CA GPC) Branch Swinging Course Mid (Player3): Grindstone (Player2)
+  (CA GPC) Fence Behind GPC (Player3): Dancing Idol (Player2)
+  (CA Main) Oleander's Car (Player3): Lifting Gem (Player2)
+  (CA Main) Parking Lot Basketball Hoop (Player3): Whirlwind (Player2)
+  (CA Main) Rock Near Bench (Player3): Pound Cube (Player2)
+  Candy 1 (Player4): Progressive Levitation (Player3)
+  Candy 2 (Player4): Progressive Marksmanship (Player3)
+  Toy Knife Edge (Player4): Hover Jade (Player2)
+}
+2: {
+  Dusty Dunes - East Peninsula Present (Player1): Hotland Key (Player4)
+  Dusty Dunes - Shining Spot (Player1): UFO Engine (Player1)
+  Fourside - Post-Moonside Delivery (Player1): Mars Star (Player2)
+  Magnet Hill - Final Room Door Trashcan (Player1): Dalaam Teleport (Player1)
+  Magnet Hill - First Room Barrel Door Trashcan (Player1): Oarsman's Badge (Player3)
+  Magnet Hill - West Entrance Trashcan (Player1): Progressive Invisibility (Player3)
+  Magnet Hill Sanctuary (Player1): Melody (Player1)
+  3rd Party Member - Mercury Djinni Shade (Player2): Eddy (Player2)
+  3rd Party Member - Mercury Djinni Spring (Player2): Gale (Player2)
+  Air's Rock Interior - Reveal Tablet (Player2): Progressive Telekinesis (Player3)
+  Dehkan Plateau - Mars Djinni Cannon (Player2): Gel (Player2)
+  Indra Cavern - Zagan Tablet (Player2): Squirrel Roast Dinner (Player3)
+  Ivan - Lifting Gem (Player2): Frost Jewel (Player2)
+  Kandorean Temple - Mercury Djinni Fog (Player2): Fever (Player2)
+  Shrine of the Sea God - Jupiter Djinni Breath (Player2): Cannon (Player2)
+  Yampi Desert - Jupiter Djinni Blitz (Player2): Reflux (Player2)
+  (MC Main) Crumbling Path (Player3): Letter For Tony (Player1)
+  (MC Main) Ollie Escort Floor (Player3): Progressive Clairvoyance (Player3)
+}
+3: {
+  Dalaam - Upper House Chest (Player1): King Banana (Player1)
+  Gondowan Cliffs - Mars Djinni Kindle (Player2): Squall (Player2)
+  (CA Lake) Bathysphere Roof (Player3): Loboto Painting (Player3)
+  (CA Lake) Outside Cougar Cave (Player3): Growth (Player2)
+  (CA Reception) Tightrope End (Player3): Candle (Player3)
+  (MC Main) Tunnel of Love Corner (Player3): Adult Coach's Mind (Player3)
+  (MC Main) Tunnel of Love Start (Player3): Sasha's Mind (Player3)
+  Bratty Catty 3 (Player4): Burst Brooch (Player2)
+}
+4: {
+  Monkey Caves - East 2F Right Chest (Player1): Shaman's Rod (Player2)
+  Monkey Caves - West End Chest (Player1): Diamond (Player1)
+  Lemurian Ship - Aqua Hydra (Player2): Aqua Hydra defeated (Player2)
+  (BB Area 1) Below the Triple Trampolines (Player3): Jar of Fly Honey (Player1)
+  (Rank) PSI Rank 05 (Player3): Orb of Force (Player2)
+  (Rank) PSI Rank 25 (Player3): Douse Drop (Player2)
+  (SA Main) Round Platforms Far from Valve (Player3): Lungfish Call (Player3)
+  (SA Main) Side of Cube Face 3 (Player3): Mettaton Plush (Player4)
+}
+5: {
+  Brick Road Maze - Near Exit Present (Player1): Pencil Eraser (Player1)
+  Monkey Caves - East End Chest (Player1): Shyness Book (Player1)
+  Rainy Circle Sanctuary (Player1): Melody (Player1)
+  Snow Wood - Many Present Room Present #7 (Player1): Saturn Valley Teleport (Player1)
+  Lemurian Ship - Engine Room (Player2): Ship (Player2)
+  (AS Grounds) Pillar Above Gate (Player3): Key to the Tower (Player1)
+}
+6: {
+  Belch Defeated (Player1): Threed Tunnels Clear (Player1)
+  Ankohl Ruins - Entrance Rooms (Player2): Reveal (Player2)
+  Aqua Rock Exterior - 1F - Top Ledge (Player2): Milla's Mind (Player3)
+  Contigo - Mars Djinni Shine (Player2): Flint (Player2)
+  Gaia Rock - Summit Chest (Player2): Edgar's Mind (Player3)
+  Hesperia Settlement - Cave Item (Player2): Cyclone Chip (Player2)
+  Hesperia Settlement - Mars Djinni Tinder (Player2): Flower (Player2)
+  Kalt Island - Mercury Djinni Gel (Player2): Sap (Player2)
+  Kibombo - Recruit Piers (Player2): Jenna (Player2)
+  Kibombo Mountains - Jupiter Djinni Waft (Player2): Scorch (Player2)
+  Magma Rock - Mars Djinni Fury (Player2): Tinder (Player2)
+  Magma Rock - Mars Djinni Torch (Player2): Breeze (Player2)
+  Magma Rock Interior - 2F - North-East Sluice (Player2): Hieroglyph Copy (Player1)
+  Magma Rock Interior - Blaze Tablet (Player2): Fred's Mind (Player3)
+  Northeast Of Shaman Village - Venus Djinni Petra (Player2): Bane (Player2)
+  SW Atteka Islet - Jupiter Djinni Luff (Player2): Ember (Player2)
+  Shaman Village Cave - Mercury Djinni Eddy (Player2): Mist (Player2)
+  Southwest of Naribwe - Mercury Djinni Chill (Player2): Echo (Player2)
+  Southwest of Tundaria Tower - Jupiter Djinni Wheeze (Player2): Flash (Player2)
+  Taopa Swamp - Venus Djinni Flower (Player2): Haze (Player2)
+  Treasure Isle - Jupiter Djinni Gale (Player2): Hail (Player2)
+  Treasure Isle - Main Room North Four (Player2): Carrot Key (Player1)
+  Treasure Isle - Venus Djinni Bane (Player2): Torch (Player2)
+  West of Contigo - Mars Djinni Core (Player2): Steel (Player2)
+}
+7: {
+  Happy-Happy Village - Donation Lady (Player1): Megaphone (Player3)
+  Milky Well Sanctuary (Player1): Melody (Player1)
+  Pink Cloud Sanctuary (Player1): Melody (Player1)
+  4th Party Member - Jupiter Djinni Gust (Player2): Meld (Player2)
+  4th Party Member - Mars Djinni Forge (Player2): Petra (Player2)
+  4th Party Member - Venus Djinni Flint (Player2): Quartz (Player2)
+  Air's Rock Interior - Tablet Room Chest (Player2): Right Home Key (Player4)
+  Ancient Lemuria - Mercury Djinni Rime (Player2): Fizz (Player2)
+  Atteka Inlet - Venus Djinni Geode (Player2): Spark (Player2)
+  Gaia Rock - Serpent (Player2): Serpent defeated (Player2)
+  Garoh - Jupiter Djinni Ether (Player2): Shade (Player2)
+  Jupiter Lighthouse - Reveal Circle (Player2): Progressive Pyrokinesis (Player3)
+  Shaman Village - Trial Road Side Path - Jupiter Djinni Gasp (Player2): Smog (Player2)
+  (BV Edgar) Dragon Wrestler (Player3): Hawk Eye (Player1)
+  (MI Area 1) Intro Rings Tutorial (Player3): Tenda Village Teleport (Player1)
+  (MI Finale) Bubbly Fan Top (Player3): Core Key (Player4)
+  (Rank) PSI Rank 50 (Player3): Li'l Turtle (Player2)
+  (WW Main) Castle Tower (Player3): Boyd's Mind (Player3)
+  (WW Main) Small Arch Below (Player3): Magma Ball (Player2)
+}
+8: {
+  Deep Darkness - Barf Character (Player1): Paula (Player1)
+  Fire Spring - 1st Cave Present (Player1): Scaraba Teleport (Player1)
+  Lost Underworld - Southwest of Tenda Tribe Present (Player1): Scoop Gem (Player2)
+  Sanctuary Goal (Player1): Power of the Earth (Player1)
+  Izumo - Mars Djinni Coal (Player2): Coal (Player2)
+  Loho - Ship Cannon (Player2): Ship Cannon (Player2)
+  Shaman Village - Moapa (Player2): Moapa defeated (Player2)
+  (TH Catwalks) Curtain Slide (Player3): Meteorite Piece (Player1)
+  Left New Home Key (Player4): Parch (Player2)
+}
+9: {
+  Dungeon Man - 1F Disappointing Present (Player1): Waterfall Key (Player4)
+  Dungeon Man - 2F South Ledge Present (Player1): Gloria's Trophy (Player3)
+  Dungeon Man - 3F Present (Player1): Left Home Key (Player4)
+  Giygas (Player1): Saved Earth (Player1)
+  Aqua Rock - Mercury Djinni Steam (Player2): Tonic (Player2)
+  Contigo - Venus Djinni Salt (Player2): Kite (Player2)
+  Gabomba Statue - Right Side Chest (Player2): Straight Jacket (Player3)
+  Gabomba Statue - Venus Djinni Steel (Player2): Serac (Player2)
+  Gabomba Statue Ritual (Player2): Gabomba Statue Completed (Player2)
+  Lemurian Ship - Submerged Chest (Player2): Blaze (Player2)
+  Loho - Jupiter Djinni Lull (Player2): Salt (Player2)
+  Mikasalla - Mars Djinni Spark (Player2): Core (Player2)
+  Prox - Mercury Djinni Dew (Player2): Waft (Player2)
+  Prox - Venus Djinni Mold (Player2): Sleet (Player2)
+  Shaman Village - Jupiter Djinni Aroma (Player2): Gasp (Player2)
+  Tundaria Tower - 1F - East Room Ledge (Player2): Birthday Cake (Player3)
+  Tundaria Tower - Mars Djinni Reflux (Player2): Vine (Player2)
+}
+10: {
+  Gabomba Catacombs - Venus Djinni Mud (Player2): Spring (Player2)
+  Mars Lighthouse (Lower) - Orihalcon (Player2): Stop Sign (Player3)
+  Mars Lighthouse - Mercury Djinni Balm (Player2): Forge (Player2)
+  (MC Boss) Final Boss Defeated (Player3): Victory (Player3)
+  Astro 1 (Player4): Mining Permit (Player1)
+  Nicecream Waterfall (Player4): Linda's Mind (Player3)
+  Tutu Hidden (Player4): Mind Read (Player2)
+}
+11: {
+  Gold Mine - Mouse Crossroad Present #1 (Player1): Progressive Confusion (Player3)
+  Gold Mine - West Mole Present (Player1): Blue Key (Player2)
+  Islet Cave - Venus Djinni Meld (Player2): Fugue (Player2)
+  (LO Main) Skyscraper before Dam (Player3): Healing Fungus (Player2)
+  (MM Neighborhood) Car House Backyard (Player3): Red Key (Player2)
+}
+12: {
+  Jupiter Lighthouse - Jupiter Djinni Whorl (Player2): Crystal (Player2)
+  Jupiter Lighthouse - West Wing - Middle Room Two (Player2): Carry Stone (Player2)
+  Jupiter_Lighthouse Aeri - Agatio and Karst (Player2): Jupiter Beacon Lit (Player2)
+  Madra - Mars Djinni Char (Player2): Blitz (Player2)
+  (BV Edgar) Cobra Wrestler (Player3): Teleport Lapis (Player2)
+}
+13: {
+  Contigo - Recruit Garet (Player2): Mia (Player2)
+  Contigo - Recruit Isaac (Player2): Garet (Player2)
+  Contigo - Recruit Ivan (Player2): Sheba (Player2)
+  Contigo - Recruit Mia (Player2): Isaac (Player2)
+  Islet Cave - Mercury Djinni Serac (Player2): Gust (Player2)
+  Mars Lighthouse (Lower) - Valkyrie Mail (Player2): Sand (Player2)
+}
+14: {
+  5th Party Member - Mercury Djinni Fizz (Player2): Fog (Player2)
+  5th Party Member - Venus Djinni Granite (Player2): Chill (Player2)
+  6th Party Member - Venus Djinni Quartz (Player2): Geode (Player2)
+  7th Party Member - Venus Djinni Sap (Player2): Luff (Player2)
+  7th Party Member - Venus Djinni Vine (Player2): Lull (Player2)
+  8th Party Member - Jupiter Djinni Squall (Player2): Char (Player2)
+  8th Party Member - Venus Djinni Ground (Player2): Sour (Player2)
+  Mars Lighthouse - Flame Dragons (Player2): Flame Dragons - defeated (Player2)
+  Yampi Desert Cave - Venus Djinni Crystal (Player2): Zephyr (Player2)
+}
+15: {
+  Mars Lighthouse - Heated (Player2): Mars Lighthouse Heated (Player2)
+}
+16: {
+  Mars Lighthouse - Doom Dragon (Player2): Doom Dragon Defeated (Player2)
+}
+17: {
+  Victory Event (Player2): Victory (Player2)
+}
