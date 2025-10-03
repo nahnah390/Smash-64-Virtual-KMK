@@ -1,0 +1,981 @@
+﻿Archipelago Version 0.6.3  -  Seed: 79567106461494869875
+
+Filling Algorithm:               balanced
+Players:                         2
+Plando Options:                  connections, texts, bosses
+
+Player 1: Player1
+Game:                            A Hat in Time
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Start Inventory from Pool:       
+End Goal:                        Finale
+Shuffle Acts:                    Light
+Act Plando:                      
+Act Blacklist:                   
+Shuffle Alpine Ziplines:         No
+Finale Shuffle:                  No
+Logic Difficulty:                Normal
+Yarn Balance Percentage:         20
+Time Piece Balance Percentage:   35
+Randomize Hat Order:             True
+Umbrella Logic:                  No
+Start with Compass Badge:        Yes
+Compass Badge Mode:              Closest
+Shuffle Storybook Pages:         Yes
+Shuffle Contracts:               Yes
+Shuffle Subcon Paintings:        No
+No Subcon Fire Wall Skips:       No
+Starting Chapter:                1
+Cheating the Race Logic:         Time Stop Only
+Shuffle Chapter 6:               No
+Tasksanity:                      No
+Tasksanity Task Step:            1
+Tasksanity Check Count:          18
+Exclude Tour Time Rift:          No
+Ship Shape Custom Task Goal:     0
+Enable Death Wish:               No
+Death Wish Shuffle:              No
+Death Wish Shuffle Minimum Count:18
+Death Wish Shuffle Maximum Count:25
+Death Wish Only:                 No
+Shuffle Death Wish Full Completions:No
+Auto Complete Bonus Stamps:      Yes
+Exclude Annoying Death Wish Contracts:Yes
+Exclude Annoying Death Wish Full Completions:Yes
+Exclude Candle Death Wishes:     Yes
+Death Wish Time Piece Requirement:15
+Shuffle Chapter 7:               No
+Baseball Bat:                    No
+Metro Shops Minimum Pon Cost:    50
+Metro Shops Maximum Pon Cost:    200
+Nyakuza Thug Minimum Shop Items: 2
+Nyakuza Thug Maximum Shop Items: 4
+No Ticket Skips:                 False
+Lowest Possible Chapter Cost:    5
+Highest Possible Chapter Cost:   25
+Chapter Cost Increment:          4
+Minimum Chapter Cost Difference: 4
+Max Extra Time Pieces:           16
+Final Chapter Minimum Time Piece Cost:30
+Final Chapter Maximum Time Piece Cost:35
+Minimum Yarn Cost:               4
+Maximum Yarn Cost:               8
+Yarn Available:                  50
+Min Extra Yarn:                  10
+Hat Items:                       No
+Minimum Shop Pon Cost:           75
+Maximum Shop Pon Cost:           300
+Badge Seller Minimum Items:      4
+Badge Seller Maximum Items:      8
+Trap Chance:                     0
+Baby Trap Weight:                40
+Laser Trap Weight:               40
+Parade Trap Weight:              20
+Death Link:                      No
+Chapter 1 Cost: 0
+Chapter 2 Cost: 7
+Chapter 3 Cost: 16
+Chapter 4 Cost: 11
+Chapter 5 Cost: 33
+Chapter 6 Cost: -1
+Chapter 7 Cost: -1
+Hat Cost: 2: 6
+Hat Cost: 3: 4
+Hat Cost: 4: 8
+Hat Cost: 1: 8
+Hat Cost: 0: 7
+
+Player 2: Player2
+Game:                            Super Mario Land 2
+Progression Balancing:           50
+Accessibility:                   Items
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Shuffle Golden Coins:            Vanilla
+Golden Coins Required:           6
+Mario Coin Fragment Percentage:  20
+Mario Coin Fragments Required Percentage:75
+Coinsanity:                      No
+Coinsanity Checks:               150
+Shuffle Midway Bells:            No
+Mario's Castle Midway Bell:      No
+Shuffle Pipe Traversal:          Off
+Auto Scroll Mode:                Always
+Auto Scroll Chance:              -1
+Difficulty Mode:                 Normal
+Randomize Enemies:               No
+Randomize Platforms:             No
+Randomize Music:                 No
+Energy Link:                     Yes
+
+
+Starting Items:
+
+Compass Badge (Player1)
+Pipe Traversal (Player2)
+
+Locations:
+
+Spaceship - Rumbi Abuse (Player1): 25 Pons (Player1)
+Mafia Boss Shop Item (Player1): Yarn (Player1)
+Act Completion (Time Rift - Gallery) (Player1): Super Star Duration Increase (Player2)
+Act Completion (Time Rift - The Lab) (Player1): Macro Zone Progression (Player2)
+Welcome to Mafia Town - Umbrella (Player1): 100 Pons (Player1)
+Act Completion (Welcome to Mafia Town) (Player1): Time Piece (Player1)
+Act Completion (Barrel Battle) (Player1): Time Piece (Player1)
+Act Completion (She Came from Outer Space) (Player1): Random Cosmetic (Player1)
+Mafia HQ - Hallway Brewing Crate (Player1): Random Cosmetic (Player1)
+Mafia HQ - Freezer Chest (Player1): Health Pon (Player1)
+Mafia HQ - Secret Room (Player1): Health Pon (Player1)
+Mafia HQ - Bathroom Stall Chest (Player1): 25 Pons (Player1)
+Act Completion (Down with the Mafia!) (Player1): Time Piece (Player1)
+Act Completion (Heating Up Mafia Town) (Player1): Tree Zone Progression (Player2)
+Act Completion (Cheating the Race) (Player1): Yarn (Player1)
+Act Completion (The Golden Vault) (Player1): 25 Pons (Player1)
+Act Completion (Dead Bird Studio) (Player1): Random Cosmetic (Player1)
+Murder on the Owl Express - Cafeteria (Player1): Random Cosmetic (Player1)
+Murder on the Owl Express - Luggage Room Top (Player1): 50 Pons (Player1)
+Murder on the Owl Express - Luggage Room Bottom (Player1): Yarn (Player1)
+Murder on the Owl Express - Raven Suite Room (Player1): Health Pon (Player1)
+Murder on the Owl Express - Raven Suite Top (Player1): 100 Pons (Player1)
+Murder on the Owl Express - Lounge Chest (Player1): Macro Zone Progression (Player2)
+Act Completion (Murder on the Owl Express) (Player1): Random Cosmetic (Player1)
+Picture Perfect - Behind Badge Seller (Player1): 25 Pons (Player1)
+Picture Perfect - Hats Buy Building (Player1): Time Piece (Player1)
+Act Completion (Picture Perfect) (Player1): Yarn (Player1)
+Act Completion (Train Rush) (Player1): 25 Pons (Player1)
+Act Completion (The Big Parade) (Player1): Time Piece (Player1)
+Act Completion (Award Ceremony) (Player1): 25 Pons (Player1)
+Dead Bird Studio Basement - Window Platform (Player1): Relic (Cow) (Player1)
+Dead Bird Studio Basement - Cardboard Conductor (Player1): Random Cosmetic (Player1)
+Dead Bird Studio Basement - Above Conductor Sign (Player1): Mario Zone Progression (Player2)
+Dead Bird Studio Basement - Logo Wall (Player1): Yarn (Player1)
+Dead Bird Studio Basement - Disco Room (Player1): Super Star Duration Increase (Player2)
+Dead Bird Studio Basement - Small Room (Player1): 25 Pons (Player1)
+Dead Bird Studio Basement - Vent Pipe (Player1): Fire Flower (Player2)
+Dead Bird Studio Basement - Tightrope (Player1): Time Piece (Player1)
+Dead Bird Studio Basement - Cameras (Player1): Yarn (Player1)
+Dead Bird Studio Basement - Locked Room (Player1): 25 Pons (Player1)
+Act Completion (Dead Bird Studio Basement) (Player1): 25 Pons (Player1)
+Act Completion (Time Rift - Dead Bird Studio) (Player1): 25 Pons (Player1)
+Dead Bird Studio (Rift) - Page: Behind Cardboard Planet (Player1): Random Cosmetic (Player1)
+Dead Bird Studio (Rift) - Page: Near Time Rift Gate (Player1): 50 Pons (Player1)
+Dead Bird Studio (Rift) - Page: Top of Metal Bar (Player1): Health Pon (Player1)
+Dead Bird Studio (Rift) - Page: Lava Lamp (Player1): Time Piece (Player1)
+Dead Bird Studio (Rift) - Page: Above Horse Picture (Player1): Time Piece (Player1)
+Dead Bird Studio (Rift) - Page: Green Screen (Player1): Super Star Duration Increase (Player2)
+Dead Bird Studio (Rift) - Page: In The Corner (Player1): Health Pon (Player1)
+Dead Bird Studio (Rift) - Page: Above TV Room (Player1): Random Cosmetic (Player1)
+Act Completion (Time Rift - The Owl Express) (Player1): Mushroom (Player2)
+Act Completion (Time Rift - The Moon) (Player1): Yarn (Player1)
+Dead Bird Studio - Up the Ladder (Player1): Super Star Duration Increase (Player2)
+Dead Bird Studio - Red Building Top (Player1): Time Piece (Player1)
+Dead Bird Studio - Behind Water Tower (Player1): Pumpkin Zone Secret 2 (Player2)
+Dead Bird Studio - Side of House (Player1): Random Cosmetic (Player1)
+Dead Bird Studio - DJ Grooves Sign Chest (Player1): Mario Zone Progression (Player2)
+Dead Bird Studio - Tightrope Chest (Player1): 25 Pons (Player1)
+Dead Bird Studio - Tepee Chest (Player1): Health Pon (Player1)
+Dead Bird Studio - Conductor Chest (Player1): 25 Pons (Player1)
+Contractual Obligations - Cherry Bomb Bone Cage (Player1): Random Cosmetic (Player1)
+Act Completion (Contractual Obligations) (Player1): Yarn (Player1)
+Snatcher's Contract - The Subcon Well (Player1): Yarn (Player1)
+Subcon Well - Hookshot Badge Chest (Player1): Time Piece (Player1)
+Subcon Well - Above Chest (Player1): 100 Pons (Player1)
+Subcon Well - On Pipe (Player1): Health Pon (Player1)
+Subcon Well - Mushroom (Player1): Health Pon (Player1)
+Act Completion (The Subcon Well) (Player1): 25 Pons (Player1)
+Act Completion (Toilet of Doom) (Player1): Pumpkin Zone Secret 1 (Player2)
+Queen Vanessa's Manor - Cellar (Player1): Super Star Duration Increase (Player2)
+Queen Vanessa's Manor - Bedroom Chest (Player1): Random Cosmetic (Player1)
+Queen Vanessa's Manor - Hall Chest (Player1): Time Piece (Player1)
+Queen Vanessa's Manor - Chandelier (Player1): Super Star Duration Increase (Player2)
+Act Completion (Queen Vanessa's Manor) (Player1): Yarn (Player1)
+Act Completion (Mail Delivery Service) (Player1): Time Piece (Player1)
+Alpine Skyline - The Purrloined Village: Horned Stone (Player1): Random Cosmetic (Player1)
+Alpine Skyline - The Purrloined Village: Chest Reward (Player1): Yarn (Player1)
+Alpine Skyline - Mystifying Time Mesa: Zipline (Player1): Yarn (Player1)
+Alpine Skyline - Mystifying Time Mesa: Gate Puzzle (Player1): Yarn (Player1)
+Alpine Skyline - The Twilight Path (Player1): Time Piece (Player1)
+Alpine Skyline - Goat Village: Below Hookpoint (Player1): Random Cosmetic (Player1)
+Alpine Skyline - Goat Village: Hidden Branch (Player1): Yarn (Player1)
+Alpine Skyline - Goat Refinery (Player1): 25 Pons (Player1)
+Alpine Skyline - Bird Pass Fork (Player1): Macro Zone Secret 1 (Player2)
+Alpine Skyline - Yellow Band Hills (Player1): Yarn (Player1)
+Alpine Skyline - Ember Summit (Player1): Hippo Bubble (Player2)
+Alpine Skyline - Goat Outpost Horn (Player1): 25 Pons (Player1)
+Alpine Skyline - Windy Passage (Player1): Relic (Green Crayon) (Player1)
+Alpine Skyline - The Birdhouse: Triple Crow Chest (Player1): 50 Pons (Player1)
+Alpine Skyline - The Birdhouse: Dweller Platforms Relic (Player1): 100 Pons (Player1)
+Alpine Skyline - The Birdhouse: Brewing Crate House (Player1): Time Piece (Player1)
+Alpine Skyline - The Birdhouse: Hay Bale (Player1): Yarn (Player1)
+Alpine Skyline - The Birdhouse: Alpine Crow Mini-Gauntlet (Player1): Tree Zone Secret (Player2)
+Alpine Skyline - The Birdhouse: Outer Edge (Player1): Health Pon (Player1)
+Act Completion (The Birdhouse) (Player1): 100 Pons (Player1)
+Alpine Skyline - The Lava Cake: Center Fence Cage (Player1): Water Physics (Player2)
+Alpine Skyline - The Lava Cake: Outer Island Chest (Player1): 25 Pons (Player1)
+Alpine Skyline - The Lava Cake: Dweller Pillars (Player1): 50 Pons (Player1)
+Alpine Skyline - The Lava Cake: Top Cake (Player1): 50 Pons (Player1)
+Act Completion (The Lava Cake) (Player1): Yarn (Player1)
+Alpine Skyline - The Windmill: Inside Pon Cluster (Player1): Time Piece (Player1)
+Alpine Skyline - The Windmill: Entrance (Player1): 50 Pons (Player1)
+Alpine Skyline - The Windmill: Dropdown (Player1): Mario Zone Progression (Player2)
+Alpine Skyline - The Windmill: House Window (Player1): Health Pon (Player1)
+Act Completion (The Windmill) (Player1): 25 Pons (Player1)
+Alpine Skyline - The Twilight Bell: Wide Purple Platform (Player1): Yarn (Player1)
+Alpine Skyline - The Twilight Bell: Ice Platform (Player1): Snatcher's Contract - The Subcon Well (Player1)
+Act Completion (The Twilight Bell) (Player1): Random Cosmetic (Player1)
+Act Completion (The Illness has Spread) (Player1): Yarn (Player1)
+Act Completion (Time Rift - Alpine Skyline) (Player1): Super Star Duration Increase (Player2)
+Alpine Skyline (Rift) - Page: Entrance Area Hidden Ledge (Player1): Projectile Badge (Player1)
+Alpine Skyline (Rift) - Page: Windmill Island Ledge (Player1): 50 Pons (Player1)
+Alpine Skyline (Rift) - Page: Waterfall Wooden Pillar (Player1): 25 Pons (Player1)
+Alpine Skyline (Rift) - Page: Lonely Birdhouse Top (Player1): Time Piece (Player1)
+Alpine Skyline (Rift) - Page: Below Aqueduct (Player1): Health Pon (Player1)
+Act Completion (Time Rift - The Twilight Bell) (Player1): Turtle Zone Progression (Player2)
+Act Completion (Time Rift - Curly Tail Trail) (Player1): Pumpkin Zone Progression (Player2)
+Mafia Town - Old Man (Seaside Spaghetti) (Player1): Health Pon (Player1)
+Mafia Town - Old Man (Steel Beams) (Player1): Turtle Zone Secret (Player2)
+Mafia Town - Blue Vault (Player1): Time Piece (Player1)
+Mafia Town - Green Vault (Player1): Space Zone Secret (Player2)
+Mafia Town - Red Vault (Player1): Pumpkin Zone Progression (Player2)
+Mafia Town - Blue Vault Brewing Crate (Player1): Health Pon (Player1)
+Mafia Town - Plaza Under Boxes (Player1): Yarn (Player1)
+Mafia Town - Small Boat (Player1): Yarn (Player1)
+Mafia Town - Staircase Pon Cluster (Player1): Time Piece (Player1)
+Mafia Town - Palm Tree (Player1): Yarn (Player1)
+Mafia Town - Port (Player1): Super Star Duration Increase (Player2)
+Mafia Town - Docks Chest (Player1): Yarn (Player1)
+Mafia Town - Ice Hat Cage (Player1): Time Piece (Player1)
+Mafia Town - Hidden Buttons Chest (Player1): Hookshot Badge (Player1)
+Mafia Town - Dweller Boxes (Player1): Yarn (Player1)
+Mafia Town - Ledge Chest (Player1): Random Cosmetic (Player1)
+Mafia Town - Yellow Sphere Building Chest (Player1): Yarn (Player1)
+Mafia Town - Beneath Scaffolding (Player1): Badge Pin (Player1)
+Mafia Town - On Scaffolding (Player1): 50 Pons (Player1)
+Mafia Town - Cargo Ship (Player1): Random Cosmetic (Player1)
+Mafia Town - Beach Alcove (Player1): No Bonk Badge (Player1)
+Mafia Town - Wood Cage (Player1): Relic (Mountain Set) (Player1)
+Mafia Town - Beach Patio (Player1): Yarn (Player1)
+Mafia Town - Steel Beam Nest (Player1): Time Piece (Player1)
+Mafia Town - Top of Ruined Tower (Player1): Super Star Duration Increase (Player2)
+Mafia Town - Hot Air Balloon (Player1): Yarn (Player1)
+Mafia Town - Camera Badge 1 (Player1): Relic (Blue Crayon) (Player1)
+Mafia Town - Camera Badge 2 (Player1): 50 Pons (Player1)
+Mafia Town - Chest Beneath Aqueduct (Player1): Yarn (Player1)
+Mafia Town - Secret Cave (Player1): Super Star Duration Increase (Player2)
+Mafia Town - Crow Chest (Player1): Super Star Duration Increase (Player2)
+Mafia Town - Above Boats (Player1): Random Cosmetic (Player1)
+Mafia Town - Slip Slide Chest (Player1): Relic (Crayon Box) (Player1)
+Mafia Town - Behind Faucet (Player1): Random Cosmetic (Player1)
+Mafia Town - Clock Tower Chest (Player1): Yarn (Player1)
+Mafia Town - Top of Lighthouse (Player1): Random Cosmetic (Player1)
+Mafia Town - Mafia Geek Platform (Player1): Yarn (Player1)
+Mafia Town - Behind HQ Chest (Player1): Time Piece (Player1)
+Act Completion (Time Rift - Mafia of Cooks) (Player1): Hover Badge (Player1)
+Mafia of Cooks - Page: Fish Pile (Player1): 50 Pons (Player1)
+Mafia of Cooks - Page: Trash Mound (Player1): 50 Pons (Player1)
+Mafia of Cooks - Page: Beside Red Building (Player1): Random Cosmetic (Player1)
+Mafia of Cooks - Page: Behind Shipping Containers (Player1): 25 Pons (Player1)
+Mafia of Cooks - Page: Top of Boat (Player1): 50 Pons (Player1)
+Mafia of Cooks - Page: Below Dock (Player1): Time Piece (Player1)
+Act Completion (Time Rift - Sewers) (Player1): Time Piece (Player1)
+Act Completion (Time Rift - Bazaar) (Player1): Time Piece (Player1)
+Subcon Village - Tree Top Ice Cube (Player1): Time Piece (Player1)
+Subcon Village - Graveyard Ice Cube (Player1): Macro Zone Secret 2 (Player2)
+Subcon Village - House Top (Player1): Yarn (Player1)
+Subcon Village - Ice Cube House (Player1): 25 Pons (Player1)
+Subcon Village - Stump Platform Chest (Player1): Health Pon (Player1)
+Subcon Forest - Giant Tree Climb (Player1): 50 Pons (Player1)
+Subcon Forest - Ice Cube Shack (Player1): 25 Pons (Player1)
+Subcon Forest - Swamp Gravestone (Player1): 25 Pons (Player1)
+Subcon Forest - Swamp Near Well (Player1): Yarn (Player1)
+Subcon Forest - Swamp Tree A (Player1): Time Piece (Player1)
+Subcon Forest - Swamp Tree B (Player1): Time Piece (Player1)
+Subcon Forest - Swamp Ice Wall (Player1): Time Piece (Player1)
+Subcon Forest - Swamp Treehouse (Player1): Super Star Duration Increase (Player2)
+Subcon Forest - Swamp Tree Chest (Player1): Yarn (Player1)
+Subcon Forest - Burning House (Player1): Super Star Duration Increase (Player2)
+Subcon Forest - Burning Tree Climb (Player1): Carrot (Player2)
+Subcon Forest - Burning Stump Chest (Player1): 25 Pons (Player1)
+Subcon Forest - Burning Forest Treehouse (Player1): 50 Pons (Player1)
+Subcon Forest - Spider Bone Cage A (Player1): Yarn (Player1)
+Subcon Forest - Spider Bone Cage B (Player1): Yarn (Player1)
+Subcon Forest - Triple Spider Bounce (Player1): Relic (Burger Patty) (Player1)
+Subcon Forest - Noose Treehouse (Player1): 100 Pons (Player1)
+Subcon Forest - Long Tree Climb Chest (Player1): Health Pon (Player1)
+Subcon Forest - Manor Rooftop (Player1): Health Pon (Player1)
+Subcon Forest - Infinite Yarn Bush (Player1): Fast Hatter Badge (Player1)
+Subcon Forest - Magnet Badge Bush (Player1): Snatcher's Contract - Toilet of Doom (Player1)
+Subcon Forest - Dweller Stump (Player1): 25 Pons (Player1)
+Subcon Forest - Dweller Floating Rocks (Player1): Relic (Train) (Player1)
+Subcon Forest - Dweller Platforming Tree A (Player1): Time Piece (Player1)
+Subcon Forest - Dweller Platforming Tree B (Player1): Yarn (Player1)
+Subcon Forest - Giant Time Piece (Player1): Super Star Duration Increase (Player2)
+Subcon Forest - Gallows (Player1): Super Star Duration Increase (Player2)
+Subcon Forest - Green and Purple Dweller Rocks (Player1): Super Star Duration Increase (Player2)
+Subcon Forest - Dweller Shack (Player1): Super Star Duration Increase (Player2)
+Subcon Forest - Tall Tree Hookshot Swing (Player1): 25 Pons (Player1)
+Snatcher's Contract - Toilet of Doom (Player1): 25 Pons (Player1)
+Snatcher's Contract - Queen Vanessa's Manor (Player1): Macro Zone Progression (Player2)
+Snatcher's Contract - Mail Delivery Service (Player1): Time Piece (Player1)
+Subcon Village - Snatcher Statue Chest (Player1): 25 Pons (Player1)
+Subcon Forest - Boss Arena Chest (Player1): Yarn (Player1)
+Act Completion (Your Contract has Expired) (Player1): 100 Pons (Player1)
+Act Completion (Time Rift - Sleepy Subcon) (Player1): Super Star Duration Increase (Player2)
+Sleepy Subcon - Page: Behind Entrance Area (Player1): Turtle Zone Progression (Player2)
+Sleepy Subcon - Page: Near Wrecking Ball (Player1): Yarn (Player1)
+Sleepy Subcon - Page: Behind Crane (Player1): Relic (UFO) (Player1)
+Sleepy Subcon - Page: Wrecked Treehouse (Player1): Super Star Duration Increase (Player2)
+Sleepy Subcon - Page: Behind 2nd Rift Gate (Player1): Time Piece (Player1)
+Sleepy Subcon - Page: Rotating Platform (Player1): Health Pon (Player1)
+Sleepy Subcon - Page: Behind 3rd Rift Gate (Player1): Random Cosmetic (Player1)
+Sleepy Subcon - Page: Frozen Tree (Player1): Yarn (Player1)
+Sleepy Subcon - Page: Secret Library (Player1): Super Star Duration Increase (Player2)
+Act Completion (Time Rift - Pipe) (Player1): Health Pon (Player1)
+Act Completion (Time Rift - Village) (Player1): Item Magnet Badge (Player1)
+Badge Seller - Item 1 (Player1): Super Star Duration Increase (Player2)
+Badge Seller - Item 2 (Player1): Yarn (Player1)
+Badge Seller - Item 3 (Player1): Relic (Cool Cow) (Player1)
+Badge Seller - Item 4 (Player1): Time Piece (Player1)
+The Finale - Frozen Item (Player1): Health Pon (Player1)
+Act Completion (The Finale) (Player1): 25 Pons (Player1)
+Mushroom Zone - Normal Exit (Player2): Time Piece (Player1)
+Mushroom Zone - Midway Bell (Player2): Badge Pin (Player1)
+Scenic Course - Normal Exit (Player2): Yarn (Player1)
+Tree Zone 1 - Normal Exit (Player2): Yarn (Player1)
+Tree Zone 1 - Midway Bell (Player2): 50 Pons (Player1)
+Tree Zone 2 - Normal Exit (Player2): Super Star Duration Increase (Player2)
+Tree Zone 2 - Secret Exit (Player2): Snatcher's Contract - Queen Vanessa's Manor (Player1)
+Tree Zone 2 - Midway Bell (Player2): Super Star Duration Increase (Player2)
+Tree Zone 3 - Normal Exit (Player2): Yarn (Player1)
+Tree Zone 4 - Normal Exit (Player2): Relic (Burger Cushion) (Player1)
+Tree Zone 4 - Midway Bell (Player2): Health Pon (Player1)
+Tree Zone 5 - Boss (Player2): Tree Coin (Player2)
+Tree Zone 5 - Midway Bell (Player2): 25 Pons (Player1)
+Tree Zone Secret Course - Normal Exit (Player2): Super Star Duration Increase (Player2)
+Hippo Zone - Normal or Secret Exit (Player2): Time Piece (Player1)
+Space Zone 1 - Normal Exit (Player2): Time Piece (Player1)
+Space Zone 1 - Secret Exit (Player2): Health Pon (Player1)
+Space Zone 1 - Midway Bell (Player2): Relic (Red Crayon) (Player1)
+Space Zone Secret Course - Normal Exit (Player2): Yarn (Player1)
+Space Zone 2 - Boss (Player2): Space Coin (Player2)
+Space Zone 2 - Midway Bell (Player2): 50 Pons (Player1)
+Macro Zone 1 - Normal Exit (Player2): Yarn (Player1)
+Macro Zone 1 - Secret Exit (Player2): Snatcher's Contract - Mail Delivery Service (Player1)
+Macro Zone 1 - Midway Bell (Player2): 25 Pons (Player1)
+Macro Zone 2 - Normal Exit (Player2): 25 Pons (Player1)
+Macro Zone 2 - Midway Bell (Player2): Random Cosmetic (Player1)
+Macro Zone 3 - Normal Exit (Player2): Time Piece (Player1)
+Macro Zone 3 - Midway Bell (Player2): Yarn (Player1)
+Macro Zone 4 - Boss (Player2): Macro Coin (Player2)
+Macro Zone 4 - Midway Bell (Player2): 25 Pons (Player1)
+Macro Zone Secret Course - Normal Exit (Player2): Yarn (Player1)
+Pumpkin Zone 1 - Normal Exit (Player2): 25 Pons (Player1)
+Pumpkin Zone 1 - Midway Bell (Player2): Yarn (Player1)
+Pumpkin Zone 2 - Normal Exit (Player2): Umbrella (Player1)
+Pumpkin Zone 2 - Secret Exit (Player2): Random Cosmetic (Player1)
+Pumpkin Zone 2 - Midway Bell (Player2): Relic (Tin-foil Hat Cow) (Player1)
+Pumpkin Zone 3 - Normal Exit (Player2): Time Piece (Player1)
+Pumpkin Zone 3 - Secret Exit (Player2): Tree Zone Progression (Player2)
+Pumpkin Zone 3 - Midway Bell (Player2): Pumpkin Zone Progression (Player2)
+Pumpkin Zone 4 - Boss (Player2): Pumpkin Coin (Player2)
+Pumpkin Zone 4 - Midway Bell (Player2): 100 Pons (Player1)
+Pumpkin Zone Secret Course 1 - Normal Exit (Player2): 25 Pons (Player1)
+Pumpkin Zone Secret Course 2 - Normal Exit (Player2): Space Physics (Player2)
+Mario Zone 1 - Normal Exit (Player2): 100 Pons (Player1)
+Mario Zone 1 - Midway Bell (Player2): Time Piece (Player1)
+Mario Zone 2 - Normal Exit (Player2): Time Piece (Player1)
+Mario Zone 2 - Midway Bell (Player2): Space Zone Progression (Player2)
+Mario Zone 3 - Normal Exit (Player2): Super Star Duration Increase (Player2)
+Mario Zone 3 - Midway Bell (Player2): Health Pon (Player1)
+Mario Zone 4 - Boss (Player2): Mario Coin (Player2)
+Mario Zone 4 - Midway Bell (Player2): Scooter Badge (Player1)
+Turtle Zone 1 - Normal Exit (Player2): Yarn (Player1)
+Turtle Zone 1 - Midway Bell (Player2): 25 Pons (Player1)
+Turtle Zone 2 - Normal Exit (Player2): Yarn (Player1)
+Turtle Zone 2 - Secret Exit (Player2): Time Piece (Player1)
+Turtle Zone 2 - Midway Bell (Player2): Tree Zone Progression (Player2)
+Turtle Zone 3 - Boss (Player2): Turtle Coin (Player2)
+Turtle Zone 3 - Midway Bell (Player2): 50 Pons (Player1)
+Turtle Zone Secret Course - Normal Exit (Player2): Random Cosmetic (Player1)
+Mario's Castle - Wario (Player2): Wario Defeated (Player2)
+
+Playthrough:
+
+0: {
+  Pipe Traversal (Player2)
+}
+1: {
+  Act Completion (Contractual Obligations) (Player1): Yarn (Player1)
+  Alpine Skyline - Goat Village: Hidden Branch (Player1): Yarn (Player1)
+  Badge Seller - Item 2 (Player1): Yarn (Player1)
+  Badge Seller - Item 4 (Player1): Time Piece (Player1)
+  Dead Bird Studio - Red Building Top (Player1): Time Piece (Player1)
+  Dead Bird Studio Basement - Logo Wall (Player1): Yarn (Player1)
+  Dead Bird Studio Basement - Vent Pipe (Player1): Fire Flower (Player2)
+  Snatcher's Contract - Mail Delivery Service (Player1): Time Piece (Player1)
+  Snatcher's Contract - Queen Vanessa's Manor (Player1): Macro Zone Progression (Player2)
+  Snatcher's Contract - The Subcon Well (Player1): Yarn (Player1)
+  Subcon Forest - Burning Tree Climb (Player1): Carrot (Player2)
+  Subcon Forest - Dweller Platforming Tree A (Player1): Time Piece (Player1)
+  Subcon Forest - Spider Bone Cage A (Player1): Yarn (Player1)
+  Subcon Forest - Spider Bone Cage B (Player1): Yarn (Player1)
+  Subcon Forest - Swamp Ice Wall (Player1): Time Piece (Player1)
+  Subcon Forest - Swamp Near Well (Player1): Yarn (Player1)
+  Subcon Forest - Swamp Tree A (Player1): Time Piece (Player1)
+  Subcon Forest - Swamp Tree B (Player1): Time Piece (Player1)
+  Subcon Forest - Swamp Tree Chest (Player1): Yarn (Player1)
+  Subcon Village - Graveyard Ice Cube (Player1): Macro Zone Secret 2 (Player2)
+  Subcon Village - House Top (Player1): Yarn (Player1)
+  Subcon Village - Tree Top Ice Cube (Player1): Time Piece (Player1)
+  Macro Zone 1 - Normal Exit (Player2): Yarn (Player1)
+  Mushroom Zone - Normal Exit (Player2): Time Piece (Player1)
+  Pumpkin Zone 1 - Midway Bell (Player2): Yarn (Player1)
+  Scenic Course - Normal Exit (Player2): Yarn (Player1)
+  Tree Zone 1 - Normal Exit (Player2): Yarn (Player1)
+  Turtle Zone 1 - Normal Exit (Player2): Yarn (Player1)
+}
+2: {
+  Act Completion (Down with the Mafia!) (Player1): Time Piece (Player1)
+  Act Completion (Picture Perfect) (Player1): Yarn (Player1)
+  Mafia Town - Behind HQ Chest (Player1): Time Piece (Player1)
+  Mafia Town - Blue Vault (Player1): Time Piece (Player1)
+  Mafia Town - Camera Badge 1 (Player1): Relic (Blue Crayon) (Player1)
+  Mafia Town - Chest Beneath Aqueduct (Player1): Yarn (Player1)
+  Mafia Town - Docks Chest (Player1): Yarn (Player1)
+  Mafia Town - Dweller Boxes (Player1): Yarn (Player1)
+  Mafia Town - Hidden Buttons Chest (Player1): Hookshot Badge (Player1)
+  Mafia Town - Hot Air Balloon (Player1): Yarn (Player1)
+  Mafia Town - Ice Hat Cage (Player1): Time Piece (Player1)
+  Mafia Town - Mafia Geek Platform (Player1): Yarn (Player1)
+  Mafia Town - Palm Tree (Player1): Yarn (Player1)
+  Mafia Town - Plaza Under Boxes (Player1): Yarn (Player1)
+  Mafia Town - Red Vault (Player1): Pumpkin Zone Progression (Player2)
+  Mafia Town - Slip Slide Chest (Player1): Relic (Crayon Box) (Player1)
+  Mafia Town - Small Boat (Player1): Yarn (Player1)
+  Mafia Town - Staircase Pon Cluster (Player1): Time Piece (Player1)
+  Mafia Town - Steel Beam Nest (Player1): Time Piece (Player1)
+  Mafia Town - Wood Cage (Player1): Relic (Mountain Set) (Player1)
+  Murder on the Owl Express - Lounge Chest (Player1): Macro Zone Progression (Player2)
+  Murder on the Owl Express - Luggage Room Bottom (Player1): Yarn (Player1)
+  Picture Perfect - Hats Buy Building (Player1): Time Piece (Player1)
+  Subcon Forest - Dweller Floating Rocks (Player1): Relic (Train) (Player1)
+  Subcon Forest - Dweller Platforming Tree B (Player1): Yarn (Player1)
+  Hippo Zone - Normal or Secret Exit (Player2): Time Piece (Player1)
+  Macro Zone 1 - Secret Exit (Player2): Snatcher's Contract - Mail Delivery Service (Player1)
+  Mario Zone 1 - Midway Bell (Player2): Time Piece (Player1)
+  Space Zone 1 - Midway Bell (Player2): Relic (Red Crayon) (Player1)
+  Space Zone 1 - Normal Exit (Player2): Time Piece (Player1)
+}
+3: {
+  Act Completion (Barrel Battle) (Player1): Time Piece (Player1)
+  Act Completion (Heating Up Mafia Town) (Player1): Tree Zone Progression (Player2)
+  Act Completion (The Big Parade) (Player1): Time Piece (Player1)
+  Act Completion (Time Rift - Curly Tail Trail) (Player1): Pumpkin Zone Progression (Player2)
+  Act Completion (Time Rift - Sewers) (Player1): Time Piece (Player1)
+  Act Completion (Time Rift - The Twilight Bell) (Player1): Turtle Zone Progression (Player2)
+  Act Completion (Welcome to Mafia Town) (Player1): Time Piece (Player1)
+  Alpine Skyline (Rift) - Page: Lonely Birdhouse Top (Player1): Time Piece (Player1)
+  Alpine Skyline - Bird Pass Fork (Player1): Macro Zone Secret 1 (Player2)
+  Alpine Skyline - The Birdhouse: Brewing Crate House (Player1): Time Piece (Player1)
+  Alpine Skyline - The Lava Cake: Center Fence Cage (Player1): Water Physics (Player2)
+  Alpine Skyline - The Twilight Path (Player1): Time Piece (Player1)
+  Alpine Skyline - The Windmill: Dropdown (Player1): Mario Zone Progression (Player2)
+  Alpine Skyline - The Windmill: Inside Pon Cluster (Player1): Time Piece (Player1)
+  Alpine Skyline - Windy Passage (Player1): Relic (Green Crayon) (Player1)
+  Dead Bird Studio - DJ Grooves Sign Chest (Player1): Mario Zone Progression (Player2)
+  Dead Bird Studio Basement - Above Conductor Sign (Player1): Mario Zone Progression (Player2)
+  Dead Bird Studio Basement - Tightrope (Player1): Time Piece (Player1)
+  Subcon Well - Hookshot Badge Chest (Player1): Time Piece (Player1)
+  Macro Zone 3 - Normal Exit (Player2): Time Piece (Player1)
+}
+4: {
+  Sleepy Subcon - Page: Behind Entrance Area (Player1): Turtle Zone Progression (Player2)
+  Macro Zone 4 - Boss (Player2): Macro Coin (Player2)
+  Mario Zone 2 - Midway Bell (Player2): Space Zone Progression (Player2)
+  Mario Zone 2 - Normal Exit (Player2): Time Piece (Player1)
+  Mario Zone 4 - Boss (Player2): Mario Coin (Player2)
+  Pumpkin Zone 3 - Midway Bell (Player2): Pumpkin Zone Progression (Player2)
+  Pumpkin Zone 3 - Normal Exit (Player2): Time Piece (Player1)
+  Pumpkin Zone 3 - Secret Exit (Player2): Tree Zone Progression (Player2)
+  Turtle Zone 2 - Midway Bell (Player2): Tree Zone Progression (Player2)
+  Turtle Zone 2 - Secret Exit (Player2): Time Piece (Player1)
+}
+5: {
+  Time Piece Cluster (Player1): Time Piece Cluster (Player1)
+  Pumpkin Zone 4 - Boss (Player2): Pumpkin Coin (Player2)
+  Space Zone 2 - Boss (Player2): Space Coin (Player2)
+  Tree Zone 5 - Boss (Player2): Tree Coin (Player2)
+  Turtle Zone 3 - Boss (Player2): Turtle Coin (Player2)
+}
+6: {
+  Mario's Castle - Wario (Player2): Wario Defeated (Player2)
+}
+
+Paths:
+
+Act Completion (Barrel Battle) (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 2: Connection 1
+   =>   The Illness has Spread -> Mafia Town - Act 4: Connection 1
+   =>   The Subcon Well -> Mafia Town - Act 7: Connection 1
+   =>   Barrel Battle
+Act Completion (Contractual Obligations) (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations
+Act Completion (Down with the Mafia!) (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia!
+Act Completion (Heating Up Mafia Town) (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Subcon Forest
+   =>   Subcon Forest -> Subcon Forest - Act 1
+   =>   Heating Up Mafia Town
+Act Completion (Picture Perfect) (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 2: Connection 1
+   =>   Picture Perfect
+Act Completion (The Big Parade) (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Subcon Forest
+   =>   Subcon Forest -> Subcon Forest - Act 5
+   =>   The Big Parade
+Act Completion (Time Rift - Curly Tail Trail) (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 2: Connection 1
+   =>   Picture Perfect -> Time Rift - The Moon Portal - Entrance 1
+   =>   Time Rift - Curly Tail Trail
+Act Completion (Time Rift - Sewers) (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Time Rift - Sewers Portal - Entrance 4
+   =>   Time Rift - Sewers
+Act Completion (Time Rift - The Twilight Bell) (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Time Rift - Gallery Portal - Entrance 1
+   =>   Time Rift - The Twilight Bell
+Act Completion (Welcome to Mafia Town) (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Alpine Skyline
+   =>   Alpine Skyline -> Alpine Skyline - Free Roam
+   =>   Welcome to Mafia Town
+Alpine Skyline (Rift) - Page: Lonely Birdhouse Top (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 3: Connection 1
+   =>   Dead Bird Studio Basement -> Time Rift - Dead Bird Studio Portal - Entrance 2
+   =>   Time Rift - Alpine Skyline
+Alpine Skyline - Bird Pass Fork (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 2: Connection 1
+   =>   The Illness has Spread -> TIHS -> Alpine Skyline Area (TIHS)
+   =>   Alpine Skyline Area (TIHS)
+Alpine Skyline - Goat Village: Hidden Branch (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 2: Connection 1
+   =>   The Illness has Spread -> TIHS -> Alpine Skyline Area (TIHS)
+   =>   Alpine Skyline Area (TIHS)
+Alpine Skyline - The Birdhouse: Brewing Crate House (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> AFR -> Alpine Skyline Area
+   =>   Alpine Skyline Area -> -> The Birdhouse
+   =>   The Birdhouse
+Alpine Skyline - The Lava Cake: Center Fence Cage (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> AFR -> Alpine Skyline Area
+   =>   Alpine Skyline Area -> -> The Lava Cake
+   =>   The Lava Cake
+Alpine Skyline - The Twilight Path (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> AFR -> Alpine Skyline Area
+   =>   Alpine Skyline Area
+Alpine Skyline - The Windmill: Dropdown (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> AFR -> Alpine Skyline Area
+   =>   Alpine Skyline Area -> -> The Windmill
+   =>   The Windmill
+Alpine Skyline - The Windmill: Inside Pon Cluster (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> AFR -> Alpine Skyline Area
+   =>   Alpine Skyline Area -> -> The Windmill
+   =>   The Windmill
+Alpine Skyline - Windy Passage (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 2: Connection 1
+   =>   The Illness has Spread -> TIHS -> Alpine Skyline Area (TIHS)
+   =>   Alpine Skyline Area (TIHS)
+Badge Seller - Item 2 (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area -> SF Area -> Badge Seller
+   =>   Badge Seller
+Badge Seller - Item 4 (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area -> SF Area -> Badge Seller
+   =>   Badge Seller
+Dead Bird Studio - DJ Grooves Sign Chest (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 2: Connection 1
+   =>   The Illness has Spread -> Mafia Town - Act 4: Connection 1
+   =>   The Subcon Well -> Mafia Town - Act 6: Connection 1
+   =>   Dead Bird Studio -> DBS -> Post Elevator Area
+   =>   Dead Bird Studio - Post Elevator Area
+Dead Bird Studio - Red Building Top (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 3: Connection 1
+   =>   Dead Bird Studio Basement -> DBS Basement -> Elevator Area
+   =>   Dead Bird Studio - Elevator Area
+Dead Bird Studio Basement - Above Conductor Sign (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 3: Connection 1
+   =>   Dead Bird Studio Basement
+Dead Bird Studio Basement - Logo Wall (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 3: Connection 1
+   =>   Dead Bird Studio Basement
+Dead Bird Studio Basement - Tightrope (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 3: Connection 1
+   =>   Dead Bird Studio Basement
+Dead Bird Studio Basement - Vent Pipe (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 3: Connection 1
+   =>   Dead Bird Studio Basement
+Mafia Town - Behind HQ Chest (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area -> MT Area -> MT Area (HUMT)
+   =>   Mafia Town Area (HUMT)
+Mafia Town - Blue Vault (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area
+Mafia Town - Camera Badge 1 (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area -> MT Area -> MT Area (HUMT)
+   =>   Mafia Town Area (HUMT)
+Mafia Town - Chest Beneath Aqueduct (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area -> MT Area -> MT Area (HUMT)
+   =>   Mafia Town Area (HUMT)
+Mafia Town - Docks Chest (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area
+Mafia Town - Dweller Boxes (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area -> MT Area -> MT Area (HUMT)
+   =>   Mafia Town Area (HUMT)
+Mafia Town - Hidden Buttons Chest (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area
+Mafia Town - Hot Air Balloon (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area -> MT Area -> MT Area (HUMT)
+   =>   Mafia Town Area (HUMT)
+Mafia Town - Ice Hat Cage (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area
+Mafia Town - Mafia Geek Platform (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area -> MT Area -> MT Area (HUMT)
+   =>   Mafia Town Area (HUMT)
+Mafia Town - Palm Tree (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area
+Mafia Town - Plaza Under Boxes (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area
+Mafia Town - Red Vault (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area
+Mafia Town - Slip Slide Chest (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area -> MT Area -> MT Area (HUMT)
+   =>   Mafia Town Area (HUMT)
+Mafia Town - Small Boat (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area
+Mafia Town - Staircase Pon Cluster (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area
+Mafia Town - Steel Beam Nest (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area -> MT Area -> MT Area (HUMT)
+   =>   Mafia Town Area (HUMT)
+Mafia Town - Wood Cage (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 3: Connection 1
+   =>   Down with the Mafia! -> Mafia Town Entrance DWTM
+   =>   Mafia Town Area -> MT Area -> MT Area (HUMT)
+   =>   Mafia Town Area (HUMT)
+Murder on the Owl Express - Lounge Chest (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 2: Connection 1
+   =>   Picture Perfect -> Battle of the Birds - Act 5: Connection 1
+   =>   Murder on the Owl Express
+Murder on the Owl Express - Luggage Room Bottom (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 2: Connection 1
+   =>   Picture Perfect -> Battle of the Birds - Act 5: Connection 1
+   =>   Murder on the Owl Express
+Picture Perfect - Hats Buy Building (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Battle of the Birds - Act 2: Connection 1
+   =>   Picture Perfect
+Sleepy Subcon - Page: Behind Entrance Area (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Battle of the Birds
+   =>   Battle of the Birds -> Battle of the Birds - Act 1
+   =>   Alpine Free Roam -> Time Rift - Alpine Skyline Portal - Entrance 1
+   =>   Time Rift - Sleepy Subcon
+Snatcher's Contract - Mail Delivery Service (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Snatcher's Contract - Queen Vanessa's Manor (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Snatcher's Contract - The Subcon Well (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations
+Subcon Forest - Burning Tree Climb (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Forest - Dweller Floating Rocks (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Forest - Dweller Platforming Tree A (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Forest - Dweller Platforming Tree B (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Forest - Spider Bone Cage A (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Forest - Spider Bone Cage B (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Forest - Swamp Ice Wall (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Forest - Swamp Near Well (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Forest - Swamp Tree A (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Forest - Swamp Tree B (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Forest - Swamp Tree Chest (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Village - Graveyard Ice Cube (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Village - House Top (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Village - Tree Top Ice Cube (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Subcon Forest Entrance CO
+   =>   Subcon Forest Area
+Subcon Well - Hookshot Badge Chest (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Mafia Town
+   =>   Mafia Town -> Mafia Town - Act 1
+   =>   Contractual Obligations -> Mafia Town - Act 2: Connection 1
+   =>   The Illness has Spread -> Mafia Town - Act 4: Connection 1
+   =>   The Subcon Well
+Time Piece Cluster (Player1)
+        Menu -> Save File -> Spaceship
+   =>   Spaceship -> Telescope -> Time's End
+   =>   Time's End -> Time's End - Act 1
+   =>   The Finale
