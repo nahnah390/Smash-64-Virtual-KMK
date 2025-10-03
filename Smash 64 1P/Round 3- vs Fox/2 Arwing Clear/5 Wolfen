@@ -250,7 +250,7 @@ XCOM 2 War of the Chosen:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Progressive Defensive Matrix}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -266,7 +266,7 @@ XCOM 2 War of the Chosen:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [[Tech] ADVENT Turret Breakdown]
 
   item_links:
     # Share part of your item pool with other players.
@@ -275,5 +275,6 @@ XCOM 2 War of the Chosen:
   plando_items:
     # Generic items plando.
     []
+
 
 
