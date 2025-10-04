@@ -718,7 +718,7 @@ A Hat in Time:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Ice Hat Cage]
 
   item_links:
     # Share part of your item pool with other players.
@@ -727,4 +727,5 @@ A Hat in Time:
   plando_items:
     # Generic items plando.
     []
+
 
