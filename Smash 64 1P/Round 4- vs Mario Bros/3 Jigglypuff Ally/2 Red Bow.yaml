@@ -132,8 +132,8 @@ Sonic Heroes:
 
   dont_lose_bonus_key:
     # Keep the Bonus Key for the rest of the level once you collect it
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   ###############
   # Level Gates #
@@ -431,7 +431,11 @@ Sonic Heroes:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [
+    Final Fortress Rose Act 1 Bonus Key 1,
+    Final Fortress Rose Act 1 Bonus Key 2,
+    Final Fortress Rose Act 1 Bonus Key 3
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -440,5 +444,6 @@ Sonic Heroes:
   plando_items:
     # Generic items plando.
     []
+
 
 
