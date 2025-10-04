@@ -702,7 +702,7 @@ A Hat in Time:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {}
+    {Relic (Blue Crayon)}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -718,7 +718,7 @@ A Hat in Time:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    [Ice Hat Cage]
+    [Ice Hat Cage, Mafia Town - Blue Vault]
 
   item_links:
     # Share part of your item pool with other players.
@@ -727,5 +727,6 @@ A Hat in Time:
   plando_items:
     # Generic items plando.
     []
+
 
 
