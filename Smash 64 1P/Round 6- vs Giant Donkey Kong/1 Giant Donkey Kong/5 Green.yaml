@@ -76,7 +76,9 @@ Yooka-Laylee:
 
   start_inventory:
     # Start with these items.
-    {}
+    {
+    
+    }
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -84,7 +86,7 @@ Yooka-Laylee:
 
   start_location_hints:
     # Start with these locations and their item prefilled into the ``!hint`` command.
-    []
+    [Slurp State]
 
   exclude_locations:
     # Prevent these locations from having an important item.
@@ -92,7 +94,7 @@ Yooka-Laylee:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Traverse through Gloomy Gem Grotto]
 
   item_links:
     # Share part of your item pool with other players.
@@ -101,5 +103,6 @@ Yooka-Laylee:
   plando_items:
     # Generic items plando.
     []
+
 
 
