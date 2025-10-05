@@ -199,7 +199,7 @@ Diddy Kong Racing:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Fire Mountain Key}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -215,7 +215,10 @@ Diddy Kong Racing:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [
+    DD: Fire Mountain Key,
+    DD: Fire Mountain
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -224,5 +227,6 @@ Diddy Kong Racing:
   plando_items:
     # Generic items plando.
     []
+
 
 
