@@ -473,7 +473,7 @@ Pokemon Mystery Dungeon Explorers of Sky:
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
-    []
+    [Amp Plains]
 
   start_location_hints:
     # Start with these locations and their item prefilled into the ``!hint`` command.
@@ -494,6 +494,7 @@ Pokemon Mystery Dungeon Explorers of Sky:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
