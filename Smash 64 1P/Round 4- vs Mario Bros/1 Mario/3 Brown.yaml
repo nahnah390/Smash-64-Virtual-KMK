@@ -67,8 +67,8 @@ Super Mario Sunshine:
     # If on "vanilla", the main levels are accessed in the way they are in the base game (e.g. Ricco Harbor is accessible after collecting 3 Shine Sprites).
     # If on "tickets", each level has a ticket item that must be acquired to access the level.
     # To reduce generation failures in testing, you'll automatically receive one free ticket at the start.
-    vanilla: 50
-    tickets: 0
+    vanilla: 0
+    tickets: 50
 
   enable_coin_shines:
     # Turn off to ignore the 100 coin Shine Sprites, which removes 8 Shine Sprites from the pool.
@@ -148,7 +148,7 @@ Super Mario Sunshine:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Bianco Hills Ticket}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -177,6 +177,7 @@ Super Mario Sunshine:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
