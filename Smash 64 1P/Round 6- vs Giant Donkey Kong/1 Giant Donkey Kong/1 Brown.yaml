@@ -174,11 +174,11 @@ Donkey Kong Country 3:
 
   kong_palette_swap:
     # Which Palette to use for the Kongs
-    default: 50
+    default: 0
     purple: 0
     spooky: 0
     dark: 0
-    chocolate: 0
+    chocolate: 50
     shadow: 0
     red_gold: 0
     gbc: 0
@@ -208,7 +208,7 @@ Donkey Kong Country 3:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Progressive Boat Upgrade}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -216,7 +216,7 @@ Donkey Kong Country 3:
 
   start_location_hints:
     # Start with these locations and their item prefilled into the ``!hint`` command.
-    []
+    [Fire-Ball Frenzy - Flag]
 
   exclude_locations:
     # Prevent these locations from having an important item.
@@ -224,7 +224,7 @@ Donkey Kong Country 3:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [KAOS Karnage]
 
   item_links:
     # Share part of your item pool with other players.
@@ -233,6 +233,7 @@ Donkey Kong Country 3:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
