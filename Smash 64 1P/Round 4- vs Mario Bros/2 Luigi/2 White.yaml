@@ -250,7 +250,7 @@ Mario Kart Double Dash:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Win With Luigi Driving Green Fire]
 
   item_links:
     # Share part of your item pool with other players.
@@ -259,6 +259,7 @@ Mario Kart Double Dash:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
