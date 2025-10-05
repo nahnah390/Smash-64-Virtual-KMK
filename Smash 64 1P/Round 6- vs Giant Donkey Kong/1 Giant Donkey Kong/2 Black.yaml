@@ -441,13 +441,13 @@ Ape Escape 3:
   starting_morph:
     # Choose a Morph to Start the game with.
     # Default: None (Vanilla)
-    none: 50
+    none: 0
     fantasy_knight: 0
     wild_west_kid: 0
     miracle_ninja: 0
     genie_dancer: 0
     dragon_kung_fu_fighter: 0
-    cyber_ace: 0
+    cyber_ace: 50
     super_monkey: 0
 
   base_morph_duration:
@@ -540,7 +540,7 @@ Ape Escape 3:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Dr. Tomoki]
 
   item_links:
     # Share part of your item pool with other players.
@@ -549,4 +549,5 @@ Ape Escape 3:
   plando_items:
     # Generic items plando.
     []
+
 
