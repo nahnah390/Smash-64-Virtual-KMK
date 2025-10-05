@@ -138,7 +138,7 @@ Pokemon Black and White:
     # - **Any badge** - Puts the badges into the item pool, while only allowing items that have the word "badge" in their name (which also applies to gym badges of other games/worlds) being placed at gym leaders.
     # - **Anything** - Gym badges can be anywhere and gym leaders can give any item.
     vanilla: 0
-    shuffle: 50
+    shuffle: 0
     any_badge: 0
     anything: 50
 
@@ -276,5 +276,6 @@ Pokemon Black and White:
   plando_items:
     # Generic items plando.
     []
+
 
 
