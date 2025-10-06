@@ -79,10 +79,10 @@ EarthBound:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 8
-    4: 50
+    4: 0
     random: 0
     random-low: 0
-    random-high: 0
+    random-high: 50
 
   alternate_sanctuary_goal:
     # If enabled, you will be able to win by completing 2 more Sanctuaries than are required.
@@ -95,8 +95,8 @@ EarthBound:
   #################
   local_teleports:
     # Forces all teleports and Poo PSI to be placed locally in your world.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   character_shuffle:
     # Shuffled: Characters will be shuffled amongst Character Locations. Extra locations will have Flying Man, a Teddy Bear, or a Super Plush Bear.
@@ -107,13 +107,13 @@ EarthBound:
 
   progressive_weapons:
     # If enabled, Bats, Fry Pans, and Guns will be progressive. Does not apply to items dropped by enemies or found in shops.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   progressive_armor:
     # If enabled, Bracelets and items for the Other slot besides Ribbons will be progressive. Does not apply to items dropped by enemies or found in shops.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   randomize_franklinbadge_protection:
     # If enabled, the Franklin Badge will reflect a randomly selected attack type. The type can be determined from the item's name, as well as the help
@@ -239,8 +239,8 @@ EarthBound:
     # Alternate Goal: You will unlock the Magicant Teleport upon reaching one more Sanctuary than required. Beating Ness's Nightmare will finish your game. Does nothing if Giygas is not required, or if 8 Sanctuaries are required. Magicant locations are removed from the multiworld, but contain random junk for yourself.
     # Optional Boost: You will be able to find a Magicant teleport item. Beating Ness's Nightmare will grant a party-wide stat boost. Magicant locations are removed from the multiworld, but contain random junk for yourself.
     # Removed: Magicant will be completely inacessible.
-    psi_location: 50
-    required: 0
+    psi_location: 0
+    required: 50
     alternate_goal: 0
     optional_boost: 0
     removed: 0
@@ -250,8 +250,8 @@ EarthBound:
     # Hunt: Items required to finish the Monkey Caves will need to be found outside. They can be obtained from the Dusty Dunes drugstore, the Fourside department store, and the pizza shop in either Twoson or Threed.
     # Shop: The monkey outside the Monkey Caves will sell you every minor item needed to complete the caves for 500$.
     # Solved: The Monkey Caves monkeys will already be moved out of the way and not require any items.
-    chests: 0
-    hunt: 50
+    chests: 50
+    hunt: 0
     shop: 0
     solved: 0
 
@@ -581,6 +581,7 @@ EarthBound:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
