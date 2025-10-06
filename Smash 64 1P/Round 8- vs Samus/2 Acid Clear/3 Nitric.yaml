@@ -664,7 +664,7 @@ Stardew Valley:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Deluxe Fertilizer Recipe}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -689,4 +689,5 @@ Stardew Valley:
   plando_items:
     # Generic items plando.
     []
+
 
