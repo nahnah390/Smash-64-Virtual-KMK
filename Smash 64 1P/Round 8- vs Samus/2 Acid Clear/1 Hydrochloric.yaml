@@ -67,8 +67,8 @@ DOOM 1993:
     # Choose the main goal.
     # complete_all_levels: All levels of the selected episodes
     # complete_boss_levels: Boss levels (E#M8) of selected episodes
-    complete_all_levels: 50
-    complete_boss_levels: 0
+    complete_all_levels: 0
+    complete_boss_levels: 50
 
   difficulty:
     # Choose the game difficulty. These options match DOOM's skill levels.
@@ -148,8 +148,8 @@ DOOM 1993:
   reset_level_on_death:
     # When dying, levels are reset and monsters respawned. But inventory and checks are kept.
     # Turning this setting off is considered easy mode. Good for new players that don't know the levels well.
-    'false': 0
-    'true': 50
+    'false': 50
+    'true': 0
 
   episode1:
     # Knee-Deep in the Dead.
@@ -299,7 +299,7 @@ DOOM 1993:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {}
+    {Plasma gun}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -315,7 +315,14 @@ DOOM 1993:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [
+    Containment Area (E2M2) - Plasma gun,
+    Refinery (E2M3) - Plasma gun,
+    Deimos Lab (E2M4) - Plasma gun,
+    Command Center (E2M5) - Plasma gun,
+    Halls of the Damned (E2M6) - Plasma gun,
+    Spawning Vats (E2M7) - Plasma gun    
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -324,5 +331,6 @@ DOOM 1993:
   plando_items:
     # Generic items plando.
     []
+
 
 
