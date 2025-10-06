@@ -207,7 +207,7 @@ Overcooked! 2:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Yellow Ramp}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -232,4 +232,5 @@ Overcooked! 2:
   plando_items:
     # Generic items plando.
     []
+
 
