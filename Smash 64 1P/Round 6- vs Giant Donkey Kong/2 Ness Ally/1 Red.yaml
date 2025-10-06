@@ -258,8 +258,8 @@ EarthBound:
   no_free_sanctuaries:
     # If enabled, the entrance to Lilliput Steps and Fire Spring will be locked and require extra key items to access.
     # These items are the Tiny Key and Tenda Lavapants, respectively.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   starting_character:
     # Sets which character you start as. Each character will always start with the ability to teleport,
@@ -553,7 +553,7 @@ EarthBound:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {}
+    {Tenda Lavapants}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -569,7 +569,10 @@ EarthBound:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [
+    Fire Spring - Volcano Present,
+    Fire Spring - Upper Volcano Present
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -578,5 +581,6 @@ EarthBound:
   plando_items:
     # Generic items plando.
     []
+
 
 
