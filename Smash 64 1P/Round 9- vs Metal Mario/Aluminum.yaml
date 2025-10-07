@@ -433,7 +433,8 @@ Satisfactory:
   priority_locations:
     # Prevent these locations from having an unimportant item.
     [
-    
+    Hub 7-1, item 1
+    Hub 7-2, item 1
     ]
 
   item_links:
@@ -443,6 +444,7 @@ Satisfactory:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
