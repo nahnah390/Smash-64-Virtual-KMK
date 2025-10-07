@@ -223,7 +223,16 @@ Overcooked! 2:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [
+    1-5 Level Completed,
+    1-6 Level Completed,
+    3-1 Level Completed,
+    3-3 Level Completed,
+    4-2 Level Completed,
+    5-5 Level Completed,
+    5-6 Level Completed,
+    6-4 Level Completed    
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -232,5 +241,6 @@ Overcooked! 2:
   plando_items:
     # Generic items plando.
     []
+
 
 
