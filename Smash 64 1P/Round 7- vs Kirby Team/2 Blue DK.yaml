@@ -49,7 +49,7 @@ Banjo-Tooie:
     random: 0
     random-low: 0
     random-high: 0
-    75: 50
+    25: 50
     disabled: 0 # equivalent to 0
     normal: 0 # equivalent to 50
     extreme: 0 # equivalent to 99
@@ -265,8 +265,8 @@ Banjo-Tooie:
   #############
   randomize_notes:
     # Note Nests are randomized.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 60
 
   randomize_treble:
     # Treble Clefs are randomized.
@@ -304,8 +304,8 @@ Banjo-Tooie:
 
   randomize_doubloons:
     # Jolly Roger's Doubloons are randomized.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   randomize_cheato:
     # Cheato pages are randomized.
@@ -350,8 +350,8 @@ Banjo-Tooie:
 
   randomize_stop_n_swap:
     # Mystery Eggs, their rewards, and the Ice Key are scattered across the MultiWorld.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   randomize_dino_roar:
     # Baby T-Rex's Roar is lost across the MultiWorld. Other players need to help him learn to ROAR!
@@ -384,13 +384,13 @@ Banjo-Tooie:
 
   randomize_warp_pads:
     # Warp Pads give checks when tagging them. They can only be used once you receive the corresponding item to use a warp pad.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   randomize_silos:
     # Overworld silos give checks when tagging them. They can only be used once you receive the corresponding item to use a silo.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   open_silos:
     # Choose how many overworld silos are pre-opened.
@@ -448,8 +448,8 @@ Banjo-Tooie:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 61
-    0: 50
-    random: 0
+    0: 0
+    random: 50
     random-low: 0
     random-high: 0
 
@@ -461,8 +461,8 @@ Banjo-Tooie:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 61
-    20: 50
-    random: 0
+    20: 0
+    random: 50
     random-low: 0
     random-high: 0
 
@@ -824,7 +824,7 @@ Banjo-Tooie:
     dino_scrit_big: 0
     heggy: 0
     default_icons: 50
-    complete_random: 0
+    complete_random: 50
 
   ###########################
   # Item & Location Options #
@@ -845,7 +845,7 @@ Banjo-Tooie:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {}
+    {Pack Whack}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -861,7 +861,7 @@ Banjo-Tooie:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [WW: Pack Whack Silo]
 
   item_links:
     # Share part of your item pool with other players.
@@ -870,5 +870,6 @@ Banjo-Tooie:
   plando_items:
     # Generic items plando.
     []
+
 
 
