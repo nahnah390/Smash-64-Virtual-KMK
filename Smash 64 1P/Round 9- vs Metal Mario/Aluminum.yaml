@@ -115,9 +115,9 @@ Satisfactory:
     random-low: 0
     random-high: 0
     phase 1 (tiers 1-2): 0 # equivalent to 1
-    phase 2 (tiers 1-4): 50 # equivalent to 2
+    phase 2 (tiers 1-4): 0 # equivalent to 2
     phase 3 (tiers 1-6): 0 # equivalent to 3
-    phase 4 (tiers 1-8): 0 # equivalent to 4
+    phase 4 (tiers 1-8): 50 # equivalent to 4
     phase 5 (tiers 1-9): 0 # equivalent to 5
 
   hard_drive_progression_limit:
@@ -276,20 +276,20 @@ Satisfactory:
     # Earlier means it will be more likely that you will need to interact with it for progression purposes.
     unlocked_from_start: 0
     early_game: 50
-    somewhere: 0
+    somewhere: 50
 
   awesome_logic_placement:
     # Where to place the AWESOME Shop and Sink buildings in logic.
     # Earlier means it will be more likely that you will need to interact with it for progression purposes.
     unlocked_from_start: 0
     early_game: 50
-    somewhere: 0
+    somewhere: 50
 
   splitter_placement:
     # Where to place the Conveyor Splitter and Merger buildings in logic.
     # Earlier means it will be more likely that you will need to interact with it for progression purposes.
     unlocked_from_start: 50
-    early_game: 0
+    early_game: 50
     somewhere: 0
 
   energy_link_logic_placement:
@@ -297,7 +297,7 @@ Satisfactory:
     # Earlier means it will be more likely that you will need to interact with it for progression purposes.
     unlocked_from_start: 0
     early_game: 50
-    somewhere: 0
+    somewhere: 50
 
   ################
   # Free Samples #
@@ -415,7 +415,7 @@ Satisfactory:
     # 
     # The game decides what the replacement items will be.
     {
-    Recipe: Ficsite Ingot (Iron)
+    Recipe: Aluminum Ingot
     }
 
   start_hints:
@@ -432,7 +432,9 @@ Satisfactory:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [
+    
+    ]
 
   item_links:
     # Share part of your item pool with other players.
@@ -441,6 +443,7 @@ Satisfactory:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
