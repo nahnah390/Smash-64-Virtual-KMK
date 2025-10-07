@@ -71,8 +71,8 @@ Monster Sanctuary:
     # By Specie: Monsters of the same specie are all randomized to another monster specie
     # By Encounter: Within an encounter, all monsters of the same specie are randomized to another specie. Each encounter is randomized separately
     'off': 0
-    any: 50
-    by_specie: 0
+    any: 0
+    by_specie: 50
     by_encounter: 0
 
   monster_shift_rule:
@@ -560,7 +560,7 @@ Monster Sanctuary:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Spectral Lion Egg}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -576,7 +576,7 @@ Monster Sanctuary:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Eternity's End - Spectral Lion]
 
   item_links:
     # Share part of your item pool with other players.
@@ -585,6 +585,7 @@ Monster Sanctuary:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
