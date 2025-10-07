@@ -226,7 +226,7 @@ Wario Land:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {}
+    {Progressive Powerup}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -242,7 +242,7 @@ Wario Land:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Parsley Woods 31 - Treasure L]
 
   item_links:
     # Share part of your item pool with other players.
@@ -251,5 +251,6 @@ Wario Land:
   plando_items:
     # Generic items plando.
     []
+
 
 
