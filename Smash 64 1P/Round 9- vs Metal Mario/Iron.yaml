@@ -101,11 +101,11 @@ Factorio:
   free_samples_quality:
     # If free samples are on, determine the quality of the granted items.
     # Requires the quality mod, which is part of the Space Age DLC. Without it, normal quality is given.
-    normal: 50
+    normal: 0
     uncommon: 0
     rare: 0
     epic: 0
-    legendary: 0
+    legendary: 50
 
   starting_items:
     # Mapping of Factorio internal item-name to amount granted on start.
@@ -508,6 +508,7 @@ Factorio:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
