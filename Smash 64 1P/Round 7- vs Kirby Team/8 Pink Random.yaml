@@ -82,7 +82,7 @@ Kirby 64 - The Crystal Shards:
     # Normal: the goal is unlocked after defeating the 6 bosses
     # Fast: the goal is unlocked after acquiring the target number of Crystal Shards
     normal: 50
-    fast: 0
+    fast: 50
 
   split_power_combos:
     # If enabled, Power Combos are added to the pool as separate items, and must be unlocked separate from
@@ -94,14 +94,14 @@ Kirby 64 - The Crystal Shards:
     # None: No stage shuffling.
     # Same World: shuffles stages around their world.
     # Shuffled: shuffles stages across all worlds.
-    none: 50
+    none: 0
     same_world: 0
-    shuffled: 0
+    shuffled: 50
 
   boss_requirement_random:
     # If enabled, unlocking a boss will require a random amount of Crystal Shards, up to a certain amount per level.
     'false': 50
-    'true': 0
+    'true': 50
 
   total_crystals:
     # Maximum number of crystal shards to include in the pool of items.
@@ -109,8 +109,8 @@ Kirby 64 - The Crystal Shards:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 5
     # Maximum value is 72
-    30: 50
-    random: 0
+    30: 0
+    random: 50
     random-low: 0
     random-high: 0
 
@@ -120,8 +120,8 @@ Kirby 64 - The Crystal Shards:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 100
-    50: 50
-    random: 0
+    50: 0
+    random: 50
     random-low: 0
     random-high: 0
 
@@ -131,69 +131,69 @@ Kirby 64 - The Crystal Shards:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    50: 50
-    random: 0
+    50: 0
+    random: 50
     random-low: 0
     random-high: 0
 
   kirby_flavor_preset:
     # The color of Kirby, from a list of presets.
     default: 50
-    bubblegum: 0
-    cherry: 0
-    blueberry: 0
-    lemon: 0
-    kiwi: 0
-    grape: 0
-    chocolate: 0
-    marshmallow: 0
-    licorice: 0
-    watermelon: 0
-    orange: 0
-    lime: 0
-    kusamochi: 0
-    citrus: 0
-    wafer: 0
-    ice: 0
-    cream: 0
-    snowcone: 0
-    cotton_candy: 0
-    chocomint: 0
-    cheeseburger: 0
-    rose: 0
-    daisy: 0
-    lavender: 0
-    lilac: 0
-    blue_poppy: 0
-    fuschia: 0
-    canary: 0
-    carbon: 0
-    snow: 0
-    ivory: 0
-    chalk: 0
-    sapphire: 0
-    emerald: 0
-    gameboy: 0
-    nostalgic: 0
-    halloween: 0
-    bright: 0
-    ocean: 0
-    miku: 0
-    rin: 0
-    len: 0
-    luka: 0
-    meiko: 0
-    kaito: 0
-    mirror: 0
-    dedede: 0
-    waddle_dee: 0
-    susie: 0
-    mogeko: 0
-    link: 0
-    callie: 0
-    marie: 0
-    pearl: 0
-    marina: 0
+    bubblegum: 50
+    cherry: 50
+    blueberry: 50
+    lemon: 50
+    kiwi: 50
+    grape: 50
+    chocolate: 50
+    marshmallow: 50
+    licorice: 50
+    watermelon: 50
+    orange: 50
+    lime: 50
+    kusamochi: 50
+    citrus: 50
+    wafer: 50
+    ice: 50
+    cream: 50
+    snowcone: 50
+    cotton_candy: 50
+    chocomint: 50
+    cheeseburger: 50
+    rose: 50
+    daisy: 50
+    lavender: 50
+    lilac: 50
+    blue_poppy: 50
+    fuschia: 50
+    canary: 50
+    carbon: 50
+    snow: 50
+    ivory: 50
+    chalk: 50
+    sapphire: 50
+    emerald: 50
+    gameboy: 50
+    nostalgic: 50
+    halloween: 50
+    bright: 50
+    ocean: 50
+    miku: 50
+    rin: 50
+    len: 50
+    luka: 50
+    meiko: 50
+    kaito: 50
+    mirror: 50
+    dedede: 50
+    waddle_dee: 50
+    susie: 50
+    mogeko: 50
+    link: 50
+    callie: 50
+    marie: 50
+    pearl: 50
+    marina: 50
     custom: 0
 
   kirby_flavor:
@@ -230,7 +230,7 @@ Kirby 64 - The Crystal Shards:
 
   start_inventory:
     # Start with these items.
-    {}
+    {Bomb}
 
   start_inventory_from_pool:
     # Start with these items and don't place them in the world.
@@ -244,7 +244,7 @@ Kirby 64 - The Crystal Shards:
 
   start_location_hints:
     # Start with these locations and their item prefilled into the ``!hint`` command.
-    []
+    [Ripple Star 1 - Shard 1]
 
   exclude_locations:
     # Prevent these locations from having an important item.
@@ -252,7 +252,7 @@ Kirby 64 - The Crystal Shards:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Ripple Star 1 - Shard 1]
 
   item_links:
     # Share part of your item pool with other players.
@@ -261,5 +261,6 @@ Kirby 64 - The Crystal Shards:
   plando_items:
     # Generic items plando.
     []
+
 
 
