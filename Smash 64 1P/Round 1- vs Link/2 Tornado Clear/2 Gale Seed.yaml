@@ -174,10 +174,9 @@ The Legend of Zelda - Oracle of Seasons:
   local_items: []
   non_local_items: []
   start_inventory:
-    Gale Seed: 10
-  start_inventory_from_pool:
-    Seed Satchel: 1
-    Slingshot: 1
+    Gale Seeds: 10
+  start_inventory_from_pool:    
+    Progressive Slingshot: 1
   start_hints: []
   start_location_hints: []
   exclude_locations: []
