@@ -6,7 +6,7 @@ requires:
   version: 0.6.3
 Pokemon FireRed and LeafGreen:
   progression_balancing:
-    '25': 50
+    "25": 50
     random: 0
     random-low: 0
     random-high: 0
@@ -24,14 +24,14 @@ Pokemon FireRed and LeafGreen:
     champion: 50
     champion_rematch: 0
   skip_elite_four:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   kanto_only:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   random_starting_town:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   starting_town_blacklist: []
   dungeon_entrance_shuffle:
     off: 50
@@ -39,37 +39,34 @@ Pokemon FireRed and LeafGreen:
     restricted: 0
     full: 0
   randomize_fly_destinations:
-    'false': 50
-    'true': 0
+    off: 50
+    area: 0
+    map: 0
+    region: 0
+    completely_random: 0
   fly_destination_plando: {}
   shuffle_badges:
-    'false': 0
-    'true': 50
+    "false": 0
+    "true": 50
   shuffle_hidden:
     off: 50
     nonrecurring: 0
     all: 0
   extra_key_items:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   shopsanity:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   shop_prices:
-    spheres: 0
-    classification: 0
-    spheres_and_classification: 50
-    completely_random: 0
-  minimum_shop_price:
-    '100': 50
-    random: 0
-    random-low: 0
-    random-high: 0
-  maximum_shop_price:
-    '3000': 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    vanilla: 50
+    cheap: 0
+    affordable: 0
+    standard: 0
+    expensive: 0
+  consistent_shop_prices:
+    "false": 50
+    "true": 0
   trainersanity:
     random: 0
     random-low: 0
@@ -83,25 +80,35 @@ Pokemon FireRed and LeafGreen:
     none: 50
     all: 0
   famesanity:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   shuffle_fly_unlocks:
     off: 50
     exclude_indigo: 0
     all: 0
   pokemon_request_locations:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
+  shuffle_pokedex:
+    vanilla: 0
+    shuffle: 0
+    start_with: 50
   shuffle_running_shoes:
     vanilla: 0
     shuffle: 0
     start_with: 50
   shuffle_berry_pouch:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   shuffle_tm_case:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
+  shuffle_ledge_jump:
+    "false": 50
+    "true": 0
+  post_goal_locations:
+    "false": 50
+    "true": 0
   card_key:
     vanilla: 50
     split: 0
@@ -111,12 +118,15 @@ Pokemon FireRed and LeafGreen:
     progressive: 50
     split: 0
     progressive_split: 0
+  fishing_rods:
+    vanilla: 50
+    progressive: 0
   split_teas:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   gym_keys:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   itemfinder_required:
     off: 0
     logic: 50
@@ -126,8 +136,14 @@ Pokemon FireRed and LeafGreen:
     logic: 50
     required: 0
   fame_checker_required:
-    'false': 0
-    'true': 50
+    "false": 0
+    "true": 50
+  bicycle_requires_ledge_jump:
+    "false": 0
+    "true": 50
+  acrobatic_bicycle:
+    "false": 50
+    "true": 0
   evolutions_required:
     - HM Requirement
     - Oak's Aides
@@ -153,27 +169,32 @@ Pokemon FireRed and LeafGreen:
   additional_dark_caves: []
   remove_badge_requirement: []
   oaks_aide_route_2:
-    '5': 50
+    "5": 50
     random: 0
     random-low: 0
     random-high: 0
   oaks_aide_route_10:
-    '10': 50
+    "10": 50
     random: 0
     random-low: 0
     random-high: 0
   oaks_aide_route_11:
-    '15': 50
+    "15": 50
     random: 0
     random-low: 0
     random-high: 0
   oaks_aide_route_16:
-    '20': 50
+    "20": 50
     random: 0
     random-low: 0
     random-high: 0
   oaks_aide_route_15:
-    '25': 50
+    "25": 50
+    random: 0
+    random-low: 0
+    random-high: 0
+  fossil_count:
+    "3": 50
     random: 0
     random-low: 0
     random-high: 0
@@ -181,7 +202,7 @@ Pokemon FireRed and LeafGreen:
     badges: 50
     gyms: 0
   viridian_gym_count:
-    '7': 50
+    "7": 50
     random: 0
     random-low: 0
     random-high: 0
@@ -189,7 +210,7 @@ Pokemon FireRed and LeafGreen:
     badges: 50
     gyms: 0
   route22_gate_count:
-    '7': 50
+    "7": 50
     random: 0
     random-low: 0
     random-high: 0
@@ -197,7 +218,7 @@ Pokemon FireRed and LeafGreen:
     badges: 50
     gyms: 0
   route23_guard_count:
-    '7': 50
+    "7": 50
     random: 0
     random-low: 0
     random-high: 0
@@ -205,12 +226,12 @@ Pokemon FireRed and LeafGreen:
     badges: 50
     gyms: 0
   elite_four_count:
-    '8': 50
+    "8": 50
     random: 0
     random-low: 0
     random-high: 0
   elite_four_rematch_count:
-    '8': 50
+    "8": 50
     random: 0
     random-low: 0
     random-high: 0
@@ -221,16 +242,16 @@ Pokemon FireRed and LeafGreen:
     badges: 0
     gyms: 0
   cerulean_cave_count:
-    '8': 50
+    "8": 50
     random: 0
     random-low: 0
     random-high: 0
   level_scaling:
     off: 50
-    spheres: 50
+    spheres: 0
     spheres_and_distance: 0
   modify_trainer_levels:
-    '100': 50
+    "100": 50
     random: 0
     random-low: 0
     random-high: 0
@@ -295,19 +316,24 @@ Pokemon FireRed and LeafGreen:
     randomized: 0
     start_with_four_moves: 0
   move_match_type_bias:
-    '0': 50
+    "0": 50
     random: 0
     random-low: 0
     random-high: 0
   move_normal_type_bias:
-    '0': 50
+    "0": 50
     random: 0
     random-low: 0
     random-high: 0
   move_blacklist: []
+  base_stats:
+    vanilla: 50
+    shuffle: 0
+    keep_bst: 0
+    completely_random: 0
   physical_special_split:
-    'false': 0
-    'true': 50
+    "false": 50
+    "true": 0
   move_types:
     vanilla: 50
     shuffle: 0
@@ -327,55 +353,55 @@ Pokemon FireRed and LeafGreen:
     random: 50
     random-low: 0
     random-high: 0
-    vanilla: 50
+    vanilla: 0
     none: 0
     full: 0
   tm_tutor_moves:
-    'false': 0
-    'true': 50
+    "false": 0
+    "true": 50
   tm_tutor_moves_blacklist: []
   reusable_tm_tutors:
-    'false': 0
-    'true': 50
+    "false": 0
+    "true": 50
   min_catch_rate:
-    '3': 50
+    "3": 50
     random: 0
     random-low: 0
     random-high: 0
   all_pokemon_seen:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   exp_modifier:
-    '100': 50
-    '200': 50
+    "100": 50
+    "200": 50
     random: 0
     random-low: 0
     random-high: 0
   starting_money:
-    '3000': 50
+    "3000": 50
     random: 0
     random-low: 0
     random-high: 0
   better_shops:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   free_fly_location:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   free_fly_blacklist: []
   town_map_fly_location:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   town_map_fly_blacklist: []
   remote_items:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   randomize_music:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   randomize_fanfares:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   game_options:
     Auto Run: Off
     Battle Scene: On
@@ -401,8 +427,8 @@ Pokemon FireRed and LeafGreen:
     progression_and_useful: 50
     all: 0
   death_link:
-    'false': 50
-    'true': 0
+    "false": 50
+    "true": 0
   local_items: []
   non_local_items: []
   start_inventory:
@@ -414,4 +440,3 @@ Pokemon FireRed and LeafGreen:
     - Vermilion Gym - Prize
   item_links: []
   plando_items: []
-
