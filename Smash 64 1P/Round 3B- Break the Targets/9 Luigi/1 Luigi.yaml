@@ -98,12 +98,12 @@ Luigi's Mansion:
     # "Basement, 1st Floor, 2nd FLoor, Attic, and Roof can be used to turn on all furniture pieces on that level.
     # 
     # "Full" turns on all furniture locations and will override any other specified groups
-    []
+    [Treasures, Drawers, Storage, Decor, Plants]
 
   toadsanity:
     # Add Toads as locations to be checked.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   gold_mice:
     # Adds Gold Mice as locations to be checked.
@@ -119,8 +119,8 @@ Luigi's Mansion:
 
   portrification:
     # Turn Portrait Ghosts into checks in addition to their clear chests.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   speedy_spirits:
     # Adds Blue Ghosts to location pool. These have moved to be only available during blackout so they cannot be missed
@@ -129,13 +129,13 @@ Luigi's Mansion:
 
   lightsanity:
     # Adds the act of lighting up rooms as locations.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   walksanity:
     # Adds the act of visiting rooms as locations.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   ##################
   # Access Options #
@@ -195,7 +195,7 @@ Luigi's Mansion:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 36
-    20: 50
+    15: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -206,7 +206,7 @@ Luigi's Mansion:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 50
-    40: 50
+    35: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -243,13 +243,13 @@ Luigi's Mansion:
 
   random_spawn:
     # Allows Luigi to randomly spawn somewhere in the mansion.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   early_first_key:
     # If enabled, this will attempt to find a key that lets you out of your starting room and place it early in your own world.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   ###############
   # QOL Changes #
@@ -273,7 +273,7 @@ Luigi's Mansion:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    0: 50
+    5: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -287,8 +287,8 @@ Luigi's Mansion:
   enable_pickup_animation:
     # Turn on Luigi's pickup animations.
     # Set this to false if you want to turn these animations off.
-    'false': 0
-    'true': 50
+    'false': 50
+    'true': 0
 
   walk_speed:
     # Choose how fast Luigi moves. Speeds above normal may cause OoB issues
@@ -390,7 +390,7 @@ Luigi's Mansion:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 999
-    30: 50
+    50: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -421,8 +421,8 @@ Luigi's Mansion:
 
   boo_anger:
     # Choose whether boos can damage Luigi.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   extra_boo_spots:
     # Adds extra spots for boos to hide in when furniture locations have been added to the pool
@@ -438,7 +438,7 @@ Luigi's Mansion:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    10: 50
+    20: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -471,7 +471,7 @@ Luigi's Mansion:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    10: 50
+    15: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -537,7 +537,7 @@ Luigi's Mansion:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    5: 50
+    10: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -581,7 +581,7 @@ Luigi's Mansion:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    25: 50
+    30: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -640,8 +640,8 @@ Luigi's Mansion:
 
   door_model_rando:
     # Randomly choose models for every door in the mansion.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   chest_types:
     # Determines how chest colors and size are chosen,
@@ -679,8 +679,8 @@ Luigi's Mansion:
   call_mario:
     # Let everyone know you're looking for Mario in the client!
     # (CAUTION: THIS CAN EASILY SPAM THE CLIENT WITH MESSAGES)
-    'false': 50
-    'true': 0
+    'false': 5
+    'true': 50
 
   ###########################
   # Item & Location Options #
@@ -717,7 +717,16 @@ Luigi's Mansion:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Courtyard Birdhouse, 
+    Twins' Room Clear Chest, 
+    Projection Room Clear Chest, 
+    Laundry Room Washing Machine, 
+    Observatory Shoot the Moon,
+    Foyer Toad, 
+    Courtyard Toad, 
+    1F Washroom Toad, 
+    Wardrobe Balcony Toad, 
+    Storage Room Cage Button]
 
   item_links:
     # Share part of your item pool with other players.
