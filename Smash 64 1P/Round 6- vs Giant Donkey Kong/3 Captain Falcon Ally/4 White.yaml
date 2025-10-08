@@ -80,8 +80,8 @@ Kirby Air Ride:
   ################
   traps_enabled:
     # This controls whether trap items will be placed into the item pool. These will only replace filler items.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   trap_chance:
     # Percentage chance for filler items to be replaced with traps. Only has an effect if traps are enabled.
@@ -102,8 +102,8 @@ Kirby Air Ride:
   checkbox_reward_items:
     # This controls whether the in-game default checkbox rewards will be placed as locked items for their checkbox location.
     # Currently, only your game will be able to collect these. This applies to all game modes.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   ######################
   # City Trial Options #
@@ -113,8 +113,8 @@ Kirby Air Ride:
     # You can have a goal for each game mode if you wish.
     # If you have goals on multiple game modes, all goals will need to be achieved in order to complete your game.
     # Select "None" if you wish to disable City Trial in your game.
-    100_checklist_blocks: 50
-    n_checklist_blocks: 0
+    100_checklist_blocks: 0
+    n_checklist_blocks: 50
     hydra_and_dragoon: 0
     beat_king_dedede: 0
     none: 0
@@ -125,7 +125,7 @@ Kirby Air Ride:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 120
-    60: 50
+    40: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -165,8 +165,8 @@ Kirby Air Ride:
     # If you have goals on multiple game modes, all goals will need to be achieved in order to complete your game.
     # Select "None" if you wish to disable Air Ride in your game.
     100_checklist_blocks: 0
-    n_checklist_blocks: 0
-    none: 50
+    n_checklist_blocks: 50
+    none: 0
 
   air_ride_checklist_amount:
     # This sets the number of checklist boxes for the 'Fill in N Checklist blocks!' goal for Air Ride.
@@ -203,8 +203,8 @@ Kirby Air Ride:
     # If you have goals on multiple game modes, all goals will need to be achieved in order to complete your game.
     # Select "None" if you wish to disable Top Ride in your game.
     100_checklist_blocks: 0
-    n_checklist_blocks: 0
-    none: 50
+    n_checklist_blocks: 50
+    none: 0
 
   top_ride_checklist_amount:
     # This sets the number of checklist boxes for the 'Fill in N Checklist blocks!' goal for Top Ride.
@@ -212,7 +212,7 @@ Kirby Air Ride:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 120
-    60: 50
+    20: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -250,7 +250,7 @@ Kirby Air Ride:
 
   start_inventory:
     # Start with these items.
-    {}
+    {White Kirby}
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -266,7 +266,11 @@ Kirby Air Ride:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [
+    City Trial: In one match, complete both Dragoon and Hydra!,
+    Top Ride: METAL Finish 1st 5 seconds faster than #2,
+    Air Ride: CELESTIAL VALLEY Finish 2 laps in under 02:20:00!
+    ]
 
   item_links:
     # Share part of your item pool with other players.
