@@ -99,7 +99,7 @@ Luigi's Mansion:
     # "Basement, 1st Floor, 2nd FLoor, Attic, and Roof can be used to turn on all furniture pieces on that level.
     # 
     # "Full" turns on all furniture locations and will override any other specified groups
-    []
+    [Plants]
 
   toadsanity:
     # Add Toads as locations to be checked.
@@ -731,6 +731,7 @@ Luigi's Mansion:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
