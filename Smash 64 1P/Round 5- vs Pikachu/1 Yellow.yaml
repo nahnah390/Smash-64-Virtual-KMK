@@ -74,8 +74,8 @@ Pokemon Black and White:
     - Prioritize key item locations
     - Require Flash
   reusable_tms:
-    on: 50
-    yes: 0
+    'on': 50
+    'yes': 0
     of_course: 0
     im_not_a_masochist: 0
   local_items: []
