@@ -78,12 +78,13 @@ Ratchet & Clank 2:
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - Feltzin: Defeat Thug Ships
-    - Feltzin: Race Through the Asteroids - Platinum Bolt
-    - Feltzin: Cargo Bay - Nanotech Boost
-    - Hrugis Cloud: Destroy Defenses
-    - Hrugis Cloud: Race Through the Disposal Facility - Platinum Bolt
-    - Gorn: Defeat Thug Fleet
-    - Gorn: Race Through the Docking Bays - Platinum Bolt
+    - "Feltzin: Defeat Thug Ships"
+    - "Feltzin: Race Through the Asteroids - Platinum Bolt"
+    - "Feltzin: Cargo Bay - Nanotech Boost"
+    - "Hrugis Cloud: Destroy Defenses"
+    - "Hrugis Cloud: Race Through the Disposal Facility - Platinum Bolt"
+    - "Gorn: Defeat Thug Fleet"
+    - "Gorn: Race Through the Docking Bays - Platinum Bolt"
   item_links: []
   plando_items: []
+
