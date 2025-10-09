@@ -147,7 +147,8 @@ Yoshi's Island:
     - item:
         Piece of Luigi: 1
       locations:
-        - King Bowser's Castle: Flowers
-        - King Bowser's Castle: Red Coins
+        - "King Bowser's Castle: Flowers"
+        - "King Bowser's Castle: Red Coins"
       from_pool: true
       percentage: 50
+
