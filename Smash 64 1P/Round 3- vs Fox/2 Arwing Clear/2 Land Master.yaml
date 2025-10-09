@@ -324,6 +324,6 @@ Starcraft 2:
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - Breakout: Siege Tank Prison
+    - "Breakout: Siege Tank Prison"
   item_links: []
   plando_items: []
