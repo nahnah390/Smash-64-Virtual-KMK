@@ -95,7 +95,7 @@ Super Mario Land 2:
   exclude_locations: []
   priority_locations:
     - "Tree Zone 2 - Normal Exit"
-    - "Tree Zone 2 - Secret Exit
+    - "Tree Zone 2 - Secret Exit"
     - "Tree Zone Secret Course - Normal Exit"
   item_links: []
   plando_items: []
