@@ -79,13 +79,13 @@ Overcooked! 2:
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - 1-5 Level Completed
-    - 1-6 Level Completed
-    - 3-1 Level Completed
-    - 3-3 Level Completed
-    - 4-2 Level Completed
-    - 5-5 Level Completed
-    - 5-6 Level Completed
-    - 6-4 Level Completed
+    - 1-5 Completed
+    - 1-6 Completed
+    - 3-1 Completed
+    - 3-3 Completed
+    - 4-2 Completed
+    - 5-5 Completed
+    - 5-6 Completed
+    - 6-4 Completed
   item_links: []
   plando_items: []
