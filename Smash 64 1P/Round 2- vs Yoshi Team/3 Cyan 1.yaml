@@ -1,5 +1,5 @@
 ---
-name: Blue 1
+name: Cyan 1
 description: Default Yoshi's Island Template
 game: Yoshi's Island
 requires:
@@ -150,5 +150,6 @@ Yoshi's Island:
         - "King Bowser's Castle: Flowers"
         - "King Bowser's Castle: Red Coins"
       from_pool: true
+
 
 
