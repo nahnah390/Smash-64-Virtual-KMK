@@ -113,30 +113,30 @@ Spyro 3:
 
   enable_25_pct_gem_checks:
     # Adds checks for getting 25% of the gems in a level
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   enable_50_pct_gem_checks:
     # Adds checks for getting 50% of the gems in a level
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   enable_75_pct_gem_checks:
     # Adds checks for getting 75% of the gems in a level
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   enable_gem_checks:
     # Adds checks for getting all gems in a level
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   enable_total_gem_checks:
     # Adds checks for every 500 gems you collect total.
     # NOTE: Gems currently paid to Moneybags do not count towards your total.
     # Logic assumes you pay Moneybags everywhere you can so you cannot be locked out of checks.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   max_total_gem_checks:
     # Sets the highest number of total gems that can be required for Total Gem Count checks.
@@ -181,8 +181,8 @@ Spyro 3:
     # Because atlas warp requires defeating the Sorceress, this is not shuffled.
     # Instead, Sparx's ability to break baskets becomes 2 progressive items.
     # The first allows breaking only wooden baskets; the second allows breaking vases as well.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   moneybags_settings:
     # Determines settings for Moneybags unlocks.
@@ -192,7 +192,7 @@ Spyro 3:
     # Companionsanity - You cannot pay for side characters and must find unlock items to progress.
     # Moneybagssanity - You cannot pay Moneybags at all and must find unlock items to progress.
     vanilla: 50
-    companionsanity: 0
+    companionsanity: 50
     moneybagssanity: 0
 
   enable_world_keys:
@@ -235,7 +235,7 @@ Spyro 3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    0: 50
+    0: 0
     random: 0
     random-low: 50
     random-high: 0
@@ -296,8 +296,8 @@ Spyro 3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 11
-    0: 50
-    random: 0
+    0: 0
+    random: 50
     random-low: 0
     random-high: 0
 
@@ -597,3 +597,4 @@ Spyro 3:
   plando_items:
     # Generic items plando.
     []
+
