@@ -286,7 +286,8 @@ A Hat in Time:
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - "Ice Hat Cage"
+    - "Mafia Town - Ice Hat Cage"
     - "Mafia Town - Blue Vault"
   item_links: []
   plando_items: []
+
