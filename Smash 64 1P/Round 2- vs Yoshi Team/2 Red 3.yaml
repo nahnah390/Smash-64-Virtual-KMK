@@ -161,17 +161,17 @@ Cavern of Dreams:
   local_items: []
   non_local_items: []
   start_inventory:
-    Fire Bomb: 1
+    "Card: Heartburn": 1
   start_hints: []
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - Fire Lobby - Mr. Kerrington's Painting
-    - Fire Lobby Preston
-    - Fire Lobby Hoops
-    - Card: Fire Lobby - Frying Pans
-    - Egg: Fire Drone
-    - Egg: Fire Lobby
-    - Fire Lobby - Shelnert's Fish
+    - "Fire Lobby - Mr. Kerrington's Painting"
+    - "Fire Lobby Preston"
+    - "Fire Lobby Hoops"
+    - "Card: Fire Lobby - Frying Pans"
+    - "Egg: Fire Drone"
+    - "Egg: Fire Lobby - Mr. Kerrington Painting"
+    - "Fire Lobby - Shelnert's Fish"
   item_links: []
   plando_items: []
