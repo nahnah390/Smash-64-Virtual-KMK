@@ -110,8 +110,9 @@ Wario Land 4:
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - Aerodent - 0:15
-    - Aerodent - 0:35
-    - Aerodent - 0:55
+    - "Aerodent - 0:15"
+    - "Aerodent - 0:35"
+    - "Aerodent - 0:55"
   item_links: []
   plando_items: []
+
