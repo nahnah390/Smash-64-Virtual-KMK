@@ -163,13 +163,13 @@ Satisfactory:
   local_items: []
   non_local_items: []
   start_inventory: {}
-  start_inventory_from_pool: "Recipe: Aluminum Ingot"
+  start_inventory_from_pool:
+    "Recipe: Aluminum Ingot": 1
   start_hints: []
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - Hub 7-1
-    - item 1 Hub 7-2
-    - item 1
+    - Hub 7-1, item 1
+    - Hub 7-2, item 1
   item_links: []
   plando_items: []
