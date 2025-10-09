@@ -229,7 +229,7 @@ Monster Sanctuary:
   local_items: []
   non_local_items: []
   start_inventory:
-    Spectral Lion Egg: 2
+    Spectral Lion Egg: 1
   start_hints: []
   start_location_hints: []
   exclude_locations: []
@@ -237,3 +237,4 @@ Monster Sanctuary:
     - Eternity's End - Spectral Lion
   item_links: []
   plando_items: []
+
