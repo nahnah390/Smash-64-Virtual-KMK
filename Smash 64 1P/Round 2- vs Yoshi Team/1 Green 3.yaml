@@ -81,7 +81,7 @@ Super Mario RPG Legend of the Seven Stars:
   FreeShops:
     "false": 50
     "true": 0
-  local_items: []
+  local_items: Star Piece
   non_local_items: []
   start_inventory:
     Mystery Egg: 1
@@ -89,10 +89,9 @@ Super Mario RPG Legend of the Seven Stars:
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - "Key Item - Yo'ster Isle Goal"
-    - "Chest - Yo'ster Isle"
-    - "Chest - Yo'ster Isle"
-    - "Key Item - Yo'ster Isle Goal (Big Boo Flag)"
+    - Key Item - Yo'ster Isle Goal
+    - Chest - Yo'ster Isle
+    - Chest - Yo'ster Isle
+    - Key Item - Yo'ster Isle Goal (Big Boo Flag)
   item_links: []
   plando_items: []
-
