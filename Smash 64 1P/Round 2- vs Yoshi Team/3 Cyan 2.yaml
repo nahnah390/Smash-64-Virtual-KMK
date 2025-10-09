@@ -538,8 +538,7 @@ Paper Mario:
   death_link:
     "false": 50
     "true": 0
-  local_items:
-    - Star
+  local_items: []
   non_local_items: []
   start_inventory: {}
   start_hints: []
