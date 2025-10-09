@@ -135,7 +135,7 @@ Yoshi's Island:
     "false": 50
     "true": 0
   local_items:
-    - Luigi Pieces: 6
+    - Piece of Luigi
   non_local_items: []
   start_inventory: {}
   start_hints: []
@@ -150,4 +150,5 @@ Yoshi's Island:
         - "King Bowser's Castle: Flowers"
         - "King Bowser's Castle: Red Coins"
       from_pool: true
+
 
