@@ -89,7 +89,7 @@ Spyro 3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 10
     # Maximum value is 100
-    10: 50
+    18: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -191,7 +191,7 @@ Spyro 3:
     # Vanilla - Pay Moneybags to progress as usual
     # Companionsanity - You cannot pay for side characters and must find unlock items to progress.
     # Moneybagssanity - You cannot pay Moneybags at all and must find unlock items to progress.
-    vanilla: 50
+    vanilla: 0
     companionsanity: 50
     moneybagssanity: 0
 
@@ -597,5 +597,6 @@ Spyro 3:
   plando_items:
     # Generic items plando.
     []
+
 
 
