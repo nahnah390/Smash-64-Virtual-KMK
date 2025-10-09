@@ -370,13 +370,13 @@ Mega Man X2:
   non_local_items: []
   start_inventory: {}
   start_inventory_from_pool:
-    spin_wheel: 1
-    stage_wheel_gator: 1
+    Spin Wheel: 1
+    Wheel Gator Access Codes: 1
   start_hints: []
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - x_hunter_stage_4_wheel_gator
-    - wheel_gator_boss
+    - 'Defeated Wheel Gator'
+    - 'Wheel Gator - Clear'
   item_links: []
   plando_items: []
