@@ -288,9 +288,9 @@ Luigi's Mansion:
   start_inventory: {}
   start_inventory_from_pool:
     Emerald: 1
-  start_hints: []
-  start_location_hints:
+  start_hints:
     - Water Element Medal
+  start_location_hints: []
   exclude_locations: []
   priority_locations:
     - Master Bedroom Plant
