@@ -94,6 +94,7 @@ Blasphemous:
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - WOTW: Gemino's reward
+    - "WOTW: Gemino's reward"
   item_links: []
   plando_items: []
+
