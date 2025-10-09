@@ -168,7 +168,8 @@ Super Mario World:
     random: 0
     random-low: 0
     random-high: 0
-  local_items: []
+  local_items: 
+ - Yoshi Eggs 
   non_local_items: []
   start_inventory:
     Special Zone Clear: 1
@@ -180,3 +181,4 @@ Super Mario World:
     - Red Switch Palace
   item_links: []
   plando_items: []
+
