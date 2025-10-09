@@ -95,7 +95,8 @@ Paper Mario The Thousand Year Door:
     random_color: 0
   yoshi_name:
     Cyan: 50
-  local_items: []
+  local_items: 
+     - Crystal Star
   non_local_items: []
   start_inventory: {}
   start_inventory_from_pool: {}
@@ -106,3 +107,4 @@ Paper Mario The Thousand Year Door:
     - Glitzville Minor-League Room: Yoshi
   item_links: []
   plando_items: []
+
