@@ -100,7 +100,8 @@ XCOM 2 War of the Chosen:
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - "[Tech] ADVENT Turret Breakdown"
+    - "Research ADVENT Turret Breakdown"
   item_links: []
   plando_items: []
+
 
