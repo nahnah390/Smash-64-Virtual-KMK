@@ -95,7 +95,7 @@ XCOM 2 War of the Chosen:
   local_items: []
   non_local_items: []
   start_inventory:
-    Progressive Defensive Matrix: null
+    Progressive Defensive Matrix: 1
   start_hints: []
   start_location_hints: []
   exclude_locations: []
@@ -103,3 +103,4 @@ XCOM 2 War of the Chosen:
     - "[Tech] ADVENT Turret Breakdown"
   item_links: []
   plando_items: []
+
