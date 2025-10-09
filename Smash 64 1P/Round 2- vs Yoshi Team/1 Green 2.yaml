@@ -352,17 +352,6 @@ Super Mario World:
     - Green Switch Palace
   item_links: []
   plando_items: []
- 
-  non_local_items: []
-  start_inventory:
-    Special Zone Clear: 1
-    Green Switch Palace: 1
-  start_hints: []
-  start_location_hints: []
-  exclude_locations: []
-  priority_locations:
-    - Green Switch Palace
-  item_links: []
-  plando_items: []
+
 
 
