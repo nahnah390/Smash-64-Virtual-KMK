@@ -67,6 +67,6 @@ Paint:
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - Similarity: 85.0%
+    - "Similarity: 85.0%"
   item_links: []
   plando_items: []
