@@ -104,7 +104,8 @@ Paper Mario The Thousand Year Door:
   start_location_hints: []
   exclude_locations: []
   priority_locations:
-    - Glitzville Minor-League Room: Yoshi
+    - "Glitzville Minor-League Room: Yoshi"
   item_links: []
   plando_items: []
+
 
