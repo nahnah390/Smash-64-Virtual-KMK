@@ -84,13 +84,13 @@ Sonic Riders:
 
   stage_first_place:
     # Enables checks for placing first in each stage
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   character_top_three:
     # Enables checks for placing in the top 3 with each character
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   character_first_place:
     # Enables checks for placing first with each character
@@ -99,8 +99,8 @@ Sonic Riders:
 
   gear_top_three:
     # Enables checks for placing in the top 3 with each gear
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   gear_first_place:
     # Enables checks for placing first with each gear
@@ -145,5 +145,6 @@ Sonic Riders:
   plando_items:
     # Generic items plando.
     []
+
 
 
