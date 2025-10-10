@@ -93,7 +93,7 @@ Golden Sun The Lost Age:
     # Omit Superbosses and Inner Sanctum: omits all super bosses and Anemos Inner Sanctum. Removes roughly 7 locations from the pool
     no_omission: 0
     omit_anemos_inner_sanctum: 0
-    omit_superbosses_and_inner_sanctum: 50
+    omit_superbosses_and_inner_sanctum: 60
 
   add_elvenshirt_clericsring:
     # Adds the Elven Shirt and Cleric's Ring from Golden Sun to the item pool.
@@ -203,8 +203,8 @@ Golden Sun The Lost Age:
     # Vanilla: requires all 72 Djinn to be able to enter Anemos Inner Sanctum
     # Randomized: will select a value between 16 to 28 Djinn to be able to access Anemos Inner Sanctum
     # Open: allows you to enter Anemos Inner Sanctum without any Djinn
-    vanilla: 50
-    randomized: 0
+    vanilla: 0
+    randomized: 50
     open: 0
 
   djinn_logic:
@@ -758,7 +758,8 @@ Golden Sun The Lost Age:
     # Start with these items and don't place them in the world.
     # 
     # The game decides what the replacement items will be.
-    {}
+    Crystal: 1
+    
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -774,7 +775,7 @@ Golden Sun The Lost Age:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    [Yampi Desert Cave - Venus Djinni Crystal]
 
   item_links:
     # Share part of your item pool with other players.
@@ -783,5 +784,6 @@ Golden Sun The Lost Age:
   plando_items:
     # Generic items plando.
     []
+
 
 
