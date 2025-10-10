@@ -109,8 +109,8 @@ Bomb Rush Cyberfunk:
 
   starting_movestyle:
     # Choose which movestyle to start with.
-    skateboard: 50
-    inline_skates: 0
+    skateboard: 0
+    inline_skates: 50
     bmx: 0
 
   limited_graffiti:
@@ -119,15 +119,15 @@ Bomb Rush Cyberfunk:
     # In some cases, such as completing a dream, using graffiti to defeat enemies, or spraying over your own graffiti, uses will not be counted.
     # 
     # If enabled, doing graffiti is disabled during crew battles, to prevent softlocking.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   small_graffiti_uses:
     # Choose if small graffiti should be separate, meaning that you will need to switch characters every time you run out, or combined, meaning that unlocking new characters will add 5 uses that any character can use.
     # 
     # Has no effect if Limited Graffiti is disabled.
     separate: 50
-    combined: 0
+    combined: 50
 
   skip_polo_photos:
     # Skip taking pictures of Polo for items.
@@ -187,7 +187,7 @@ Bomb Rush Cyberfunk:
 
   start_inventory:
     # Start with these items.
-    {}
+    Vinyl: 1
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -203,7 +203,7 @@ Bomb Rush Cyberfunk:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    -  "Hideout: Vinyl joins the crew"
 
   item_links:
     # Share part of your item pool with other players.
@@ -212,4 +212,5 @@ Bomb Rush Cyberfunk:
   plando_items:
     # Generic items plando.
     []
+
 
