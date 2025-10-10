@@ -89,9 +89,9 @@ Mario Kart Double Dash:
     "true": 50
   local_items: []
   non_local_items: []
-  start_inventory: {}
-  start_inventory_from_pool:
+  start_inventory:
     Fireballs for Luigi: 1
+  start_inventory_from_pool: {}
   start_hints: []
   start_location_hints: []
   exclude_locations: []
