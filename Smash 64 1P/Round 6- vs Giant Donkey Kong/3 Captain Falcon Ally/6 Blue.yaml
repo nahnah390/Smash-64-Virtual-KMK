@@ -120,7 +120,10 @@ Sonic Riders:
 
   start_inventory:
     # Start with these items.
-    {}
+    Blue Chaos Emerald: 1
+    Blue Star II: 1
+    Blue Star: 1
+    Sonic: 1
 
   start_hints:
     # Start with these item's locations prefilled into the ``!hint`` command.
@@ -136,7 +139,9 @@ Sonic Riders:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    -  "Blue Star: Race Complete"
+    -  "Blue Star II: Race Complete"
+    -  "Sonic: Race Complete"
 
   item_links:
     # Share part of your item pool with other players.
@@ -145,6 +150,7 @@ Sonic Riders:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
