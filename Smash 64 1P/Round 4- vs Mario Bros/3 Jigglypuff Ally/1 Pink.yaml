@@ -64,22 +64,7 @@ Kirby Super Star:
     local: 50
     multiworld: 0
   kirby_flavor_preset:
-    default: 0
-    bubblegum: 0
-    cherry: 0
-    blueberry: 0
-    lemon: 0
-    kiwi: 0
-    grape: 0
-    chocolate: 0
-    marshmallow: 0
-    licorice: 0
-    watermelon: 0
-    orange: 0
-    lime: 0
-    lavender: 0
-    miku: 0
-    custom: 50
+    custom
   kirby_flavor:
     "1": 10b08e
     "2": f0e0e8
