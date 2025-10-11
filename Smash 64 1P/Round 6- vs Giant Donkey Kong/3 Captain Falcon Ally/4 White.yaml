@@ -109,9 +109,9 @@ Kirby Air Ride:
   start_location_hints: "Air Ride: CELESTIAL VALLEY Finish 2 laps in under 02:20:00!"
   exclude_locations: []
   priority_locations:
-    - "City Trial: In one match, complete both Dragoon and Hydra!"
     - "Top Ride: METAL Finish 1st 5 seconds faster than #2!"
     - "Air Ride: CELESTIAL VALLEY Finish 2 laps in under 02:20:00!"
   item_links: []
   plando_items: []
+
 
