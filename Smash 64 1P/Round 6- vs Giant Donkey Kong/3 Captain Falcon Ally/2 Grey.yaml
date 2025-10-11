@@ -100,7 +100,7 @@ Star Wars Episode I Racer:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 23
-    6: 50
+    4: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -108,7 +108,10 @@ Star Wars Episode I Racer:
   starting_racers_plando:
     # List of specific racers with which to start
     # This option is only used if 'Randomize Starting Racers' is enabled
-    []
+    - Bullseye Navior
+    - Clegg Holdfast
+    - Ratts Tyerell
+    - Toy Dampner
 
   max_additional_racers:
     # How many racers can be added to the pool (excluding the starting racers)
@@ -136,8 +139,8 @@ Star Wars Episode I Racer:
     # Prevents parts from being damaged and removes pit droids from the item pool
     # This does not remove the pit droid shop checks, just the pit droids themselves
     # Extra money will be added to the pool to compensate
-    'false': 0
-    'true': 50
+    'false': 50
+    'true': 0
 
   ai_scaling:
     # Affects AI speed
@@ -172,16 +175,16 @@ Star Wars Episode I Racer:
 
   auto_hint_shop:
     # Automatically hints shop items as they unlock
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   shop_costs:
     # Sets the cost of items at Watto's shop
     # Vanilla: Prices are unchanged. Some may require grinding truguts to afford
     # Normalized: Prices are much closer together, with some categories being slightly more expensive than others
     # Tiered: Each tier of any part type is an identical cost to that of other parts. This is the cheapest option
-    vanilla: 50
-    normalized: 0
+    vanilla: 0
+    normalized: 50
     tiered: 0
 
   shop_cost_multiplier:
@@ -246,8 +249,10 @@ Star Wars Episode I Racer:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
-
+    -  "Racer Unlock - Sunken City"
+    -  "Racer Unlock - Aquilaris Classic"
+    -  "Racer Unlock - Howler Gorge"
+    -  "Racer Unlock - Executioner"
   item_links:
     # Share part of your item pool with other players.
     []
@@ -255,4 +260,5 @@ Star Wars Episode I Racer:
   plando_items:
     # Generic items plando.
     []
+
 
