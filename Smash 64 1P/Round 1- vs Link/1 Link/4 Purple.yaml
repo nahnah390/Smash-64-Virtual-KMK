@@ -1,0 +1,139 @@
+﻿---
+name: Purple
+description: Default Majora's Mask Recompiled Template
+game: Majora's Mask Recompiled
+requires:
+  version: 0.6.3
+Majora's Mask Recompiled:
+  progression_balancing:
+    "25": 50
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0
+    normal: 50
+    extreme: 0
+  accessibility:
+    full: 50
+    minimal: 0
+  logic_difficulty:
+    normal: 50
+    no_logic: 0
+  majora_remains_required:
+    "4": 50
+    random: 0
+    random-low: 0
+    random-high: 0
+  moon_remains_required:
+    "2": 50
+    random: 0
+    random-low: 0
+    random-high: 0
+  camc:
+    "false": 0
+    "true": 50
+  swordless:
+    "false": 50
+    "true": 50
+  shieldless:
+    "false": 50
+    "true": 50
+  start_with_soaring:
+    "false": 0
+    "true": 50
+  starting_hearts:
+    "12": 50
+    random: 0
+    random-low: 0
+    random-high: 0
+  starting_hearts_are_containers_or_pieces:
+    containers: 50
+    pieces: 0
+  shuffle_regional_maps:
+    vanilla: 0
+    starting: 50
+    anywhere: 0
+  shuffle_boss_remains:
+    vanilla: 0
+    anywhere: 0
+    bosses: 50
+  remains_allow_boss_warps:
+    "false": 0
+    "true": 50
+  shuffle_spiderhouse_reward:
+    "false": 50
+    "true": 50
+  skullsanity:
+    vanilla: 50
+    anything: 50
+    ignore: 0
+  shopsanity:
+    vanilla: 50
+    enabled: 50
+    advanced: 0
+  scrubsanity:
+    "false": 50
+    "true": 50
+  shop_prices:
+    vanilla: 50
+    free: 0
+    cheap: 0
+    expensive: 0
+    offensive: 0
+  cowsanity:
+    "false": 50
+    "true": 0
+  shuffle_great_fairy_rewards:
+    "false": 50
+    "true": 50
+  keysanity:
+    "false": 50
+    "true": 50
+  fairysanity:
+    "false": 50
+    "true": 50
+  start_with_consumables:
+    "false": 0
+    "true": 50
+  permanent_chateau_romani:
+    "false": 0
+    "true": 50
+  start_with_inverted_time:
+    "false": 50
+    "true": 0
+  receive_filled_wallets:
+    "false": 0
+    "true": 50
+  magic_is_a_trap:
+    "false": 50
+    "true": 0
+  damage_multiplier:
+    half: 0
+    normal: 50
+    double: 0
+    quad: 0
+    ohko: 0
+  death_behavior:
+    vanilla: 50
+    fast: 0
+    instant: 0
+    moon_crash: 0
+  death_link:
+    "false": 50
+    "true": 0
+  link_tunic_color:
+    - 40
+    - 0
+    - 40
+  local_items: []
+  non_local_items: []
+  start_inventory: {}
+  start_inventory_from_pool:
+    Lens of Truth: 1
+  start_hints: []
+  start_location_hints: []
+  exclude_locations: []
+  priority_locations:
+    - Goron Village Lens Cave Center Chest
+  item_links: []
+  plando_items: []
