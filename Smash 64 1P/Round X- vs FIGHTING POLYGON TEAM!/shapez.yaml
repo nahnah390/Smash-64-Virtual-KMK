@@ -46,12 +46,12 @@ shapez:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
-    normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    random: 20
+    random-low: 20
+    random-high: 20
+    disabled: 20 # equivalent to 0
+    normal: 20 # equivalent to 50
+    extreme: 20 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,7 +60,7 @@ shapez:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   goal:
     # Sets the goal of your world.
@@ -72,9 +72,9 @@ shapez:
     #   location.
     # - **Efficiency III:** Deliver 256 blueprint shapes per second to the hub.
     vanilla: 50
-    mam: 0
-    even_fasterer: 0
-    efficiency_iii: 0
+    mam: 50
+    even_fasterer: 50
+    efficiency_iii: 50
 
   goal_amount:
     # Specify, what level or tier (when either MAM or Even Fasterer is chosen as goal) is required to reach the goal.
@@ -84,15 +84,15 @@ shapez:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 9
     # Maximum value is 500
-    random: 0
-    random-low: 0
-    random-high: 0
-    minimum_mam: 50 # equivalent to 27
-    recommended_mam: 0 # equivalent to 50
-    long_game_mam: 0 # equivalent to 120
-    minimum_even_fasterer: 0 # equivalent to 9
-    recommended_even_fasterer: 0 # equivalent to 16
-    long_play_even_fasterer: 0 # equivalent to 35
+    random: 20
+    random-low: 20
+    random-high: 20
+    minimum_mam: 20 # equivalent to 27
+    recommended_mam: 20 # equivalent to 50
+    long_game_mam: 20 # equivalent to 120
+    minimum_even_fasterer: 20 # equivalent to 9
+    recommended_even_fasterer: 20 # equivalent to 16
+    long_play_even_fasterer: 20 # equivalent to 35
 
   required_shapes_multiplier:
     # Multiplies the amount of required shapes for levels and upgrades by value/10.
@@ -105,25 +105,25 @@ shapez:
     # Minimum value is 1
     # Maximum value is 100
     10: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   allow_floating_layers:
     # Toggle whether shape requirements are allowed to have floating layers (like the logo or the rocket shape).
     # 
     # However, be aware that floating shapes make MAMs much more complex.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_level_requirements:
     # Randomize the required shapes to complete levels.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_upgrade_requirements:
     # Randomize the required shapes to buy upgrades.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_level_logic:
@@ -142,17 +142,17 @@ shapez:
     #   buildings. Expect early BKs.
     # - **Dopamine (overflow):** All levels (except level 1 and the goal) require 2 random buildings (or none in case of
     #   overflow).
-    vanilla: 0
-    vanilla_shuffled: 0
-    stretched: 50
-    stretched_shuffled: 0
-    quick: 0
-    quick_shuffled: 0
-    random_steps: 0
-    random_steps_shuffled: 0
-    hardcore: 0
-    dopamine: 0
-    dopamine_overflow: 0
+    vanilla: 20
+    vanilla_shuffled: 20
+    stretched: 20
+    stretched_shuffled: 20
+    quick: 20
+    quick_shuffled: 20
+    random_steps: 20
+    random_steps_shuffled: 20
+    hardcore: 20
+    dopamine: 20
+    dopamine_overflow: 20
 
   randomize_upgrade_logic:
     # If upgrade requirements are randomized, this sets how those random shapes are generated
@@ -170,11 +170,11 @@ shapez:
     #   with one category always requiring no buildings. Tier VII and onwards will always require all buildings.
     # - **Hardcore:** All tiers (except each tier II) have completely random shape requirements and thus require all
     #   buildings. Expect early BKs.
-    vanilla_like: 0
-    linear: 50
-    category: 0
-    category_random: 0
-    hardcore: 0
+    vanilla_like: 20
+    linear: 20
+    category: 20
+    category_random: 20
+    hardcore: 20
 
   throughput_levels_ratio:
     # If level requirements are randomized, this sets the ratio of how many levels (approximately) will require either
@@ -185,13 +185,13 @@ shapez:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    random: 0
-    random-low: 0
-    random-high: 0
-    vanilla: 0 # equivalent to -1
-    only_total: 50 # equivalent to 0
-    half_half: 0 # equivalent to 50
-    only_throughput: 0 # equivalent to 100
+    random: 20
+    random-low: 20
+    random-high: 20
+    vanilla: 20 # equivalent to -1
+    only_total: 20 # equivalent to 0
+    half_half: 20 # equivalent to 50
+    only_throughput: 20 # equivalent to 100
 
   complexity_growth_gradient:
     # If level requirements are randomized, this determines how fast complexity will grow each level. In other words:
@@ -202,15 +202,15 @@ shapez:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0.0
     # Maximum value is 10.0
-    0.5: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    0.5: 20
+    random: 20
+    random-low: 20
+    random-high: 20
 
   same_late_upgrade_requirements:
     # If upgrade requirements are randomized, should the last 3 shapes for each category be the same,
     # as in vanilla?
-    'false': 0
+    'false': 50
     'true': 50
 
   early_balancer_tunnel_and_trash:
@@ -220,36 +220,36 @@ shapez:
     # - **5 buildings:** Should be accessible before getting all 5 main buildings.
     # - **3 buildings:** Should be accessible before getting the first 3 main buildings for levels and upgrades.
     # - **Sphere 1:** Always accessible from start. **Beware of generation failures.**
-    none: 0
-    5_buildings: 0
-    3_buildings: 50
-    sphere_1: 0
+    none: 20
+    5_buildings: 20
+    3_buildings: 20
+    sphere_1: 20
 
   lock_belt_and_extractor:
     # Locks Belts and Extractors and adds them to the item pool.
     # 
     # **If you set this to true, achievements must also be included.**
     'false': 50
-    'true': 0
+    'true': 50
 
   include_achievements:
     # Include up to 45 achievements (depending on other options) as additional locations.
-    'false': 0
+    'false': 50
     'true': 50
 
   exclude_softlock_achievements:
     # Exclude 6 achievements, that can become unreachable in a save file, if not achieved until a certain level.
-    'false': 0
+    'false': 50
     'true': 50
 
   exclude_long_playtime_achievements:
     # Exclude 2 achievements, that require actively playing for a really long time.
-    'false': 0
+    'false': 50
     'true': 50
 
   exclude_progression_unreasonable:
     # Exclude progression and useful items from being placed into softlock and long playtime achievements.
-    'false': 0
+    'false': 50
     'true': 50
 
   shapesanity_amount:
@@ -258,10 +258,10 @@ shapez:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 4
     # Maximum value is 1000
-    50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    50: 20
+    random: 20
+    random-low: 20
+    random-high: 20
 
   traps_percentage:
     # The probability of any filler item (in percent) being replaced by a trap.
@@ -269,31 +269,31 @@ shapez:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    random: 0
-    random-low: 0
-    random-high: 0
-    none: 50 # equivalent to 0
-    rare: 0 # equivalent to 4
-    occasionally: 0 # equivalent to 10
-    maximum_suffering: 0 # equivalent to 100
+    random: 20
+    random-low: 20
+    random-high: 20
+    none: 20 # equivalent to 0
+    rare: 20 # equivalent to 4
+    occasionally: 20 # equivalent to 10
+    maximum_suffering: 20 # equivalent to 100
 
   include_whacky_upgrades:
     # Includes some very unusual upgrade items in generation (and logic), that greatly increase or decrease building
     # speeds. If the goal is set to Efficiency III or throughput levels ratio is not 0, decreasing upgrades (aka traps)
     # will always be disabled.
     'false': 50
-    'true': 0
+    'true': 50
 
   split_inventory_draining_trap:
     # If set to true, the inventory draining trap will be split into level, upgrade, and blueprint draining traps
     # instead of executing as one of those 3 randomly.
     'false': 50
-    'true': 0
+    'true': 50
 
   toolbar_shuffling:
     # If set to true, the toolbars (main and wires layer) will be shuffled (including bottom and top row).
     # However, keybindings will still select the same building to place.
-    'false': 0
+    'false': 50
     'true': 50
 
   ###########################
@@ -334,3 +334,4 @@ shapez:
   plando_items:
     # Generic items plando.
     []
+
