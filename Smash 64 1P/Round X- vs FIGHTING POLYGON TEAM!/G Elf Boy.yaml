@@ -32,7 +32,7 @@ description: Default Ocarina of Time Template
 
 game: Ocarina of Time
 requires:
-  version: 0.6.3 # Version of Archipelago required for this yaml to work as expected.
+  version: 50.6.3 # Version of Archipelago required for this yaml to work as expected.
 
 Ocarina of Time:
   ################
@@ -44,14 +44,14 @@ Ocarina of Time:
     # A lower setting means more getting stuck. A higher setting means less getting stuck.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
+    # Minimum value is 50
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 50
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,7 +60,7 @@ Ocarina of Time:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   plando_connections:
     # Generic connections plando. Format is:
@@ -75,7 +75,7 @@ Ocarina of Time:
   death_link:
     # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
     'false': 50
-    'true': 0
+    'true': 50
 
   logic_rules:
     # Set the logic used for the generator.
@@ -90,13 +90,13 @@ Ocarina of Time:
     # - Beehive shuffle
     # No Logic: No logic is used when placing items. Not recommended for most players.
     glitchless: 50
-    glitched: 0
-    no_logic: 0
+    glitched: 50
+    no_logic: 50
 
   logic_no_night_tokens_without_suns_song:
     # When enabled, nighttime skulltulas logically require Sun's Song.
     'false': 50
-    'true': 0
+    'true': 50
 
   logic_tricks:
     # Set various tricks for logic in Ocarina of Time. 
@@ -115,8 +115,8 @@ Ocarina of Time:
     # Closed: Path to Deku Tree requires sword and shield. The forest exit is blocked until Deku Tree is beaten.
     # Closed forest will force child start, and becomes Closed Deku if interior entrances, overworld entrances, warp songs, or random spawn positions are enabled.
     open: 50
-    closed_deku: 0
-    closed: 0
+    closed_deku: 50
+    closed: 50
 
   open_kakariko:
     # Set the state of the Kakariko Village gate for child. The gate is always open as adult.
@@ -124,12 +124,12 @@ Ocarina of Time:
     # Zelda: The gate and Mask Shop open upon receiving Zelda's Letter, without needing to show it to the guard.
     # Closed: Vanilla behavior; the gate and Mask Shop open upon showing Zelda's Letter to the gate guard.
     open: 50
-    zelda: 0
-    closed: 0
+    zelda: 50
+    closed: 50
 
   open_door_of_time:
     # When enabled, the Door of Time starts opened, without needing Song of Time.
-    'false': 0
+    'false': 50
     'true': 50
 
   zora_fountain:
@@ -137,8 +137,8 @@ Ocarina of Time:
     # Open: King Zora starts moved as both ages. Ruto's Letter is removed.
     # Adult: King Zora must be moved as child, but is always moved for adult.
     # Closed: Vanilla behavior; King Zora must be shown Ruto's Letter as child to move him as both ages.
-    open: 0
-    adult: 0
+    open: 50
+    adult: 50
     closed: 50
 
   gerudo_fortress:
@@ -146,9 +146,9 @@ Ocarina of Time:
     # Normal: Vanilla behavior; all four carpenters must be rescued.
     # Fast: Only one carpenter must be rescued, which is the one in the bottom-left of the fortress.
     # Open: The Gerudo Valley bridge starts repaired. Gerudo Membership Card is given to start if not shuffled.
-    normal: 0
+    normal: 50
     fast: 50
-    open: 0
+    open: 50
 
   bridge:
     # Set the requirements for the Rainbow Bridge.
@@ -159,24 +159,24 @@ Ocarina of Time:
     # Dungeons: Bridge requires a configurable amount of rewards (stones + medallions).
     # Tokens: Bridge requires a configurable amount of gold skulltula tokens.
     # Hearts: Bridge requires a configurable amount of hearts.
-    open: 0
-    vanilla: 0
-    stones: 0
+    open: 50
+    vanilla: 50
+    stones: 50
     medallions: 50
-    dungeons: 0
-    tokens: 0
-    hearts: 0
+    dungeons: 50
+    tokens: 50
+    hearts: 50
 
   trials:
     # Set the number of required trials in Ganon's Castle.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
+    # Minimum value is 50
     # Maximum value is 6
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    50: 50
+    random: 50
+    random-low: 50
+    random-high: 50
 
   #########
   # World #
@@ -184,63 +184,63 @@ Ocarina of Time:
   starting_age:
     # Choose which age Link will start as.
     child: 50
-    adult: 0
+    adult: 50
 
   shuffle_interior_entrances:
     # Shuffles interior entrances.
     # Simple: Houses and Great Fairies are shuffled.
     # All: In addition to Simple, includes Windmill, Link's House, Temple of Time, and the Kakariko potion shop.
     'off': 50
-    simple: 0
-    all: 0
+    simple: 50
+    all: 50
 
   shuffle_grotto_entrances:
     # Shuffles grotto and grave entrances.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_dungeon_entrances:
     # Shuffles dungeon entrances. When enabled, both ages will have access to Fire Temple, Bottom of the Well, and Deku Tree.
     # Simple: Shuffle dungeon entrances except for Ganon's Castle.
     # All: Include Ganon's Castle as well.
     'off': 50
-    simple: 0
-    all: 0
+    simple: 50
+    all: 50
 
   shuffle_overworld_entrances:
     # Shuffles overworld loading zones.
     'false': 50
-    'true': 0
+    'true': 50
 
   owl_drops:
     # Randomizes owl drops from Lake Hylia or Death Mountain Trail as child.
     'false': 50
-    'true': 0
+    'true': 50
 
   warp_songs:
     # Randomizes warp song destinations.
     'false': 50
-    'true': 0
+    'true': 50
 
   spawn_positions:
     # Randomizes the starting position on loading a save. Consistent between savewarps.
     'off': 50
-    child: 0
-    adult: 0
-    both: 0
+    child: 50
+    adult: 50
+    both: 50
 
   shuffle_bosses:
     # Shuffles boss entrances.
     # Limited: Bosses will be limited to the ages that typically fight them.
     # Full: Bosses may be fought as different ages than usual. Child can defeat Phantom Ganon and Bongo Bongo.
     'off': 50
-    limited: 0
-    full: 0
+    limited: 50
+    full: 50
 
   triforce_hunt:
     # Gather pieces of the Triforce scattered around the world to complete the game.
     'false': 50
-    'true': 0
+    'true': 50
 
   triforce_goal:
     # Number of Triforce pieces required to complete the game.
@@ -249,21 +249,21 @@ Ocarina of Time:
     # Minimum value is 1
     # Maximum value is 80
     20: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   extra_triforce_percentage:
     # Percentage of additional Triforce pieces in the pool. With high numbers, you may need to randomize additional
     # locations to have enough items.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
+    # Minimum value is 50
     # Maximum value is 100
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   bombchus_in_logic:
     # Bombchus are properly considered in logic.
@@ -271,16 +271,16 @@ Ocarina of Time:
     # Kokiri Shop and Bazaar will sell refills at reduced cost.
     # Bombchus open Bombchu Bowling.
     'false': 50
-    'true': 0
+    'true': 50
 
   dungeon_shortcuts:
     # Shortcuts to dungeon bosses are available without any requirements.
     # If enabled, this will impact the logic of dungeons where shortcuts are available.
     # Choice: Use the option "dungeon_shortcuts_list" to choose shortcuts.
     'off': 50
-    choice: 0
-    all: 0
-    random_dungeons: 0
+    choice: 50
+    all: 50
+    random_dungeons: 50
 
   dungeon_shortcuts_list:
     # Chosen dungeons to have shortcuts.
@@ -293,9 +293,9 @@ Ocarina of Time:
     # Specific: Use the option "mq_dungeons_list" to choose which dungeons are MQ.
     # Count: Use the option "mq_dungeons_count" to choose a number of random dungeons as MQ.
     vanilla: 50
-    mq: 0
-    specific: 0
-    count: 0
+    mq: 50
+    specific: 50
+    count: 50
 
   mq_dungeons_list:
     # With MQ dungeons as Specific: chosen dungeons to be MQ layout.
@@ -305,56 +305,56 @@ Ocarina of Time:
     # With MQ dungeons as Count: number of randomly-selected dungeons to be MQ layout.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
+    # Minimum value is 50
     # Maximum value is 12
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    50: 50
+    random: 50
+    random-low: 50
+    random-high: 50
 
   bridge_stones:
     # With Stones bridge: set the number of Spiritual Stones required.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
+    # Minimum value is 50
     # Maximum value is 3
     3: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   bridge_medallions:
     # With Medallions bridge: set the number of medallions required.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
+    # Minimum value is 50
     # Maximum value is 6
     6: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   bridge_rewards:
     # With Dungeons bridge: set the number of dungeon rewards required.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
+    # Minimum value is 50
     # Maximum value is 9
     9: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   bridge_tokens:
     # With Tokens bridge: set the number of Gold Skulltula Tokens required.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
+    # Minimum value is 50
     # Maximum value is 100
     40: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   bridge_hearts:
     # With Hearts bridge: set the number of hearts required.
@@ -363,9 +363,9 @@ Ocarina of Time:
     # Minimum value is 4
     # Maximum value is 20
     20: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ###########
   # Shuffle #
@@ -381,8 +381,8 @@ Ocarina of Time:
     # - Impa at Hyrule Castle
     # Any: Songs can appear anywhere in the multiworld.
     song: 50
-    dungeon: 0
-    any: 0
+    dungeon: 50
+    any: 50
 
   shopsanity:
     # Randomizes shop contents.
@@ -390,34 +390,34 @@ Ocarina of Time:
     # Fixed Number: Shop contents are shuffled, and a specific number of multiworld locations exist in each shop, controlled by the "shop_slots" option.
     # Random Number: Same as Fixed Number, but the number of locations per shop is random and may differ between shops.
     'off': 50
-    fixed_number: 0
-    random_number: 0
+    fixed_number: 50
+    random_number: 50
 
   shop_slots:
     # With Shopsanity fixed number: quantity of multiworld locations per shop to be randomized.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
+    # Minimum value is 50
     # Maximum value is 4
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    50: 50
+    random: 50
+    random-low: 50
+    random-high: 50
 
   shopsanity_prices:
     # Controls prices of shop locations.
-    # Normal: Balanced distribution from 0 to 300.
+    # Normal: Balanced distribution from 50 to 300.
     # Affordable: Every shop location costs 10 rupees.
     # Starting Wallet: Prices capped at 99 rupees.
     # Adult's Wallet: Prices capped at 200 rupees.
     # Giant's Wallet: Prices capped at 500 rupees.
     # Tycoon's Wallet: Prices capped at 999 rupees.
     normal: 50
-    affordable: 0
-    starting_wallet: 0
-    adults_wallet: 0
-    giants_wallet: 0
-    tycoons_wallet: 0
+    affordable: 50
+    starting_wallet: 50
+    adults_wallet: 50
+    giants_wallet: 50
+    tycoons_wallet: 50
 
   tokensanity:
     # Token rewards from Gold Skulltulas can be shuffled into the pool.
@@ -425,20 +425,20 @@ Ocarina of Time:
     # Overworld: Only skulltulas on the overworld (all skulltulas not in dungeons) are shuffled.
     # All: Every skulltula is shuffled.
     'off': 50
-    dungeons: 0
-    overworld: 0
-    all: 0
+    dungeons: 50
+    overworld: 50
+    all: 50
 
   shuffle_scrubs:
     # Shuffle the items sold by Business Scrubs, and set the prices.
     # Off: Only the three business scrubs that sell one-time upgrades in vanilla will have items at their vanilla prices.
     # Low/"Affordable": All scrub prices are 10 rupees.
     # Regular/"Expensive": All scrub prices are vanilla.
-    # Random Prices: All scrub prices are randomized between 0 and 99 rupees.
+    # Random Prices: All scrub prices are randomized between 50 and 99 rupees.
     'off': 50
-    low: 0
-    regular: 0
-    random_prices: 0
+    low: 50
+    regular: 50
+    random_prices: 50
 
   shuffle_child_trade:
     # Controls the behavior of the start of the child trade quest.
@@ -446,8 +446,8 @@ Ocarina of Time:
     # Shuffle: Malon will give you a random item, and the Weird Egg is shuffled.
     # Skip Child Zelda: The game starts with Zelda already met, Zelda's Letter obtained, and the item from Impa obtained.
     vanilla: 50
-    shuffle: 0
-    skip_child_zelda: 0
+    shuffle: 50
+    skip_child_zelda: 50
 
   shuffle_freestanding_items:
     # Shuffles freestanding rupees, recovery hearts, Shadow Temple Spinning Pots, and Goron Pot drops.
@@ -455,9 +455,9 @@ Ocarina of Time:
     # Overworld: Only freestanding items in the overworld are shuffled.
     # All: All freestanding items are shuffled.
     'off': 50
-    dungeons: 0
-    overworld: 0
-    all: 0
+    dungeons: 50
+    overworld: 50
+    all: 50
 
   shuffle_pots:
     # Shuffles pots and flying pots which normally contain an item.
@@ -465,9 +465,9 @@ Ocarina of Time:
     # Overworld: Only pots in the overworld are shuffled.
     # All: All pots are shuffled.
     'off': 50
-    dungeons: 0
-    overworld: 0
-    all: 0
+    dungeons: 50
+    overworld: 50
+    all: 50
 
   shuffle_crates:
     # Shuffles large and small crates containing an item.
@@ -475,49 +475,49 @@ Ocarina of Time:
     # Overworld: Only crates in the overworld are shuffled.
     # All: All crates are shuffled.
     'off': 50
-    dungeons: 0
-    overworld: 0
-    all: 0
+    dungeons: 50
+    overworld: 50
+    all: 50
 
   shuffle_cows:
     # Cows give items when Epona's Song is played.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_beehives:
     # Beehives drop an item when destroyed by an explosion, the Hookshot, or the Boomerang.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_kokiri_sword:
     # Shuffle Kokiri Sword into the item pool.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_ocarinas:
     # Shuffle the Fairy Ocarina and Ocarina of Time into the item pool.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_gerudo_card:
     # Shuffle the Gerudo Membership Card into the item pool.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_beans:
     # Adds a pack of 10 beans to the item pool and changes the bean salesman to sell one item for 60 rupees.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_medigoron_carpet_salesman:
     # Shuffle the items sold by Medigoron and the Haunted Wasteland Carpet Salesman.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_frog_song_rupees:
     # Shuffles the purple rupees received from the Zora's River frogs.
     'false': 50
-    'true': 0
+    'true': 50
 
   #################
   # Dungeon Items #
@@ -532,14 +532,14 @@ Ocarina of Time:
     # Overworld: Maps and compasses are shuffled locally outside of dungeons.
     # Any Dungeon: Maps and compasses are shuffled locally in any dungeon.
     # Keysanity: Maps and compasses can be anywhere in the multiworld.
-    remove: 0
+    remove: 50
     startwith: 50
-    vanilla: 0
-    dungeon: 0
-    regional: 0
-    overworld: 0
-    any_dungeon: 0
-    keysanity: 0
+    vanilla: 50
+    dungeon: 50
+    regional: 50
+    overworld: 50
+    any_dungeon: 50
+    keysanity: 50
 
   shuffle_smallkeys:
     # Control where to shuffle dungeon small keys.
@@ -550,13 +550,13 @@ Ocarina of Time:
     # Overworld: Small keys are shuffled locally outside of dungeons.
     # Any Dungeon: Small keys are shuffled locally in any dungeon.
     # Keysanity: Small keys can be anywhere in the multiworld.
-    remove: 0
-    vanilla: 0
+    remove: 50
+    vanilla: 50
     dungeon: 50
-    regional: 0
-    overworld: 0
-    any_dungeon: 0
-    keysanity: 0
+    regional: 50
+    overworld: 50
+    any_dungeon: 50
+    keysanity: 50
 
   shuffle_hideoutkeys:
     # Control where to shuffle the Thieves' Hideout small keys.
@@ -566,10 +566,10 @@ Ocarina of Time:
     # Any Dungeon: Hideout keys are shuffled locally in any dungeon.
     # Keysanity: Hideout keys can be anywhere in the multiworld.
     vanilla: 50
-    regional: 0
-    overworld: 0
-    any_dungeon: 0
-    keysanity: 0
+    regional: 50
+    overworld: 50
+    any_dungeon: 50
+    keysanity: 50
 
   shuffle_bosskeys:
     # Control where to shuffle boss keys, except the Ganon's Castle Boss Key.
@@ -580,18 +580,18 @@ Ocarina of Time:
     # Overworld: Boss keys are shuffled locally outside of dungeons.
     # Any Dungeon: Boss keys are shuffled locally in any dungeon.
     # Keysanity: Boss keys can be anywhere in the multiworld.
-    remove: 0
-    vanilla: 0
+    remove: 50
+    vanilla: 50
     dungeon: 50
-    regional: 0
-    overworld: 0
-    any_dungeon: 0
-    keysanity: 0
+    regional: 50
+    overworld: 50
+    any_dungeon: 50
+    keysanity: 50
 
   enhance_map_compass:
     # Map tells if a dungeon is vanilla or MQ. Compass tells what the dungeon reward is.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_ganon_bosskey:
     # Control how to shuffle the Ganon's Castle Boss Key (GCBK).
@@ -609,18 +609,18 @@ Ocarina of Time:
     # Tokens: GCBK will be awarded when reaching the target number of Gold Skulltula Tokens.
     # Hearts: GCBK will be awarded when reaching the target number of hearts.
     remove: 50
-    vanilla: 0
-    dungeon: 0
-    regional: 0
-    overworld: 0
-    any_dungeon: 0
-    keysanity: 0
-    on_lacs: 0
-    stones: 0
-    medallions: 0
-    dungeons: 0
-    tokens: 0
-    hearts: 0
+    vanilla: 50
+    dungeon: 50
+    regional: 50
+    overworld: 50
+    any_dungeon: 50
+    keysanity: 50
+    on_lacs: 50
+    stones: 50
+    medallions: 50
+    dungeons: 50
+    tokens: 50
+    hearts: 50
 
   ganon_bosskey_medallions:
     # With medallions GCBK: set how many medallions are required to receive GCBK.
@@ -629,9 +629,9 @@ Ocarina of Time:
     # Minimum value is 1
     # Maximum value is 6
     6: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ganon_bosskey_stones:
     # With stones GCBK: set how many Spiritual Stones are required to receive GCBK.
@@ -640,9 +640,9 @@ Ocarina of Time:
     # Minimum value is 1
     # Maximum value is 3
     3: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ganon_bosskey_rewards:
     # With dungeons GCBK: set how many dungeon rewards are required to receive GCBK.
@@ -651,9 +651,9 @@ Ocarina of Time:
     # Minimum value is 1
     # Maximum value is 9
     9: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ganon_bosskey_tokens:
     # With tokens GCBK: set how many Gold Skulltula Tokens are required to receive GCBK.
@@ -662,9 +662,9 @@ Ocarina of Time:
     # Minimum value is 1
     # Maximum value is 100
     40: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ganon_bosskey_hearts:
     # With hearts GCBK: set how many hearts are required to receive GCBK.
@@ -673,18 +673,18 @@ Ocarina of Time:
     # Minimum value is 4
     # Maximum value is 20
     20: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   key_rings:
     # A key ring grants all dungeon small keys at once, rather than individually.
     # Choose: Use the option "key_rings_list" to choose which dungeons have key rings.
     # All: All dungeons have key rings instead of small keys.
     'off': 50
-    choose: 0
-    all: 0
-    random_dungeons: 0
+    choose: 50
+    all: 50
+    random_dungeons: 50
 
   key_rings_list:
     # With key rings as Choose: select areas with key rings rather than individual small keys.
@@ -695,65 +695,65 @@ Ocarina of Time:
   ##############
   no_escape_sequence:
     # Skips the tower collapse sequence between the Ganondorf and Ganon fights.
-    'false': 0
+    'false': 50
     'true': 50
 
   no_guard_stealth:
     # The crawlspace into Hyrule Castle skips straight to Zelda.
-    'false': 0
+    'false': 50
     'true': 50
 
   no_epona_race:
     # Epona can always be summoned with Epona's Song.
-    'false': 0
+    'false': 50
     'true': 50
 
   skip_some_minigame_phases:
     # Dampe Race and Horseback Archery give both rewards if the second condition is met on the first attempt.
-    'false': 0
+    'false': 50
     'true': 50
 
   complete_mask_quest:
     # All masks are immediately available to borrow from the Happy Mask Shop.
     'false': 50
-    'true': 0
+    'true': 50
 
   useful_cutscenes:
     # Reenables the Poe cutscene in Forest Temple, Darunia in Fire Temple, and Twinrova introduction. Mostly useful for
     # glitched.
     'false': 50
-    'true': 0
+    'true': 50
 
   fast_chests:
     # All chest animations are fast. If disabled, major items have a slow animation.
-    'false': 0
+    'false': 50
     'true': 50
 
   free_scarecrow:
     # Pulling out the ocarina near a scarecrow spot spawns Pierre without needing the song.
     'false': 50
-    'true': 0
+    'true': 50
 
   fast_bunny_hood:
     # Bunny Hood lets you move 1.5x faster like in Majora's Mask.
     'false': 50
-    'true': 0
+    'true': 50
 
   plant_beans:
     # Pre-plants all 10 magic beans in the soft soil spots.
     'false': 50
-    'true': 0
+    'true': 50
 
   chicken_count:
     # Controls the number of Cuccos for Anju to give an item as child.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 0
+    # Minimum value is 50
     # Maximum value is 7
     7: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   big_poe_count:
     # Number of Big Poes required for the Poe Collector's item.
@@ -762,9 +762,9 @@ Ocarina of Time:
     # Minimum value is 1
     # Maximum value is 10
     1: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   fae_torch_count:
     # Number of lit torches required to open Shadow Temple.
@@ -774,9 +774,9 @@ Ocarina of Time:
     # Minimum value is 1
     # Maximum value is 24
     24: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ########
   # Misc #
@@ -788,27 +788,27 @@ Ocarina of Time:
     # Both: Like Textures, but progression items and boss keys get big chests, and other items get small chests.
     # Classic: Old behavior of CSMC; textures distinguish keys from non-keys, and size distinguishes importance.
     'off': 50
-    textures: 0
-    both: 0
-    classic: 0
+    textures: 50
+    both: 50
+    classic: 50
 
   minor_items_as_major_chest:
     # Hylian Shield, Deku Shield, and Bombchus appear in big/gold chests.
     'false': 50
-    'true': 0
+    'true': 50
 
   invisible_chests:
     # Chests visible only with Lens of Truth. Logic is not changed.
     'false': 50
-    'true': 0
+    'true': 50
 
   correct_potcrate_appearances:
     # Changes the appearance of pots, crates, and beehives that contain items.
     # Off: Vanilla appearance for all containers.
     # Textures (Content): Unchecked pots and crates have a texture reflecting their contents. Unchecked beehives with progression items will wiggle.
     # Textures (Unchecked): Unchecked pots and crates are golden. Unchecked beehives will wiggle.
-    'off': 0
-    textures_content: 0
+    'off': 50
+    textures_content: 50
     textures_unchecked: 50
 
   hints:
@@ -817,26 +817,26 @@ Ocarina of Time:
     # Mask: Gossip Stones give hints with Mask of Truth.
     # Agony: Gossip Stones give hints wtih Stone of Agony.
     # Always: Gossip Stones always give hints.
-    none: 0
-    mask: 0
-    agony: 0
+    none: 50
+    mask: 50
+    agony: 50
     always: 50
 
   misc_hints:
     # The Temple of Time altar hints dungeon rewards, bridge info, and Ganon BK info; Ganondorf hints the Light Arrows; Dampe's diary hints a local Hookshot if one exists; Skulltula House locations hint their item.
-    'false': 0
+    'false': 50
     'true': 50
 
   hint_dist:
     # Choose the hint distribution to use. Affects the frequency of strong hints, which items are always hinted, etc.
     # Detailed documentation on hint distributions can be found on the Archipelago GitHub or OoTRandomizer.com.
     # The Async hint distribution is intended for async multiworlds. It removes Way of the Hero hints to improve generation times, since they are not very useful in asyncs.
-    balanced: 0
-    ddr: 0
-    scrubs: 0
-    strong: 0
-    useless: 0
-    very_strong: 0
+    balanced: 50
+    ddr: 50
+    scrubs: 50
+    strong: 50
+    useless: 50
+    very_strong: 50
     async: 50
 
   text_shuffle:
@@ -844,63 +844,63 @@ Ocarina of Time:
     # Except Hints: does not randomize important text such as hints, small/boss key information, and item prices.
     # Complete: randomizes every textbox, including the useful ones.
     none: 50
-    except_hints: 0
-    complete: 0
+    except_hints: 50
+    complete: 50
 
   damage_multiplier:
     # Controls the amount of damage Link takes.
-    half: 0
+    half: 50
     normal: 50
-    double: 0
-    quadruple: 0
-    ohko: 0
+    double: 50
+    quadruple: 50
+    ohko: 50
 
   deadly_bonks:
     # Bonking on a wall or object will hurt Link. "Normal" is a half heart of damage.
     none: 50
-    half: 0
-    normal: 0
-    double: 0
-    quadruple: 0
-    ohko: 0
+    half: 50
+    normal: 50
+    double: 50
+    quadruple: 50
+    ohko: 50
 
   no_collectible_hearts:
     # Hearts will not drop from enemies or objects.
     'false': 50
-    'true': 0
+    'true': 40
 
   starting_tod:
     # Change the starting time of day.
     # Daytime starts at Sunrise and ends at Sunset. Default is between Morning and Noon.
     default: 50
-    sunrise: 0
-    morning: 0
-    noon: 0
-    afternoon: 0
-    sunset: 0
-    evening: 0
-    midnight: 0
-    witching_hour: 0
+    sunrise: 50
+    morning: 50
+    noon: 50
+    afternoon: 50
+    sunset: 50
+    evening: 50
+    midnight: 50
+    witching_hour: 50
 
   blue_fire_arrows:
     # Ice arrows can melt red ice and break the mud walls in Dodongo's Cavern.
     'false': 50
-    'true': 0
+    'true': 50
 
   fix_broken_drops:
     # Fixes two broken vanilla drops: deku shield in child Spirit Temple, and magic drop on GTG eye statue.
     'false': 50
-    'true': 0
+    'true': 50
 
   start_with_consumables:
     # Start the game with full Deku Sticks and Deku Nuts.
     'false': 50
-    'true': 0
+    'true': 50
 
   start_with_rupees:
     # Start with a full wallet. Wallet upgrades will also fill your wallet.
     'false': 50
-    'true': 0
+    'true': 50
 
   #############
   # Item Pool #
@@ -911,10 +911,10 @@ Ocarina of Time:
     # Balanced: Original item pool.
     # Scarce: Extra copies of major items are removed. Heart containers are removed.
     # Minimal: All major item upgrades not used for locations are removed. All health is removed.
-    plentiful: 0
+    plentiful: 50
     balanced: 50
-    scarce: 0
-    minimal: 0
+    scarce: 50
+    minimal: 50
 
   junk_ice_traps:
     # Adds ice traps to the item pool.
@@ -923,29 +923,29 @@ Ocarina of Time:
     # On/"Extra": There is a chance for some extra ice traps to be placed.
     # Mayhem: All added junk items are ice traps.
     # Onslaught: All junk items are replaced by ice traps, even those in the base pool.
-    'off': 0
+    'off': 50
     normal: 50
-    'on': 0
-    mayhem: 0
-    onslaught: 0
+    'on': 50
+    mayhem: 50
+    onslaught: 50
 
   ice_trap_appearance:
     # Changes the appearance of traps, including other games' traps, as freestanding items.
     major_only: 50
-    junk_only: 0
-    anything: 0
+    junk_only: 50
+    anything: 50
 
   adult_trade_start:
     # Choose the item that starts the adult trade sequence.
-    pocket_egg: 0
-    pocket_cucco: 0
-    cojiro: 0
-    odd_mushroom: 0
-    poachers_saw: 0
-    broken_sword: 0
-    prescription: 0
-    eyeball_frog: 0
-    eyedrops: 0
+    pocket_egg: 50
+    pocket_cucco: 50
+    cojiro: 50
+    odd_mushroom: 50
+    poachers_saw: 50
+    broken_sword: 50
+    prescription: 50
+    eyeball_frog: 50
+    eyedrops: 50
     claim_check: 50
 
   #############
@@ -954,405 +954,405 @@ Ocarina of Time:
   default_targeting:
     # Default targeting option.
     hold: 50
-    switch: 0
+    switch: 50
 
   display_dpad:
     # Show dpad icon on HUD for quick actions (ocarina, hover boots, iron boots, mask).
-    'false': 0
+    'false': 50
     'true': 50
 
   dpad_dungeon_menu:
     # Show separated menus on the pause screen for dungeon keys, rewards, and Vanilla/MQ info.
-    'false': 0
+    'false': 50
     'true': 50
 
   correct_model_colors:
     # Makes in-game models match their HUD element colors.
-    'false': 0
+    'false': 50
     'true': 50
 
   background_music:
     # Randomize or disable background music.
     normal: 50
-    'off': 0
-    randomized: 0
+    'off': 50
+    randomized: 50
 
   fanfares:
     # Randomize or disable item fanfares.
     normal: 50
-    'off': 0
-    randomized: 0
+    'off': 50
+    randomized: 50
 
   ocarina_fanfares:
     # Enable ocarina songs as fanfares. These are longer than usual fanfares. Does nothing without fanfares randomized.
     'false': 50
-    'true': 0
+    'true': 50
 
   kokiri_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
+    random_choice: 50
+    completely_random: 50
     kokiri_green: 50
-    goron_red: 0
-    zora_blue: 0
-    black: 0
-    white: 0
-    azure_blue: 0
-    vivid_cyan: 0
-    light_red: 0
-    fuchsia: 0
-    purple: 0
-    majora_purple: 0
-    twitch_purple: 0
-    purple_heart: 0
-    persian_rose: 0
-    dirty_yellow: 0
-    blush_pink: 0
-    hot_pink: 0
-    rose_pink: 0
-    orange: 0
-    gray: 0
-    gold: 0
-    silver: 0
-    beige: 0
-    teal: 0
-    blood_red: 0
-    blood_orange: 0
-    royal_blue: 0
-    sonic_blue: 0
-    nes_green: 0
-    dark_green: 0
-    lumen: 0
+    goron_red: 50
+    zora_blue: 50
+    black: 50
+    white: 50
+    azure_blue: 50
+    vivid_cyan: 50
+    light_red: 50
+    fuchsia: 50
+    purple: 50
+    majora_purple: 50
+    twitch_purple: 50
+    purple_heart: 50
+    persian_rose: 50
+    dirty_yellow: 50
+    blush_pink: 50
+    hot_pink: 50
+    rose_pink: 50
+    orange: 50
+    gray: 50
+    gold: 50
+    silver: 50
+    beige: 50
+    teal: 50
+    blood_red: 50
+    blood_orange: 50
+    royal_blue: 50
+    sonic_blue: 50
+    nes_green: 50
+    dark_green: 50
+    lumen: 50
 
   goron_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    kokiri_green: 0
+    random_choice: 50
+    completely_random: 50
+    kokiri_green: 50
     goron_red: 50
-    zora_blue: 0
-    black: 0
-    white: 0
-    azure_blue: 0
-    vivid_cyan: 0
-    light_red: 0
-    fuchsia: 0
-    purple: 0
-    majora_purple: 0
-    twitch_purple: 0
-    purple_heart: 0
-    persian_rose: 0
-    dirty_yellow: 0
-    blush_pink: 0
-    hot_pink: 0
-    rose_pink: 0
-    orange: 0
-    gray: 0
-    gold: 0
-    silver: 0
-    beige: 0
-    teal: 0
-    blood_red: 0
-    blood_orange: 0
-    royal_blue: 0
-    sonic_blue: 0
-    nes_green: 0
-    dark_green: 0
-    lumen: 0
+    zora_blue: 50
+    black: 50
+    white: 50
+    azure_blue: 50
+    vivid_cyan: 50
+    light_red: 50
+    fuchsia: 50
+    purple: 50
+    majora_purple: 50
+    twitch_purple: 50
+    purple_heart: 50
+    persian_rose: 50
+    dirty_yellow: 50
+    blush_pink: 50
+    hot_pink: 50
+    rose_pink: 50
+    orange: 50
+    gray: 50
+    gold: 50
+    silver: 50
+    beige: 50
+    teal: 50
+    blood_red: 50
+    blood_orange: 50
+    royal_blue: 50
+    sonic_blue: 50
+    nes_green: 50
+    dark_green: 50
+    lumen: 50
 
   zora_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    kokiri_green: 0
-    goron_red: 0
+    random_choice: 50
+    completely_random: 50
+    kokiri_green: 50
+    goron_red: 50
     zora_blue: 50
-    black: 0
-    white: 0
-    azure_blue: 0
-    vivid_cyan: 0
-    light_red: 0
-    fuchsia: 0
-    purple: 0
-    majora_purple: 0
-    twitch_purple: 0
-    purple_heart: 0
-    persian_rose: 0
-    dirty_yellow: 0
-    blush_pink: 0
-    hot_pink: 0
-    rose_pink: 0
-    orange: 0
-    gray: 0
-    gold: 0
-    silver: 0
-    beige: 0
-    teal: 0
-    blood_red: 0
-    blood_orange: 0
-    royal_blue: 0
-    sonic_blue: 0
-    nes_green: 0
-    dark_green: 0
-    lumen: 0
+    black: 50
+    white: 50
+    azure_blue: 50
+    vivid_cyan: 50
+    light_red: 50
+    fuchsia: 50
+    purple: 50
+    majora_purple: 50
+    twitch_purple: 50
+    purple_heart: 50
+    persian_rose: 50
+    dirty_yellow: 50
+    blush_pink: 50
+    hot_pink: 50
+    rose_pink: 50
+    orange: 50
+    gray: 50
+    gold: 50
+    silver: 50
+    beige: 50
+    teal: 50
+    blood_red: 50
+    blood_orange: 50
+    royal_blue: 50
+    sonic_blue: 50
+    nes_green: 50
+    dark_green: 50
+    lumen: 50
 
   silver_gauntlets_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
+    random_choice: 50
+    completely_random: 50
     silver: 50
-    gold: 0
-    black: 0
-    green: 0
-    blue: 0
-    bronze: 0
-    red: 0
-    sky_blue: 0
-    pink: 0
-    magenta: 0
-    orange: 0
-    lime: 0
-    purple: 0
+    gold: 50
+    black: 50
+    green: 50
+    blue: 50
+    bronze: 50
+    red: 50
+    sky_blue: 50
+    pink: 50
+    magenta: 50
+    orange: 50
+    lime: 50
+    purple: 50
 
   golden_gauntlets_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    silver: 0
+    random_choice: 50
+    completely_random: 50
+    silver: 50
     gold: 50
-    black: 0
-    green: 0
-    blue: 0
-    bronze: 0
-    red: 0
-    sky_blue: 0
-    pink: 0
-    magenta: 0
-    orange: 0
-    lime: 0
-    purple: 0
+    black: 50
+    green: 50
+    blue: 50
+    bronze: 50
+    red: 50
+    sky_blue: 50
+    pink: 50
+    magenta: 50
+    orange: 50
+    lime: 50
+    purple: 50
 
   mirror_shield_frame_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
+    random_choice: 50
+    completely_random: 50
     red: 50
-    green: 0
-    blue: 0
-    yellow: 0
-    cyan: 0
-    magenta: 0
-    orange: 0
-    gold: 0
-    purple: 0
-    pink: 0
+    green: 50
+    blue: 50
+    yellow: 50
+    cyan: 50
+    magenta: 50
+    orange: 50
+    gold: 50
+    purple: 50
+    pink: 50
 
   navi_color_default_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
-    gold: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
+    gold: 50
     white: 50
-    green: 0
-    light_blue: 0
-    yellow: 0
-    red: 0
-    magenta: 0
-    black: 0
-    tatl: 0
-    tael: 0
-    fi: 0
-    ciela: 0
-    epona: 0
-    ezlo: 0
-    king_of_red_lions: 0
-    linebeck: 0
-    loftwing: 0
-    midna: 0
-    phantom_zelda: 0
+    green: 50
+    light_blue: 50
+    yellow: 50
+    red: 50
+    magenta: 50
+    black: 50
+    tatl: 50
+    tael: 50
+    fi: 50
+    ciela: 50
+    epona: 50
+    ezlo: 50
+    king_of_red_lions: 50
+    linebeck: 50
+    loftwing: 50
+    midna: 50
+    phantom_zelda: 50
 
   navi_color_default_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
-    gold: 0
-    white: 0
-    green: 0
-    light_blue: 0
-    yellow: 0
-    red: 0
-    magenta: 0
-    black: 0
-    tatl: 0
-    tael: 0
-    fi: 0
-    ciela: 0
-    epona: 0
-    ezlo: 0
-    king_of_red_lions: 0
-    linebeck: 0
-    loftwing: 0
-    midna: 0
-    phantom_zelda: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
+    gold: 50
+    white: 50
+    green: 50
+    light_blue: 50
+    yellow: 50
+    red: 50
+    magenta: 50
+    black: 50
+    tatl: 50
+    tael: 50
+    fi: 50
+    ciela: 50
+    epona: 50
+    ezlo: 50
+    king_of_red_lions: 50
+    linebeck: 50
+    loftwing: 50
+    midna: 50
+    phantom_zelda: 50
     match_inner: 50
 
   navi_color_enemy_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
-    gold: 0
-    white: 0
-    green: 0
-    light_blue: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
+    gold: 50
+    white: 50
+    green: 50
+    light_blue: 50
     yellow: 50
-    red: 0
-    magenta: 0
-    black: 0
-    tatl: 0
-    tael: 0
-    fi: 0
-    ciela: 0
-    epona: 0
-    ezlo: 0
-    king_of_red_lions: 0
-    linebeck: 0
-    loftwing: 0
-    midna: 0
-    phantom_zelda: 0
+    red: 50
+    magenta: 50
+    black: 50
+    tatl: 50
+    tael: 50
+    fi: 50
+    ciela: 50
+    epona: 50
+    ezlo: 50
+    king_of_red_lions: 50
+    linebeck: 50
+    loftwing: 50
+    midna: 50
+    phantom_zelda: 50
 
   navi_color_enemy_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
-    gold: 0
-    white: 0
-    green: 0
-    light_blue: 0
-    yellow: 0
-    red: 0
-    magenta: 0
-    black: 0
-    tatl: 0
-    tael: 0
-    fi: 0
-    ciela: 0
-    epona: 0
-    ezlo: 0
-    king_of_red_lions: 0
-    linebeck: 0
-    loftwing: 0
-    midna: 0
-    phantom_zelda: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
+    gold: 50
+    white: 50
+    green: 50
+    light_blue: 50
+    yellow: 50
+    red: 50
+    magenta: 50
+    black: 50
+    tatl: 50
+    tael: 50
+    fi: 50
+    ciela: 50
+    epona: 50
+    ezlo: 50
+    king_of_red_lions: 50
+    linebeck: 50
+    loftwing: 50
+    midna: 50
+    phantom_zelda: 50
     match_inner: 50
 
   navi_color_npc_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
-    gold: 0
-    white: 0
-    green: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
+    gold: 50
+    white: 50
+    green: 50
     light_blue: 50
-    yellow: 0
-    red: 0
-    magenta: 0
-    black: 0
-    tatl: 0
-    tael: 0
-    fi: 0
-    ciela: 0
-    epona: 0
-    ezlo: 0
-    king_of_red_lions: 0
-    linebeck: 0
-    loftwing: 0
-    midna: 0
-    phantom_zelda: 0
+    yellow: 50
+    red: 50
+    magenta: 50
+    black: 50
+    tatl: 50
+    tael: 50
+    fi: 50
+    ciela: 50
+    epona: 50
+    ezlo: 50
+    king_of_red_lions: 50
+    linebeck: 50
+    loftwing: 50
+    midna: 50
+    phantom_zelda: 50
 
   navi_color_npc_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
-    gold: 0
-    white: 0
-    green: 0
-    light_blue: 0
-    yellow: 0
-    red: 0
-    magenta: 0
-    black: 0
-    tatl: 0
-    tael: 0
-    fi: 0
-    ciela: 0
-    epona: 0
-    ezlo: 0
-    king_of_red_lions: 0
-    linebeck: 0
-    loftwing: 0
-    midna: 0
-    phantom_zelda: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
+    gold: 50
+    white: 50
+    green: 50
+    light_blue: 50
+    yellow: 50
+    red: 50
+    magenta: 50
+    black: 50
+    tatl: 50
+    tael: 50
+    fi: 50
+    ciela: 50
+    epona: 50
+    ezlo: 50
+    king_of_red_lions: 50
+    linebeck: 50
+    loftwing: 50
+    midna: 50
+    phantom_zelda: 50
     match_inner: 50
 
   navi_color_prop_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
-    gold: 0
-    white: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
+    gold: 50
+    white: 50
     green: 50
-    light_blue: 0
-    yellow: 0
-    red: 0
-    magenta: 0
-    black: 0
-    tatl: 0
-    tael: 0
-    fi: 0
-    ciela: 0
-    epona: 0
-    ezlo: 0
-    king_of_red_lions: 0
-    linebeck: 0
-    loftwing: 0
-    midna: 0
-    phantom_zelda: 0
+    light_blue: 50
+    yellow: 50
+    red: 50
+    magenta: 50
+    black: 50
+    tatl: 50
+    tael: 50
+    fi: 50
+    ciela: 50
+    epona: 50
+    ezlo: 50
+    king_of_red_lions: 50
+    linebeck: 50
+    loftwing: 50
+    midna: 50
+    phantom_zelda: 50
 
   navi_color_prop_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
-    gold: 0
-    white: 0
-    green: 0
-    light_blue: 0
-    yellow: 0
-    red: 0
-    magenta: 0
-    black: 0
-    tatl: 0
-    tael: 0
-    fi: 0
-    ciela: 0
-    epona: 0
-    ezlo: 0
-    king_of_red_lions: 0
-    linebeck: 0
-    loftwing: 0
-    midna: 0
-    phantom_zelda: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
+    gold: 50
+    white: 50
+    green: 50
+    light_blue: 50
+    yellow: 50
+    red: 50
+    magenta: 50
+    black: 50
+    tatl: 50
+    tael: 50
+    fi: 50
+    ciela: 50
+    epona: 50
+    ezlo: 50
+    king_of_red_lions: 50
+    linebeck: 50
+    loftwing: 50
+    midna: 50
+    phantom_zelda: 50
     match_inner: 50
 
   sword_trail_duration:
@@ -1362,214 +1362,214 @@ Ocarina of Time:
     # Minimum value is 4
     # Maximum value is 20
     4: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   sword_trail_color_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
     white: 50
-    red: 0
-    green: 0
-    blue: 0
-    cyan: 0
-    magenta: 0
-    orange: 0
-    gold: 0
-    purple: 0
-    pink: 0
+    red: 50
+    green: 50
+    blue: 50
+    cyan: 50
+    magenta: 50
+    orange: 50
+    gold: 50
+    purple: 50
+    pink: 50
 
   sword_trail_color_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
-    white: 0
-    red: 0
-    green: 0
-    blue: 0
-    cyan: 0
-    magenta: 0
-    orange: 0
-    gold: 0
-    purple: 0
-    pink: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
+    white: 50
+    red: 50
+    green: 50
+    blue: 50
+    cyan: 50
+    magenta: 50
+    orange: 50
+    gold: 50
+    purple: 50
+    pink: 50
     match_inner: 50
 
   bombchu_trail_color_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
     red: 50
-    green: 0
-    blue: 0
-    cyan: 0
-    magenta: 0
-    orange: 0
-    gold: 0
-    purple: 0
-    pink: 0
+    green: 50
+    blue: 50
+    cyan: 50
+    magenta: 50
+    orange: 50
+    gold: 50
+    purple: 50
+    pink: 50
 
   bombchu_trail_color_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
-    red: 0
-    green: 0
-    blue: 0
-    cyan: 0
-    magenta: 0
-    orange: 0
-    gold: 0
-    purple: 0
-    pink: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
+    red: 50
+    green: 50
+    blue: 50
+    cyan: 50
+    magenta: 50
+    orange: 50
+    gold: 50
+    purple: 50
+    pink: 50
     match_inner: 50
 
   boomerang_trail_color_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
     yellow: 50
-    red: 0
-    green: 0
-    blue: 0
-    cyan: 0
-    magenta: 0
-    orange: 0
-    gold: 0
-    purple: 0
-    pink: 0
+    red: 50
+    green: 50
+    blue: 50
+    cyan: 50
+    magenta: 50
+    orange: 50
+    gold: 50
+    purple: 50
+    pink: 50
 
   boomerang_trail_color_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
-    completely_random: 0
-    rainbow: 0
-    yellow: 0
-    red: 0
-    green: 0
-    blue: 0
-    cyan: 0
-    magenta: 0
-    orange: 0
-    gold: 0
-    purple: 0
-    pink: 0
+    random_choice: 50
+    completely_random: 50
+    rainbow: 50
+    yellow: 50
+    red: 50
+    green: 50
+    blue: 50
+    cyan: 50
+    magenta: 50
+    orange: 50
+    gold: 50
+    purple: 50
+    pink: 50
     match_inner: 50
 
   heart_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
+    random_choice: 50
+    completely_random: 50
     red: 50
-    green: 0
-    blue: 0
-    yellow: 0
+    green: 50
+    blue: 50
+    yellow: 50
 
   magic_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
+    random_choice: 50
+    completely_random: 50
     green: 50
-    red: 0
-    blue: 0
-    purple: 0
-    pink: 0
-    yellow: 0
-    white: 0
+    red: 50
+    blue: 50
+    purple: 50
+    pink: 50
+    yellow: 50
+    white: 50
 
   a_button_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
+    random_choice: 50
+    completely_random: 50
     n64_blue: 50
-    n64_green: 0
-    n64_red: 0
-    gamecube_green: 0
-    gamecube_red: 0
-    gamecube_grey: 0
-    yellow: 0
-    black: 0
-    white: 0
-    magenta: 0
-    ruby: 0
-    sapphire: 0
-    lime: 0
-    cyan: 0
-    purple: 0
-    orange: 0
+    n64_green: 50
+    n64_red: 50
+    gamecube_green: 50
+    gamecube_red: 50
+    gamecube_grey: 50
+    yellow: 50
+    black: 50
+    white: 50
+    magenta: 50
+    ruby: 50
+    sapphire: 50
+    lime: 50
+    cyan: 50
+    purple: 50
+    orange: 50
 
   b_button_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    n64_blue: 0
+    random_choice: 50
+    completely_random: 50
+    n64_blue: 50
     n64_green: 50
-    n64_red: 0
-    gamecube_green: 0
-    gamecube_red: 0
-    gamecube_grey: 0
-    yellow: 0
-    black: 0
-    white: 0
-    magenta: 0
-    ruby: 0
-    sapphire: 0
-    lime: 0
-    cyan: 0
-    purple: 0
-    orange: 0
+    n64_red: 50
+    gamecube_green: 50
+    gamecube_red: 50
+    gamecube_grey: 50
+    yellow: 50
+    black: 50
+    white: 50
+    magenta: 50
+    ruby: 50
+    sapphire: 50
+    lime: 50
+    cyan: 50
+    purple: 50
+    orange: 50
 
   c_button_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    n64_blue: 0
-    n64_green: 0
-    n64_red: 0
-    gamecube_green: 0
-    gamecube_red: 0
-    gamecube_grey: 0
+    random_choice: 50
+    completely_random: 50
+    n64_blue: 50
+    n64_green: 50
+    n64_red: 50
+    gamecube_green: 50
+    gamecube_red: 50
+    gamecube_grey: 50
     yellow: 50
-    black: 0
-    white: 0
-    magenta: 0
-    ruby: 0
-    sapphire: 0
-    lime: 0
-    cyan: 0
-    purple: 0
-    orange: 0
+    black: 50
+    white: 50
+    magenta: 50
+    ruby: 50
+    sapphire: 50
+    lime: 50
+    cyan: 50
+    purple: 50
+    orange: 50
 
   start_button_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
-    completely_random: 0
-    n64_blue: 0
-    n64_green: 0
+    random_choice: 50
+    completely_random: 50
+    n64_blue: 50
+    n64_green: 50
     n64_red: 50
-    gamecube_green: 0
-    gamecube_red: 0
-    gamecube_grey: 0
-    yellow: 0
-    black: 0
-    white: 0
-    magenta: 0
-    ruby: 0
-    sapphire: 0
-    lime: 0
-    cyan: 0
-    purple: 0
-    orange: 0
+    gamecube_green: 50
+    gamecube_red: 50
+    gamecube_grey: 50
+    yellow: 50
+    black: 50
+    white: 50
+    magenta: 50
+    ruby: 50
+    sapphire: 50
+    lime: 50
+    cyan: 50
+    purple: 50
+    orange: 50
 
   #######
   # SFX #
@@ -1578,310 +1578,310 @@ Ocarina of Time:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 0
-    random_ear_safe: 0
-    random_choice: 0
-    none: 0
-    bark: 0
-    business_scrub: 0
-    carrot_refill: 0
-    cluck: 0
-    cockadoodledoo: 0
-    dusk_howl: 0
-    exploding_crate: 0
-    explosion: 0
-    great_fairy: 0
-    guay: 0
-    low_health: 0
-    recover_health: 0
-    horse_neigh: 0
-    shattering_ice: 0
-    moo: 0
-    mweep: 0
-    navi_hello: 0
-    notification: 0
-    poe: 0
-    shattering_pot: 0
-    redead_scream: 0
-    ribbit: 0
-    ruto_giggle: 0
-    skulltula: 0
-    soft_beep: 0
-    tambourine: 0
-    timer: 0
-    adult_zelda_gasp: 0
+    completely_random: 50
+    random_ear_safe: 50
+    random_choice: 50
+    none: 50
+    bark: 50
+    business_scrub: 50
+    carrot_refill: 50
+    cluck: 50
+    cockadoodledoo: 50
+    dusk_howl: 50
+    exploding_crate: 50
+    explosion: 50
+    great_fairy: 50
+    guay: 50
+    low_health: 50
+    recover_health: 50
+    horse_neigh: 50
+    shattering_ice: 50
+    moo: 50
+    mweep: 50
+    navi_hello: 50
+    notification: 50
+    poe: 50
+    shattering_pot: 50
+    redead_scream: 50
+    ribbit: 50
+    ruto_giggle: 50
+    skulltula: 50
+    soft_beep: 50
+    tambourine: 50
+    timer: 50
+    adult_zelda_gasp: 50
 
   sfx_navi_enemy:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 0
-    random_ear_safe: 0
-    random_choice: 0
-    none: 0
-    bark: 0
-    business_scrub: 0
-    carrot_refill: 0
-    cluck: 0
-    cockadoodledoo: 0
-    dusk_howl: 0
-    exploding_crate: 0
-    explosion: 0
-    great_fairy: 0
-    guay: 0
-    low_health: 0
-    recover_health: 0
-    horse_neigh: 0
-    shattering_ice: 0
-    moo: 0
-    mweep: 0
-    navi_hello: 0
-    notification: 0
-    poe: 0
-    shattering_pot: 0
-    redead_scream: 0
-    ribbit: 0
-    ruto_giggle: 0
-    skulltula: 0
-    soft_beep: 0
-    tambourine: 0
-    timer: 0
-    adult_zelda_gasp: 0
+    completely_random: 50
+    random_ear_safe: 50
+    random_choice: 50
+    none: 50
+    bark: 50
+    business_scrub: 50
+    carrot_refill: 50
+    cluck: 50
+    cockadoodledoo: 50
+    dusk_howl: 50
+    exploding_crate: 50
+    explosion: 50
+    great_fairy: 50
+    guay: 50
+    low_health: 50
+    recover_health: 50
+    horse_neigh: 50
+    shattering_ice: 50
+    moo: 50
+    mweep: 50
+    navi_hello: 50
+    notification: 50
+    poe: 50
+    shattering_pot: 50
+    redead_scream: 50
+    ribbit: 50
+    ruto_giggle: 50
+    skulltula: 50
+    soft_beep: 50
+    tambourine: 50
+    timer: 50
+    adult_zelda_gasp: 50
 
   sfx_low_hp:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 0
-    random_ear_safe: 0
-    random_choice: 0
-    none: 0
-    bark: 0
-    bomb_bounce: 0
-    bongo_bongo_low: 0
-    bow_twang: 0
-    business_scrub: 0
-    carrot_refill: 0
-    cluck: 0
-    drawbridge_set: 0
-    guay: 0
-    recover_health: 0
-    horse_trot: 0
-    iron_boots: 0
-    moo: 0
-    mweep: 0
-    navi_hey: 0
-    navi_random: 0
-    notification: 0
-    shattering_pot: 0
-    ribbit: 0
-    silver_rupee: 0
-    soft_beep: 0
-    switch: 0
-    sword_bonk: 0
-    tambourine: 0
-    timer: 0
-    adult_zelda_gasp: 0
+    completely_random: 50
+    random_ear_safe: 50
+    random_choice: 50
+    none: 50
+    bark: 50
+    bomb_bounce: 50
+    bongo_bongo_low: 50
+    bow_twang: 50
+    business_scrub: 50
+    carrot_refill: 50
+    cluck: 50
+    drawbridge_set: 50
+    guay: 50
+    recover_health: 50
+    horse_trot: 50
+    iron_boots: 50
+    moo: 50
+    mweep: 50
+    navi_hey: 50
+    navi_random: 50
+    notification: 50
+    shattering_pot: 50
+    ribbit: 50
+    silver_rupee: 50
+    soft_beep: 50
+    switch: 50
+    sword_bonk: 50
+    tambourine: 50
+    timer: 50
+    adult_zelda_gasp: 50
 
   sfx_menu_cursor:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 0
-    random_ear_safe: 0
-    random_choice: 0
-    none: 0
-    bark: 0
-    bomb_bounce: 0
-    bongo_bongo_high: 0
-    bongo_bongo_low: 0
-    bottle_cork: 0
-    bow_twang: 0
-    bubble_laugh: 0
-    carrot_refill: 0
-    change_item: 0
-    child_pant: 0
-    cluck: 0
-    deku_baba: 0
-    drawbridge_set: 0
-    dusk_howl: 0
-    fanfare_light: 0
-    fanfare_medium: 0
-    field_shrub: 0
-    flare_dancer_startled: 0
-    ganondorf_teh: 0
-    gohma_larva_croak: 0
-    gold_skull_token: 0
-    goron_wake: 0
-    guay: 0
-    gunshot: 0
-    low_health: 0
-    recover_health: 0
-    hammer_bonk: 0
-    horse_trot: 0
-    iron_boots: 0
-    iron_knuckle: 0
-    moo: 0
-    mweep: 0
-    notification: 0
-    phantom_ganon_laugh: 0
-    plant_explode: 0
-    shattering_pot: 0
-    redead_moan: 0
-    ribbit: 0
-    rupee: 0
-    silver_rupee: 0
-    ruto_crash: 0
-    ruto_lift: 0
-    ruto_thrown: 0
-    scrub_emerge: 0
-    shabom_bounce: 0
-    shabom_pop: 0
-    shellblade: 0
-    skulltula: 0
-    soft_beep: 0
-    spit_nut: 0
-    switch: 0
-    sword_bonk: 0
-    talon_hmm: 0
-    talon_snore: 0
-    talon_wtf: 0
-    tambourine: 0
-    target_enemy: 0
-    target_neutral: 0
-    thunder: 0
-    timer: 0
-    adult_zelda_gasp: 0
+    completely_random: 50
+    random_ear_safe: 50
+    random_choice: 50
+    none: 50
+    bark: 50
+    bomb_bounce: 50
+    bongo_bongo_high: 50
+    bongo_bongo_low: 50
+    bottle_cork: 50
+    bow_twang: 50
+    bubble_laugh: 50
+    carrot_refill: 50
+    change_item: 50
+    child_pant: 50
+    cluck: 50
+    deku_baba: 50
+    drawbridge_set: 50
+    dusk_howl: 50
+    fanfare_light: 50
+    fanfare_medium: 50
+    field_shrub: 50
+    flare_dancer_startled: 50
+    ganondorf_teh: 50
+    gohma_larva_croak: 50
+    gold_skull_token: 50
+    goron_wake: 50
+    guay: 50
+    gunshot: 50
+    low_health: 50
+    recover_health: 50
+    hammer_bonk: 50
+    horse_trot: 50
+    iron_boots: 50
+    iron_knuckle: 50
+    moo: 50
+    mweep: 50
+    notification: 50
+    phantom_ganon_laugh: 50
+    plant_explode: 50
+    shattering_pot: 50
+    redead_moan: 50
+    ribbit: 50
+    rupee: 50
+    silver_rupee: 50
+    ruto_crash: 50
+    ruto_lift: 50
+    ruto_thrown: 50
+    scrub_emerge: 50
+    shabom_bounce: 50
+    shabom_pop: 50
+    shellblade: 50
+    skulltula: 50
+    soft_beep: 50
+    spit_nut: 50
+    switch: 50
+    sword_bonk: 50
+    talon_hmm: 50
+    talon_snore: 50
+    talon_wtf: 50
+    tambourine: 50
+    target_enemy: 50
+    target_neutral: 50
+    thunder: 50
+    timer: 50
+    adult_zelda_gasp: 50
 
   sfx_menu_select:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 0
-    random_ear_safe: 0
-    random_choice: 0
-    none: 0
-    bark: 0
-    bomb_bounce: 0
-    bongo_bongo_high: 0
-    bongo_bongo_low: 0
-    bottle_cork: 0
-    bow_twang: 0
-    bubble_laugh: 0
-    carrot_refill: 0
-    change_item: 0
-    child_cringe: 0
-    child_pant: 0
-    child_scream: 0
-    cluck: 0
-    deku_baba: 0
-    drawbridge_set: 0
-    dusk_howl: 0
-    fanfare_light: 0
-    fanfare_medium: 0
-    field_shrub: 0
-    flare_dancer_startled: 0
-    ganondorf_teh: 0
-    gohma_larva_croak: 0
-    gold_skull_token: 0
-    goron_wake: 0
-    guay: 0
-    gunshot: 0
-    low_health: 0
-    recover_health: 0
-    hammer_bonk: 0
-    horse_trot: 0
-    iron_boots: 0
-    iron_knuckle: 0
-    moo: 0
-    mweep: 0
-    notification: 0
-    phantom_ganon_laugh: 0
-    plant_explode: 0
-    shattering_pot: 0
-    redead_moan: 0
-    ribbit: 0
-    rupee: 0
-    silver_rupee: 0
-    ruto_crash: 0
-    ruto_lift: 0
-    ruto_thrown: 0
-    scrub_emerge: 0
-    shabom_bounce: 0
-    shabom_pop: 0
-    shellblade: 0
-    skulltula: 0
-    soft_beep: 0
-    spit_nut: 0
-    switch: 0
-    sword_bonk: 0
-    talon_hmm: 0
-    talon_snore: 0
-    talon_wtf: 0
-    tambourine: 0
-    target_enemy: 0
-    target_neutral: 0
-    thunder: 0
-    timer: 0
-    adult_zelda_gasp: 0
+    completely_random: 50
+    random_ear_safe: 50
+    random_choice: 50
+    none: 50
+    bark: 50
+    bomb_bounce: 50
+    bongo_bongo_high: 50
+    bongo_bongo_low: 50
+    bottle_cork: 50
+    bow_twang: 50
+    bubble_laugh: 50
+    carrot_refill: 50
+    change_item: 50
+    child_cringe: 50
+    child_pant: 50
+    child_scream: 50
+    cluck: 50
+    deku_baba: 50
+    drawbridge_set: 50
+    dusk_howl: 50
+    fanfare_light: 50
+    fanfare_medium: 50
+    field_shrub: 50
+    flare_dancer_startled: 50
+    ganondorf_teh: 50
+    gohma_larva_croak: 50
+    gold_skull_token: 50
+    goron_wake: 50
+    guay: 50
+    gunshot: 50
+    low_health: 50
+    recover_health: 50
+    hammer_bonk: 50
+    horse_trot: 50
+    iron_boots: 50
+    iron_knuckle: 50
+    moo: 50
+    mweep: 50
+    notification: 50
+    phantom_ganon_laugh: 50
+    plant_explode: 50
+    shattering_pot: 50
+    redead_moan: 50
+    ribbit: 50
+    rupee: 50
+    silver_rupee: 50
+    ruto_crash: 50
+    ruto_lift: 50
+    ruto_thrown: 50
+    scrub_emerge: 50
+    shabom_bounce: 50
+    shabom_pop: 50
+    shellblade: 50
+    skulltula: 50
+    soft_beep: 50
+    spit_nut: 50
+    switch: 50
+    sword_bonk: 50
+    talon_hmm: 50
+    talon_snore: 50
+    talon_wtf: 50
+    tambourine: 50
+    target_enemy: 50
+    target_neutral: 50
+    thunder: 50
+    timer: 50
+    adult_zelda_gasp: 50
 
   sfx_nightfall:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 0
-    random_ear_safe: 0
-    random_choice: 0
-    none: 0
-    cockadoodledoo: 0
-    gold_skull_token: 0
-    great_fairy: 0
-    moo: 0
-    mweep: 0
-    redead_moan: 0
-    talon_snore: 0
-    thunder: 0
+    completely_random: 50
+    random_ear_safe: 50
+    random_choice: 50
+    none: 50
+    cockadoodledoo: 50
+    gold_skull_token: 50
+    great_fairy: 50
+    moo: 50
+    mweep: 50
+    redead_moan: 50
+    talon_snore: 50
+    thunder: 50
 
   sfx_horse_neigh:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 0
-    random_ear_safe: 0
-    random_choice: 0
-    none: 0
-    armos: 0
-    child_scream: 0
-    great_fairy: 0
-    moo: 0
-    mweep: 0
-    redead_scream: 0
-    ruto_wiggle: 0
-    stalchild_attack: 0
+    completely_random: 50
+    random_ear_safe: 50
+    random_choice: 50
+    none: 50
+    armos: 50
+    child_scream: 50
+    great_fairy: 50
+    moo: 50
+    mweep: 50
+    redead_scream: 50
+    ruto_wiggle: 50
+    stalchild_attack: 50
 
   sfx_hover_boots:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 0
-    random_ear_safe: 0
-    random_choice: 0
-    none: 0
-    bark: 0
-    cartoon_fall: 0
-    flare_dancer_laugh: 0
-    mweep: 0
-    shabom_pop: 0
-    tambourine: 0
+    completely_random: 50
+    random_ear_safe: 50
+    random_choice: 50
+    none: 50
+    bark: 50
+    cartoon_fall: 50
+    flare_dancer_laugh: 50
+    mweep: 50
+    shabom_pop: 50
+    tambourine: 50
 
   sfx_ocarina:
     # Change the sound of the ocarina.
     ocarina: 50
-    malon: 0
-    whistle: 0
-    harp: 0
-    grind_organ: 0
-    flute: 0
+    malon: 50
+    whistle: 50
+    harp: 50
+    grind_organ: 50
+    flute: 50
 
   ###########################
   # Item & Location Options #
@@ -1921,4 +1921,5 @@ Ocarina of Time:
   plando_items:
     # Generic items plando.
     []
+
 
