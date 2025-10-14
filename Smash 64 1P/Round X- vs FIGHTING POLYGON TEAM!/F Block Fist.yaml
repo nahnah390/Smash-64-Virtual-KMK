@@ -194,7 +194,7 @@ Castlevania 64:
     # Properly considers sequence break tricks in logic (i.e. maze skip). Can be combined with Carrie Logic to include Carrie-only tricks.
     # See the Game Page for a full list of tricks and glitches that may be logically required.
     'false': 50
-    'true': 50
+    'true': 0
 
   multi_hit_breakables:
     # Adds the items that drop from the objects that break in three hits to the pool.
@@ -226,7 +226,7 @@ Castlevania 64:
   hard_item_pool:
     # Replaces some items in the item pool with less valuable ones, to make the item pool sort of resemble Hard Mode in the PAL version.
     'false': 50
-    'true': 50
+    'true': 0
 
   shop_prices:
     # Randomizes the amount of gold each item costs in Renon's shop.
@@ -296,12 +296,12 @@ Castlevania 64:
   nerf_healing_items:
     # Decreases the amount of health healed by Roast Chickens to 25%, Roast Beefs to 50%, and Healing Kits to 80%.
     'false': 50
-    'true': 50
+    'true': 0
 
   loading_zone_heals:
     # Whether end-of-level loading zones restore health and cure status aliments or not.
     # Recommended off for those looking for more of a survival horror experience!
-    'false': 50
+    'false': 0
     'true': 50
 
   invisible_items:
@@ -314,7 +314,7 @@ Castlevania 64:
 
   drop_previous_sub_weapon:
     # When receiving a sub-weapon, the one you had before will drop behind you, so it can be taken back if desired.
-    'false': 50
+    'false': 0
     'true': 50
 
   permanent_powerups:
@@ -372,7 +372,7 @@ Castlevania 64:
     # Hold Z to have all incoming damage be treated as it normally would.
     # Any tricks that might be possible with it are not in logic.
     'false': 50
-    'true': 50
+    'true': 0
 
   panther_dash:
     # Hold C-right at any time to sprint way faster.
@@ -385,7 +385,7 @@ Castlevania 64:
   increase_shimmy_speed:
     # Increases the speed at which characters shimmy left and right while hanging on ledges.
     # Hold Z to use the regular speed in case it's needed to do something.
-    'false': 50
+    'false': 0
     'true': 50
 
   fall_guard:
@@ -511,5 +511,6 @@ Castlevania 64:
   plando_items:
     # Generic items plando.
     []
+
 
 
