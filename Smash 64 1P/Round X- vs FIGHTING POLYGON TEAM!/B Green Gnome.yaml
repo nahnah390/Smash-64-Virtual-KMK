@@ -65,7 +65,7 @@ Majora's Mask Recompiled:
   logic_difficulty:
     # Set the logic difficulty used when generating.
     normal: 50
-    no_logic: 50
+    no_logic: 0
 
   majora_remains_required:
     # Set the amount of boss remains required to fight Majora.
@@ -248,8 +248,8 @@ Majora's Mask Recompiled:
     half: 50
     normal: 50
     double: 50
-    quad: 50
-    ohko: 50
+    quad: 0
+    ohko: 0
 
   death_behavior:
     # Change what happens when you die.
@@ -260,7 +260,7 @@ Majora's Mask Recompiled:
     vanilla: 50
     fast: 50
     instant: 50
-    moon_crash: 50
+    moon_crash: 0
 
   death_link:
     # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
@@ -315,5 +315,6 @@ Majora's Mask Recompiled:
   plando_items:
     # Generic items plando.
     []
+
 
 
