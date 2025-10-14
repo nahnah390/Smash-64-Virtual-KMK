@@ -1,0 +1,411 @@
+﻿# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify that your Archipelago options are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game, limited to 16 characters.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: Player{number}
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Lunacid Template
+
+game: Lunacid
+requires:
+  version: 0.6.3 # Version of Archipelago required for this yaml to work as expected.
+
+Lunacid:
+  ################
+  # Game Options #
+  ################
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # **Full:** ensure everything can be reached and acquired.
+    # 
+    # **Minimal:** ensure what is needed to reach your goal can be acquired.
+    full: 50
+    minimal: 0
+
+  ending:
+    # Choose which ending is required to complete the game.
+    # Ending A: Reach Chamber of the Sleeper without all spells and awaken the Dreamer.
+    # Ending B: Obtain enough Strange Coins and enter the door located in the Labyrinth of Ash.
+    # Ending CD: Reach Chamber of the Sleeper and stare into the water pool.
+    # Ending E: Reach Chamber of the Sleeper with all spells after watching the White VHS Tape and awaken the Dreamer.
+    any_ending: 0
+    ending_a: 50
+    ending_b: 0
+    ending_cd: 0
+    ending_e: 0
+
+  starting_class:
+    # The class you play as.
+    # Note: The following classes are handled differently in the game:
+    # Vampire has free access to the cattle cells and the first area, so the first vampiric symbol is unnecessary.
+    # Custom is an advanced option.  If on a website its values will not be visible.  You know how it is smh.
+    thief: 50
+    knight: 0
+    witch: 0
+    vampire: 0
+    undead: 0
+    royal: 0
+    cleric: 0
+    shinobi: 0
+    forsaken: 0
+    custom: 0
+
+  starting_area:
+    # Where the player starts.  You will always land in the starting spot in Hollow Basin but it will be blocked off.
+    # Demi will warp you to Wing's Rest, and the crystal will have the given starting area.
+    # If starting area is Accursed Tomb, Clive will give you an Oil Lantern.
+    basin: 50
+    mire: 0
+    forest: 0
+    archives: 0
+    tomb: 0
+    castle: 0
+    grotto: 0
+    prison: 0
+    arena: 0
+    ash: 0
+
+  entrance_randomization:
+    # Shuffles the entrances around.  The only untouched entrances are crystal warps (including spell/item), entrance to Chamber of Fate, entrance to
+    # Grave of the Sleeper, and the doors of Tower of Abyss.
+    'false': 50
+    'true': 0
+
+  experience:
+    # Multiplier for gained experience as a percent.  Ranges from 25% to 400%.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 25
+    # Maximum value is 400
+    100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  weapon_experience:
+    # Multiplier for gained weapon experience as a percent.  Ranges from 25% to 400%
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 25
+    # Maximum value is 400
+    100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  random_elements:
+    # Randomizes the elements of almost all weapons and spells.  Guaranteed Poison ranged option.
+    # Lucid Blade and Wand of Power are not randomized (either due to limitation, or to guarantee victory)
+    'false': 50
+    'true': 0
+
+  enemy_randomization:
+    # Shuffles the in-game enemies around. Each enemy in the game is replaced by some other enemy.
+    # THIS IS EXPERIMENTAL.  Report any weirdness or problems.
+    'false': 50
+    'true': 0
+
+  required_strange_coin:
+    # Changes the required coins needed to open the door for Ending B.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 60
+    30: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  total_strange_coin:
+    # The total amount of strange coins placed in the multiworld.  Matches required if lower than it.
+    # Note: Filler will be replaced to compensate.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 60
+    30: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  shopsanity:
+    # Choose whether the unique items Sheryl the Crow sells are locations.
+    # Adds 9 locations.
+    'false': 50
+    'true': 0
+
+  dropsanity:
+    # Choose whether the items monsters drop are locations.
+    # Off: All drops are vanilla.
+    # Uniques: Only the unique first-drop items (weapons, spells, elixirs) are locations.  Adds 19 locations.
+    # Randomized: Each drop is a location.  WARNING SOME DROPS ARE HORRIBLE TO GET.  Adds 143 locations.
+    'off': 50
+    uniques: 0
+    randomized: 0
+
+  quenchsanity:
+    # If a weapon can gain experience, if it is quenched, it returns a check.
+    # Quenching a weapon now no longer upgrades the weapons, and all quench weapons are added to the pool.
+    # Exceptions: Brittle Arming Sword repairs itself for the sake of the player, and Death Scythe is removed from the inventory as normal.
+    'false': 50
+    'true': 0
+
+  etnas_pupil:
+    # Become Etna's pupil!  As in, all alchemy creations are locations to check.  Cmon saying -sanity a lot is boring.
+    # If Dropsanity: Randomized is selected, each material is force placed on drops or alchemy spots to ensure repeatability.
+    'false': 50
+    'true': 0
+
+  bookworm:
+    # Love reading?  Of course you do!  Every lore spot is a check.  Does not include basic signs.  All of this will be on the exam.
+    # Adds 67 locations.
+    'false': 50
+    'true': 0
+
+  levelsanity:
+    # The experience you would gain instead gives you checks for every level.  Levels in the form of Deep Knowledge items are given to compensate which do give a level.
+    # Adds up to 100 locations (amount depends on starting class).
+    'false': 50
+    'true': 0
+
+  grasssanity:
+    # Every foliage object that normally drops something is a check.  The original drops do drop as normal for now.  Adds 502 locations.
+    'false': 50
+    'true': 0
+
+  breakables:
+    # Every non-foliage breakable object that normally drops something is a check.  The original drops do drop as normal for now.  Adds 318 locations.
+    'false': 50
+    'true': 0
+
+  normalized_drops:
+    # Every enemy drop is normalized against the chance of dropping nothing.  Specifically, if an enemy
+    # has a weight of X to drop nothing, everything else also has a weight of X, and is split evenly for every
+    # item it could drop.  Helps with the sin of the Angel Feather.
+    'false': 50
+    'true': 0
+
+  secret_door_lock:
+    # All secret doors are locked until receiving the Dusty Crystal Orb.
+    'false': 50
+    'true': 0
+
+  switch_locks:
+    # All physical switches (not mirages) are locked, and cannot be flipped without their relevant item.
+    # Note: Removes filler at random to compensate.
+    'false': 50
+    'true': 0
+
+  door_locks:
+    # All physical doors leading to new zones are locked, and cannot be opened without their relevant item.
+    # Note: Removes filler at random to compensate.
+    'false': 50
+    'true': 0
+
+  filler:
+    # Lets you decide which filler are added to the game and their weights.  If the set is empty or all values are zero,
+    # Silver and Deep Knowledge will be forced included with weights of 1. Amount received in game is a random value between 1~5, favoring 1~2.
+    Angel Feather: 1
+    Antidote: 3
+    Ashes: 2
+    Blood Wine: 3
+    Bloodweed: 2
+    Bomb: 1
+    Bones: 2
+    Cloth Bandage: 3
+    Crystal Shard: 3
+    Dark Urn: 2
+    Deep Knowledge: 1
+    Destroying Angel Mushroom: 2
+    Ectoplasm: 2
+    Fairy Moss: 3
+    Fiddlehead: 2
+    Fire Coral: 2
+    Fire Opal: 2
+    Fool's Gold: 2
+    Health Vial: 3
+    Holy Water: 3
+    Ikurr'ilb Root: 2
+    Light Urn: 2
+    Lotus Seed Pod: 2
+    Mana Vial: 3
+    Moon Petal: 2
+    Moonlight Vial: 2
+    Obsidian: 2
+    Ocean Bone Shard: 2
+    Ocean Bone Shell: 2
+    Onyx: 2
+    Opal: 2
+    Pink Shrimp: 2
+    Poison Throwing Knife: 3
+    Poison Urn: 2
+    Silver: 8
+    Snowflake Obsidian: 2
+    Spectral Candle: 2
+    Staff of Osiris: 2
+    Survey Banner: 2
+    Throwing Knife: 3
+    Vampiric Ashes: 2
+    Wisp Heart: 2
+    Yellow Morel: 2
+
+  filler_local_percent:
+    # How much of filler is forced local?  Helpful when you don't want to fill the multiworld with your own junk but its fine if some of it bleeds out.
+    # Note that 0% just means none of it is *forced* to be local, not that it is all non-local.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 98
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  traps:
+    # Lets you decide which traps are in your game and their weights.  If empty or all values are zero, same as having 0 Trap Percent.
+    # Certain joyous traps are allowed during Christmas, otherwise are ignored.
+    # Acceptable Traps: "Bleed Trap", "Poison Trap", "Curse Trap", "Slowness Trap", "Blindness Trap", "Mana Drain Trap", "XP Drain Trap", Coal, Eggnog.
+    Bleed Trap: 1
+    Blindness Trap: 1
+    Coal: 1
+    Curse Trap: 1
+    Eggnog: 1
+    Health ViaI: 1
+    Mana Drain Trap: 1
+    Poison Trap: 1
+    Slowness Trap: 1
+    XP Drain Trap: 1
+
+  trap_percent:
+    # Percent of filler items to be converted to traps.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    20: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  custom_music:
+    # Lets you use custom music.  If on, will read from a CustomMusic folder in the game's base directory.  Only accepts mp3 files.
+    # If no music is supplied, will be the same as if this setting was off.
+    'false': 50
+    'true': 0
+
+  item_colors:
+    # Lets you determine the colors of items in-game using hexadecimal.  This includes Progression, Useful, Trap, Filler, Gifts, and
+    # Cheated (!getitem, starting inventory, etc).
+    Cheat: '#FF0000'
+    Filler: '#1EFF00'
+    Gift: '#FF8DA1'
+    ProgUseful: '#FF8000'
+    Progression: '#A335EE'
+    Trap: '#FA8072'
+    Useful: '#0070DD'
+
+  custom_class:
+    # If 'Custom' is chosen for starting class, this is used as a stand-in for that information.
+    # If Name or Description is 'RANDOM', or any stat is -1, a random value will be supplied.
+    # Level ranges from 1 to 10.
+    # Stats (Strength to Resistance) range from 1 to 20.
+    # Resistances (Normal Res to Dark Res) range from 0 to 300.
+    Dark Res: -1
+    Defense: -1
+    Description: RANDOM
+    Dexterity: -1
+    Fire Res: -1
+    Ice Res: -1
+    Intelligence: -1
+    Level: -1
+    Light Res: -1
+    Name: RANDOM
+    Normal Res: -1
+    Poison Res: -1
+    Resistance: -1
+    Speed: -1
+    Strength: -1
+
+  death_link:
+    # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
+    'false': 50
+    'true': 0
+
+  ###########################
+  # Item & Location Options #
+  ###########################
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  plando_items:
+    # Generic items plando.
+    []
