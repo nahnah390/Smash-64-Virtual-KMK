@@ -46,12 +46,12 @@ Lunacid:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low:50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,7 +60,7 @@ Lunacid:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   ending:
     # Choose which ending is required to complete the game.
@@ -68,11 +68,11 @@ Lunacid:
     # Ending B: Obtain enough Strange Coins and enter the door located in the Labyrinth of Ash.
     # Ending CD: Reach Chamber of the Sleeper and stare into the water pool.
     # Ending E: Reach Chamber of the Sleeper with all spells after watching the White VHS Tape and awaken the Dreamer.
-    any_ending: 0
+    any_ending: 50
     ending_a: 50
-    ending_b: 0
-    ending_cd: 0
-    ending_e: 0
+    ending_b: 50
+    ending_cd: 50
+    ending_e: 50
 
   starting_class:
     # The class you play as.
@@ -80,14 +80,14 @@ Lunacid:
     # Vampire has free access to the cattle cells and the first area, so the first vampiric symbol is unnecessary.
     # Custom is an advanced option.  If on a website its values will not be visible.  You know how it is smh.
     thief: 50
-    knight: 0
-    witch: 0
-    vampire: 0
-    undead: 0
-    royal: 0
-    cleric: 0
-    shinobi: 0
-    forsaken: 0
+    knight: 50
+    witch: 50
+    vampire: 50
+    undead: 50
+    royal: 50
+    cleric: 50
+    shinobi: 50
+    forsaken: 50
     custom: 0
 
   starting_area:
@@ -95,21 +95,21 @@ Lunacid:
     # Demi will warp you to Wing's Rest, and the crystal will have the given starting area.
     # If starting area is Accursed Tomb, Clive will give you an Oil Lantern.
     basin: 50
-    mire: 0
-    forest: 0
-    archives: 0
-    tomb: 0
-    castle: 0
-    grotto: 0
-    prison: 0
-    arena: 0
-    ash: 0
+    mire: 50
+    forest: 50
+    archives: 50
+    tomb: 50
+    castle: 50
+    grotto: 50
+    prison: 50
+    arena: 50
+    ash: 50
 
   entrance_randomization:
     # Shuffles the entrances around.  The only untouched entrances are crystal warps (including spell/item), entrance to Chamber of Fate, entrance to
     # Grave of the Sleeper, and the doors of Tower of Abyss.
     'false': 50
-    'true': 0
+    'true': 50
 
   experience:
     # Multiplier for gained experience as a percent.  Ranges from 25% to 400%.
@@ -118,9 +118,9 @@ Lunacid:
     # Minimum value is 25
     # Maximum value is 400
     100: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   weapon_experience:
     # Multiplier for gained weapon experience as a percent.  Ranges from 25% to 400%
@@ -129,15 +129,15 @@ Lunacid:
     # Minimum value is 25
     # Maximum value is 400
     100: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   random_elements:
     # Randomizes the elements of almost all weapons and spells.  Guaranteed Poison ranged option.
     # Lucid Blade and Wand of Power are not randomized (either due to limitation, or to guarantee victory)
     'false': 50
-    'true': 0
+    'true': 50
 
   enemy_randomization:
     # Shuffles the in-game enemies around. Each enemy in the game is replaced by some other enemy.
@@ -152,9 +152,9 @@ Lunacid:
     # Minimum value is 1
     # Maximum value is 60
     30: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   total_strange_coin:
     # The total amount of strange coins placed in the multiworld.  Matches required if lower than it.
@@ -164,15 +164,15 @@ Lunacid:
     # Minimum value is 1
     # Maximum value is 60
     30: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   shopsanity:
     # Choose whether the unique items Sheryl the Crow sells are locations.
     # Adds 9 locations.
     'false': 50
-    'true': 0
+    'true': 50
 
   dropsanity:
     # Choose whether the items monsters drop are locations.
@@ -180,67 +180,67 @@ Lunacid:
     # Uniques: Only the unique first-drop items (weapons, spells, elixirs) are locations.  Adds 19 locations.
     # Randomized: Each drop is a location.  WARNING SOME DROPS ARE HORRIBLE TO GET.  Adds 143 locations.
     'off': 50
-    uniques: 0
-    randomized: 0
+    uniques: 50
+    randomized: 50
 
   quenchsanity:
     # If a weapon can gain experience, if it is quenched, it returns a check.
     # Quenching a weapon now no longer upgrades the weapons, and all quench weapons are added to the pool.
     # Exceptions: Brittle Arming Sword repairs itself for the sake of the player, and Death Scythe is removed from the inventory as normal.
     'false': 50
-    'true': 0
+    'true': 50
 
   etnas_pupil:
     # Become Etna's pupil!  As in, all alchemy creations are locations to check.  Cmon saying -sanity a lot is boring.
     # If Dropsanity: Randomized is selected, each material is force placed on drops or alchemy spots to ensure repeatability.
     'false': 50
-    'true': 0
+    'true': 50
 
   bookworm:
     # Love reading?  Of course you do!  Every lore spot is a check.  Does not include basic signs.  All of this will be on the exam.
     # Adds 67 locations.
     'false': 50
-    'true': 0
+    'true': 50
 
   levelsanity:
     # The experience you would gain instead gives you checks for every level.  Levels in the form of Deep Knowledge items are given to compensate which do give a level.
     # Adds up to 100 locations (amount depends on starting class).
     'false': 50
-    'true': 0
+    'true': 50
 
   grasssanity:
     # Every foliage object that normally drops something is a check.  The original drops do drop as normal for now.  Adds 502 locations.
     'false': 50
-    'true': 0
+    'true': 50
 
   breakables:
     # Every non-foliage breakable object that normally drops something is a check.  The original drops do drop as normal for now.  Adds 318 locations.
     'false': 50
-    'true': 0
+    'true': 50
 
   normalized_drops:
     # Every enemy drop is normalized against the chance of dropping nothing.  Specifically, if an enemy
     # has a weight of X to drop nothing, everything else also has a weight of X, and is split evenly for every
     # item it could drop.  Helps with the sin of the Angel Feather.
     'false': 50
-    'true': 0
+    'true': 50
 
   secret_door_lock:
     # All secret doors are locked until receiving the Dusty Crystal Orb.
     'false': 50
-    'true': 0
+    'true': 50
 
   switch_locks:
     # All physical switches (not mirages) are locked, and cannot be flipped without their relevant item.
     # Note: Removes filler at random to compensate.
     'false': 50
-    'true': 0
+    'true': 50
 
   door_locks:
     # All physical doors leading to new zones are locked, and cannot be opened without their relevant item.
     # Note: Removes filler at random to compensate.
     'false': 50
-    'true': 0
+    'true': 50
 
   filler:
     # Lets you decide which filler are added to the game and their weights.  If the set is empty or all values are zero,
@@ -297,9 +297,9 @@ Lunacid:
     # Minimum value is 0
     # Maximum value is 98
     0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   traps:
     # Lets you decide which traps are in your game and their weights.  If empty or all values are zero, same as having 0 Trap Percent.
@@ -323,15 +323,15 @@ Lunacid:
     # Minimum value is 0
     # Maximum value is 100
     20: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   custom_music:
     # Lets you use custom music.  If on, will read from a CustomMusic folder in the game's base directory.  Only accepts mp3 files.
     # If no music is supplied, will be the same as if this setting was off.
     'false': 50
-    'true': 0
+    'true': 50
 
   item_colors:
     # Lets you determine the colors of items in-game using hexadecimal.  This includes Progression, Useful, Trap, Filler, Gifts, and
@@ -369,7 +369,7 @@ Lunacid:
   death_link:
     # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
     'false': 50
-    'true': 0
+    'true': 50
 
   ###########################
   # Item & Location Options #
@@ -409,4 +409,5 @@ Lunacid:
   plando_items:
     # Generic items plando.
     []
+
 
