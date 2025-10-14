@@ -90,8 +90,8 @@ Ocarina of Time:
     # - Beehive shuffle
     # No Logic: No logic is used when placing items. Not recommended for most players.
     glitchless: 50
-    glitched: 50
-    no_logic: 50
+    glitched: 0
+    no_logic: 0
 
   logic_no_night_tokens_without_suns_song:
     # When enabled, nighttime skulltulas logically require Sun's Song.
@@ -278,7 +278,7 @@ Ocarina of Time:
     # If enabled, this will impact the logic of dungeons where shortcuts are available.
     # Choice: Use the option "dungeon_shortcuts_list" to choose shortcuts.
     'off': 50
-    choice: 50
+    choice: 0
     all: 50
     random_dungeons: 50
 
@@ -294,7 +294,7 @@ Ocarina of Time:
     # Count: Use the option "mq_dungeons_count" to choose a number of random dungeons as MQ.
     vanilla: 50
     mq: 50
-    specific: 50
+    specific: 0
     count: 50
 
   mq_dungeons_list:
@@ -305,9 +305,9 @@ Ocarina of Time:
     # With MQ dungeons as Count: number of randomly-selected dungeons to be MQ layout.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 50
+    # Minimum value is 0
     # Maximum value is 12
-    50: 50
+    0: 50
     random: 50
     random-low: 50
     random-high: 50
@@ -316,7 +316,7 @@ Ocarina of Time:
     # With Stones bridge: set the number of Spiritual Stones required.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 50
+    # Minimum value is 0
     # Maximum value is 3
     3: 50
     random: 50
@@ -327,7 +327,7 @@ Ocarina of Time:
     # With Medallions bridge: set the number of medallions required.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 50
+    # Minimum value is 0
     # Maximum value is 6
     6: 50
     random: 50
@@ -338,7 +338,7 @@ Ocarina of Time:
     # With Dungeons bridge: set the number of dungeon rewards required.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 50
+    # Minimum value is 0
     # Maximum value is 9
     9: 50
     random: 50
@@ -349,7 +349,7 @@ Ocarina of Time:
     # With Tokens bridge: set the number of Gold Skulltula Tokens required.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 50
+    # Minimum value is 0
     # Maximum value is 100
     40: 50
     random: 50
@@ -532,7 +532,7 @@ Ocarina of Time:
     # Overworld: Maps and compasses are shuffled locally outside of dungeons.
     # Any Dungeon: Maps and compasses are shuffled locally in any dungeon.
     # Keysanity: Maps and compasses can be anywhere in the multiworld.
-    remove: 50
+    remove: 0
     startwith: 50
     vanilla: 50
     dungeon: 50
@@ -845,29 +845,29 @@ Ocarina of Time:
     # Complete: randomizes every textbox, including the useful ones.
     none: 50
     except_hints: 50
-    complete: 50
+    complete: 0
 
   damage_multiplier:
     # Controls the amount of damage Link takes.
     half: 50
     normal: 50
     double: 50
-    quadruple: 50
-    ohko: 50
+    quadruple: 0
+    ohko: 0
 
   deadly_bonks:
     # Bonking on a wall or object will hurt Link. "Normal" is a half heart of damage.
     none: 50
     half: 50
     normal: 50
-    double: 50
-    quadruple: 50
-    ohko: 50
+    double: 0
+    quadruple: 0
+    ohko: 0
 
   no_collectible_hearts:
     # Hearts will not drop from enemies or objects.
     'false': 50
-    'true': 40
+    'true': 0
 
   starting_tod:
     # Change the starting time of day.
@@ -911,10 +911,10 @@ Ocarina of Time:
     # Balanced: Original item pool.
     # Scarce: Extra copies of major items are removed. Heart containers are removed.
     # Minimal: All major item upgrades not used for locations are removed. All health is removed.
-    plentiful: 50
+    plentiful: 0
     balanced: 50
-    scarce: 50
-    minimal: 50
+    scarce: 0
+    minimal: 0
 
   junk_ice_traps:
     # Adds ice traps to the item pool.
@@ -1578,301 +1578,301 @@ Ocarina of Time:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 50
+    completely_random: 0
     random_ear_safe: 50
-    random_choice: 50
-    none: 50
-    bark: 50
-    business_scrub: 50
-    carrot_refill: 50
-    cluck: 50
-    cockadoodledoo: 50
-    dusk_howl: 50
-    exploding_crate: 50
-    explosion: 50
-    great_fairy: 50
-    guay: 50
-    low_health: 50
-    recover_health: 50
-    horse_neigh: 50
-    shattering_ice: 50
-    moo: 50
-    mweep: 50
-    navi_hello: 50
-    notification: 50
-    poe: 50
-    shattering_pot: 50
-    redead_scream: 50
-    ribbit: 50
-    ruto_giggle: 50
-    skulltula: 50
-    soft_beep: 50
-    tambourine: 50
-    timer: 50
-    adult_zelda_gasp: 50
+    random_choice: 0
+    none: 0
+    bark: 0
+    business_scrub: 0
+    carrot_refill: 0
+    cluck: 0
+    cockadoodledoo: 0
+    dusk_howl: 0
+    exploding_crate: 0
+    explosion: 0
+    great_fairy: 0
+    guay: 0
+    low_health: 0
+    recover_health: 0
+    horse_neigh: 0
+    shattering_ice: 0
+    moo: 0
+    mweep: 0
+    navi_hello: 0
+    notification: 0
+    poe: 0
+    shattering_pot: 0
+    redead_scream: 0
+    ribbit: 0
+    ruto_giggle: 0
+    skulltula: 0
+    soft_beep: 0
+    tambourine: 0
+    timer: 0
+    adult_zelda_gasp: 0
 
   sfx_navi_enemy:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 50
+    completely_random: 0
     random_ear_safe: 50
-    random_choice: 50
+    random_choice: 0
     none: 50
-    bark: 50
-    business_scrub: 50
-    carrot_refill: 50
-    cluck: 50
-    cockadoodledoo: 50
-    dusk_howl: 50
-    exploding_crate: 50
-    explosion: 50
-    great_fairy: 50
-    guay: 50
-    low_health: 50
-    recover_health: 50
-    horse_neigh: 50
-    shattering_ice: 50
-    moo: 50
-    mweep: 50
-    navi_hello: 50
-    notification: 50
-    poe: 50
-    shattering_pot: 50
-    redead_scream: 50
-    ribbit: 50
-    ruto_giggle: 50
-    skulltula: 50
-    soft_beep: 50
-    tambourine: 50
-    timer: 50
-    adult_zelda_gasp: 50
+    bark: 0
+    business_scrub: 0
+    carrot_refill: 0
+    cluck: 0
+    cockadoodledoo: 0
+    dusk_howl: 0
+    exploding_crate: 0
+    explosion: 0
+    great_fairy: 0
+    guay: 0
+    low_health: 0
+    recover_health: 0
+    horse_neigh: 0
+    shattering_ice: 0
+    moo: 0
+    mweep: 0
+    navi_hello: 0
+    notification: 0
+    poe: 0
+    shattering_pot: 0
+    redead_scream: 0
+    ribbit: 0
+    ruto_giggle: 0
+    skulltula: 0
+    soft_beep: 0
+    tambourine: 0
+    timer: 0
+    adult_zelda_gasp: 0
 
   sfx_low_hp:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 50
+    completely_random: 0
     random_ear_safe: 50
-    random_choice: 50
-    none: 50
-    bark: 50
-    bomb_bounce: 50
-    bongo_bongo_low: 50
-    bow_twang: 50
-    business_scrub: 50
-    carrot_refill: 50
-    cluck: 50
-    drawbridge_set: 50
-    guay: 50
-    recover_health: 50
-    horse_trot: 50
-    iron_boots: 50
-    moo: 50
-    mweep: 50
-    navi_hey: 50
-    navi_random: 50
-    notification: 50
-    shattering_pot: 50
-    ribbit: 50
-    silver_rupee: 50
-    soft_beep: 50
-    switch: 50
-    sword_bonk: 50
-    tambourine: 50
-    timer: 50
-    adult_zelda_gasp: 50
+    random_choice: 0
+    none: 0
+    bark: 0
+    bomb_bounce: 0
+    bongo_bongo_low: 0
+    bow_twang: 0
+    business_scrub: 0
+    carrot_refill: 0
+    cluck: 0
+    drawbridge_set: 0
+    guay: 0
+    recover_health: 0
+    horse_trot: 0
+    iron_boots: 0
+    moo: 0
+    mweep: 0
+    navi_hey: 0
+    navi_random: 0
+    notification: 0
+    shattering_pot: 0
+    ribbit: 0
+    silver_rupee: 0
+    soft_beep: 0
+    switch: 0
+    sword_bonk: 0
+    tambourine: 0
+    timer: 0
+    adult_zelda_gasp: 0
 
   sfx_menu_cursor:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 50
+    completely_random: 0
     random_ear_safe: 50
-    random_choice: 50
-    none: 50
-    bark: 50
-    bomb_bounce: 50
-    bongo_bongo_high: 50
-    bongo_bongo_low: 50
-    bottle_cork: 50
-    bow_twang: 50
-    bubble_laugh: 50
-    carrot_refill: 50
-    change_item: 50
-    child_pant: 50
-    cluck: 50
-    deku_baba: 50
-    drawbridge_set: 50
-    dusk_howl: 50
-    fanfare_light: 50
-    fanfare_medium: 50
-    field_shrub: 50
-    flare_dancer_startled: 50
-    ganondorf_teh: 50
-    gohma_larva_croak: 50
-    gold_skull_token: 50
-    goron_wake: 50
-    guay: 50
-    gunshot: 50
-    low_health: 50
-    recover_health: 50
-    hammer_bonk: 50
-    horse_trot: 50
-    iron_boots: 50
-    iron_knuckle: 50
-    moo: 50
-    mweep: 50
-    notification: 50
-    phantom_ganon_laugh: 50
-    plant_explode: 50
-    shattering_pot: 50
-    redead_moan: 50
-    ribbit: 50
-    rupee: 50
-    silver_rupee: 50
-    ruto_crash: 50
-    ruto_lift: 50
-    ruto_thrown: 50
-    scrub_emerge: 50
-    shabom_bounce: 50
-    shabom_pop: 50
-    shellblade: 50
-    skulltula: 50
-    soft_beep: 50
-    spit_nut: 50
-    switch: 50
-    sword_bonk: 50
-    talon_hmm: 50
-    talon_snore: 50
-    talon_wtf: 50
-    tambourine: 50
-    target_enemy: 50
-    target_neutral: 50
-    thunder: 50
-    timer: 50
-    adult_zelda_gasp: 50
+    random_choice: 0
+    none: 0
+    bark: 0
+    bomb_bounce: 0
+    bongo_bongo_high: 0
+    bongo_bongo_low: 0
+    bottle_cork: 0
+    bow_twang: 0
+    bubble_laugh: 0
+    carrot_refill: 0
+    change_item: 0
+    child_pant: 0
+    cluck: 0
+    deku_baba: 0
+    drawbridge_set: 0
+    dusk_howl: 0
+    fanfare_light: 0
+    fanfare_medium: 0
+    field_shrub: 0
+    flare_dancer_startled: 0
+    ganondorf_teh: 0
+    gohma_larva_croak: 0
+    gold_skull_token: 0
+    goron_wake: 0
+    guay: 0
+    gunshot: 0
+    low_health: 0
+    recover_health: 0
+    hammer_bonk: 0
+    horse_trot: 0
+    iron_boots: 0
+    iron_knuckle: 0
+    moo: 0
+    mweep: 0
+    notification: 0
+    phantom_ganon_laugh: 0
+    plant_explode: 0
+    shattering_pot: 0
+    redead_moan: 0
+    ribbit: 0
+    rupee: 0
+    silver_rupee: 0
+    ruto_crash: 0
+    ruto_lift: 0
+    ruto_thrown: 0
+    scrub_emerge: 0
+    shabom_bounce: 0
+    shabom_pop: 0
+    shellblade: 0
+    skulltula: 0
+    soft_beep: 0
+    spit_nut: 0
+    switch: 0
+    sword_bonk: 0
+    talon_hmm: 0
+    talon_snore: 0
+    talon_wtf: 0
+    tambourine: 0
+    target_enemy: 0
+    target_neutral: 0
+    thunder: 0
+    timer: 0
+    adult_zelda_gasp: 0
 
   sfx_menu_select:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 50
+    completely_random: 0
     random_ear_safe: 50
-    random_choice: 50
-    none: 50
-    bark: 50
-    bomb_bounce: 50
-    bongo_bongo_high: 50
-    bongo_bongo_low: 50
-    bottle_cork: 50
-    bow_twang: 50
-    bubble_laugh: 50
-    carrot_refill: 50
-    change_item: 50
-    child_cringe: 50
-    child_pant: 50
-    child_scream: 50
-    cluck: 50
-    deku_baba: 50
-    drawbridge_set: 50
-    dusk_howl: 50
-    fanfare_light: 50
-    fanfare_medium: 50
-    field_shrub: 50
-    flare_dancer_startled: 50
-    ganondorf_teh: 50
-    gohma_larva_croak: 50
-    gold_skull_token: 50
-    goron_wake: 50
-    guay: 50
-    gunshot: 50
-    low_health: 50
-    recover_health: 50
-    hammer_bonk: 50
-    horse_trot: 50
-    iron_boots: 50
-    iron_knuckle: 50
-    moo: 50
-    mweep: 50
-    notification: 50
-    phantom_ganon_laugh: 50
-    plant_explode: 50
-    shattering_pot: 50
-    redead_moan: 50
-    ribbit: 50
-    rupee: 50
-    silver_rupee: 50
-    ruto_crash: 50
-    ruto_lift: 50
-    ruto_thrown: 50
-    scrub_emerge: 50
-    shabom_bounce: 50
-    shabom_pop: 50
-    shellblade: 50
-    skulltula: 50
-    soft_beep: 50
-    spit_nut: 50
-    switch: 50
-    sword_bonk: 50
-    talon_hmm: 50
-    talon_snore: 50
-    talon_wtf: 50
-    tambourine: 50
-    target_enemy: 50
-    target_neutral: 50
-    thunder: 50
-    timer: 50
-    adult_zelda_gasp: 50
+    random_choice: 0
+    none: 0
+    bark: 0
+    bomb_bounce: 0
+    bongo_bongo_high: 0
+    bongo_bongo_low: 0
+    bottle_cork: 0
+    bow_twang: 0
+    bubble_laugh: 0
+    carrot_refill: 0
+    change_item: 0
+    child_cringe: 0
+    child_pant: 0
+    child_scream: 0
+    cluck: 0
+    deku_baba: 0
+    drawbridge_set: 0
+    dusk_howl: 0
+    fanfare_light: 0
+    fanfare_medium: 0
+    field_shrub: 0
+    flare_dancer_startled: 0
+    ganondorf_teh: 0
+    gohma_larva_croak: 0
+    gold_skull_token: 0
+    goron_wake: 0
+    guay: 0
+    gunshot: 0
+    low_health: 0
+    recover_health: 0
+    hammer_bonk: 0
+    horse_trot: 0
+    iron_boots: 0
+    iron_knuckle: 0
+    moo: 0
+    mweep: 0
+    notification: 0
+    phantom_ganon_laugh: 0
+    plant_explode: 0
+    shattering_pot: 0
+    redead_moan: 0
+    ribbit: 0
+    rupee: 0
+    silver_rupee: 0
+    ruto_crash: 0
+    ruto_lift: 0
+    ruto_thrown: 0
+    scrub_emerge: 0
+    shabom_bounce: 0
+    shabom_pop: 0
+    shellblade: 0
+    skulltula: 0
+    soft_beep: 0
+    spit_nut: 0
+    switch: 0
+    sword_bonk: 0
+    talon_hmm: 0
+    talon_snore: 0
+    talon_wtf: 0
+    tambourine: 0
+    target_enemy: 0
+    target_neutral: 0
+    thunder: 0
+    timer: 0
+    adult_zelda_gasp: 0
 
   sfx_nightfall:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 50
+    completely_random: 0
     random_ear_safe: 50
-    random_choice: 50
-    none: 50
-    cockadoodledoo: 50
-    gold_skull_token: 50
-    great_fairy: 50
-    moo: 50
-    mweep: 50
-    redead_moan: 50
-    talon_snore: 50
-    thunder: 50
+    random_choice: 0
+    none: 0
+    cockadoodledoo: 0
+    gold_skull_token: 0
+    great_fairy: 0
+    moo: 0
+    mweep: 0
+    redead_moan: 0
+    talon_snore: 0
+    thunder: 0
 
   sfx_horse_neigh:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 50
+    completely_random: 0
     random_ear_safe: 50
-    random_choice: 50
-    none: 50
-    armos: 50
-    child_scream: 50
-    great_fairy: 50
-    moo: 50
-    mweep: 50
-    redead_scream: 50
-    ruto_wiggle: 50
-    stalchild_attack: 50
+    random_choice: 0
+    none: 0
+    armos: 0
+    child_scream: 0
+    great_fairy: 0
+    moo: 0
+    mweep: 0
+    redead_scream: 0
+    ruto_wiggle: 0
+    stalchild_attack: 0
 
   sfx_hover_boots:
     # Choose a sound effect. "random_choice" selects a random option. "random_ear_safe" selects a random safe option.
     # "completely_random" selects any random sound.
     default: 50
-    completely_random: 50
+    completely_random: 0
     random_ear_safe: 50
-    random_choice: 50
-    none: 50
-    bark: 50
-    cartoon_fall: 50
-    flare_dancer_laugh: 50
-    mweep: 50
-    shabom_pop: 50
-    tambourine: 50
+    random_choice: 0
+    none: 0
+    bark: 0
+    cartoon_fall: 0
+    flare_dancer_laugh: 0
+    mweep: 0
+    shabom_pop: 0
+    tambourine: 0
 
   sfx_ocarina:
     # Change the sound of the ocarina.
@@ -1921,5 +1921,6 @@ Ocarina of Time:
   plando_items:
     # Generic items plando.
     []
+
 
 
