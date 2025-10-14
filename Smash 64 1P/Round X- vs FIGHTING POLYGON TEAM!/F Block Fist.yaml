@@ -46,12 +46,12 @@ Castlevania 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -62,58 +62,58 @@ Castlevania 64:
     # 
     # **Items:** ensure all logically relevant items can be acquired. Some items, such as keys, may be self-locking, and
     # some locations may be inaccessible.
-    full: 0
-    minimal: 0
+    full: 50
+    minimal: 50
     items: 50
 
   character_stages:
     # Whether to include Reinhardt-only stages, Carrie-only stages, or both with or without branching paths at the end of Villa and Castle Center.
     both: 50
-    branchless_both: 0
-    reinhardt_only: 0
-    carrie_only: 0
+    branchless_both: 50
+    reinhardt_only: 50
+    carrie_only: 50
 
   stage_shuffle:
     # Shuffles which stages appear in which stage slots.
     # Villa and Castle Center will never appear in any character stage slots if Character Stages is set to Both; they can only be somewhere on the main path.
     # Castle Keep will always be at the end of the line.
     'false': 50
-    'true': 0
+    'true': 50
 
   starting_stage:
     # Which stage to start at if Stage Shuffle is turned on.
-    forest_of_silence: 0
-    castle_wall: 0
-    villa: 0
-    tunnel: 0
-    underground_waterway: 0
-    castle_center: 0
-    duel_tower: 0
-    tower_of_execution: 0
-    tower_of_science: 0
-    tower_of_sorcery: 0
-    room_of_clocks: 0
-    clock_tower: 0
+    forest_of_silence: 50
+    castle_wall: 50
+    villa: 50
+    tunnel: 50
+    underground_waterway: 50
+    castle_center: 50
+    duel_tower: 50
+    tower_of_execution: 50
+    tower_of_science: 50
+    tower_of_sorcery: 50
+    room_of_clocks: 50
+    clock_tower: 50
     random: 50
 
   warp_order:
     # Arranges the warps in the warp menu in whichever stage order chosen, thereby changing the order they are unlocked in.
     seed_stage_order: 50
-    vanilla_stage_order: 0
-    randomized_order: 0
+    vanilla_stage_order: 50
+    randomized_order: 50
 
   sub_weapon_shuffle:
     # Shuffles all sub-weapons in the game within each other in their own pool or in the main item pool.
     'off': 50
-    own_pool: 0
-    anywhere: 0
+    own_pool: 50
+    anywhere: 50
 
   spare_keys:
     # Puts an additional copy of every non-Special key item in the pool for every key item that there is.
     # Chance gives each key item a 50% chance of having a duplicate instead of guaranteeing one for all of them.
     'off': 50
-    'on': 0
-    chance: 0
+    'on': 50
+    chance: 50
 
   special1s_per_warp:
     # Sets how many Special1 jewels are needed per warp menu option unlock.
@@ -123,9 +123,9 @@ Castlevania 64:
     # Minimum value is 1
     # Maximum value is 10
     1: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   total_special1s:
     # Sets how many Speical1 jewels are in the pool in total.
@@ -134,9 +134,9 @@ Castlevania 64:
     # Minimum value is 7
     # Maximum value is 70
     7: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   draculas_condition:
     # Sets the requirement for unlocking and opening the door to Dracula's chamber.
@@ -144,10 +144,10 @@ Castlevania 64:
     # Crystal: Activate the big crystal in Castle Center's basement. Neither boss afterwards has to be defeated.
     # Bosses: Kill a specified number of bosses with health bars and claim their Trophies.
     # Specials: Find a specified number of Special2 jewels shuffled in the main item pool.
-    none: 0
+    none: 50
     crystal: 50
-    bosses: 0
-    specials: 0
+    bosses: 50
+    specials: 50
 
   percent_special2s_required:
     # Percentage of Special2s required to enter Dracula's chamber when Dracula's Condition is Special2s.
@@ -156,9 +156,9 @@ Castlevania 64:
     # Minimum value is 1
     # Maximum value is 100
     80: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   total_special2s:
     # How many Speical2 jewels are in the pool in total when Dracula's Condition is Special2s.
@@ -167,9 +167,9 @@ Castlevania 64:
     # Minimum value is 1
     # Maximum value is 70
     25: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   bosses_required:
     # How many bosses need to be defeated to enter Dracula's chamber when Dracula's Condition is set to Bosses.
@@ -179,46 +179,46 @@ Castlevania 64:
     # Minimum value is 1
     # Maximum value is 16
     12: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   carrie_logic:
     # Adds the 2 checks inside Underground Waterway's crawlspace to the pool.
     # If you (and everyone else if racing the same seed) are planning to only ever play Reinhardt, don't enable this.
     # Can be combined with Hard Logic to include Carrie-only tricks.
     'false': 50
-    'true': 0
+    'true': 50
 
   hard_logic:
     # Properly considers sequence break tricks in logic (i.e. maze skip). Can be combined with Carrie Logic to include Carrie-only tricks.
     # See the Game Page for a full list of tricks and glitches that may be logically required.
     'false': 50
-    'true': 0
+    'true': 50
 
   multi_hit_breakables:
     # Adds the items that drop from the objects that break in three hits to the pool.
     # There are 18 of these throughout the game, adding up to 79 or 80 checks (depending on sub-weapons being shuffled anywhere or not) in total with all stages.
     # The game will be modified to remember exactly which of their items you've picked up instead of simply whether they were broken or not.
     'false': 50
-    'true': 0
+    'true': 50
 
   empty_breakables:
     # Adds 9 check locations in the form of breakables that normally have nothing (all empty Forest coffins, etc.) and some additional Red Jewels and/or moneybags into the item pool to compensate.
     'false': 50
-    'true': 0
+    'true': 50
 
   lizard_locker_items:
     # Adds the 6 items inside Castle Center 2F's Lizard-man generators to the pool.
     # Picking up all of these can be a very tedious luck-based process, so they are off by default.
     'false': 50
-    'true': 0
+    'true': 50
 
   shopsanity:
     # Adds 7 one-time purchases from Renon's shop into the location pool.
     # After buying an item from a slot, it will revert to whatever it is in the vanilla game.
     'false': 50
-    'true': 0
+    'true': 50
 
   ###################
   # gameplay tweaks #
@@ -226,13 +226,13 @@ Castlevania 64:
   hard_item_pool:
     # Replaces some items in the item pool with less valuable ones, to make the item pool sort of resemble Hard Mode in the PAL version.
     'false': 50
-    'true': 0
+    'true': 50
 
   shop_prices:
     # Randomizes the amount of gold each item costs in Renon's shop.
     # Use the Minimum and Maximum Gold Price options to control how much or how little an item can cost.
     vanilla: 50
-    randomized: 0
+    randomized: 50
 
   minimum_gold_price:
     # The lowest amount of gold an item can cost in Renon's shop, divided by 100.
@@ -241,9 +241,9 @@ Castlevania 64:
     # Minimum value is 1
     # Maximum value is 50
     2: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   maximum_gold_price:
     # The highest amount of gold an item can cost in Renon's shop, divided by 100.
@@ -252,76 +252,76 @@ Castlevania 64:
     # Minimum value is 1
     # Maximum value is 50
     30: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   post_behemoth_boss:
     # Sets which boss is fought in the vampire triplets' room in Castle Center by which characters after defeating Behemoth.
     vanilla: 50
-    inverted: 0
-    always_rosa: 0
-    always_camilla: 0
+    inverted: 50
+    always_rosa: 50
+    always_camilla: 50
 
   room_of_clocks_boss:
     # Sets which boss is fought at Room of Clocks by which characters.
     vanilla: 50
-    inverted: 0
-    always_death: 0
-    always_actrise: 0
+    inverted: 50
+    always_death: 50
+    always_actrise: 50
 
   renon_fight_condition:
     # Sets the condition on which the Renon fight will trigger.
-    never: 0
+    never: 50
     spend_30k: 50
-    always: 0
+    always: 50
 
   vincent_fight_condition:
     # Sets the condition on which the vampire Vincent fight will trigger.
-    never: 0
+    never: 50
     wait_16_days: 50
-    always: 0
+    always: 50
 
   bad_ending_condition:
     # Sets the condition on which the currently-controlled character's Bad Ending will trigger.
-    never: 0
+    never: 50
     kill_vincent: 50
-    always: 0
+    always: 50
 
   increase_item_limit:
     # Increases the holding limit of usable items from 10 to 99 of each item.
-    'false': 0
+    'false': 50
     'true': 50
 
   nerf_healing_items:
     # Decreases the amount of health healed by Roast Chickens to 25%, Roast Beefs to 50%, and Healing Kits to 80%.
     'false': 50
-    'true': 0
+    'true': 50
 
   loading_zone_heals:
     # Whether end-of-level loading zones restore health and cure status aliments or not.
     # Recommended off for those looking for more of a survival horror experience!
-    'false': 0
+    'false': 50
     'true': 50
 
   invisible_items:
     # Sets which items are visible in their locations and which are invisible until picked up.
     # 'Chance' gives each item a 50/50 chance of being visible or invisible.
     vanilla: 50
-    reveal_all: 0
-    hide_all: 0
-    chance: 0
+    reveal_all: 50
+    hide_all: 50
+    chance: 50
 
   drop_previous_sub_weapon:
     # When receiving a sub-weapon, the one you had before will drop behind you, so it can be taken back if desired.
     'false': 50
-    'true': 0
+    'true': 50
 
   permanent_powerups:
     # Replaces PowerUps with PermaUps, which upgrade your B weapon level permanently and will stay even after dying and/or continuing.
     # To compensate, only two will be in the pool overall, and they will not drop from any enemy or projectile.
     'false': 50
-    'true': 0
+    'true': 50
 
   ice_trap_percentage:
     # Replaces a percentage of junk items with Ice Traps.
@@ -331,40 +331,40 @@ Castlevania 64:
     # Minimum value is 0
     # Maximum value is 100
     0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ice_trap_appearance:
     # What items Ice Traps can possibly be disguised as.
     major_only: 50
-    junk_only: 0
-    anything: 0
+    junk_only: 50
+    anything: 50
 
   disable_time_restrictions:
     # Disables the restriction on every event and door that requires the current time to be within a specific range, so they can be triggered at any time.
     # This includes all sun/moon doors and, in the Villa, the meeting with Rosa and the fountain pillar.
     # The Villa coffin is not affected by this.
     'false': 50
-    'true': 0
+    'true': 50
 
   skip_gondolas:
     # Makes jumping on and activating a gondola in Tunnel instantly teleport you to the other station, thereby skipping the entire three-minute ride.
     # The item normally at the gondola transfer point is moved to instead be near the red gondola at its station.
     'false': 50
-    'true': 0
+    'true': 50
 
   skip_waterway_blocks:
     # Opens the door to the third switch in Underground Waterway from the start so that the jumping across floating brick platforms won't have to be done.
     # Shopping at the Contract on the other side of them may still be logically required if Shopsanity is on.
     'false': 50
-    'true': 0
+    'true': 50
 
   countdown:
     # Displays, near the HUD clock and below the health bar, the number of unobtained progression-marked items or the total check locations remaining in the stage you are currently in.
     none: 50
-    majors: 0
-    all_locations: 0
+    majors: 50
+    all_locations: 50
 
   big_toss:
     # Makes every non-immobilizing damage source launch you as if you got hit by Behemoth's charge.
@@ -372,34 +372,34 @@ Castlevania 64:
     # Hold Z to have all incoming damage be treated as it normally would.
     # Any tricks that might be possible with it are not in logic.
     'false': 50
-    'true': 0
+    'true': 50
 
   panther_dash:
     # Hold C-right at any time to sprint way faster.
     # Any tricks that are possible with it are not in logic and any boss fights with boss health meters, if started, are expected to be finished before leaving their arenas if Dracula's Condition is bosses.
     # Jumpless will prevent jumping while moving at the increased speed to make logic harder to break with it.
     'off': 50
-    'on': 0
-    jumpless: 0
+    'on': 50
+    jumpless: 50
 
   increase_shimmy_speed:
     # Increases the speed at which characters shimmy left and right while hanging on ledges.
     # Hold Z to use the regular speed in case it's needed to do something.
     'false': 50
-    'true': 0
+    'true': 50
 
   fall_guard:
     # Removes fall damage from landing too hard. Note that falling for too long will still result in instant death.
     'false': 50
-    'true': 0
+    'true': 50
 
   death_link:
     # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
     # 
     # Explosive: Makes received death links kill you via the Magical Nitro explosion instead of the normal death animation.
     'off': 50
-    'on': 0
-    explosive: 0
+    'on': 50
+    explosive: 50
 
   #############
   # cosmetics #
@@ -411,9 +411,9 @@ Castlevania 64:
     # Minimum value is 0
     # Maximum value is 15
     1: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   window_color_g:
     # The green value for the background color of the text windows during gameplay.
@@ -422,9 +422,9 @@ Castlevania 64:
     # Minimum value is 0
     # Maximum value is 15
     5: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   window_color_b:
     # The blue value for the background color of the text windows during gameplay.
@@ -433,9 +433,9 @@ Castlevania 64:
     # Minimum value is 0
     # Maximum value is 15
     15: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   window_color_a:
     # The alpha value for the background color of the text windows during gameplay.
@@ -444,9 +444,9 @@ Castlevania 64:
     # Minimum value is 0
     # Maximum value is 15
     8: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   background_music:
     # Randomizes or disables the music heard throughout the game.
@@ -454,18 +454,18 @@ Castlevania 64:
     # The "lead-in" versions of some songs will be paired accordingly.
     normal: 50
     disabled: 0
-    randomized: 0
+    randomized: 50
 
   map_lighting:
     # Randomizes the lighting color RGB values on every map during every time of day to be literally anything.
     # The colors and/or shading of the following things are affected: fog, maps, player, enemies, and some objects.
     normal: 50
-    randomized: 0
+    randomized: 50
 
   cinematic_experience:
     # Enables an unused film reel effect on every cutscene in the game. Purely cosmetic.
     'false': 50
-    'true': 0
+    'true': 50
 
   ###########################
   # Item & Location Options #
@@ -511,4 +511,5 @@ Castlevania 64:
   plando_items:
     # Generic items plando.
     []
+
 
