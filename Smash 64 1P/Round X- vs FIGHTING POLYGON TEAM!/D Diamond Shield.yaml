@@ -46,12 +46,12 @@ Old School Runescape:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,7 +60,7 @@ Old School Runescape:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   starting_area:
     # Which chunks are available at the start. The player may need to move through locked chunks to reach the starting
@@ -69,22 +69,22 @@ Old School Runescape:
     # "Any Bank" rolls a random region that contains a bank.
     # Chunksanity can start you in any chunk. Hope you like woodcutting!
     lumbridge: 50
-    al_kharid: 0
-    varrock_east: 0
-    varrock_west: 0
-    edgeville: 0
-    falador: 0
-    draynor: 0
-    wilderness: 0
-    any_bank: 0
-    chunksanity: 0
+    al_kharid: 50
+    varrock_east: 50
+    varrock_west: 50
+    edgeville: 50
+    falador: 50
+    draynor: 50
+    wilderness: 50
+    any_bank: 50
+    chunksanity: 50
 
   brutal_grinds:
     # Whether to allow skill tasks without having reasonable access to the usual skill training path.
     # For example, if enabled, you could be forced to train smithing without an anvil purely by smelting bars,
     # or training fishing to high levels entirely on shrimp.
     'false': 50
-    'true': 0
+    'true': 50
 
   progressive_tasks:
     # Whether skill tasks should always be generated in order of easiest to hardest.
@@ -92,12 +92,12 @@ Old School Runescape:
     # "Mine Silver", "Mine Coal", and "Mine Iron". Enabling this will result in a generally shorter seed, but with
     # a lower variety of tasks.
     'false': 50
-    'true': 0
+    'true': 50
 
   enable_duds:
     # Whether to include filler "Dud" items that serve no purpose but allow for more tasks in the pool.
     'false': 50
-    'true': 0
+    'true': 50
 
   dud_count:
     # How many "Dud" items to include in the pool. This setting is ignored if "Enable Duds" is not included
@@ -106,16 +106,16 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 30
     10: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   enable_carepacks:
     # Whether or not to include useful "Care Pack" items that allow you to trade over specific items.
     # Note: Requires your account NOT to be an Ironman. Also, requires access to another account to trade over the items,
     # or gold to purchase off of the grand exchange.
     'false': 50
-    'true': 0
+    'true': 50
 
   max_combat_level:
     # The highest combat level of monster to possibly be assigned as a task.
@@ -125,9 +125,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 1520
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_combat_tasks:
     # The maximum number of Combat Tasks to possibly be assigned.
@@ -138,9 +138,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 16
     16: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   combat_task_weight:
     # How much to favor generating combat tasks over other types of task.
@@ -151,9 +151,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_prayer_level:
     # The highest Prayer requirement of any task generated.
@@ -163,9 +163,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_prayer_tasks:
     # The maximum number of Prayer Tasks to possibly be assigned.
@@ -176,9 +176,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 5
     5: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   prayer_task_weight:
     # How much to favor generating Prayer tasks over other types of task.
@@ -189,9 +189,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_magic_level:
     # The highest Magic requirement of any task generated.
@@ -201,9 +201,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_magic_tasks:
     # The maximum number of Magic Tasks to possibly be assigned.
@@ -214,9 +214,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 7
     7: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   magic_task_weight:
     # How much to favor generating Magic tasks over other types of task.
@@ -227,9 +227,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_runecraft_level:
     # The highest Runecraft requirement of any task generated.
@@ -239,9 +239,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_runecraft_tasks:
     # The maximum number of Runecraft Tasks to possibly be assigned.
@@ -252,9 +252,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 8
     8: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   runecraft_task_weight:
     # How much to favor generating Runecraft tasks over other types of task.
@@ -265,9 +265,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_crafting_level:
     # The highest Crafting requirement of any task generated.
@@ -277,9 +277,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_crafting_tasks:
     # The maximum number of Crafting Tasks to possibly be assigned.
@@ -290,9 +290,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 11
     11: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   crafting_task_weight:
     # How much to favor generating Crafting tasks over other types of task.
@@ -303,9 +303,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_mining_level:
     # The highest Mining requirement of any task generated.
@@ -315,9 +315,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_mining_tasks:
     # The maximum number of Mining Tasks to possibly be assigned.
@@ -328,9 +328,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 6
     6: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   mining_task_weight:
     # How much to favor generating Mining tasks over other types of task.
@@ -341,9 +341,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_smithing_level:
     # The highest Smithing requirement of any task generated.
@@ -353,9 +353,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_smithing_tasks:
     # The maximum number of Smithing Tasks to possibly be assigned.
@@ -366,9 +366,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 5
     5: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   smithing_task_weight:
     # How much to favor generating Smithing tasks over other types of task.
@@ -379,9 +379,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_fishing_level:
     # The highest Fishing requirement of any task generated.
@@ -391,9 +391,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_fishing_tasks:
     # The maximum number of Fishing Tasks to possibly be assigned.
@@ -404,9 +404,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 6
     6: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   fishing_task_weight:
     # How much to favor generating Fishing tasks over other types of task.
@@ -417,9 +417,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_cooking_level:
     # The highest Cooking requirement of any task generated.
@@ -429,9 +429,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_cooking_tasks:
     # The maximum number of Cooking Tasks to possibly be assigned.
@@ -442,9 +442,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 6
     6: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   cooking_task_weight:
     # How much to favor generating Cooking tasks over other types of task.
@@ -455,9 +455,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_firemaking_level:
     # The highest Firemaking requirement of any task generated.
@@ -467,9 +467,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_firemaking_tasks:
     # The maximum number of Firemaking Tasks to possibly be assigned.
@@ -480,9 +480,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 3
     3: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   firemaking_task_weight:
     # How much to favor generating Firemaking tasks over other types of task.
@@ -493,9 +493,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_woodcutting_level:
     # The highest Woodcutting requirement of any task generated.
@@ -505,9 +505,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   max_woodcutting_tasks:
     # The maximum number of Woodcutting Tasks to possibly be assigned.
@@ -518,9 +518,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 3
     3: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   woodcutting_task_weight:
     # How much to favor generating Woodcutting tasks over other types of task.
@@ -531,9 +531,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   minimum_general_tasks:
     # How many guaranteed general progression tasks to be assigned (total level, total XP, etc.).
@@ -544,9 +544,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 49
     10: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   general_task_weight:
     # How much to favor generating General tasks over other types of task.
@@ -557,9 +557,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 99
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ###########################
   # Item & Location Options #
@@ -599,4 +599,5 @@ Old School Runescape:
   plando_items:
     # Generic items plando.
     []
+
 
