@@ -44,7 +44,7 @@ Spyro 3:
     # A lower setting means more getting stuck. A higher setting means less getting stuck.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 50
+    # Minimum value is 0
     # Maximum value is 99
     random: 50
     random-low: 50
@@ -99,7 +99,7 @@ Spyro 3:
     # Rounds up.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 50
+    # Minimum value is 0
     # Maximum value is 50
     25: 50
     random: 50
@@ -173,7 +173,7 @@ Spyro 3:
     # This does not include the 3 bottles on the impossible island in Midnight Mountain.
     'off': 50
     normal: 50
-    hard: 50
+    hard: 0
 
   sparx_power_settings:
     # If on, shuffles the Sparx abilities normally obtained from Sparx levels into the item pool.
@@ -232,7 +232,7 @@ Spyro 3:
     # Determines the percentage of filler items that will be traps.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 50
+    # Minimum value is 0
     # Maximum value is 100
     50: 50
     random: 50
@@ -262,7 +262,7 @@ Spyro 3:
     blue: 50
     green: 50
     sparxless: 50
-    true_sparxless: 50
+    true_sparxless: 0
 
   enable_progressive_sparx_logic:
     # Ensures that sufficient max Sparx health is in logic before various required checks.
@@ -293,9 +293,9 @@ Spyro 3:
     # - Joke hints.
     #
     # You can define additional values between the minimum and maximum values.
-    # Minimum value is 50
+    # Minimum value is 0
     # Maximum value is 11
-    50: 50
+    0: 50
     random: 50
     random-low: 50
     random-high: 50
@@ -307,7 +307,7 @@ Spyro 3:
     # defeating the Sorceress.
     # NOTE: This will push eggs and Moneybags unlocks sooner in the seed to ensure a beatable seed.
     'false': 50
-    'true': 50
+    'true': 0
 
   ###################
   # Game Difficulty #
@@ -380,7 +380,7 @@ Spyro 3:
     # NOTE: Entering this area from behind may crash the game if done incorrectly.
     # This option only matters is Companionsanity or Moneybagssanity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_cloud_backwards:
     # Puts completing Cloud Spires backwards without paying Moneybags into logic.
@@ -388,121 +388,121 @@ Spyro 3:
     # For all gems, an additional jump from near the egg 'Cloud Spires: Glide to the island. (Clare)' is needed.
     # This option only matters if Moneybagssanity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_molten_early:
     # Puts entering Molten Crater from out of bounds without 10 eggs into logic.
     # This requires either a swim in air trick, or getting onto the wall alongside Molten.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_molten_byrd_early:
     # Puts entering Molten Crater's Sgt. Byrd sub-area without completing Sgt. Byrd into logic.
     # This requires jumping on the bridge's posts and then onto the top of his hut.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_molten_thieves_no_moneybags:
     # Puts entering Molten Crater's thieves sub-area without paying Moneybags into logic.
     # This requires bouncing off the first boar in the level above the trees and entering the area from behind.
     # This option only matters if Moneybagssanity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_seashell_early:
     # Puts entering Seashell Shores from out of bounds without 14 eggs into logic.
     # This requires a swim in air trick.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_seashell_sheila_early:
     # Puts entering the Sheila sub-area of Seashell Shores without completing Sheila into logic.
     # One way to do this is through a proxy and swim in air.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_mushroom_early:
     # Puts entering Mushroom Speedway from out of bounds without 20 eggs into logic.
     # This requires a swim in air trick or getting onto the wall by Mushroom Speedway and Molten Crater.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_sheila_early:
     # Puts entering Sheila's Alp from out of bounds without paying Moneybags into logic.
     # This requires a swim in air trick and can result in a softlock if you end up in Sheila's cage.
     # This option only matters if Companionsanity or Moneybagssanity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_spooky_early:
     # Puts entering Spooky Swamp from out of bounds without 25 eggs into logic.
     # This requires a swim in air trick or one of various glides from out of bounds.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_spooky_no_moneybags:
     # Puts skipping Moneybags in Spooky Swamp into logic.
     # This can be done by damage boosting across the water near 'Spooky Swamp: Jump to the island. (Michael)' to the end of level.
     # This option only matters if Moneybagssanity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_bamboo_early:
     # Puts entering Bamboo Terrace from out of bounds without 30 eggs into logic.
     # This requires a swim in air trick or a glide from out of bounds.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_bamboo_bentley_early:
     # Puts entering the Bentley sub-area of Bamboo Terrace without completing Bentley's Outpost into logic.
     # This can be done with a swim in air.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_country_early:
     # Puts entering Country Speedway from out of bounds without 36 eggs into logic.
     # This requires a swim in air trick.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_byrd_early:
     # Puts entering Sgt. Byrd's Base from out of bounds without paying Moneybags into logic.
     # This requires a swim in air trick or a glide out of bounds.
     # This option only matters if Companionsanity or Moneybagssanity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_frozen_bentley_early:
     # Puts entering Frozen Altars' Bentley sub-area from out of bounds without completing Bentley's Outpost into logic.
     # This requires a proxy off a mammoth or getting onto the wall near the area and gliding from out of bounds.
     # This option only matters if Companionsanity or Moneybagssaniity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_frozen_cat_hockey_no_moneybags:
     # Puts entering Frozen Altars' Cat Hockey sub-area from out of bounds without paying Moneybags into logic.
     # This requires a proxy.
     # This option only matters if Moneybagssanity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_fireworks_early:
     # Puts entering Fireworks Factory from out of bounds without 50 eggs into logic.
     # This requires a zombie swim in air or a glide out of bounds.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_fireworks_agent_9_early:
     # Puts entering Fireworks Factory's Agent 9 sub-area without completing Agent 9's Lab into logic.
     # This requires a careful glide to the right 'antenna' of the sub-area hut.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_charmed_early:
     # Puts entering Charmed Ridge from out of bounds without 58 eggs into logic.
     # This requires a zombie swim in air or a glide out of bounds.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_charmed_no_moneybags:
     # Puts getting past the stairs in Charmed Ridge without paying Moneybags into logic.
@@ -510,53 +510,53 @@ Spyro 3:
     # NOTE: A proxy allows partial access to the second half of the level but not full access.
     # This option only matters if Moneybagssanity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_honey_early:
     # Puts entering Honey Speedway from out of bounds without 65 eggs into logic.
     # This requires a zombie swim in air or a glide out of bounds.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_bentley_early:
     # Puts entering Bentley's Outpost from out of bounds without paying Moneybags into logic.
     # This requires a zombie swim in air or a glide out of bounds.
     # This option only matters if Companionsanity or Moneybagssanity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_crystal_no_moneybags:
     # Puts fully completing Crystal Islands without paying Moneybags or beating the Sorceress into logic.
     # This requires a swim in air in the pool before the whirlwind.
     # This option only matters if Moneybagssanity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_desert_no_moneybags:
     # Puts fully completing Desert Ruins without paying Moneybags or beating the Sorceress into logic.
     # This requires a proxy off a scorpion or one of several terrain jumps to get to the end of level.
     # This option only matters if Moneybagssanity is turned on.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_haunted_agent_9_early:
     # Puts entering the Agent 9 sub-area of Haunted Tomb without completing Agent 9 into logic.
     # See https://www.youtube.com/watch?v=GAr-E1pha7c
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_dino_agent_9_early:
     # Puts entering the Agent 9 sub-area of Dino Mines without completing Agent 9 into logic.
     # This can be done with a swim in air or getting on top of the level's terrain.
     'false': 50
-    'true': 50
+    'true': 0
 
   logic_sorceress_early:
     # Puts defeating the Sorceress without 100 eggs into logic.
     # This requires a proxy on the Desert Ruins helmet, or a series of difficult terrain jumps.
     # 100 eggs are still required for the Sorceress 1 goal, but this setting probably only makes sense for Sorceress 2 or other niche goals.
     'false': 50
-    'true': 50
+    'true': 0
 
   ###########################
   # Item & Location Options #
@@ -596,5 +596,6 @@ Spyro 3:
   plando_items:
     # Generic items plando.
     []
+
 
 
