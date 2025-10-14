@@ -125,9 +125,9 @@ Old School Runescape:
     # Minimum value is 0
     # Maximum value is 1520
     50: 50
-    random: 50
+    random: 0
     random-low: 50
-    random-high: 50
+    random-high: 0
 
   max_combat_tasks:
     # The maximum number of Combat Tasks to possibly be assigned.
@@ -162,10 +162,10 @@ Old School Runescape:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    50: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   max_prayer_tasks:
     # The maximum number of Prayer Tasks to possibly be assigned.
@@ -175,10 +175,10 @@ Old School Runescape:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 5
-    5: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   prayer_task_weight:
     # How much to favor generating Prayer tasks over other types of task.
@@ -188,10 +188,10 @@ Old School Runescape:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    50: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   max_magic_level:
     # The highest Magic requirement of any task generated.
@@ -314,10 +314,10 @@ Old School Runescape:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    50: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   max_mining_tasks:
     # The maximum number of Mining Tasks to possibly be assigned.
@@ -327,10 +327,10 @@ Old School Runescape:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 6
-    6: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   mining_task_weight:
     # How much to favor generating Mining tasks over other types of task.
@@ -340,10 +340,10 @@ Old School Runescape:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    50: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   max_smithing_level:
     # The highest Smithing requirement of any task generated.
@@ -352,10 +352,10 @@ Old School Runescape:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    50: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   max_smithing_tasks:
     # The maximum number of Smithing Tasks to possibly be assigned.
@@ -365,10 +365,10 @@ Old School Runescape:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 5
-    5: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    0: 0
+    random: 0
+    random-low: 0
+    random-high: 0
 
   smithing_task_weight:
     # How much to favor generating Smithing tasks over other types of task.
@@ -378,10 +378,10 @@ Old School Runescape:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    50: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   max_fishing_level:
     # The highest Fishing requirement of any task generated.
@@ -599,5 +599,6 @@ Old School Runescape:
   plando_items:
     # Generic items plando.
     []
+
 
 
