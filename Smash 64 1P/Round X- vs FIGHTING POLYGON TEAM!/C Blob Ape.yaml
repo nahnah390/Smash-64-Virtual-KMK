@@ -129,8 +129,8 @@ Ape Escape:
     # Supported values: normal, hard, expert
     # Default value: normal
     normal: 50
-    hard: 50
-    expert: 50
+    hard: 0
+    expert: 0
 
   infinitejump:
     # Choose if the Infinite Jump trick should be put into logic.
@@ -141,7 +141,7 @@ Ape Escape:
     # Supported values: false, true
     # Default value: false
     'false': 50
-    'true': 50
+    'true': 0
 
   superflyer:
     # Choose if the Super Flyer trick should be put into logic.
@@ -152,7 +152,7 @@ Ape Escape:
     # Supported values: false, true
     # Default value: false
     'false': 50
-    'true': 50
+    'true': 0
 
   entrance:
     # Choose which level entrances should be randomized. Peak Point Matrix will always be the last level when it's postgame or the goal level. Races will be included in randomization if coin shuffle is on, and excluded otherwise.
@@ -177,7 +177,7 @@ Ape Escape:
     #     Supported values: off, on
     #     Default value: on
     'off': 50
-    'on': 50
+    'on': 0
 
   unlocksperkey:
     # Choose how many levels each World Key should unlock. The first three levels will always start unlocked.
@@ -322,8 +322,8 @@ Ape Escape:
     normal: 50
     bountiful: 50
     stingy: 50
-    nothing: 50
-    custom: 50
+    nothing: 0
+    custom: 0
 
   customfillerweights:
     # Use custom weights for filler item distribution by choosing "Custom" in the "Filler Preset" option.
@@ -483,5 +483,6 @@ Ape Escape:
   plando_items:
     # Generic items plando.
     []
+
 
 
