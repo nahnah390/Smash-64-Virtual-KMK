@@ -181,14 +181,14 @@ Lunacid:
     # Randomized: Each drop is a location.  WARNING SOME DROPS ARE HORRIBLE TO GET.  Adds 143 locations.
     'off': 50
     uniques: 50
-    randomized: 50
+    randomized: 0
 
   quenchsanity:
     # If a weapon can gain experience, if it is quenched, it returns a check.
     # Quenching a weapon now no longer upgrades the weapons, and all quench weapons are added to the pool.
     # Exceptions: Brittle Arming Sword repairs itself for the sake of the player, and Death Scythe is removed from the inventory as normal.
     'false': 50
-    'true': 50
+    'true': 0
 
   etnas_pupil:
     # Become Etna's pupil!  As in, all alchemy creations are locations to check.  Cmon saying -sanity a lot is boring.
@@ -409,6 +409,7 @@ Lunacid:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
