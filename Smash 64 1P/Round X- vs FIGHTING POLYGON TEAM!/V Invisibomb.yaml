@@ -46,12 +46,12 @@ Sly Cooper and the Thievius Raccoonus:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,17 +60,17 @@ Sly Cooper and the Thievius Raccoonus:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   UnlockClockwerk:
     # What you need to do to unlock Cold Heart of Hate to defeat Clockwerk
     boss_victories: 50
-    page_hunt: 0
+    page_hunt: 50
 
   FastClockwerk:
     # If enabled, unlocking Cold Heart of Hate will give you access directly to the Clockwerk boss fight skipping all the previous levels.
     'false': 50
-    'true': 0
+    'true': 50
 
   RequiredBosses:
     # How many members of the Fiendish Five you need to defeat before Cold Heart of Hate is unlocked.
@@ -80,9 +80,9 @@ Sly Cooper and the Thievius Raccoonus:
     # Minimum value is 1
     # Maximum value is 4
     4: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   MaxPages:
     # How many pages are available to collect in the multiworld.
@@ -94,9 +94,9 @@ Sly Cooper and the Thievius Raccoonus:
     # Minimum value is 1
     # Maximum value is 50
     25: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   RequiredPages:
     # How many pages of the Thievius Raccoonus you need to collect before Cold Heart of Hate is unlocked.
@@ -107,17 +107,17 @@ Sly Cooper and the Thievius Raccoonus:
     # Minimum value is 1
     # Maximum value is 50
     20: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   StartingEpisode:
     # Determines which episode you will have the intro for at the beginning of the game.
     tide_of_terror: 50
-    sunset_snake_eyes: 0
-    vicious_voodoo: 0
-    fire_in_the_sky: 0
-    all: 0
+    sunset_snake_eyes: 50
+    vicious_voodoo: 50
+    fire_in_the_sky: 50
+    all: 50
 
   IncludeHourglasses:
     # If enabled, Hourglasses are included in the locations.
@@ -134,7 +134,7 @@ Sly Cooper and the Thievius Raccoonus:
     # Determines if you will start with 1 key for your chosen starting episode.
     # If all is selected, you are given 1 key for a random episode.
     'false': 50
-    'true': 0
+    'true': 50
 
   ExcludeMinigames:
     # Choose which minigames types you want to exclude as locations.
@@ -154,9 +154,9 @@ Sly Cooper and the Thievius Raccoonus:
     # Minimum value is 1
     # Maximum value is 10
     1: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   LocationCluesanityBundleSize:
     # Determines how many bottles you need to collect for each check.
@@ -165,10 +165,10 @@ Sly Cooper and the Thievius Raccoonus:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 5
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    0: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ItemCluesanityBundleSize:
     # Determines how many bottles you will receive for a given level.
@@ -177,10 +177,10 @@ Sly Cooper and the Thievius Raccoonus:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 5
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    0: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   TrapChance:
     # Determines the chance for any junk item to become a trap.
@@ -190,9 +190,9 @@ Sly Cooper and the Thievius Raccoonus:
     # Minimum value is 0
     # Maximum value is 100
     0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   IcePhysicsTrapWeight:
     # The weight of ice physics traps in the trap pool.
@@ -202,9 +202,9 @@ Sly Cooper and the Thievius Raccoonus:
     # Minimum value is 0
     # Maximum value is 100
     25: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   SpeedChangeTrapWeight:
     # The weight of speed change traps in the trap pool.
@@ -214,9 +214,9 @@ Sly Cooper and the Thievius Raccoonus:
     # Minimum value is 0
     # Maximum value is 100
     25: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   InvisibilityTrapWeight:
     # The weight of invisibility traps in the trap pool.
@@ -226,9 +226,9 @@ Sly Cooper and the Thievius Raccoonus:
     # Minimum value is 0
     # Maximum value is 100
     25: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   BallTrapWeight:
     # The weight of ball traps in the trap pool.
@@ -238,9 +238,9 @@ Sly Cooper and the Thievius Raccoonus:
     # Minimum value is 0
     # Maximum value is 100
     25: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ###########################
   # Item & Location Options #
@@ -280,4 +280,5 @@ Sly Cooper and the Thievius Raccoonus:
   plando_items:
     # Generic items plando.
     []
+
 
