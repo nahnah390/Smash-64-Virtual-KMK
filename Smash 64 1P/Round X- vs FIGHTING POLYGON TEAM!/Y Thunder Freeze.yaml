@@ -46,12 +46,12 @@ Golden Sun The Lost Age:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,7 +60,7 @@ Golden Sun The Lost Age:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   coop:
     # Enables cooping a seed by making local items the same as remote items, enabling
@@ -71,9 +71,9 @@ Golden Sun The Lost Age:
     # prog_useful - Progression and useful items are treated as remote items
     # all - All items are treated as remote items
     'off': 50
-    progression: 0
-    prog_useful: 0
-    all: 0
+    progression: 50
+    prog_useful: 50
+    all: 50
 
   ################
   # General Pool #
@@ -83,20 +83,20 @@ Golden Sun The Lost Age:
     # All Chests and Tablets: includes all chests and tablets and does not include items from pots, barrels, dug up. Roughly 100 less locations to check from All Items
     # All Items: includes everything from the vanilla game, including items in pots, barrels, scooped up, covered in leaves or on the overworld. Roughly 320 locations in total.
     all_chests_and_tablets: 50
-    all_items: 0
+    all_items: 50
 
   omit_locations:
     # Choose to omit locations containing optional harder boss fights
     # No Omission: keeps all super bosses in play.
     # Omit Anemos Inner Sanctum: omits Anemos Inner Sanctum. Removes roughly 4 locations from the pool.
     # Omit Superbosses and Inner Sanctum: omits all super bosses and Anemos Inner Sanctum. Removes roughly 7 locations from the pool
-    no_omission: 0
-    omit_anemos_inner_sanctum: 0
+    no_omission: 50
+    omit_anemos_inner_sanctum: 50
     omit_superbosses_and_inner_sanctum: 50
 
   add_elvenshirt_clericsring:
     # Adds the Elven Shirt and Cleric's Ring from Golden Sun to the item pool.
-    'false': 0
+    'false': 50
     'true': 50
 
   add_non_obtainable_items:
@@ -104,7 +104,7 @@ Golden Sun The Lost Age:
     # These are: Casual Shirt, Golden Boots, Aroma Ring, Golden Shirt, Ninja Sandals, Golden Ring, 
     # Herbed Shirt, Knight's Greave, Rainbow Ring, Divine Camisole, Silver Greave and Soul Ring
     'false': 50
-    'true': 0
+    'true': 50
 
   ########
   # Goal #
@@ -147,9 +147,9 @@ Golden Sun The Lost Age:
     # Minimum value is 0
     # Maximum value is 17
     0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   djinn_hunt_count:
     # How many djinn you need to obtain in order to satisfy the Djinn Hunt Objective
@@ -158,9 +158,9 @@ Golden Sun The Lost Age:
     # Minimum value is 1
     # Maximum value is 72
     56: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   summon_hunt_count:
     # How many summons you need to obtain in order to satisfy the Summon Hunt Objective
@@ -169,9 +169,9 @@ Golden Sun The Lost Age:
     # Minimum value is 1
     # Maximum value is 13
     10: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   #####################
   # Logic Adjustments #
@@ -180,7 +180,7 @@ Golden Sun The Lost Age:
     # Require Reveal to be able to logically access hidden items.
     # Note that most hidden items can be gotten regardless of having Reveal or not.
     # Also there are a few locations that hard require Reveal to be obtainable, this setting does not alter those.
-    'false': 0
+    'false': 50
     'true': 50
 
   lemurian_ship:
@@ -188,14 +188,14 @@ Golden Sun The Lost Age:
     # Vanilla: requires getting the Black Crystal and completing the Gabomba Statue to get the reward from Madras Mayor to be able to enter the ship and activate it.
     # Ship Door Unlocked: The ship door is unlocked but you still require to activate the ship by reaching the engine room. Black Crystal is no longer in the pool as it is not required.
     # Available From The Start: allows you to use the ship from the beginning of the game. Black Crystal is no longer in the pool as it is not required.
-    vanilla: 0
+    vanilla: 50
     ship_door_unlocked: 50
-    available_from_start: 0
+    available_from_start: 50
 
   start_with_wings_of_anemos:
     # When enabled, the ship starts with the Wings of Anemos.
     'false': 50
-    'true': 0
+    'true': 50
 
   anemos_inner_sanctum_access:
     # Determine accesss to Anemos Inner Sanctun
@@ -203,8 +203,8 @@ Golden Sun The Lost Age:
     # Randomized: will select a value between 16 to 28 Djinn to be able to access Anemos Inner Sanctum
     # Open: allows you to enter Anemos Inner Sanctum without any Djinn
     vanilla: 50
-    randomized: 0
-    open: 0
+    randomized: 50
+    open: 50
 
   djinn_logic:
     # How much do Djinn affect logic for being able to defeat bosses?
@@ -214,12 +214,12 @@ Golden Sun The Lost Age:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
     normal: 50 # equivalent to 100
-    hard: 0 # equivalent to 50
-    none: 0 # equivalent to 0
+    hard: 50 # equivalent to 50
+    none: 50 # equivalent to 0
 
   name_puzzles:
     # Determines how the named puzzles will generate. These include the puzzles for Gambomba Statue, Gaia Rock and Trial Road
@@ -227,20 +227,20 @@ Golden Sun The Lost Age:
     # Fixed: will force the puzzles to use the name 'Felix'
     # Randomized: will force the puzzles to be a random name
     vanilla: 50
-    fixed: 0
-    randomized: 0
+    fixed: 50
+    randomized: 50
 
   shortcut_mars_lighthouse:
     # The 4 elemental wing puzzles to unlock the teleport pad can be accessed with just the Mars Star instead of requiring to heatup the lighthouse.
     # Note the lighthouse is still frozen so the Mars Djinni Fugue is still inaccessible and requires heating up the lighthouse.
     'false': 50
-    'true': 0
+    'true': 50
 
   shortcut_magma_rock:
     # The pushable pillars at the groundfloor and 1st floor in Magma Rock are pushed downwards allowing you to access the Interior immediately without navigating the exterior.
     # Note that you can not leave Magma Rock interior from the top to get outside at the top of Magma Rock exterior.
     'false': 50
-    'true': 0
+    'true': 50
 
   #####################
   # Character Changes #
@@ -251,25 +251,25 @@ Golden Sun The Lost Age:
     # Vanilla Shuffled: puts the characters in each others locations.
     # Anywhere: puts the characters in the multiworld itempool,
     # note that Jenna's character location is forced to be a character due to game limiations with psynergy learning.
-    vanilla: 0
+    vanilla: 50
     vanilla_shuffled: 50
-    anywhere: 0
+    anywhere: 50
 
   second_starting_character:
     # Which character will join Felix on Idejima?
     # This will always be Jenna when Character Shuffle is set to Vanilla, otherwise it will be whichever character this is set to.
-    jenna: 0
-    sheba: 0
-    piers: 0
-    isaac: 0
-    garet: 0
-    ivan: 0
-    mia: 0
+    jenna: 50
+    sheba: 50
+    piers: 50
+    isaac: 50
+    garet: 50
+    ivan: 50
+    mia: 50
     random: 50
 
   scale_characters:
     # Whether to scale character levels by spheres.  Increases generation time.
-    'false': 0
+    'false': 50
     'true': 50
 
   max_scaled_level:
@@ -279,17 +279,17 @@ Golden Sun The Lost Age:
     # Minimum value is 5
     # Maximum value is 99
     24: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   character_stats:
     # Determine the stats for characters
     # Vanilla: leaves the stats as per the vanilla game.
     # Shuffle Character Stats: will shuffle stats between characters.
     # Adjust Character Stats: will randomize stats for each character within a margin of vanilla.
-    vanilla: 0
-    shuffle_character_stats: 0
+    vanilla: 50
+    shuffle_character_stats: 50
     adjust_character_stats: 50
 
   character_elements:
@@ -297,21 +297,21 @@ Golden Sun The Lost Age:
     # Vanilla: leaves character elements as per the vanilla game
     # Shuffle Character Elements: will shuffle them between characters
     # Randomize Character Elements: will randomize each characters element
-    vanilla: 0
+    vanilla: 50
     shuffle_character_elements: 50
-    randomize_character_elements: 0
+    randomize_character_elements: 50
 
   randomize_class_stat_boosts:
     # When enabled the base stats for classes are randomized
     'false': 50
-    'true': 0
+    'true': 50
 
   ####################
   # Psynergy Changes #
   ####################
   no_util_psynergy_from_classes:
     # Prevents utility Psynergy (Growth, Frost, etc.) from being learned by classes.
-    'false': 0
+    'false': 50
     'true': 50
 
   class_psynergy:
@@ -322,46 +322,46 @@ Golden Sun The Lost Age:
     # Randomize by Psynergy Group Prefer Element: As by group, but with a preference to the same Element
     # Randomize by Psynergy Element: Learned Psynergy is freely shuffled with another Psynergy of the same element
     # Fully Randomize it will randomize it completely without grouping or preference
-    vanilla: 0
-    randomize_by_classline: 0
+    vanilla: 50
+    randomize_by_classline: 50
     randomize_by_psynergy_group: 50
-    randomize_by_psynergy_group_prefer_element: 0
-    randomize_by_psynergy_element: 0
-    fully_randomized: 0
+    randomize_by_psynergy_group_prefer_element: 50
+    randomize_by_psynergy_element: 50
+    fully_randomized: 50
 
   psynergy_levels:
     # Determine when Psynergy is learned
     # Vanilla: leaves the learning of Psynergy on the vanilla levels.
     # Adjust Learning Levels: will randomize learning levels within a margin from vanilla.
     # Randomize Learning Levels: will randomize learning levels completely.
-    vanilla: 0
+    vanilla: 50
     adjust_learning_levels: 50
-    randomize_learning_levels: 0
+    randomize_learning_levels: 50
 
   adjust_psynergy_power:
     # When enabled the power of Psynergy is randomized within a margin of vanilla.
     'false': 50
-    'true': 0
+    'true': 50
 
   adjust_psynergy_cost:
     # When enabled the PP cost of Psynergy is randomized within a margin of vanilla.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_psynergy_aoe:
     # When enabled the AoE of Psynergy is randomized
     'false': 50
-    'true': 0
+    'true': 50
 
   adjust_enemy_psynergy_power:
     # When enabled the power of Enemy Psynergy is randomized within a margin of vanilla.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_enemy_psynergy_aoe:
     # When enabled the AoE of Enemy Psynergy is randomized.
     'false': 50
-    'true': 0
+    'true': 50
 
   enemy_elemental_resistance:
     # Determine how Enemy Elemental Resistance is shuffled
@@ -369,8 +369,8 @@ Golden Sun The Lost Age:
     # Shuffle Elemental Resistance: will shuffle them between enemies.
     # Randomize Elemental Resistance: will randomize the resistances for each enemy.
     vanilla: 50
-    shuffle_elemental_res: 0
-    randomize_elemental_res: 0
+    shuffle_elemental_res: 50
+    randomize_elemental_res: 50
 
   ############################
   # Djinn and Summon Changes #
@@ -381,39 +381,39 @@ Golden Sun The Lost Age:
     # Vanilla keeps them in their vanilla locations.
     # Vanilla Shuffled by Element, Djinni are placed in vanilla Djinni locations that share their element.
     # Vanilla Shuffled are placed in any vanilla Djinni location regardless of element.
-    vanilla: 0
-    vanilla_shuffled_by_element: 0
+    vanilla: 50
+    vanilla_shuffled_by_element: 50
     vanilla_shuffled: 50
 
   shuffle_djinn_stat_boosts:
     # When enabled the stats a djinn grant are shuffled amongst each other.
-    'false': 0
+    'false': 50
     'true': 50
 
   adjust_djinn_attack_power:
     # When enabled the attack power of djinn are randomized within a margin of vanilla.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_djinn_attack_aoe:
     # When enabled the Area of Effect of djinn used in battle is randomized.
     'false': 50
-    'true': 0
+    'true': 50
 
   scale_djinni_battle_difficulty:
     # Adjust Djinn battle difficulty based on number of owned Djinn.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_summon_costs:
     # When enabled the costs for Summons is randomized.
     'false': 50
-    'true': 0
+    'true': 50
 
   adjust_summon_power:
     # when enabled the power of Summons is randomized within a margin of vanilla.
     'false': 50
-    'true': 0
+    'true': 50
 
   #####################
   # Equipment Changes #
@@ -422,46 +422,46 @@ Golden Sun The Lost Age:
     # When enabled the compatability for each equipment piece is randomized. 
     # Compatibility defines what each character can equip.
     'false': 50
-    'true': 0
+    'true': 50
 
   adjust_equip_prices:
     # When enabled the price for each equipment piece is randomized within a margin of vanilla.
     'false': 50
-    'true': 0
+    'true': 50
 
   adjust_equip_stats:
     # When enabled the stats for each equipment piece is randomized within a margin of vanilla.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_weapon_attack:
     # When enabled, the attack stat from weapons is shuffled amongst each other
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_weapon_effect:
     # When enabled the effects for weapons are shuffled amongst each other.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_armour_defense:
     # When enabled, the defense from equipment is shuffled amongst each other
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_armour_effect:
     # When enabled the bonus effects for armour are shuffled amongst each other.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_curses:
     # When enabled the curses for equipment are randomized.
     'false': 50
-    'true': 0
+    'true': 50
 
   remove_all_curses:
     # When enabled, curses are removed.
-    'false': 0
+    'false': 50
     'true': 50
 
   ###################
@@ -470,42 +470,42 @@ Golden Sun The Lost Age:
   start_with_healing_psynergy:
     # Start the game with at least one healing Psynergy (Cure, Ply, Wish or Aura)
     'false': 50
-    'true': 0
+    'true': 50
 
   start_with_revive:
     # When enabled, start the game with Revive Psynergy
     'false': 50
-    'true': 0
+    'true': 50
 
   free_avoid:
     # When enabled, the Avoid Psynergy will cost no PP
-    'false': 0
+    'false': 50
     'true': 50
 
   avoid_always_works:
     # When enabled, Avoid always succeeds and will disable encounters. Using it again will enable encounters
-    'false': 0
+    'false': 50
     'true': 50
 
   free_retreat:
     # When enabled, the Retreat Psynergy will cost no PP
-    'false': 0
+    'false': 50
     'true': 50
 
   manual_retreat_glitch:
     # When enabled, Hold select to trigger the Retreat glitch. Logic does not require or expect use of glitches to beat your seed,
     # this purely gives more control to activating the glitch over draining your PP to than use it anyway.
     'false': 50
-    'true': 0
+    'true': 50
 
   sanctum_revive_cost:
     # Determine how expensive the Sanctuary is to revive characters
     # Vanilla: leaves the cost per the vanilla game (20x level)
     # Reduced: will alter the cost to be cheaper than vanilla (2x level)
     # Fixed: will alter the cost to the same price throughout (100 coins)
-    vanilla: 0
+    vanilla: 50
     reduced: 50
-    fixed: 0
+    fixed: 50
 
   enable_hard_mode:
     # When enabled, all enemies will have 50% more health, 25% more attack and defense
@@ -515,16 +515,16 @@ Golden Sun The Lost Age:
   reduced_encounter_rate:
     # When enabled, the encounter rate will be halved
     'false': 50
-    'true': 0
+    'true': 50
 
   easier_bosses:
     # When enabled, boss fights will be easier by altering their scripts / stats
     'false': 50
-    'true': 0
+    'true': 50
 
   teleport_to_dungeons_and_towns:
     # When enabled, allows Teleport to target small villages and dungeons
-    'false': 0
+    'false': 50
     'true': 50
 
   scale_exp:
@@ -534,9 +534,9 @@ Golden Sun The Lost Age:
     # Minimum value is 1
     # Maximum value is 15
     3: 50
-    random: 0
+    random: 50
     random-low: 0
-    random-high: 0
+    random-high: 50
 
   scale_coins:
     # Scale how much Coins are earned by the party.
@@ -545,9 +545,9 @@ Golden Sun The Lost Age:
     # Minimum value is 1
     # Maximum value is 15
     4: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   starting_levels:
     # Determine the starting levels for characters joining the party.
@@ -557,21 +557,21 @@ Golden Sun The Lost Age:
     # Minimum value is 5
     # Maximum value is 99
     5: 50
-    random: 0
+    random: 50
     random-low: 0
-    random-high: 0
+    random-high: 50
 
   show_items_outside_chest:
     # Chests and Tablets are replaced with their contents on the floor.
     # This allows for scouting items. Note certain locations are still not visible,
     # for example items in pots or barrels.
-    'false': 0
+    'false': 50
     'true': 50
 
   shuffle_music:
     # When enabled, music is shuffled amongst each other.
     'false': 50
-    'true': 0
+    'true': 50
 
   auto_run:
     # Swaps the behavior of holding B when moving (default is now run instead of walk)
@@ -582,7 +582,7 @@ Golden Sun The Lost Age:
     # Disable Shopkeepers offering Game Tickets, in Vanilla this is the main way to get game tickets. 
     # In the randomizer they and/or their rewards may show up as part of the item pool (see common_consumable_filler_weight and lucky_equipment_filler_weight options).
     # Note disabling this setting will make shop interactions take longer each time a game ticket is offered.
-    'false': 0
+    'false': 50
     'true': 50
 
   ################################
@@ -591,13 +591,13 @@ Golden Sun The Lost Age:
   forge_materials_are_filler:
     # Whether Forge Materials should be marked as filler instead of useful
     'false': 50
-    'true': 0
+    'true': 50
 
   artifacts_are_filler:
     # Whether "Rare" Equipment should be considered filler instead of useful.  Rings, Shirts, and Boots are
     # not reclassified by this option.
     'false': 50
-    'true': 0
+    'true': 50
 
   trap_chance:
     # The chance for filler items in the pool to be replaced by a trap. This can vary from about 70 to 130 traps depending on your settings. Have fun!
@@ -606,10 +606,10 @@ Golden Sun The Lost Age:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    50: 50
+    random: 50
+    random-low: 50
+    random-high: 50
 
   mimic_trap_weight:
     # The weight for a trap to be a Mimic. As not all vanilla locations can be mimics.
@@ -620,13 +620,13 @@ Golden Sun The Lost Age:
     # Minimum value is 0
     # Maximum value is 100
     5: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   scale_mimics:
     # Whether the strength of mimics should be scaled based on the sphere they are in.  Increases generation time
-    'false': 0
+    'false': 50
     'true': 50
 
   forge_material_filler_weight:
@@ -638,9 +638,9 @@ Golden Sun The Lost Age:
     # Minimum value is 0
     # Maximum value is 100
     25: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   rusty_material_filler_weight:
     # The weight for a filler item to be a rusty weapon. These weapons will forge into their counterparts as per usual.
@@ -650,9 +650,9 @@ Golden Sun The Lost Age:
     # Minimum value is 0
     # Maximum value is 100
     10: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   stat_boost_filler_weight:
     # The weight for a filler item to be a stat boost item.
@@ -662,9 +662,9 @@ Golden Sun The Lost Age:
     # Minimum value is 0
     # Maximum value is 100
     20: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   uncommon_consumable_filler_weight:
     # The weight for a filler item to be an uncommon consumable.
@@ -674,9 +674,9 @@ Golden Sun The Lost Age:
     # Minimum value is 0
     # Maximum value is 100
     25: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   forged_equipment_filler_weight:
     # The weight for a filler item to be the end result of forging equipment through materials or rusty weapons.
@@ -685,10 +685,10 @@ Golden Sun The Lost Age:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    50: 50
+    random: 50
+    random-low: 50
+    random-high: 50
 
   lucky_equipment_filler_weight:
     # The weight for a filler item to be a lucky item reward from the fountain in Lemuria or Lucky Wheels in Contigo.
@@ -697,10 +697,10 @@ Golden Sun The Lost Age:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    50: 50
+    random: 50
+    random-low: 50
+    random-high: 50
 
   shop_equipment_filler_weight:
     # The weight for a filler item to be equipment from the shop.
@@ -710,9 +710,9 @@ Golden Sun The Lost Age:
     # Minimum value is 0
     # Maximum value is 100
     10: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   coins_filler_weight:
     # The weight for a filler item to be coins.
@@ -722,9 +722,9 @@ Golden Sun The Lost Age:
     # Minimum value is 0
     # Maximum value is 100
     15: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   common_consumable_filler_weight:
     # The weight for a filler item to be a common consumable.
@@ -734,9 +734,9 @@ Golden Sun The Lost Age:
     # Minimum value is 0
     # Maximum value is 100
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ###########################
   # Item & Location Options #
@@ -782,4 +782,5 @@ Golden Sun The Lost Age:
   plando_items:
     # Generic items plando.
     []
+
 
