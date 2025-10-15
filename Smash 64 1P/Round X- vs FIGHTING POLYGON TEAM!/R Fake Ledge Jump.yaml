@@ -46,12 +46,12 @@ Banjo-Tooie:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,7 +60,7 @@ Banjo-Tooie:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   tag_link:
     # When other multiworld games tag/swap characters, you will auto swap with them and vise versa.
@@ -70,7 +70,7 @@ Banjo-Tooie:
   death_link:
     # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
     'false': 50
-    'true': 0
+    'true': 50
 
   logic_type:
     # Choose your logic difficulty and difficulty of tricks you are expected to perform to reach certain areas.
@@ -93,16 +93,16 @@ Banjo-Tooie:
     # Token Hunt: Mumbo's Tokens are scattered around the world. Help him find them!
     # Boss Hunt + Hag1: Combines Boss Hunt with HAG-1. HAG-1 won't open until the required amount of bosses are defeated.
     hag1: 50
-    minigame_hunt: 0
-    boss_hunt: 0
-    jinjo_family_rescue: 0
-    wonderwing_challenge: 0
-    token_hunt: 0
-    boss_hunt_and_hag1: 0
+    minigame_hunt: 50
+    boss_hunt: 50
+    jinjo_family_rescue: 50
+    wonderwing_challenge: 50
+    token_hunt: 50
+    boss_hunt_and_hag1: 50
 
   open_hag1:
     # HAG 1 boss fight is opened when Cauldron Keep is opened, requiring fewer Jiggies to win.
-    'false': 0
+    'false': 50
     'true': 50
 
   minigame_hunt_length:
@@ -113,9 +113,9 @@ Banjo-Tooie:
     # Minimum value is 1
     # Maximum value is 15
     14: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   boss_hunt_length:
     # How many Mumbo Tokens are needed to clear the Boss Hunt.
@@ -125,9 +125,9 @@ Banjo-Tooie:
     # Minimum value is 1
     # Maximum value is 8
     8: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   jinjo_family_rescue_length:
     # How many Jinjo families' Mumbo Tokens are needed to clear the Jinjo family rescue.
@@ -137,9 +137,9 @@ Banjo-Tooie:
     # Minimum value is 1
     # Maximum value is 9
     9: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   tokens_in_pool:
     # How many Mumbo Tokens are in the pool.
@@ -152,9 +152,9 @@ Banjo-Tooie:
     # Minimum value is 1
     # Maximum value is 100
     15: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   token_hunt_length:
     # How many Mumbo Tokens you need to find to beat your game.
@@ -164,9 +164,9 @@ Banjo-Tooie:
     # Minimum value is 1
     # Maximum value is 100
     10: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ###############
   # World Costs #
@@ -177,11 +177,11 @@ Banjo-Tooie:
     # normal: Worlds open at 1, 4, 8, 14, 20, 28, 36, 45, and 55 Jiggys
     # long: Worlds open at 1, 8, 16, 25, 34, 43, 52, 60, and 70 Jiggys
     # custom: You pick when worlds open
-    quick: 0
+    quick: 50
     normal: 50
-    long: 0
+    long: 50
     custom: 0
-    randomize: 0
+    randomize: 50
 
   custom_worlds:
     # Enter a list of jiggy requirements you want for each world unlock. Max values of each world are: 1,10,20,30,50,60,70,80,90.
@@ -195,19 +195,19 @@ Banjo-Tooie:
     # Banjo-Kazooie's Movelist are randomized.
     # Mcjiggy Special - You start with Talon Trot and Tall Jump.
     none: 50
-    mcjiggy_special: 0
-    all: 0
+    mcjiggy_special: 50
+    all: 50
 
   randomize_bt_moves:
     # Jamjars' & Roysten's Movelist are randomized.
-    'false': 0
+    'false': 50
     'true': 50
 
   jamjars_silo_costs:
     # Change how many notes it takes to use Jamjars' move silos. Requires the Banjo-Tooie move list to be randomized.
     vanilla: 50
-    randomize: 0
-    progressive: 0
+    randomize: 50
+    progressive: 50
 
   #####################
   # Progressive Moves #
@@ -219,45 +219,45 @@ Banjo-Tooie:
     # Progressive Eggs: You start with blue eggs, and you find items to unlock the others in the vanilla order.
     # Simple Random Start Egg: You start with one type of egg that is not Clockwork Kazooie Eggs, and you must find the other 4.
     start_with_blue_eggs: 50
-    random_starting_egg: 0
-    progressive_eggs: 0
-    simple_random_starting_egg: 0
+    random_starting_egg: 50
+    progressive_eggs: 50
+    simple_random_starting_egg: 50
 
   progressive_beak_buster:
     # Beak Buster to Bill Drill. Randomize Moves and Randomize BK Moves are required.
     'false': 50
-    'true': 0
+    'true': 50
 
   progressive_shoes:
     # Stilt Stride to Turbo Trainers to Springy Step Shoes to Claw Clamber Boots. Randomize Moves and Randomize BK Moves are required.
     'false': 50
-    'true': 0
+    'true': 50
 
   progressive_water_training:
     # Basic: Dive to Double Air to Faster Swimming.
     # Advanced: Dive to Sub Aqua Aiming to Talon Torpedo to Double Air to Faster Swimming.
     # Randomize Moves and Randomize BK Moves are required.
     none: 50
-    basic: 0
-    advanced: 0
+    basic: 50
+    advanced: 50
 
   progressive_flight:
     # Flight Pad to Beak Bomb to Airborne Egg Aim. Randomize Moves and Randomize BK Moves are required.
     'false': 50
-    'true': 0
+    'true': 50
 
   progressive_egg_aiming:
     # Basic: Third Person Egg Shooting to Egg Aim.
     # Advanced: Third Person Egg Shooting to Amaze-O-Gaze to Egg Aim to Breegull Blaster.
     # Randomize Moves and Randomize BK Moves are required.
     none: 50
-    basic: 0
-    advanced: 0
+    basic: 50
+    advanced: 50
 
   progressive_bash_attack:
     # Ground Rat-a-tat Rap to Breegull Bash. Randomize Stop N Swap and Randomize BK Moves are required
     'false': 50
-    'true': 0
+    'true': 50
 
   #############
   # Item Pool #
@@ -265,11 +265,11 @@ Banjo-Tooie:
   randomize_notes:
     # Note Nests are randomized.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_treble:
     # Treble Clefs are randomized.
-    'false': 0
+    'false': 50
     'true': 50
 
   extra_trebleclefs_count:
@@ -280,9 +280,9 @@ Banjo-Tooie:
     # Minimum value is 0
     # Maximum value is 21
     0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   bass_clef_amount:
     # Convert two 5 note nests into Bass Clefs (10 notes), and adds 1 filler per Bass Clef.
@@ -292,80 +292,80 @@ Banjo-Tooie:
     # Minimum value is 0
     # Maximum value is 30
     0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   randomize_jinjos:
     # Jinjos have fled to other worlds. Other players need to return them home.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_doubloons:
     # Jolly Roger's Doubloons are randomized.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_cheato:
     # Cheato pages are randomized.
-    'false': 0
+    'false': 50
     'true': 50
 
   cheato_rewards:
     # Cheato Rewards are added to the pool.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_honeycombs:
     # Honeycombs are randomized.
-    'false': 0
+    'false': 50
     'true': 50
 
   honeyb_rewards:
     # Health Upgrades are added to the pool.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_tickets:
     # Big Top Tickets are randomized.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_green_relics:
     # Targitzan's Green Relics are randomized.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_beans:
     # CCL Beans are randomized.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_glowbos:
     # Mumbo and Humba Magic are in the pool and automatically unlocked when received.
     # When disabled, collecting a Glowbo will give you either a Mumbo or Humba Magic.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_stop_n_swap:
     # Mystery Eggs, their rewards, and the Ice Key are scattered across the MultiWorld.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_dino_roar:
     # Baby T-Rex's Roar is lost across the MultiWorld. Other players need to help him learn to ROAR!
     'false': 50
-    'true': 0
+    'true': 50
 
   nestsanity:
     # Eggs and feather nests give checks when you collect them for the first time. They behave as regular egg nests after they have been collected.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_signposts:
     # Signposts give items when read.
     'false': 50
-    'true': 0
+    'true': 50
 
   ###################################
   # Overworld and Level Exploration #
@@ -373,23 +373,23 @@ Banjo-Tooie:
   randomize_stations:
     # Train Stations are randomized.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_chuffy:
     # Chuffy is randomized.
     # Once received, you can call Chuffy at any unlocked station before defeating Old King Coal.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_warp_pads:
     # Warp Pads give checks when tagging them. They can only be used once you receive the corresponding item to use a warp pad.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_silos:
     # Overworld silos give checks when tagging them. They can only be used once you receive the corresponding item to use a silo.
     'false': 50
-    'true': 0
+    'true': 50
 
   open_silos:
     # Choose how many overworld silos are pre-opened.
@@ -400,29 +400,29 @@ Banjo-Tooie:
     # Minimum value is 0
     # Maximum value is 7
     2: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   skip_puzzles:
     # Open world entrances without having to go to Jiggywiggy.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_worlds:
     # Worlds will open in a randomized order. Randomized Moves and Skip Puzzles required.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_world_entrance_loading_zone:
     # The main entrance of each world will warp you to a random world.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_boss_loading_zone:
     # The entrance of each boss will warp you to a random boss.
     'false': 50
-    'true': 0
+    'true': 50
 
   backdoors:
     # Opens many one-way switches on game start, allowing for more backdoor access to levels.
@@ -431,12 +431,12 @@ Banjo-Tooie:
     # The bridge from HFP's entrance is pre-moved to allow secondary access to Cliff Top.
     # George is pre-dropped to make HFP -> JRL more accessible.
     'false': 50
-    'true': 0
+    'true': 50
 
   open_gi_frontdoor:
     # Opens Grunty's Industries frontdoor without requiring to get in first.
     'false': 50
-    'true': 0
+    'true': 50
 
   ##################
   # Signpost Hints #
@@ -448,9 +448,9 @@ Banjo-Tooie:
     # Minimum value is 0
     # Maximum value is 61
     0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   signpost_move_hints:
     # Choose how many signposts, out of the signposts that contain a hint, will hint for one of your moves.
@@ -461,15 +461,15 @@ Banjo-Tooie:
     # Minimum value is 0
     # Maximum value is 61
     20: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   hint_clarity:
     # Choose how clear hints are.
     # Cryptic: hints will only tell you how good the item is.
     # Clear: hints will tell you what the item is.
-    cryptic: 0
+    cryptic: 50
     clear: 50
 
   add_signpost_hints_to_ap:
@@ -501,12 +501,12 @@ Banjo-Tooie:
     # Choose whether to play the full quiz, start at round 3, or skip it.
     full: 0
     skip: 50
-    round_3: 0
+    round_3: 50
 
   skip_klungo:
     # Make it so you can skip Klungo 1 and 2.
     'false': 50
-    'true': 0
+    'true': 50
 
   auto_enable_cheats:
     # When Feathers and Eggs cheats are found, only enable them automatically when received.
@@ -524,7 +524,7 @@ Banjo-Tooie:
 
   jingaling_jiggy:
     # King Jingaling will always have a Jiggy for you.
-    'false': 0
+    'false': 50
     'true': 50
 
   ###########
@@ -698,12 +698,12 @@ Banjo-Tooie:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    random: 0
-    random-low: 0
+    random: 50
+    random-low: 50
     random-high: 0
     none: 50 # equivalent to 0
-    light: 0 # equivalent to 15
-    moderate: 0 # equivalent to 30
+    light: 50 # equivalent to 15
+    moderate: 50 # equivalent to 30
     mayhem: 0 # equivalent to 70
     unlimited: 0 # equivalent to 99999
 
@@ -823,7 +823,7 @@ Banjo-Tooie:
     dino_scrit_big: 0
     heggy: 0
     default_icons: 50
-    complete_random: 0
+    complete_random: 50
 
   ###########################
   # Item & Location Options #
@@ -869,4 +869,5 @@ Banjo-Tooie:
   plando_items:
     # Generic items plando.
     []
+
 
