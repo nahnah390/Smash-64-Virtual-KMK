@@ -46,12 +46,12 @@ System Shock 2:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,25 +60,25 @@ System Shock 2:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   start_inventory:
     Science Access Card: 1
 
   include_stats_skills_psi:
     # Include Technical Skills, Weapon Skills, Statistics, Psi Tier unlocks, and Psi ability unlocks.
-    'false': 0
+    'false': 50
     'true': 50
 
   include_os_upgrades:
     # Include OSUpgrades.
-    'false': 0
+    'false': 50
     'true': 50
 
   remove_duplicate_locations:
     # Drastically reduces the amount of locations by removing extra locations with the same name and locations close together.
     # Does not affect chemicals if that option is on.  Removes all unneccesary audio logs, reduces amount of some weapons, and compresses consumables.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_code_art:
@@ -86,40 +86,40 @@ System Shock 2:
     # If this option is off the 4 locations are: 2 in Rec A, 1 near the safe behind the reception desk, 1 in a crew quarters room on the 2nd floor.
     # 1 in Rec B in the pool room.  1 in Rec C in the artechnology store.  If this option is on the 7 extra locations are:  2 in Rec A inside crew quarters rooms on the 2nd floor.
     # 1 in Rec B in the dining room where the lights turn off.  4 in Rec C in the artechnology store.
-    'false': 0
+    'false': 50
     'true': 50
 
   include_chemicals:
     # Include chemicals and manifests.
     'false': 50
-    'true': 0
+    'true': 50
 
   include_starting_wrench:
     # Include the wrench found on the first body in medsci.
     'false': 50
-    'true': 0
+    'true': 50
 
   death_link:
     # Whenever anyone with Death Link on dies, all other players in the multiworld with Death Link on die as well.  Not abusing saving is integral to this option functioning. 
     # Both because it functionally needs the death animation to always play out for 2 seconds to work, but also because it can easily be invalidated by saving.
     # I recommend limiting your saving in some way, for example only saving after level transitions.
     'false': 50
-    'true': 0
+    'true': 50
 
   many_is_victory:
     # Make The Many the victory condition instead of Shodan.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_enemies:
     # Randomizes enemies.  It is recommended to stay on as this mod's balance is different from vanilla's.
     # If turned off the early game will be much more difficult, especially if the starting wrench is randomized, and the mid-late game will be too easy.
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_replicators:
     # Randomizes contents and prices of replicators.  Forces a Psi hypo to be in the MedSci Xerxes room replicator.  Intended to stay on but not integral.
-    'false': 0
+    'false': 50
     'true': 50
 
   ###########################
@@ -156,4 +156,5 @@ System Shock 2:
   plando_items:
     # Generic items plando.
     []
+
 
