@@ -139,7 +139,7 @@ Super Mario 64:
   strict_move_requirements:
     # If disabled, Stars that expect certain moves may have to be acquired without them. Only makes a difference
     # if Move Randomization is enabled
-    'false': 50
+    'false': 0
     'true': 50
 
   ################
@@ -261,5 +261,6 @@ Super Mario 64:
   plando_items:
     # Generic items plando.
     []
+
 
 
