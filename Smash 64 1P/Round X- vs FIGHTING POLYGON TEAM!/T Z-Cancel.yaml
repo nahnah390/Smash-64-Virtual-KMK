@@ -46,12 +46,12 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,12 +60,12 @@ Star Fox 64:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   deathlink:
     # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
     'false': 50
-    'true': 0
+    'true': 50
 
   ringlink:
     # Enable Ring Link for use with games that support it. Incoming rings are converted to the current level's Hit counter.
@@ -81,8 +81,8 @@ Star Fox 64:
     # Andross and Robot Andross - Defeat both Andross and Robot Andross
     # Andross - Defeat Andross in Venom 2
     andross_or_robot_andross: 50
-    andross_and_robot_andross: 0
-    andross: 0
+    andross_and_robot_andross: 50
+    andross: 50
 
   required_medals:
     # Require a certain number of medals before you can enter Venom 2.
@@ -91,10 +91,10 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 15
-    0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    50: 50
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ###################
   # Shuffle Options #
@@ -106,13 +106,13 @@ Star Fox 64:
     # Shuffle Levels - You will receive levels as items which will allow you to select that level at any time.
     # Shuffle Paths - You will receive paths as items which will allow you to take that path to other levels.
     shuffle_levels: 50
-    shuffle_paths: 0
+    shuffle_paths: 50
 
   shuffle_starting_level:
     # If Level Access is 'Shuffle Levels', shuffle which level you start with.
     # You normally start with Corneria.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_medals:
     # Shuffle the medals awarded by reaching a certain number of Hits in each level.
@@ -121,13 +121,13 @@ Star Fox 64:
     # Note: Medals are very challenging in vanilla.
     # Unless you know what you're doing, it is recommended to lower the score needed for each level using their options.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_checkpoints:
     # Shuffle checkpoints rings for the levels that have them.
     # You will not be able to use the checkpoint ring in a level until you receive the item for it.
     'false': 50
-    'true': 0
+    'true': 50
 
   ###################
   # Speedup Options #
@@ -135,33 +135,33 @@ Star Fox 64:
   accomplished_sends_complete:
     # Getting 'Mission Accomplished' on any level will also count as getting 'Mission Complete' for that level.
     'false': 50
-    'true': 0
+    'true': 50
 
   ##################
   # Vanity Options #
   ##################
   radio_rando:
     # Randomize the radio dialog.
-    'off': 0
+    'off': 50
     'on': 50
     on_including_training: 0
 
   engine_glow:
     # Set the color of your engine's glow.
     default: 50
-    rainbow: 0
-    red: 0
-    deep_pink: 0
-    magenta: 0
-    electric_indigo: 0
-    blue: 0
-    dodger_blue: 0
-    aqua: 0
-    spring_green: 0
-    lime: 0
-    chartreuse: 0
-    yellow: 0
-    dark_orange: 0
+    rainbow: 50
+    red: 50
+    deep_pink: 50
+    magenta: 50
+    electric_indigo: 50
+    blue: 50
+    dodger_blue: 50
+    aqua: 50
+    spring_green: 50
+    lime: 50
+    chartreuse: 50
+    yellow: 50
+    dark_orange: 50
 
   #########################
   # Accessibility Options #
@@ -173,9 +173,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 99
     2: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_corneria:
     # Set the score required to earn the medal on Corneria.
@@ -184,9 +184,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_meteo:
     # Set the score required to earn the medal on Meteo.
@@ -195,9 +195,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 200
     200: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_sector_y:
     # Set the score required to earn the medal on Sector Y.
@@ -206,9 +206,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_katina:
     # Set the score required to earn the medal on Katina.
@@ -217,9 +217,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_fortuna:
     # Set the score required to earn the medal on Fortuna.
@@ -228,9 +228,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 50
     50: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_aquas:
     # Set the score required to earn the medal on Aquas.
@@ -239,9 +239,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_solar:
     # Set the score required to earn the medal on Solar.
@@ -250,9 +250,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 100
     100: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_sector_x:
     # Set the score required to earn the medal on Sector X.
@@ -261,9 +261,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_zoness:
     # Set the score required to earn the medal on Zoness.
@@ -272,9 +272,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 250
     250: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_titania:
     # Set the score required to earn the medal on Titania.
@@ -283,9 +283,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_sector_z:
     # Set the score required to earn the medal on Sector Z.
@@ -294,9 +294,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 100
     100: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_macbeth:
     # Set the score required to earn the medal on Macbeth.
@@ -305,9 +305,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_area_6:
     # Set the score required to earn the medal on Area 6.
@@ -316,9 +316,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 300
     300: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_bolse:
     # Set the score required to earn the medal on Bolse.
@@ -327,9 +327,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   medal_venom:
     # Set the score required to earn the medal on Venom.
@@ -338,9 +338,9 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 200
     200: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ###########################
   # Item & Location Options #
@@ -386,4 +386,5 @@ Star Fox 64:
   plando_items:
     # Generic items plando.
     []
+
 
