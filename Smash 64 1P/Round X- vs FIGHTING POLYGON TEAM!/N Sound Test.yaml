@@ -46,12 +46,12 @@ Lingo:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,7 +60,7 @@ Lingo:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   shuffle_doors:
     # This option specifies how doors open.
@@ -71,15 +71,15 @@ Lingo:
     # - **Doors:** the doors themselves are locked behind items, and will open
     #   automatically without needing to solve a panel once the key is obtained.
     none: 50
-    panels: 0
-    doors: 0
+    panels: 50
+    doors: 50
 
   group_doors:
     # By default, door shuffle in either panels or doors mode will create individual keys for every panel or door to be locked.
     # 
     # When group doors is on, some panels and doors are sorted into logical groups, which are opened together by receiving an item.
     'false': 50
-    'true': 0
+    'true': 50
 
   location_checks:
     # Determines what locations are available.
@@ -91,15 +91,15 @@ Lingo:
     #   are removed.
     # - **Insanity:** Every individual panel in the game is a location check.
     normal: 50
-    reduced: 0
-    insanity: 0
+    reduced: 50
+    insanity: 50
 
   shuffle_colors:
     # If on, an item is added to the pool for every puzzle color (besides White).
     # 
     # You will need to unlock the requisite colors in order to be able to solve
     # puzzles of that color.
-    'false': 0
+    'false': 50
     'true': 50
 
   shuffle_panels:
@@ -113,12 +113,12 @@ Lingo:
     # 
     # More options for puzzle randomization are planned in the future.
     none: 50
-    rearrange: 0
+    rearrange: 50
 
   shuffle_paintings:
     # If on, the destination, location, and appearance of the painting warps in the game will be randomized.
     'false': 50
-    'true': 0
+    'true': 50
 
   victory_condition:
     # Change the victory condition.
@@ -132,9 +132,9 @@ Lingo:
     # - **Pilgrimage:** The goal is to solve PILGRIM in the Pilgrim Antechamber,
     #   typically after performing a Pilgrimage.
     the_end: 50
-    the_master: 0
-    level_2: 0
-    pilgrimage: 0
+    the_master: 50
+    level_2: 50
+    pilgrimage: 50
 
   early_color_hallways:
     # When on, a painting warp to the color hallways area will appear in the starting room.
@@ -142,17 +142,17 @@ Lingo:
     # This lets you avoid being trapped in the starting room for long periods of
     # time when door shuffle is on.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_postgame:
     # When off, locations that could not be reached without also reaching your victory condition are removed.
     'false': 50
-    'true': 0
+    'true': 50
 
   death_link:
     # If on: Whenever another player on death link dies, you will be returned to the starting room.
     'false': 50
-    'true': 0
+    'true': 50
 
   ##############
   # Pilgrimage #
@@ -165,20 +165,20 @@ Lingo:
     # - **Off:** The pilgrimage will be deactivated, and the sun painting will be
     #   added to the pool, even if door shuffle is off.
     'false': 50
-    'true': 0
+    'true': 50
 
   pilgrimage_allows_roof_access:
     # If on, you may use the Crossroads roof access during a pilgrimage (and you may be expected to do so).
     # 
     # Otherwise, pilgrimage will be deactivated when going up the stairs.
-    'false': 0
+    'false': 50
     'true': 50
 
   pilgrimage_allows_paintings:
     # If on, you may use paintings during a pilgrimage (and you may be expected to do so).
     # 
     # Otherwise, pilgrimage will be deactivated when going through a painting.
-    'false': 0
+    'false': 50
     'true': 50
 
   sunwarp_access:
@@ -194,15 +194,15 @@ Lingo:
     # - **Progressive:** Sunwarps start off disabled, and they unlock in order
     #   using a progressive item.
     normal: 50
-    disabled: 0
-    unlock: 0
-    individual: 0
-    progressive: 0
+    disabled: 50
+    unlock: 50
+    individual: 50
+    progressive: 50
 
   shuffle_sunwarps:
     # If on, the pairing and ordering of the sunwarps in the game will be randomized.
     'false': 50
-    'true': 0
+    'true': 50
 
   ###############
   # Fine-tuning #
@@ -214,7 +214,7 @@ Lingo:
     #   item is the only one needed to access that floor.
     # - **On:** There are six progressive items, which open up the tower from the
     #   bottom floor upward.
-    'false': 0
+    'false': 50
     'true': 50
 
   progressive_colorful:
@@ -225,7 +225,7 @@ Lingo:
     #   access to them.
     # - **On:** There are ten progressive items, which open up the sequence from
     #   White forward.
-    'false': 0
+    'false': 50
     'true': 50
 
   mastery_achievements:
@@ -241,9 +241,9 @@ Lingo:
     # Minimum value is 1
     # Maximum value is 24
     21: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   level_2_requirement:
     # The number of panel solves required to unlock LEVEL 2.
@@ -256,9 +256,9 @@ Lingo:
     # Minimum value is 1
     # Maximum value is 800
     223: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   trap_percentage:
     # Replaces junk items with traps, at the specified rate.
@@ -267,9 +267,9 @@ Lingo:
     # Minimum value is 0
     # Maximum value is 100
     20: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   trap_weights:
     # Specify the distribution of traps that should be placed into the pool.
@@ -283,7 +283,7 @@ Lingo:
     # If on, the player's default speed is halved, as if affected by a Slowness Trap. Speed Boosts are added to
     # the item pool, which temporarily return the player to normal speed. Slowness Traps are removed from the pool.
     'false': 50
-    'true': 0
+    'true': 50
 
   puzzle_skip_percentage:
     # Replaces junk items with puzzle skips, at the specified rate.
@@ -292,9 +292,9 @@ Lingo:
     # Minimum value is 0
     # Maximum value is 100
     20: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ###########################
   # Item & Location Options #
@@ -340,4 +340,5 @@ Lingo:
   plando_items:
     # Generic items plando.
     []
+
 
