@@ -46,12 +46,12 @@ Star Wars Episode I Racer:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,17 +60,17 @@ Star Wars Episode I Racer:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   progressive_parts:
     # Pod racer parts will always be the next level upgrade
     'false': 50
-    'true': 0
+    'true': 50
 
   no_traction_upgrades:
     # Removes Traction parts from the item pool
     'false': 50
-    'true': 0
+    'true': 50
 
   course_unlock_mode:
     # Sets how courses should unlock
@@ -78,18 +78,18 @@ Star Wars Episode I Racer:
     # Circuit Pass Invitational: Same as Circuit Pass but with the addition of the Invitational Circuit
     # Shuffle: Course unlocks are shuffled
     circuit_pass: 50
-    circuit_pass_invitational: 0
-    shuffle: 0
+    circuit_pass_invitational: 50
+    shuffle: 50
 
   progressive_circuits:
     # Access to circuits will be in the regular order
     # Only applies when using Circuit Pass or Circuit Pass Invitational unlock modes
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_starting_racers:
     # Changes which racers are available to use at the beginning
-    'false': 0
+    'false': 50
     'true': 50
 
   starting_racers_count:
@@ -100,9 +100,9 @@ Star Wars Episode I Racer:
     # Minimum value is 1
     # Maximum value is 23
     6: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   starting_racers_plando:
     # List of specific racers with which to start
@@ -116,9 +116,9 @@ Star Wars Episode I Racer:
     # Minimum value is 0
     # Maximum value is 22
     22: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   mirrored_tracks:
     # How many tracks should be mirrored
@@ -127,15 +127,15 @@ Star Wars Episode I Racer:
     # Minimum value is 0
     # Maximum value is 25
     0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   disable_part_damage:
     # Prevents parts from being damaged and removes pit droids from the item pool
     # This does not remove the pit droid shop checks, just the pit droids themselves
     # Extra money will be added to the pool to compensate
-    'false': 0
+    'false': 50
     'true': 50
 
   ai_scaling:
@@ -143,9 +143,9 @@ Star Wars Episode I Racer:
     # Vanilla: Courses use their default scaling, which may result in tough races early on
     # Circuits: AI is scaled according to the current circuit
     # Parts: AI is dynamically scaled according to the quality of your parts
-    vanilla: 0
+    vanilla: 50
     circuits: 50
-    parts: 0
+    parts: 50
 
   additional_ai_multiplier:
     # Applies additional scaling to AI
@@ -155,24 +155,24 @@ Star Wars Episode I Racer:
     # Minimum value is 100
     # Maximum value is 5000
     1000: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   enable_multiplier_control:
     # Allows the player to change the additional AI multiplier in-game
-    'false': 0
+    'false': 50
     'true': 50
 
   one_lap_mode:
     # Races only require 1 lap to complete
     'false': 50
-    'true': 0
+    'true': 50
 
   auto_hint_shop:
     # Automatically hints shop items as they unlock
     'false': 50
-    'true': 0
+    'true': 50
 
   shop_costs:
     # Sets the cost of items at Watto's shop
@@ -180,8 +180,8 @@ Star Wars Episode I Racer:
     # Normalized: Prices are much closer together, with some categories being slightly more expensive than others
     # Tiered: Each tier of any part type is an identical cost to that of other parts. This is the cheapest option
     vanilla: 50
-    normalized: 0
-    tiered: 0
+    normalized: 50
+    tiered: 50
 
   shop_cost_multiplier:
     # Additional multiplier for shop costs
@@ -190,9 +190,9 @@ Star Wars Episode I Racer:
     # Minimum value is 1
     # Maximum value is 10
     1: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   course_plando:
     # Sets specific courses
@@ -207,14 +207,14 @@ Star Wars Episode I Racer:
     # Minimum value is 0
     # Maximum value is 50
     0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   deathlink:
     # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
     'false': 50
-    'true': 0
+    'true': 50
 
   ###########################
   # Item & Location Options #
@@ -254,4 +254,5 @@ Star Wars Episode I Racer:
   plando_items:
     # Generic items plando.
     []
+
 
