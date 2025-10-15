@@ -201,7 +201,7 @@ Castlevania 64:
     # There are 18 of these throughout the game, adding up to 79 or 80 checks (depending on sub-weapons being shuffled anywhere or not) in total with all stages.
     # The game will be modified to remember exactly which of their items you've picked up instead of simply whether they were broken or not.
     'false': 50
-    'true': 50
+    'true': 0
 
   empty_breakables:
     # Adds 9 check locations in the form of breakables that normally have nothing (all empty Forest coffins, etc.) and some additional Red Jewels and/or moneybags into the item pool to compensate.
@@ -212,7 +212,7 @@ Castlevania 64:
     # Adds the 6 items inside Castle Center 2F's Lizard-man generators to the pool.
     # Picking up all of these can be a very tedious luck-based process, so they are off by default.
     'false': 50
-    'true': 50
+    'true': 0
 
   shopsanity:
     # Adds 7 one-time purchases from Renon's shop into the location pool.
@@ -290,7 +290,7 @@ Castlevania 64:
 
   increase_item_limit:
     # Increases the holding limit of usable items from 10 to 99 of each item.
-    'false': 50
+    'false': 0
     'true': 50
 
   nerf_healing_items:
@@ -511,6 +511,7 @@ Castlevania 64:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
