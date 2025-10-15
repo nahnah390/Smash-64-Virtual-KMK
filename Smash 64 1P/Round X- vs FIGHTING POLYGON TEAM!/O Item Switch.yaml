@@ -46,12 +46,12 @@ Diddy Kong Racing:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,29 +60,29 @@ Diddy Kong Racing:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   victory_condition:
     # The victory condition for the seed:
     #     Beat Wizpig 1: Find the 4 Wizpig amulet pieces and beat the first Wizpig race. Future Fun Land items will not be randomized.
     #     Beat Wizpig 2: Get access to Future Fun Land, find the 4 T.T. amulet pieces and all 47 golden balloons, and beat the second Wizpig race.
     beat_wizpig_1: 50
-    beat_wizpig_2: 0
+    beat_wizpig_2: 50
 
   shuffle_wizpig_amulet:
     # Shuffle the 4 Wizpig amulet pieces into the item pool
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_tt_amulet:
     # Shuffle the 4 T.T. amulet pieces into the item pool
     'false': 50
-    'true': 0
+    'true': 50
 
   open_worlds:
     # All worlds, including Future Fun Land, will be open from the start
     'false': 50
-    'true': 0
+    'true': 50
 
   door_requirement_progression:
     # The progression of door requirement amounts:
@@ -93,8 +93,8 @@ Diddy Kong Racing:
     #     Exponential: Door requirements are clustered towards lower numbers, same trend as vanilla but without big gaps
     #         Looks like this if max door requirement = 46: [1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 5, 5, 5, 6, 7, 7, 8, 8, 9, 10, 11, 12, 12, 13, 14, 16, 17, 18, 19, 21, 22, 24, 25, 27, 29, 31, 33, 36, 38, 41, 44, 46]
     vanilla: 50
-    linear: 0
-    exponential: 0
+    linear: 50
+    exponential: 50
 
   maximum_door_requirement:
     # Maximum balloon requirement for a numbered door (does not include the Wizpig 2 door). Only used if door requirement progression is not vanilla.
@@ -103,14 +103,14 @@ Diddy Kong Racing:
     # Minimum value is 1
     # Maximum value is 46
     46: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   shuffle_door_requirements:
     # The balloon requirements to open all numbered doors will be shuffled
     'false': 50
-    'true': 0
+    'true': 50
 
   boss_1_regional_balloons:
     # The number of regional balloons required to unlock boss race 1 for that region
@@ -119,9 +119,9 @@ Diddy Kong Racing:
     # Minimum value is 0
     # Maximum value is 4
     4: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   boss_2_regional_balloons:
     # The number of regional balloons required to unlock boss race 2 for that region
@@ -130,9 +130,9 @@ Diddy Kong Racing:
     # Minimum value is 0
     # Maximum value is 8
     8: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   wizpig_1_amulet_pieces:
     # The number of Wizpig amulet pieces required to unlock Wizpig race 1
@@ -141,9 +141,9 @@ Diddy Kong Racing:
     # Minimum value is 0
     # Maximum value is 4
     4: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   wizpig_2_amulet_pieces:
     # The number of T.T. amulet pieces required to unlock Wizpig race 2, along with the balloon requirement
@@ -152,9 +152,9 @@ Diddy Kong Racing:
     # Minimum value is 0
     # Maximum value is 4
     4: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   wizpig_2_balloons:
     # The number of balloons required to unlock Wizpig race 2, along with the T.T. amulet piece requirement
@@ -163,26 +163,26 @@ Diddy Kong Racing:
     # Minimum value is 0
     # Maximum value is 47
     47: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   randomize_character_on_map_change:
     # Randomly change your character every time the map is changed
     'false': 50
-    'true': 0
+    'true': 50
 
   power_up_balloon_type:
     # Alter the power-up balloons in races (does not affect boss races):
     #     Random (visible): Power-up balloons will visually shuffle between all types.
     #     Random (hidden): Power-up balloons will shuffle between all types, but always appear rainbow.
     vanilla: 50
-    random_visible: 0
-    random_hidden: 0
+    random_visible: 50
+    random_hidden: 50
 
   skip_trophy_races:
     # Start with all 1st place trophies, so you only need to beat Wizpig 1 to unlock Future Fun Land
-    'false': 0
+    'false': 50
     'true': 50
 
   ###########################
@@ -223,4 +223,5 @@ Diddy Kong Racing:
   plando_items:
     # Generic items plando.
     []
+
 
