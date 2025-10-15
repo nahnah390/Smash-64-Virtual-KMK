@@ -41,7 +41,7 @@ Corn Kidz 64:
   death_link:
     # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
     'false': 50
-    'true': 0
+    'true': 50
 
   progression_balancing:
     # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
@@ -51,12 +51,12 @@ Corn Kidz 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -65,22 +65,22 @@ Corn Kidz 64:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   ################
   # Base Options #
   ################
   goal:
     # The clear condition to finish the game.
-    owlloh: 0
+    owlloh: 50
     tower: 50
-    anxiety: 0
-    god: 0
+    anxiety: 50
+    god: 50
 
   open_wollows_hollow:
     # Makes Wollow's Hollow accessible from the beginning without any moves needed.
     'false': 50
-    'true': 0
+    'true': 50
 
   trap_percentage:
     # Determines the number of trap items when populating the item pool with filler.
@@ -89,34 +89,34 @@ Corn Kidz 64:
     # Minimum value is 0
     # Maximum value is 100
     25: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   #########################
   # Randomization Options #
   #########################
   cranksanity:
     # Randomizes the locations where cranks can be found.
-    'false': 0
+    'false': 50
     'true': 50
 
   ratsanity:
     # Adds the Sanitary Zoo rats into the item and location pool.
     # Collecting them all is required for the zoo to be clean.
     'false': 50
-    'true': 0
+    'true': 50
 
   fishsanity:
     # Adds the purple Fish into the item and location pool.
     # Collecting them all is required for the Void Screw in the Zombie Chamber.
     'false': 50
-    'true': 0
+    'true': 50
 
   achievementsanity:
     # Adds achievements into the location pool.
     'false': 50
-    'true': 0
+    'true': 50
 
   movesanity:
     # Adds the following player moves to the item pool:
@@ -128,7 +128,7 @@ Corn Kidz 64:
     # - Crouch
     # NOTE: This has as high failure rate for worlds with only few filler items or single worlds. Try regenerating or turning on Open Wollow's Hollow to help with these failures.
     'false': 50
-    'true': 0
+    'true': 50
 
   ##############
   # XP Options #
@@ -140,9 +140,9 @@ Corn Kidz 64:
     # Minimum value is 200
     # Maximum value is 500
     360: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   xp_item_count:
     # The amount of XP items in the item pool. Use this to make more space for junk (filler/trap) items.
@@ -151,9 +151,9 @@ Corn Kidz 64:
     # Minimum value is 52
     # Maximum value is 134
     134: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ###########################
   # Item & Location Options #
@@ -199,4 +199,5 @@ Corn Kidz 64:
   plando_items:
     # Generic items plando.
     []
+
 
