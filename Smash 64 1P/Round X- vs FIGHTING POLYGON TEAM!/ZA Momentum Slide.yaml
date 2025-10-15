@@ -46,12 +46,12 @@ Sonic Rush:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,7 +60,7 @@ Sonic Rush:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   goal:
     # Sets the goal of your world.
@@ -71,14 +71,14 @@ Sonic Rush:
     # - **Extra zone:** Defeat the extra zone boss, requiring all chaos and sol emeralds.
     # - **100 percent:** Clear all acts and defeat all bosses (main game and extra zone) with both Sonic and Blaze.
     bosses_once: 50
-    bosses_both: 0
-    extra_zone: 0
-    100_percent: 0
+    bosses_both: 50
+    extra_zone: 50
+    100_percent: 50
 
   screw_f_zone:
     # Toggle whether F-Zone (Sonic and Blaze) should be **excluded**
     # from goal conditions and having important items.
-    'false': 0
+    'false': 50
     'true': 50
 
   amount_of_starting_zones:
@@ -88,16 +88,16 @@ Sonic Rush:
     # Minimum value is 1
     # Maximum value is 8
     2: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   include_s_rank_checks:
     # Adds reaching S rank on acts and/or bosses (excluding F-Zone and Extra zone) as additional checks.
     none: 50
-    only_acts: 0
-    only_bosses: 0
-    all: 0
+    only_acts: 50
+    only_bosses: 50
+    all: 50
 
   tails_and_cream_substory:
     # Sets how the presence of Tails and Cream as sidekicks is handled.
@@ -118,18 +118,18 @@ Sonic Rush:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
     none: 50 # equivalent to 0
-    rare: 0 # equivalent to 4
-    occasionally: 0 # equivalent to 10
+    rare: 50 # equivalent to 4
+    occasionally: 50 # equivalent to 10
     maximum_suffering: 0 # equivalent to 100
 
   deathlink:
     # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
     'false': 50
-    'true': 0
+    'true': 50
 
   ###########################
   # Item & Location Options #
@@ -169,4 +169,5 @@ Sonic Rush:
   plando_items:
     # Generic items plando.
     []
+
 
