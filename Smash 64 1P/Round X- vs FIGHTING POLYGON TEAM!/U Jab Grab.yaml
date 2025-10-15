@@ -46,12 +46,12 @@ The Legend of Zelda - Phantom Hourglass:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -62,8 +62,8 @@ The Legend of Zelda - Phantom Hourglass:
     # 
     # **Items:** ensure all logically relevant items can be acquired. Some items, such as keys, may be self-locking, and
     # some locations may be inaccessible.
-    full: 0
-    minimal: 0
+    full: 50
+    minimal: 50
     items: 50
 
   remove_items_from_pool:
@@ -75,7 +75,7 @@ The Legend of Zelda - Phantom Hourglass:
   death_link:
     # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
     'false': 50
-    'true': 0
+    'true': 50
 
   ################
   # Goal Options #
@@ -85,9 +85,9 @@ The Legend of Zelda - Phantom Hourglass:
     # - Triforce_door: Open the triforce door on TotOK B6. Leftover from pre-alpha
     # - complete_dungeons: complete dungeons to unlock the endgame
     # - metal_hunt: collect a specified number of metals to unlock the endgame
-    triforce_door: 0
+    triforce_door: 50
     complete_dungeons: 50
-    metal_hunt: 0
+    metal_hunt: 50
 
   bellum_access:
     # What unlocks after you reach your goal requirement. For bellum options, game completion is sent on entering the credits.
@@ -100,10 +100,10 @@ The Legend of Zelda - Phantom Hourglass:
     # can skip bellum 1 and the ghost ship fight
     # - win: reaching your goal requirement wins the game
     spawn_phantoms_on_b13: 50
-    unlock_staircase: 0
-    warp_to_bellum: 0
-    spawn_bellumbeck: 0
-    win: 0
+    unlock_staircase: 50
+    warp_to_bellum: 50
+    spawn_bellumbeck: 50
+    win: 50
 
   ###################
   # Dungeon Options #
@@ -117,13 +117,13 @@ The Legend of Zelda - Phantom Hourglass:
     # Minimum value is 0
     # Maximum value is 8
     3: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   exclude_non_required_dungeons:
     # Non-required dungeons won't have progression or useful items. Does not apply to TotOK.
-    'false': 0
+    'false': 50
     'true': 50
 
   ghost_ship_in_dungeon_pool:
@@ -132,13 +132,13 @@ The Legend of Zelda - Phantom Hourglass:
     # - cubus_sisters: the dungeon reward will be on defeating the cubus sisters
     # - false: the ghost ship cannot be rolled for the required dungeon pool
     rescue_tetra: 50
-    cubus_sisters: 0
-    'false': 0
+    cubus_sisters: 50
+    'false': 50
 
   totok_in_dungeon_pool:
     # Choose whether the NE Sea Chart chest on B13 of Temple of the Ocean King is in the dungeon reward pool
     'false': 50
-    'true': 0
+    'true': 50
 
   ######################
   # Metal Hunt Options #
@@ -152,9 +152,9 @@ The Legend of Zelda - Phantom Hourglass:
     # Minimum value is 0
     # Maximum value is 50
     20: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   metal_hunt_total:
     # Total number of metals in the pool if metals are enabled
@@ -165,9 +165,9 @@ The Legend of Zelda - Phantom Hourglass:
     # Minimum value is 0
     # Maximum value is 50
     25: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   #################
   # Logic Options #
@@ -191,9 +191,9 @@ The Legend of Zelda - Phantom Hourglass:
     # and sword + 2 progressive spirits of power
     # - require_weapon: all of the above plus grappling hook
     require_phantom_sword: 50
-    require_traps: 0
-    require_stun: 0
-    require_weapon: 0
+    require_traps: 50
+    require_stun: 50
+    require_weapon: 50
 
   boat_requires_sea_chart:
     # If True, heading out to sea from mercay requires the SW sea chart.
@@ -211,9 +211,9 @@ The Legend of Zelda - Phantom Hourglass:
     # - in_own_dungeon: Keys can be found in their own dungeon
     # - anywhere: Keysanity. Keys can be found anywhere
     # You can use the item group "Small Keys" to specify further key options
-    vanilla: 0
+    vanilla: 50
     in_own_dungeon: 50
-    anywhere: 0
+    anywhere: 50
 
   randomize_minigames:
     # Randomize the following minigames:
@@ -223,9 +223,9 @@ The Legend of Zelda - Phantom Hourglass:
     # - Maze Island Main Rewards
     # - Prince of Red Lions Fight
     # if the hint option is on, all minigame rewards will be hinted for on entering their scene
-    no_minigames: 0
-    randomize_with_hints: 0
-    randomize_without_hints: 50
+    no_minigames: 50
+    randomize_with_hints: 50
+    randomize_without_hints: 0
 
   randomize_frogs:
     # Ramdomize golden cyclone frogs
@@ -234,40 +234,40 @@ The Legend of Zelda - Phantom Hourglass:
     # in starting_items. You also need their respective sea charts to actually warp.
     # - randomize: frog glyphs are random and frogs are checks
     vanilla: 50
-    start_with: 0
-    randomize: 0
+    start_with: 50
+    randomize: 50
 
   randomize_fishing:
     # Adds checks for catching the 6 fish you can catch at sea, and handing in 4 fish to the wayfarer on bannan island.
     # The hint option also gives free hints for the catching fish checks on entering the wayfarers hut on bannan island.
     no_fish: 50
-    randomize_with_hints: 0
+    randomize_with_hints: 50
     randomize_without_hints: 0
 
   randomize_salvage:
     # Randomize all 31 treasure maps and salvage locations!
     # Hint option gives you a hint for the location on receiving the map item
     no_salvage: 50
-    randomize_with_hints: 0
+    randomize_with_hints: 50
     randomize_without_hints: 0
 
   randomize_harrow:
     # Choose whether to randomize the rng hell checks on harrow island
     # If enabled, the hint option with give you hints on entering the island
     no_harrow: 50
-    randomize_with_hints: 0
+    randomize_with_hints: 50
     randomize_without_hints: 0
 
   randomize_digs:
     # Randomize dig spots that give 100-300 rupees
-    'false': 0
+    'false': 50
     'true': 50
 
   randomize_triforce_crest:
     # When enabled, The Triforce Crest on the big red door in TotOK B6 will turn into an item and be randomized.
     # When disabled, the door will always be open
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_beedle_membership:
     # Adds locations to the five membership cards in Beedle's shop, point items to help reach their thresholds and adds
@@ -280,16 +280,16 @@ The Legend of Zelda - Phantom Hourglass:
     # - randomize_with_grinding: randomizes the beedle membership levels. If you have a farmable source of rupees, the
     # game can expect you to farm 20 000 rupees and use time travelling to buy out his stock day after day. Don't pick
     # unless you know what you're signing up for
-    no_beedle_points: 0
+    no_beedle_points: 50
     cards_only: 50
-    randomize: 0
+    randomize: 50
     randomize_with_grinding: 0
 
   randomize_masked_beedle:
     # Choose whether to randomize the masked beedle ship. You may need to change time of day for this.
     # Masked beedle appears between 10pm and midnight on weekdays or 10am and noon on weekends.
     'false': 50
-    'true': 0
+    'true': 50
 
   ################
   # Hint Options #
@@ -301,7 +301,7 @@ The Legend of Zelda - Phantom Hourglass:
     # - totok: entering totok gives dungeon hints
     'false': 0
     oshus: 50
-    totok: 0
+    totok: 50
 
   shop_hints:
     # Get hints for shop items you currently can buy
@@ -315,7 +315,7 @@ The Legend of Zelda - Phantom Hourglass:
     # - level_two: only get hints for the 2nd level upgrades
     # - none: don't receive hints
     all: 50
-    level_two: 0
+    level_two: 50
     none: 0
 
   #################
@@ -328,14 +328,14 @@ The Legend of Zelda - Phantom Hourglass:
     # - vanilla_fog: fog exists until you defeat the ghost ship, you have to take the twisty route to NW
     # - open_ghost_ship: fog exists until you beat the ghost ship, and you don't need the spirit items to find it.
     no_fog: 50
-    vanilla_fog: 0
-    open_ghost_ship: 0
+    vanilla_fog: 50
+    open_ghost_ship: 50
 
   skip_ocean_fights:
     # The Massive Eye fight before Goron Island, ice pillars around Isle of Frost and Giant Eye Plant before Bannan trade
     # quest item are removed, and cannon isn't required for those locations
     'false': 50
-    'true': 0
+    'true': 50
 
   zauz_required_metals:
     # How many rare metals you need to have obtained for zauz to give the phantom blade forging check
@@ -346,9 +346,9 @@ The Legend of Zelda - Phantom Hourglass:
     # Minimum value is 0
     # Maximum value is 30
     3: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   dungeon_shortcuts:
     # EXPERIMENTAL!!! Use at your own risk!
@@ -368,9 +368,9 @@ The Legend of Zelda - Phantom Hourglass:
     # Minimum value is 1
     # Maximum value is 20
     1: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   additional_spirit_gems:
     # Adds additional spirit gems/packs to the pool.
@@ -381,9 +381,9 @@ The Legend of Zelda - Phantom Hourglass:
     # Minimum value is 0
     # Maximum value is 5
     0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ######################
   # TotOK Time Options #
@@ -411,7 +411,7 @@ The Legend of Zelda - Phantom Hourglass:
     # If false the Phantom Hourglass functions like one big optional time item.
     # Hearts still count for time logic if True
     'false': 50
-    'true': 0
+    'true': 50
 
   ph_starting_time:
     # How much time given by the Phantom Hourglass item. There is one in the pool.
@@ -420,9 +420,9 @@ The Legend of Zelda - Phantom Hourglass:
     # Minimum value is 0
     # Maximum value is 5999
     600: 50
-    random: 0
+    random: 50
     random-low: 0
-    random-high: 0
+    random-high: 50
 
   ph_heart_time:
     # How much to value hearts as sand in Temple of the Ocean King, in seconds.
@@ -434,9 +434,9 @@ The Legend of Zelda - Phantom Hourglass:
     # Minimum value is 0
     # Maximum value is 60
     0: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ph_time_increment:
     # How much time to get for each sand of hours upgrade, in seconds. It will try and create more upgrades items than you need.
@@ -447,9 +447,9 @@ The Legend of Zelda - Phantom Hourglass:
     # Minimum value is 0
     # Maximum value is 5999
     60: 50
-    random: 0
-    random-low: 0
-    random-high: 0
+    random: 50
+    random-low: 50
+    random-high: 50
 
   ###############################
   # Entrance Randomizer Options #
@@ -474,10 +474,10 @@ The Legend of Zelda - Phantom Hourglass:
     # 30 metal names defined.
     # - custom_metals_unique: same as custom metals, but there can only be 1 of each item. Additional metals will be
     # named "Additional Rare Metal"
-    vanilla_only: 0
+    vanilla_only: 50
     additional_rare_metal: 50
-    custom: 0
-    custom_unique: 0
+    custom: 50
+    custom_unique: 50
 
   ###########################
   # Item & Location Options #
@@ -523,4 +523,5 @@ The Legend of Zelda - Phantom Hourglass:
   plando_items:
     # Generic items plando.
     []
+
 
