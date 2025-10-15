@@ -46,12 +46,12 @@ Pseudoregalia:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    random: 0
-    random-low: 0
-    random-high: 0
-    disabled: 0 # equivalent to 0
+    random: 50
+    random-low: 50
+    random-high: 50
+    disabled: 50 # equivalent to 0
     normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    extreme: 50 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
@@ -60,7 +60,7 @@ Pseudoregalia:
     # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
-    minimal: 0
+    minimal: 50
 
   game_version:
     # The version of Pseudoregalia you will use when playing the game. Different versions have different logic, locations, and items.
@@ -92,36 +92,36 @@ Pseudoregalia:
 
   progressive_breaker:
     # Replaces Dream Breaker, Strikebreak, and Soul Cutter with three Progressive Dream Breaker items.
-    'false': 0
+    'false': 50
     'true': 50
 
   progressive_slide:
     # Replaces Slide and Solar Wind with two Progressive Slide items.
-    'false': 0
+    'false': 50
     'true': 50
 
   split_sun_greaves:
     # Replaces Sun Greaves and Heliacal Power with four individual Air Kicks.
     'false': 50
-    'true': 0
+    'true': 50
 
   split_cling_gem:
     # Replaces Cling Gem with three Cling Shard items.
     # Each Cling Shard increases your wall run limit by two.
     'false': 50
-    'true': 0
+    'true': 50
 
   start_with_breaker:
     # Places Dream Breaker (or one Progressive Dream Breaker) in the starting inventory.
     'false': 50
-    'true': 0
+    'true': 50
 
   start_with_map:
     # Places the map item (Memento) in the starting inventory.
     # 
     # If Full Gold version is selected, this option has no effect.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_time_trials:
     # Opens the time trials for randomization and puts the outfits in the item pool.
@@ -129,40 +129,40 @@ Pseudoregalia:
     # 
     # If Full Gold version is selected, this option has no effect.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_goats:
     # Adds goatlings as locations. Talk to the goatling to get the item.
     # This option adds 19 locations on map patch and 17 locations on full gold.
     # For each location added, an essentially useless filler item is also added to the item pool.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_chairs:
     # Adds places Sybil can sit as locations. Sit down to get the item.
     # This option adds 16 locations.
     # For each location added, an essentially useless filler item is also added to the item pool.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_books:
     # Adds books in the library as locations. Read the book to get the item.
     # This option adds 13 locations.
     # For each location added, an essentially useless filler item is also added to the item pool.
     'false': 50
-    'true': 0
+    'true': 50
 
   randomize_notes:
     # Adds notes as locations. Read the note to get the item.
     # This option adds 4 locations.
     # For each location added, an essentially useless filler item is also added to the item pool.
     'false': 50
-    'true': 0
+    'true': 50
 
   major_key_hints:
     # Changes the text on the tombstones near the Great Door to tell you the locations of your Major Keys.
     # Also makes it so reading the tombstones will create hints.
-    'false': 0
+    'false': 50
     'true': 50
 
   ###########################
@@ -203,4 +203,5 @@ Pseudoregalia:
   plando_items:
     # Generic items plando.
     []
+
 
