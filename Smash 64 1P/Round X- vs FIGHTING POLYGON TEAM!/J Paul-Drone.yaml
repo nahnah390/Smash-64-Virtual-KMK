@@ -136,7 +136,7 @@ Pseudoregalia:
     # This option adds 19 locations on map patch and 17 locations on full gold.
     # For each location added, an essentially useless filler item is also added to the item pool.
     'false': 50
-    'true': 50
+    'true': 0
 
   randomize_chairs:
     # Adds places Sybil can sit as locations. Sit down to get the item.
@@ -203,5 +203,6 @@ Pseudoregalia:
   plando_items:
     # Generic items plando.
     []
+
 
 
