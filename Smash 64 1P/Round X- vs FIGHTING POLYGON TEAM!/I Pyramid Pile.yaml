@@ -84,14 +84,14 @@ shapez:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 9
     # Maximum value is 500
-    random: 20
-    random-low: 20
-    random-high: 20
+    random: 0
+    random-low: 0
+    random-high: 0
     minimum_mam: 20 # equivalent to 27
     recommended_mam: 20 # equivalent to 50
-    long_game_mam: 20 # equivalent to 120
-    minimum_even_fasterer: 20 # equivalent to 9
-    recommended_even_fasterer: 20 # equivalent to 16
+    long_game_mam: 0 # equivalent to 120
+    minimum_even_fasterer: 0 # equivalent to 9
+    recommended_even_fasterer: 0 # equivalent to 16
     long_play_even_fasterer: 20 # equivalent to 35
 
   required_shapes_multiplier:
@@ -105,9 +105,9 @@ shapez:
     # Minimum value is 1
     # Maximum value is 100
     10: 50
-    random: 50
+    random: 0
     random-low: 50
-    random-high: 50
+    random-high: 0
 
   allow_floating_layers:
     # Toggle whether shape requirements are allowed to have floating layers (like the logo or the rocket shape).
@@ -174,7 +174,7 @@ shapez:
     linear: 20
     category: 20
     category_random: 20
-    hardcore: 20
+    hardcore: 0
 
   throughput_levels_ratio:
     # If level requirements are randomized, this sets the ratio of how many levels (approximately) will require either
@@ -239,17 +239,17 @@ shapez:
 
   exclude_softlock_achievements:
     # Exclude 6 achievements, that can become unreachable in a save file, if not achieved until a certain level.
-    'false': 50
+    'false': 0
     'true': 50
 
   exclude_long_playtime_achievements:
     # Exclude 2 achievements, that require actively playing for a really long time.
-    'false': 50
+    'false': 0
     'true': 50
 
   exclude_progression_unreasonable:
     # Exclude progression and useful items from being placed into softlock and long playtime achievements.
-    'false': 50
+    'false': 0
     'true': 50
 
   shapesanity_amount:
@@ -334,5 +334,6 @@ shapez:
   plando_items:
     # Generic items plando.
     []
+
 
 
