@@ -87,12 +87,13 @@ shapez:
     random: 0
     random-low: 0
     random-high: 0
-    minimum_mam: 20 # equivalent to 27
-    recommended_mam: 20 # equivalent to 50
+    random-range-27-50: 50
+    minimum_mam: 0 # equivalent to 27
+    recommended_mam: 0 # equivalent to 50
     long_game_mam: 0 # equivalent to 120
     minimum_even_fasterer: 0 # equivalent to 9
     recommended_even_fasterer: 0 # equivalent to 16
-    long_play_even_fasterer: 20 # equivalent to 35
+    long_play_even_fasterer: 0 # equivalent to 35
 
   required_shapes_multiplier:
     # Multiplies the amount of required shapes for levels and upgrades by value/10.
@@ -296,6 +297,14 @@ shapez:
     'false': 50
     'true': 50
 
+triggers:
+  - option_category: shapez
+    option_name: goal
+    option_result: even_fasterer
+    options:
+      shapez:
+        goal_amount: random-range-16-35
+
   ###########################
   # Item & Location Options #
   ###########################
@@ -334,6 +343,7 @@ shapez:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
