@@ -379,7 +379,7 @@ Ape Escape:
     # Removing a trap from this list means it will only activate if received while playing/connected.
     # 
     # Supported values: "Banana Peel Trap", "Monkey Mash Trap", "Icy Hot Pants Trap"
-    ['Banana Peel Trap', 'Monkey Mash Trap', 'Icy Hot Pants Trap']
+    []
 
   itemdisplay:
     # Set the default for the Bizhawk item display command. This can be changed in the client at any time. The position and duration of these messages can be changed in Bizhawk config at any time.
@@ -483,6 +483,7 @@ Ape Escape:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
