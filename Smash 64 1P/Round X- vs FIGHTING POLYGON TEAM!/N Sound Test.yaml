@@ -91,8 +91,8 @@ Lingo:
     #   are removed.
     # - **Insanity:** Every individual panel in the game is a location check.
     normal: 50
-    reduced: 50
-    insanity: 50
+    reduced: 0
+    insanity: 0
 
   shuffle_colors:
     # If on, an item is added to the pool for every puzzle color (besides White).
@@ -340,5 +340,6 @@ Lingo:
   plando_items:
     # Generic items plando.
     []
+
 
 
