@@ -321,49 +321,49 @@ Sonic Adventure DX:
     # Choose what action stage missions will be a location check for Sonic.
     none: 50
     c: 50
-    c_b: 0
-    c_b_a: 0
-    c_b_a_s: 0
+    c_b: 50
+    c_b_a: 50
+    c_b_a_s: 50
 
   tails_action_stage_missions:
     # Choose what action stage missions will be a location check for Tails.
     none: 50
     c: 50
-    c_b: 0
-    c_b_a: 0
-    c_b_a_s: 0
+    c_b: 50
+    c_b_a: 50
+    c_b_a_s: 50
 
   knuckles_action_stage_missions:
     # Choose what action stage missions will be a location check for Knuckles.
     none: 50
     c: 50
-    c_b: 0
-    c_b_a: 0
-    c_b_a_s: 0
+    c_b: 50
+    c_b_a: 50
+    c_b_a_s: 50
 
   amy_action_stage_missions:
     # Choose what action stage missions will be a location check for Amy.
     none: 50
     c: 50
-    c_b: 0
-    c_b_a: 0
-    c_b_a_s: 0
+    c_b: 50
+    c_b_a: 50
+    c_b_a_s: 50
 
   big_action_stage_missions:
     # Choose what action stage missions will be a location check for Big.
     none: 50
-    c: 0
-    c_b: 0
-    c_b_a: 0
-    c_b_a_s: 0
+    c: 50
+    c_b: 50
+    c_b_a: 50
+    c_b_a_s: 50
 
   gamma_action_stage_missions:
     # Choose what action stage missions will be a location check for Gamma.
     none: 50
     c: 50
-    c_b: 0
-    c_b_a: 0
-    c_b_a_s: 0
+    c_b: 50
+    c_b_a: 50
+    c_b_a_s: 50
 
   #################
   # Music Options #
@@ -668,10 +668,10 @@ Sonic Adventure DX:
     # 1: Enabled, no requirements (Power Rod is not a logic requirement for any location check).
     # 2: Enabled, fishsanity (Power Rod is a logic requirement for fish-sanity only).
     # 3: Enabled, all (Power Rod is a logic requirement for fish-sanity, B/A/S ranks and every "Keeper" mission for Big).
-    disabled: 50
-    enabled_no_requirements: 0
+    disabled: 0
+    enabled_no_requirements: 50
     enabled_fishsanity: 50
-    enabled_all: 0
+    enabled_all: 50
 
   ################
   # Junk Options #
@@ -805,6 +805,7 @@ Sonic Adventure DX:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
