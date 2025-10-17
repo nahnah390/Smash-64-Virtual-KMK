@@ -184,9 +184,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-50-100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_meteo:
     # Set the score required to earn the medal on Meteo.
@@ -195,9 +196,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 200
     200: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-50-150: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_sector_y:
     # Set the score required to earn the medal on Sector Y.
@@ -206,9 +208,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-50-100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_katina:
     # Set the score required to earn the medal on Katina.
@@ -217,9 +220,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-50-100:
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_fortuna:
     # Set the score required to earn the medal on Fortuna.
@@ -228,9 +232,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 50
     50: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-15-25: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_aquas:
     # Set the score required to earn the medal on Aquas.
@@ -239,9 +244,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-50-100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_solar:
     # Set the score required to earn the medal on Solar.
@@ -250,9 +256,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 100
     100: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-25-75: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_sector_x:
     # Set the score required to earn the medal on Sector X.
@@ -261,9 +268,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-50-100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_zoness:
     # Set the score required to earn the medal on Zoness.
@@ -272,9 +280,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 250
     250: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-100-200: 50 
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_titania:
     # Set the score required to earn the medal on Titania.
@@ -283,9 +292,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-50-100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_sector_z:
     # Set the score required to earn the medal on Sector Z.
@@ -294,9 +304,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 100
     100: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-25-75: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_macbeth:
     # Set the score required to earn the medal on Macbeth.
@@ -305,9 +316,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-50-100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_area_6:
     # Set the score required to earn the medal on Area 6.
@@ -316,9 +328,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 300
     300: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-150-200: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_bolse:
     # Set the score required to earn the medal on Bolse.
@@ -327,9 +340,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-50-100: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   medal_venom:
     # Set the score required to earn the medal on Venom.
@@ -338,9 +352,10 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 200
     200: 0
-    random: 50
-    random-low: 50
-    random-high: 50
+    random-range-50-150: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   ###########################
   # Item & Location Options #
@@ -386,6 +401,7 @@ Star Fox 64:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
