@@ -109,7 +109,20 @@ Spyro 3:
   guaranteed_items:
     # Guarantees that the specified items will be in the item pool
     {}
-
+  open_world:
+    "false": 50
+    "true": 50
+  level_lock_option:
+    vanilla: 50
+    keys: 50
+    randomize_requirements: 50
+    add_requirements: 50
+    add_gem_requirements: 50
+  starting_levels_count:
+    "2": 50
+    random: 50
+    random-low: 50
+    random-high: 50
   enable_25_pct_gem_checks:
     # Adds checks for getting 25% of the gems in a level
     'false': 50
@@ -596,6 +609,7 @@ Spyro 3:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
