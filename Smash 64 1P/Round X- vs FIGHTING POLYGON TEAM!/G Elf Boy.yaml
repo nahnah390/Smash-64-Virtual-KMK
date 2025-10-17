@@ -220,7 +220,7 @@ Ocarina of Time:
   warp_songs:
     # Randomizes warp song destinations.
     'false': 50
-    'true': 50
+    'true': 0
 
   spawn_positions:
     # Randomizes the starting position on loading a save. Consistent between savewarps.
@@ -417,7 +417,7 @@ Ocarina of Time:
     starting_wallet: 50
     adults_wallet: 50
     giants_wallet: 50
-    tycoons_wallet: 50
+    tycoons_wallet: 0
 
   tokensanity:
     # Token rewards from Gold Skulltulas can be shuffled into the pool.
@@ -550,7 +550,7 @@ Ocarina of Time:
     # Overworld: Small keys are shuffled locally outside of dungeons.
     # Any Dungeon: Small keys are shuffled locally in any dungeon.
     # Keysanity: Small keys can be anywhere in the multiworld.
-    remove: 50
+    remove: 0
     vanilla: 50
     dungeon: 50
     regional: 50
@@ -580,7 +580,7 @@ Ocarina of Time:
     # Overworld: Boss keys are shuffled locally outside of dungeons.
     # Any Dungeon: Boss keys are shuffled locally in any dungeon.
     # Keysanity: Boss keys can be anywhere in the multiworld.
-    remove: 50
+    remove: 0
     vanilla: 50
     dungeon: 50
     regional: 50
@@ -608,7 +608,7 @@ Ocarina of Time:
     # Dungeons: GCBK will be awarded when reaching the target number of dungeon rewards.
     # Tokens: GCBK will be awarded when reaching the target number of Gold Skulltula Tokens.
     # Hearts: GCBK will be awarded when reaching the target number of hearts.
-    remove: 50
+    remove: 0
     vanilla: 50
     dungeon: 50
     regional: 50
@@ -682,7 +682,7 @@ Ocarina of Time:
     # Choose: Use the option "key_rings_list" to choose which dungeons have key rings.
     # All: All dungeons have key rings instead of small keys.
     'off': 50
-    choose: 50
+    choose: 0
     all: 50
     random_dungeons: 50
 
@@ -722,7 +722,7 @@ Ocarina of Time:
     # Reenables the Poe cutscene in Forest Temple, Darunia in Fire Temple, and Twinrova introduction. Mostly useful for
     # glitched.
     'false': 50
-    'true': 50
+    'true': 0
 
   fast_chests:
     # All chest animations are fast. If disabled, major items have a slow animation.
@@ -774,9 +774,9 @@ Ocarina of Time:
     # Minimum value is 1
     # Maximum value is 24
     24: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   ########
   # Misc #
@@ -820,7 +820,7 @@ Ocarina of Time:
     none: 50
     mask: 50
     agony: 50
-    always: 50
+    always: 0
 
   misc_hints:
     # The Temple of Time altar hints dungeon rewards, bridge info, and Ganon BK info; Ganondorf hints the Light Arrows; Dampe's diary hints a local Hookshot if one exists; Skulltula House locations hint their item.
@@ -832,11 +832,11 @@ Ocarina of Time:
     # Detailed documentation on hint distributions can be found on the Archipelago GitHub or OoTRandomizer.com.
     # The Async hint distribution is intended for async multiworlds. It removes Way of the Hero hints to improve generation times, since they are not very useful in asyncs.
     balanced: 50
-    ddr: 50
-    scrubs: 50
-    strong: 50
-    useless: 50
-    very_strong: 50
+    ddr: 0
+    scrubs: 0
+    strong: 0
+    useless: 0
+    very_strong: 0
     async: 50
 
   text_shuffle:
@@ -927,7 +927,7 @@ Ocarina of Time:
     normal: 50
     'on': 50
     mayhem: 50
-    onslaught: 50
+    onslaught: 0
 
   ice_trap_appearance:
     # Changes the appearance of traps, including other games' traps, as freestanding items.
@@ -1921,6 +1921,7 @@ Ocarina of Time:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
