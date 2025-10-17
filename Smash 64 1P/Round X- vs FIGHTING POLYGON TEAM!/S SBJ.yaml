@@ -78,7 +78,7 @@ System Shock 2:
   remove_duplicate_locations:
     # Drastically reduces the amount of locations by removing extra locations with the same name and locations close together.
     # Does not affect chemicals if that option is on.  Removes all unneccesary audio logs, reduces amount of some weapons, and compresses consumables.
-    'false': 50
+    'false': 0
     'true': 50
 
   randomize_code_art:
@@ -96,7 +96,7 @@ System Shock 2:
 
   include_starting_wrench:
     # Include the wrench found on the first body in medsci.
-    'false': 50
+    'false': 0
     'true': 50
 
   death_link:
@@ -156,5 +156,6 @@ System Shock 2:
   plando_items:
     # Generic items plando.
     []
+
 
 
