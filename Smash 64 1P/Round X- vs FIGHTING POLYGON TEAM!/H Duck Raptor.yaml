@@ -157,7 +157,7 @@ Spyro 3:
     # Partial: Every gem has a chance to be a check, but only 200 will be (chosen at random).  For every level with loose
     #     gems, items giving 50 or 100 gems for that level will be added to the pool.
     'off': 50
-    partial: 50
+    partial: 0
 
   enable_skillpoint_checks:
     # Adds checks for getting skill points
@@ -192,7 +192,7 @@ Spyro 3:
     # Moneybagssanity - You cannot pay Moneybags at all and must find unlock items to progress.
     vanilla: 50
     companionsanity: 50
-    moneybagssanity: 50
+    moneybagssanity: 0
 
   enable_world_keys:
     # If enabled, you will be unable to progress to the next homeworld without enough World Key items.
@@ -596,6 +596,7 @@ Spyro 3:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
