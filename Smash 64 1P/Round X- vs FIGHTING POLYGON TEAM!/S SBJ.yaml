@@ -92,7 +92,7 @@ System Shock 2:
   include_chemicals:
     # Include chemicals and manifests.
     'false': 50
-    'true': 50
+    'true': 0
 
   include_starting_wrench:
     # Include the wrench found on the first body in medsci.
@@ -104,7 +104,7 @@ System Shock 2:
     # Both because it functionally needs the death animation to always play out for 2 seconds to work, but also because it can easily be invalidated by saving.
     # I recommend limiting your saving in some way, for example only saving after level transitions.
     'false': 50
-    'true': 50
+    'true': 0
 
   many_is_victory:
     # Make The Many the victory condition instead of Shodan.
@@ -114,7 +114,7 @@ System Shock 2:
   randomize_enemies:
     # Randomizes enemies.  It is recommended to stay on as this mod's balance is different from vanilla's.
     # If turned off the early game will be much more difficult, especially if the starting wrench is randomized, and the mid-late game will be too easy.
-    'false': 50
+    'false': 0
     'true': 50
 
   randomize_replicators:
@@ -156,6 +156,7 @@ System Shock 2:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
