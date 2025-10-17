@@ -83,7 +83,7 @@ Golden Sun The Lost Age:
     # All Chests and Tablets: includes all chests and tablets and does not include items from pots, barrels, dug up. Roughly 100 less locations to check from All Items
     # All Items: includes everything from the vanilla game, including items in pots, barrels, scooped up, covered in leaves or on the overworld. Roughly 320 locations in total.
     all_chests_and_tablets: 50
-    all_items: 50
+    all_items: 0
 
   omit_locations:
     # Choose to omit locations containing optional harder boss fights
@@ -489,13 +489,13 @@ Golden Sun The Lost Age:
 
   free_retreat:
     # When enabled, the Retreat Psynergy will cost no PP
-    'false': 50
+    'false': 0
     'true': 50
 
   manual_retreat_glitch:
     # When enabled, Hold select to trigger the Retreat glitch. Logic does not require or expect use of glitches to beat your seed,
     # this purely gives more control to activating the glitch over draining your PP to than use it anyway.
-    'false': 50
+    'false': 0
     'true': 50
 
   sanctum_revive_cost:
@@ -524,7 +524,7 @@ Golden Sun The Lost Age:
 
   teleport_to_dungeons_and_towns:
     # When enabled, allows Teleport to target small villages and dungeons
-    'false': 50
+    'false': 0
     'true': 50
 
   scale_exp:
@@ -782,5 +782,6 @@ Golden Sun The Lost Age:
   plando_items:
     # Generic items plando.
     []
+
 
 
