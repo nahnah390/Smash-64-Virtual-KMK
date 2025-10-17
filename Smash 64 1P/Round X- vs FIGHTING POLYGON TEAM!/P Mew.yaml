@@ -276,9 +276,9 @@ Celeste 64:
     # Minimum value is 0
     # Maximum value is 10
     0: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   badeline_chaser_speed:
     # How many seconds behind you each Badeline Chaser will be
@@ -287,9 +287,9 @@ Celeste 64:
     # Minimum value is 2
     # Maximum value is 10
     3: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   ###########################
   # Item & Location Options #
@@ -329,5 +329,6 @@ Celeste 64:
   plando_items:
     # Generic items plando.
     []
+
 
 
