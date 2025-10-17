@@ -141,7 +141,7 @@ Spyro 3:
   enable_gem_checks:
     # Adds checks for getting all gems in a level
     'false': 50
-    'true': 50
+    'true': 0
 
   enable_total_gem_checks:
     # Adds checks for every 500 gems you collect total.
@@ -609,6 +609,7 @@ Spyro 3:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
