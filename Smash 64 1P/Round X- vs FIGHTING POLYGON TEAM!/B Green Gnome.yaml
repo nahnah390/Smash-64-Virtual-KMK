@@ -172,7 +172,7 @@ Majora's Mask Recompiled:
     # advanced: Every single item in shops are shuffled, including the alternate Night Trading Post and Spring Goron Shop.
     vanilla: 50
     enabled: 50
-    advanced: 50
+    advanced: 0
 
   scrubsanity:
     # Choose whether to shuffle Business Scrub purchases.
@@ -315,6 +315,7 @@ Majora's Mask Recompiled:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
