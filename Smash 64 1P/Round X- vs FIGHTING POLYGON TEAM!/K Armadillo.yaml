@@ -321,49 +321,49 @@ Sonic Adventure DX:
     # Choose what action stage missions will be a location check for Sonic.
     none: 50
     c: 50
-    c_b: 50
-    c_b_a: 50
-    c_b_a_s: 50
+    c_b: 0
+    c_b_a: 0
+    c_b_a_s: 0
 
   tails_action_stage_missions:
     # Choose what action stage missions will be a location check for Tails.
     none: 50
     c: 50
-    c_b: 50
-    c_b_a: 50
-    c_b_a_s: 50
+    c_b: 0
+    c_b_a: 0
+    c_b_a_s: 0
 
   knuckles_action_stage_missions:
     # Choose what action stage missions will be a location check for Knuckles.
     none: 50
     c: 50
-    c_b: 50
-    c_b_a: 50
-    c_b_a_s: 50
+    c_b: 0
+    c_b_a: 0
+    c_b_a_s: 0
 
   amy_action_stage_missions:
     # Choose what action stage missions will be a location check for Amy.
     none: 50
     c: 50
-    c_b: 50
-    c_b_a: 50
-    c_b_a_s: 50
+    c_b: 0
+    c_b_a: 0
+    c_b_a_s: 0
 
   big_action_stage_missions:
     # Choose what action stage missions will be a location check for Big.
     none: 50
-    c: 50
-    c_b: 50
-    c_b_a: 50
-    c_b_a_s: 50
+    c: 0
+    c_b: 0
+    c_b_a: 0
+    c_b_a_s: 0
 
   gamma_action_stage_missions:
     # Choose what action stage missions will be a location check for Gamma.
     none: 50
     c: 50
-    c_b: 50
-    c_b_a: 50
-    c_b_a_s: 50
+    c_b: 0
+    c_b_a: 0
+    c_b_a_s: 0
 
   #################
   # Music Options #
@@ -805,5 +805,6 @@ Sonic Adventure DX:
   plando_items:
     # Generic items plando.
     []
+
 
 
