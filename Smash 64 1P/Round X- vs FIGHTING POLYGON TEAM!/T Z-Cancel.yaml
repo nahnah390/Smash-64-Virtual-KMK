@@ -91,10 +91,10 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 15
-    50: 50
+    0: 50
     random: 50
     random-low: 50
-    random-high: 50
+    random-high: 0
 
   ###################
   # Shuffle Options #
@@ -183,7 +183,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 150
-    150: 50
+    150: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -194,7 +194,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 200
-    200: 50
+    200: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -205,7 +205,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 150
-    150: 50
+    150: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -216,7 +216,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 150
-    150: 50
+    150: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -227,7 +227,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 50
-    50: 50
+    50: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -238,7 +238,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 150
-    150: 50
+    150: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -249,7 +249,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    100: 50
+    100: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -260,7 +260,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 150
-    150: 50
+    150: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -271,7 +271,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 250
-    250: 50
+    250: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -282,7 +282,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 150
-    150: 50
+    150: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -293,7 +293,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    100: 50
+    100: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -304,7 +304,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 150
-    150: 50
+    150: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -315,7 +315,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 300
-    300: 50
+    300: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -326,7 +326,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 150
-    150: 50
+    150: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -337,7 +337,7 @@ Star Fox 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 200
-    200: 50
+    200: 0
     random: 50
     random-low: 50
     random-high: 50
@@ -386,5 +386,6 @@ Star Fox 64:
   plando_items:
     # Generic items plando.
     []
+
 
 
