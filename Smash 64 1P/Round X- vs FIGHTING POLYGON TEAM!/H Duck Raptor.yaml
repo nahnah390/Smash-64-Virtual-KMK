@@ -313,15 +313,6 @@ Spyro 3:
     random-low: 50
     random-high: 50
 
-  enable_hwd_randomizer:
-    # Choose this setting if you plan to use hwd405's standalone randomizer with this seed.
-    # Due to its partial entrance randomizer, seeds may not be beatable otherwise.
-    # Since Moneybags prices are randomized, if Moneybagssanity is not on, total gem checks are logically locked behind
-    # defeating the Sorceress.
-    # NOTE: This will push eggs and Moneybags unlocks sooner in the seed to ensure a beatable seed.
-    'false': 50
-    'true': 0
-
   ###################
   # Game Difficulty #
   ###################
@@ -609,6 +600,7 @@ Spyro 3:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
