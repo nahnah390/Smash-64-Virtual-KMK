@@ -106,7 +106,7 @@ Majora's Mask Recompiled:
 
   start_with_soaring:
     # Start the game with Song of Soaring.
-    'false': 50
+    'false': 0
     'true': 50
 
   starting_hearts:
@@ -118,7 +118,7 @@ Majora's Mask Recompiled:
     # Maximum value is 12
     12: 50
     random: 50
-    random-low: 50
+    random-low: 0
     random-high: 50
 
   starting_hearts_are_containers_or_pieces:
@@ -315,6 +315,7 @@ Majora's Mask Recompiled:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
