@@ -192,14 +192,14 @@ The Legend of Zelda - Phantom Hourglass:
     # - require_weapon: all of the above plus grappling hook
     require_phantom_sword: 50
     require_traps: 50
-    require_stun: 50
-    require_weapon: 50
+    require_stun: 0
+    require_weapon: 0
 
   boat_requires_sea_chart:
     # If True, heading out to sea from mercay requires the SW sea chart.
     # WARNING! If set to False and you travel without a sea chart, you can't come back without warping to start.
     # Frogs require their sea chart to work
-    'false': 0
+    'false': 50
     'true': 50
 
   ##############################
@@ -400,8 +400,8 @@ The Legend of Zelda - Phantom Hourglass:
     # - no_logic: Sand of Hours does not effect logic
     beginner: 0
     easy: 50
-    medium: 0
-    hard: 0
+    medium: 50
+    hard: 50
     ph_only_b1: 0
     ph_only_b4: 0
     no_logic: 0
@@ -434,9 +434,9 @@ The Legend of Zelda - Phantom Hourglass:
     # Minimum value is 0
     # Maximum value is 60
     0: 50
-    random: 50
+    random: 0
     random-low: 50
-    random-high: 50
+    random-high: 0
 
   ph_time_increment:
     # How much time to get for each sand of hours upgrade, in seconds. It will try and create more upgrades items than you need.
@@ -523,6 +523,7 @@ The Legend of Zelda - Phantom Hourglass:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
