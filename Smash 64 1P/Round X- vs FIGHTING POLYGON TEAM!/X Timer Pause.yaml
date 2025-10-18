@@ -128,12 +128,12 @@ Sonic Adventure 2 Battle:
     biolizard: 50
     chaos_emerald_hunt: 50
     finalhazard_chaos_emerald_hunt: 50
-    grand_prix: 50
+    grand_prix: 0
     boss_rush: 50
     cannons_core_boss_rush: 50
     boss_rush_chaos_emerald_hunt: 50
-    chaos_chao: 50
-    minigame_madness: 50
+    chaos_chao: 0
+    minigame_madness: 0
 
   boss_rush_shuffle:
     # Determines how bosses in Boss Rush Mode are shuffled
@@ -193,8 +193,8 @@ Sonic Adventure 2 Battle:
     e: 50
     d: 50
     c: 50
-    b: 50
-    a: 50
+    b: 0
+    a: 0
 
   max_emblem_cap:
     # Determines the maximum number of emblems that can be in the item pool.
@@ -322,7 +322,7 @@ Sonic Adventure 2 Battle:
     # 
     # ALL animals must be collected in a single run of a mission to get all checks.
     'false': 50
-    'true': 50
+    'true': 0
 
   itemboxsanity:
     # Determines whether collecting Item Boxes grants checks
@@ -331,7 +331,7 @@ Sonic Adventure 2 Battle:
     # All: All Item Boxes grant checks (502 Locations Total)
     none: 50
     extra_lives: 50
-    all: 50
+    all: 0
 
   bigsanity:
     # Determines whether helping Big fish grants checks.
@@ -1080,5 +1080,6 @@ Sonic Adventure 2 Battle:
   plando_items:
     # Generic items plando.
     []
+
 
 
