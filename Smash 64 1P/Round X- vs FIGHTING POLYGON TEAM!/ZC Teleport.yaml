@@ -129,12 +129,12 @@ Gauntlet Legends:
     # All stages will load with their max difficulty on the first run through.
     # By default, stages increase in difficulty by 1 every 5 player levels.
     # The starting level for each area increases gradually as you would progress in vanilla.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   infinite_keys:
     # You will be given an absurd amount of keys.
-    'false': 50
+    'false': 0
     'true': 50
 
   permanent_speed:
@@ -163,9 +163,9 @@ Gauntlet Legends:
     # Minimum value is 1
     # Maximum value is 90
     10: 50
-    random: 50
-    random-low: 50
-    random-high: 50
+    random: 0
+    random-low: 0
+    random-high: 0
 
   unlock_character_one:
     # Unlock a secret character for Player 1 from the start.
@@ -255,5 +255,6 @@ Gauntlet Legends:
   plando_items:
     # Generic items plando.
     []
+
 
 
