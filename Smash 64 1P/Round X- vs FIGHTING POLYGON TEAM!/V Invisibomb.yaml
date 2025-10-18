@@ -65,7 +65,7 @@ Sly Cooper and the Thievius Raccoonus:
   UnlockClockwerk:
     # What you need to do to unlock Cold Heart of Hate to defeat Clockwerk
     boss_victories: 50
-    page_hunt: 50
+    page_hunt: 0
 
   FastClockwerk:
     # If enabled, unlocking Cold Heart of Hate will give you access directly to the Clockwerk boss fight skipping all the previous levels.
@@ -280,5 +280,6 @@ Sly Cooper and the Thievius Raccoonus:
   plando_items:
     # Generic items plando.
     []
+
 
 
