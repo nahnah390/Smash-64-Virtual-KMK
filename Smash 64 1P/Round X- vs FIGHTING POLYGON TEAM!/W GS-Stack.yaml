@@ -80,7 +80,7 @@ Mario Kart 64:
     # Courses (NOT YET SUPPORTED): Each course is run individually. Unlock the final courses progressively to reach the
     # final race. The Courses victory condition is winning 1st place on the last course.
     cups: 50
-    courses: 50
+    courses: 0
 
   locked_courses:
     # (NOT YET SUPPORTED)
@@ -311,5 +311,6 @@ Mario Kart 64:
   plando_items:
     # Generic items plando.
     []
+
 
 
