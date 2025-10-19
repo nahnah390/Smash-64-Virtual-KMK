@@ -88,7 +88,7 @@ Donkey Kong 64:
     # - treasure_hurry: Run down the timer by collecting treasure! You win when the timer reaches 0.
     # - krools_challenge: K. Rool's ship does not spawn until you collect All keys, Defeat All bosses, Play all Bonus Barrels, and collect All Blueprints.
     # - kill_the_rabbit: Kill the rabbit in Chunky's igloo in Caves. Turn it to Ash. Simple as that.
-    beat_k_rool: 50
+    beat_k_rool: 0
     acquire_key_8: 0
     kremling_kapture: 0
     dk_rap: 0
@@ -105,7 +105,7 @@ Donkey Kong 64:
     bosses: 0
     bonuses: 0
     treasure_hurry: 0
-    krools_challenge: 0
+    krools_challenge: 50
     kill_the_rabbit: 0
 
   goal_quantity:
@@ -163,7 +163,7 @@ Donkey Kong 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 5
-    2: 50
+    5: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -174,7 +174,7 @@ Donkey Kong 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 5
-    3: 50
+    5: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -210,8 +210,8 @@ Donkey Kong 64:
 
   maximize_helm_blocker:
     # Ensures that Level 8's B. Locker will always be at the maximum value.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   chaos_ratio:
     # If Chaos Blockers are enabled, determine the max percentage of collectibles than can roll onto a BLocker.
@@ -379,8 +379,8 @@ Donkey Kong 64:
 
   hints_in_item_pool:
     # Determines if Hints are added into the Item Pool.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   half_medals_in_pool:
     # Determines if Half Medals are added to the pool.
@@ -506,7 +506,7 @@ Donkey Kong 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 100
-    40: 50
+    75: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -543,7 +543,7 @@ Donkey Kong 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 20
-    4: 50
+    15: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -554,7 +554,7 @@ Donkey Kong 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 40
-    9: 50
+    15: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -621,15 +621,15 @@ Donkey Kong 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 2
-    0: 50
+    2: 50
     random: 0
     random-low: 0
     random-high: 0
 
   alternate_minecart_mayhem:
     # If enabled, Minecart Mayhem will be a coin based bonus barrel and the timer will be removed.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   #############
   # Hard Mode #
@@ -678,8 +678,8 @@ Donkey Kong 64:
     # - no_woth: Hints can tell you about your K. Rool phases, and directly hint important items and hard locations.
     # - woth: Same as no_woth, but Way of the Hoard hints can appear, which will tell you a location is required but not what item is at that location. Increases gen time significantly, especially in larger multiworlds.
     'off': 0
-    no_woth: 50
-    woth: 0
+    no_woth: 0
+    woth: 50
 
   shopkeeper_hints:
     # Determines if entering a shop with Shopkeepers in the pool will give you a hint on where the shopkeeper is.
@@ -693,8 +693,8 @@ Donkey Kong 64:
     # - Gorilla Gone will be hinted upon touching the pad inside Helm Lobby with the B. Locker requirement to enter Helm.
     # - Instruments will be hinted upon touching their pad in Helm.
     'off': 0
-    some: 0
-    all: 50
+    some: 50
+    all: 0
 
   ################
   # Trap Weights #
@@ -705,7 +705,7 @@ Donkey Kong 64:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    0: 50
+    10: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -875,10 +875,10 @@ Donkey Kong 64:
     # - display_extra_fast (4): Displays Progression items at the default speed, and non progression items at a faster speed.
     # - display_extra_items (5): Displays extra items and progression items at standard speed.
     # - display_only_progression (6): Progression only, no speed changes.
-    display_all_speedup: 50
+    display_all_speedup: 0
     display_all_discard_extra: 0
     display_all_fast: 0
-    display_extra_fast: 0
+    display_extra_fast: 50
     display_extra_items: 0
     display_only_progression: 0
     display_nothing: 0
@@ -921,4 +921,5 @@ Donkey Kong 64:
   plando_items:
     # Generic items plando.
     []
+
 
