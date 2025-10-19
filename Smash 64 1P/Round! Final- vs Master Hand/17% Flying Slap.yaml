@@ -113,36 +113,36 @@ Yoshi's Island:
 
   extras_enabled:
     # If enabled, the more difficult Extra stages will be added into logic. Otherwise, they will be inaccessible.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   minigame_checks:
     # This will set minigame victories to give Archipelago checks.
     # This will not randomize minigames amongst themselves, and is compatible with item logic.
     # Bonus games will be expected to be cleared from the Overworld, not the end of levels.
     # Additionally, 1-Up bonus games will accept any profit as a victory.
-    none: 50
+    none: 0
     bandit_games: 0
     bonus_games: 0
-    both: 0
+    both: 50
 
   split_extras:
     # If enabled, Extra stages will be unlocked individually. Otherwise, there will be a single 'Extra Panels' item that unlocks all of them.
     'false': 50
-    'true': 0
+    'true': 50
 
   split_bonus:
     # If enabled, Bonus Games will be unlocked individually. Otherwise, there will be a single 'Bonus Panels' item that unlocks all of them.
     'false': 50
-    'true': 0
+    'true': 50
 
   hidden_object_visibility:
     # This will determine the default visibility of objects revealed by the Magnifying Glass.
     # Strict Logic will expect the Secret Lens or a Magnifying Glass to interact with hidden clouds containing stars if they are not set to visible by default.
     none: 0
-    coins_only: 50
+    coins_only: 0
     clouds_only: 0
-    full: 0
+    full: 50
 
   add_secretlens:
     # If enabled, the Secret Lens will be added to the item pool.
@@ -174,8 +174,8 @@ Yoshi's Island:
 
   disable_autoscroll:
     # If enabled, will disable autoscrolling during levels, except during levels which cannot function otherwise.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   softlock_prevention:
     # If enabled, hold R + X to warp to the last used Middle Ring, or the start of the level if none have been activated.
@@ -189,7 +189,7 @@ Yoshi's Island:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 11
-    5: 50
+    11: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -223,8 +223,8 @@ Yoshi's Island:
     # Bosses Guaranteed: All worlds will have a boss on -4 and -8.
     # Full: Worlds may have more than 2 or no bosses in them.
     # Regardless of the setting, 6-8 and Extra stages are not shuffled.
-    disabled: 50
-    bosses_guaranteed: 0
+    disabled: 0
+    bosses_guaranteed: 50
     full: 0
 
   boss_shuffle:
@@ -239,8 +239,8 @@ Yoshi's Island:
     # Random color will generate a random color for each stage.
     # Singularity will use a single color defined under 'Singularity Yoshi Color' for use in all stages.
     normal: 50
-    random_order: 0
-    random_color: 0
+    random_order: 50
+    random_color: 50
     singularity: 0
 
   yoshi_singularity_color:
@@ -320,4 +320,5 @@ Yoshi's Island:
   plando_items:
     # Generic items plando.
     []
+
 
