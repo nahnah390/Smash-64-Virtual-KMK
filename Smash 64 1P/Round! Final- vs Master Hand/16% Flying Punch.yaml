@@ -78,8 +78,8 @@ Sonic Riders:
 
   stage_top_three:
     # Enables checks for placing in the top 3 in each stage
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   stage_first_place:
     # Enables checks for placing first in each stage
@@ -144,4 +144,5 @@ Sonic Riders:
   plando_items:
     # Generic items plando.
     []
+
 
