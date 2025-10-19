@@ -80,9 +80,9 @@ Star Fox 64:
     # Andross or Robot Andross - Defeat either Andross or Robot Andross
     # Andross and Robot Andross - Defeat both Andross and Robot Andross
     # Andross - Defeat Andross in Venom 2
-    andross_or_robot_andross: 50
+    andross_or_robot_andross: 0
     andross_and_robot_andross: 0
-    andross: 0
+    andross: 50
 
   required_medals:
     # Require a certain number of medals before you can enter Venom 2.
@@ -105,8 +105,8 @@ Star Fox 64:
     # 
     # Shuffle Levels - You will receive levels as items which will allow you to select that level at any time.
     # Shuffle Paths - You will receive paths as items which will allow you to take that path to other levels.
-    shuffle_levels: 50
-    shuffle_paths: 0
+    shuffle_levels: 0
+    shuffle_paths: 50
 
   shuffle_starting_level:
     # If Level Access is 'Shuffle Levels', shuffle which level you start with.
@@ -386,4 +386,5 @@ Star Fox 64:
   plando_items:
     # Generic items plando.
     []
+
 
