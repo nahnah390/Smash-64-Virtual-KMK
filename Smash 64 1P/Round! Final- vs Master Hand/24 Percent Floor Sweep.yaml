@@ -129,8 +129,8 @@ Ocarina of Time:
 
   open_door_of_time:
     # When enabled, the Door of Time starts opened, without needing Song of Time.
-    'false': 0
-    'true': 50
+    'false': 50
+    'true': 0
 
   zora_fountain:
     # Set the state of King Zora, blocking the way to Zora's Fountain.
@@ -1922,6 +1922,7 @@ Ocarina of Time:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
