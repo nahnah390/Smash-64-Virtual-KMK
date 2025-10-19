@@ -77,31 +77,31 @@ Super Smash Bros. Melee:
   starting_character:
     # This is the character you will start with.
     dr_mario: 0
-    mario: 0
-    luigi: 0
+    mario: 50
+    luigi: 50
     bowser: 0
     peach: 0
-    yoshi: 0
-    donkey_kong: 0
-    captain_falcon: 0
+    yoshi: 50
+    donkey_kong: 50
+    captain_falcon: 50
     ganondorf: 0
     falco: 0
-    fox: 0
-    ness: 0
+    fox: 50
+    ness: 50
     ice_climbers: 0
-    kirby: 0
-    samus: 0
+    kirby: 50
+    samus: 50
     zelda: 0
-    link: 0
+    link: 50
     young_link: 0
     pichu: 0
-    pikachu: 0
-    jigglypuff: 0
+    pikachu: 50
+    jigglypuff: 50
     mewtwo: 0
     mr_game_and_watch: 0
     marth: 0
     roy: 0
-    random: 50
+    random: 0
 
   ###################
   # Trophy Settings #
@@ -140,12 +140,12 @@ Super Smash Bros. Melee:
     # Enables all Event match clears as checks. If this is disabled, events
     # with major unlocks will still give checks.
     'false': 50
-    'true': 0
+    'true': 50
 
   target_checks:
     # Enables a check for every individual character's Target Test being cleared.
     'false': 50
-    'true': 0
+    'true': 50
 
   ten_man_checks:
     # Enables a check for every individual character clearing 10-Man Melee
@@ -212,14 +212,14 @@ Super Smash Bros. Melee:
   goal_crazy_hand:
     # If enabled, you will need to defeat Crazy Hand in Classic Mode and collect your required trophies to win.
     # This option can stack with other Goals.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   goal_event_51:
     # If enabled, you will need to complete Event 51 and collect your required trophies to win.
     # This option can stack with other Goals.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   goal_all_events:
     # If enabled, you will need to complete every event besides 51 and collect your required trophies to win.
@@ -290,4 +290,5 @@ Super Smash Bros. Melee:
   plando_items:
     # Generic items plando.
     []
+
 
