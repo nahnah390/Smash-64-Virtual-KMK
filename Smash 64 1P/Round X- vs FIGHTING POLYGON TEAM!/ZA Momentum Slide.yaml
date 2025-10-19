@@ -95,9 +95,9 @@ Sonic Rush:
   include_s_rank_checks:
     # Adds reaching S rank on acts and/or bosses (excluding F-Zone and Extra zone) as additional checks.
     none: 50
-    only_acts: 50
-    only_bosses: 50
-    all: 50
+    only_acts: 0
+    only_bosses: 0
+    all: 0
 
   tails_and_cream_substory:
     # Sets how the presence of Tails and Cream as sidekicks is handled.
@@ -169,5 +169,6 @@ Sonic Rush:
   plando_items:
     # Generic items plando.
     []
+
 
 
