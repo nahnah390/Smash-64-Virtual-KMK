@@ -95,8 +95,8 @@ Ocarina of Time:
 
   logic_no_night_tokens_without_suns_song:
     # When enabled, nighttime skulltulas logically require Sun's Song.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   logic_tricks:
     # Set various tricks for logic in Ocarina of Time. 
@@ -114,8 +114,8 @@ Ocarina of Time:
     # Closed Deku: The forest exit is not blocked; the path to Deku Tree requires Kokiri Sword and Deku Shield.
     # Closed: Path to Deku Tree requires sword and shield. The forest exit is blocked until Deku Tree is beaten.
     # Closed forest will force child start, and becomes Closed Deku if interior entrances, overworld entrances, warp songs, or random spawn positions are enabled.
-    open: 50
-    closed_deku: 0
+    open: 0
+    closed_deku: 50
     closed: 0
 
   open_kakariko:
@@ -146,8 +146,8 @@ Ocarina of Time:
     # Normal: Vanilla behavior; all four carpenters must be rescued.
     # Fast: Only one carpenter must be rescued, which is the one in the bottom-left of the fortress.
     # Open: The Gerudo Valley bridge starts repaired. Gerudo Membership Card is given to start if not shuffled.
-    normal: 0
-    fast: 50
+    normal: 50
+    fast: 0
     open: 0
 
   bridge:
@@ -162,8 +162,8 @@ Ocarina of Time:
     open: 0
     vanilla: 0
     stones: 0
-    medallions: 50
-    dungeons: 0
+    medallions: 0
+    dungeons: 50
     tokens: 0
     hearts: 0
 
@@ -173,7 +173,7 @@ Ocarina of Time:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 6
-    0: 50
+    6: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -292,10 +292,10 @@ Ocarina of Time:
     # MQ: All layouts are Master Quest.
     # Specific: Use the option "mq_dungeons_list" to choose which dungeons are MQ.
     # Count: Use the option "mq_dungeons_count" to choose a number of random dungeons as MQ.
-    vanilla: 50
+    vanilla: 0
     mq: 0
     specific: 0
-    count: 0
+    count: 50
 
   mq_dungeons_list:
     # With MQ dungeons as Specific: chosen dungeons to be MQ layout.
@@ -307,7 +307,7 @@ Ocarina of Time:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 12
-    0: 50
+    6: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -390,7 +390,7 @@ Ocarina of Time:
     # Fixed Number: Shop contents are shuffled, and a specific number of multiworld locations exist in each shop, controlled by the "shop_slots" option.
     # Random Number: Same as Fixed Number, but the number of locations per shop is random and may differ between shops.
     'off': 50
-    fixed_number: 0
+    fixed_number: 50
     random_number: 0
 
   shop_slots:
@@ -399,7 +399,8 @@ Ocarina of Time:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 4
-    0: 50
+    0: 0
+    4: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -416,7 +417,7 @@ Ocarina of Time:
     affordable: 0
     starting_wallet: 0
     adults_wallet: 0
-    giants_wallet: 0
+    giants_wallet: 50
     tycoons_wallet: 0
 
   tokensanity:
@@ -424,10 +425,10 @@ Ocarina of Time:
     # Dungeons: Only skulltulas in dungeons are shuffled.
     # Overworld: Only skulltulas on the overworld (all skulltulas not in dungeons) are shuffled.
     # All: Every skulltula is shuffled.
-    'off': 50
+    'off': 0
     dungeons: 0
     overworld: 0
-    all: 0
+    all: 50
 
   shuffle_scrubs:
     # Shuffle the items sold by Business Scrubs, and set the prices.
@@ -435,9 +436,9 @@ Ocarina of Time:
     # Low/"Affordable": All scrub prices are 10 rupees.
     # Regular/"Expensive": All scrub prices are vanilla.
     # Random Prices: All scrub prices are randomized between 0 and 99 rupees.
-    'off': 50
+    'off': 0
     low: 0
-    regular: 0
+    regular: 50
     random_prices: 0
 
   shuffle_child_trade:
@@ -491,13 +492,13 @@ Ocarina of Time:
 
   shuffle_kokiri_sword:
     # Shuffle Kokiri Sword into the item pool.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   shuffle_ocarinas:
     # Shuffle the Fairy Ocarina and Ocarina of Time into the item pool.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   shuffle_gerudo_card:
     # Shuffle the Gerudo Membership Card into the item pool.
@@ -516,8 +517,8 @@ Ocarina of Time:
 
   shuffle_frog_song_rupees:
     # Shuffles the purple rupees received from the Zora's River frogs.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   #################
   # Dungeon Items #
@@ -533,10 +534,10 @@ Ocarina of Time:
     # Any Dungeon: Maps and compasses are shuffled locally in any dungeon.
     # Keysanity: Maps and compasses can be anywhere in the multiworld.
     remove: 0
-    startwith: 50
+    startwith: 0
     vanilla: 0
-    dungeon: 0
-    regional: 0
+    dungeon: 50
+    regional: 50
     overworld: 0
     any_dungeon: 0
     keysanity: 0
@@ -553,7 +554,7 @@ Ocarina of Time:
     remove: 0
     vanilla: 0
     dungeon: 50
-    regional: 0
+    regional: 50
     overworld: 0
     any_dungeon: 0
     keysanity: 0
@@ -566,7 +567,7 @@ Ocarina of Time:
     # Any Dungeon: Hideout keys are shuffled locally in any dungeon.
     # Keysanity: Hideout keys can be anywhere in the multiworld.
     vanilla: 50
-    regional: 0
+    regional: 50
     overworld: 0
     any_dungeon: 0
     keysanity: 0
@@ -583,7 +584,7 @@ Ocarina of Time:
     remove: 0
     vanilla: 0
     dungeon: 50
-    regional: 0
+    regional: 50
     overworld: 0
     any_dungeon: 0
     keysanity: 0
@@ -591,7 +592,7 @@ Ocarina of Time:
   enhance_map_compass:
     # Map tells if a dungeon is vanilla or MQ. Compass tells what the dungeon reward is.
     'false': 50
-    'true': 0
+    'true': 50
 
   shuffle_ganon_bosskey:
     # Control how to shuffle the Ganon's Castle Boss Key (GCBK).
@@ -608,8 +609,8 @@ Ocarina of Time:
     # Dungeons: GCBK will be awarded when reaching the target number of dungeon rewards.
     # Tokens: GCBK will be awarded when reaching the target number of Gold Skulltula Tokens.
     # Hearts: GCBK will be awarded when reaching the target number of hearts.
-    remove: 50
-    vanilla: 0
+    remove: 0
+    vanilla: 50
     dungeon: 0
     regional: 0
     overworld: 0
@@ -695,17 +696,17 @@ Ocarina of Time:
   ##############
   no_escape_sequence:
     # Skips the tower collapse sequence between the Ganondorf and Ganon fights.
-    'false': 0
+    'false': 50
     'true': 50
 
   no_guard_stealth:
     # The crawlspace into Hyrule Castle skips straight to Zelda.
-    'false': 0
+    'false': 50
     'true': 50
 
   no_epona_race:
     # Epona can always be summoned with Epona's Song.
-    'false': 0
+    'false': 50
     'true': 50
 
   skip_some_minigame_phases:
@@ -751,7 +752,7 @@ Ocarina of Time:
     # Minimum value is 0
     # Maximum value is 7
     7: 50
-    random: 0
+    random: 50
     random-low: 0
     random-high: 0
 
@@ -787,20 +788,20 @@ Ocarina of Time:
     # Textures: Chest textures reflect their contents.
     # Both: Like Textures, but progression items and boss keys get big chests, and other items get small chests.
     # Classic: Old behavior of CSMC; textures distinguish keys from non-keys, and size distinguishes importance.
-    'off': 50
-    textures: 0
-    both: 0
+    'off': 0
+    textures: 50
+    both: 50
     classic: 0
 
   minor_items_as_major_chest:
     # Hylian Shield, Deku Shield, and Bombchus appear in big/gold chests.
     'false': 50
-    'true': 0
+    'true': 50
 
   invisible_chests:
     # Chests visible only with Lens of Truth. Logic is not changed.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   correct_potcrate_appearances:
     # Changes the appearance of pots, crates, and beehives that contain items.
@@ -884,23 +885,23 @@ Ocarina of Time:
 
   blue_fire_arrows:
     # Ice arrows can melt red ice and break the mud walls in Dodongo's Cavern.
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   fix_broken_drops:
     # Fixes two broken vanilla drops: deku shield in child Spirit Temple, and magic drop on GTG eye statue.
     'false': 50
-    'true': 0
+    'true': 50
 
   start_with_consumables:
     # Start the game with full Deku Sticks and Deku Nuts.
     'false': 50
-    'true': 0
+    'true': 50
 
   start_with_rupees:
     # Start with a full wallet. Wallet upgrades will also fill your wallet.
     'false': 50
-    'true': 0
+    'true': 50
 
   #############
   # Item Pool #
@@ -924,16 +925,16 @@ Ocarina of Time:
     # Mayhem: All added junk items are ice traps.
     # Onslaught: All junk items are replaced by ice traps, even those in the base pool.
     'off': 0
-    normal: 50
-    'on': 0
+    normal: 0
+    'on': 50
     mayhem: 0
     onslaught: 0
 
   ice_trap_appearance:
     # Changes the appearance of traps, including other games' traps, as freestanding items.
-    major_only: 50
+    major_only: 0
     junk_only: 0
-    anything: 0
+    anything: 50
 
   adult_trade_start:
     # Choose the item that starts the adult trade sequence.
@@ -1098,9 +1099,9 @@ Ocarina of Time:
 
   silver_gauntlets_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
-    silver: 50
+    silver: 0
     gold: 0
     black: 0
     green: 0
@@ -1116,10 +1117,10 @@ Ocarina of Time:
 
   golden_gauntlets_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
     silver: 0
-    gold: 50
+    gold: 0
     black: 0
     green: 0
     blue: 0
@@ -1134,9 +1135,9 @@ Ocarina of Time:
 
   mirror_shield_frame_color:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
-    red: 50
+    red: 0
     green: 0
     blue: 0
     yellow: 0
@@ -1149,11 +1150,11 @@ Ocarina of Time:
 
   navi_color_default_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
     rainbow: 0
     gold: 0
-    white: 50
+    white: 0
     green: 0
     light_blue: 0
     yellow: 0
@@ -1175,7 +1176,7 @@ Ocarina of Time:
   navi_color_default_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
     rainbow: 0
     gold: 0
@@ -1197,18 +1198,18 @@ Ocarina of Time:
     loftwing: 0
     midna: 0
     phantom_zelda: 0
-    match_inner: 50
+    match_inner: 0
 
   navi_color_enemy_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
     rainbow: 0
     gold: 0
     white: 0
     green: 0
     light_blue: 0
-    yellow: 50
+    yellow: 0
     red: 0
     magenta: 0
     black: 0
@@ -1227,7 +1228,7 @@ Ocarina of Time:
   navi_color_enemy_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
     rainbow: 0
     gold: 0
@@ -1249,17 +1250,17 @@ Ocarina of Time:
     loftwing: 0
     midna: 0
     phantom_zelda: 0
-    match_inner: 50
+    match_inner: 0
 
   navi_color_npc_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
     rainbow: 0
     gold: 0
     white: 0
     green: 0
-    light_blue: 50
+    light_blue: 0
     yellow: 0
     red: 0
     magenta: 0
@@ -1279,7 +1280,7 @@ Ocarina of Time:
   navi_color_npc_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
     rainbow: 0
     gold: 0
@@ -1301,16 +1302,16 @@ Ocarina of Time:
     loftwing: 0
     midna: 0
     phantom_zelda: 0
-    match_inner: 50
+    match_inner: 0
 
   navi_color_prop_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
     rainbow: 0
     gold: 0
     white: 0
-    green: 50
+    green: 0
     light_blue: 0
     yellow: 0
     red: 0
@@ -1331,7 +1332,7 @@ Ocarina of Time:
   navi_color_prop_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
     rainbow: 0
     gold: 0
@@ -1353,7 +1354,7 @@ Ocarina of Time:
     loftwing: 0
     midna: 0
     phantom_zelda: 0
-    match_inner: 50
+    match_inner: 0
 
   sword_trail_duration:
     # Set the duration for sword trails.
@@ -1402,10 +1403,10 @@ Ocarina of Time:
 
   bombchu_trail_color_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
     rainbow: 0
-    red: 50
+    red: 0
     green: 0
     blue: 0
     cyan: 0
@@ -1418,7 +1419,7 @@ Ocarina of Time:
   bombchu_trail_color_outer:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
     # "match_inner" copies the inner color for this option.
-    random_choice: 0
+    random_choice: 50
     completely_random: 0
     rainbow: 0
     red: 0
@@ -1430,7 +1431,7 @@ Ocarina of Time:
     gold: 0
     purple: 0
     pink: 0
-    match_inner: 50
+    match_inner: 0
 
   boomerang_trail_color_inner:
     # Choose a color. "random_choice" selects a random option. "completely_random" generates a random hex code.
@@ -1579,7 +1580,7 @@ Ocarina of Time:
     # "completely_random" selects any random sound.
     default: 50
     completely_random: 0
-    random_ear_safe: 0
+    random_ear_safe: 50
     random_choice: 0
     none: 0
     bark: 0
@@ -1616,7 +1617,7 @@ Ocarina of Time:
     # "completely_random" selects any random sound.
     default: 50
     completely_random: 0
-    random_ear_safe: 0
+    random_ear_safe: 50
     random_choice: 0
     none: 0
     bark: 0
@@ -1653,7 +1654,7 @@ Ocarina of Time:
     # "completely_random" selects any random sound.
     default: 50
     completely_random: 0
-    random_ear_safe: 0
+    random_ear_safe: 50
     random_choice: 0
     none: 0
     bark: 0
@@ -1688,7 +1689,7 @@ Ocarina of Time:
     # "completely_random" selects any random sound.
     default: 50
     completely_random: 0
-    random_ear_safe: 0
+    random_ear_safe: 50
     random_choice: 0
     none: 0
     bark: 0
@@ -1758,7 +1759,7 @@ Ocarina of Time:
     # "completely_random" selects any random sound.
     default: 50
     completely_random: 0
-    random_ear_safe: 0
+    random_ear_safe: 50
     random_choice: 0
     none: 0
     bark: 0
@@ -1830,7 +1831,7 @@ Ocarina of Time:
     # "completely_random" selects any random sound.
     default: 50
     completely_random: 0
-    random_ear_safe: 0
+    random_ear_safe: 50
     random_choice: 0
     none: 0
     cockadoodledoo: 0
@@ -1847,7 +1848,7 @@ Ocarina of Time:
     # "completely_random" selects any random sound.
     default: 50
     completely_random: 0
-    random_ear_safe: 0
+    random_ear_safe: 50
     random_choice: 0
     none: 0
     armos: 0
@@ -1864,7 +1865,7 @@ Ocarina of Time:
     # "completely_random" selects any random sound.
     default: 50
     completely_random: 0
-    random_ear_safe: 0
+    random_ear_safe: 50
     random_choice: 0
     none: 0
     bark: 0
@@ -1877,11 +1878,11 @@ Ocarina of Time:
   sfx_ocarina:
     # Change the sound of the ocarina.
     ocarina: 50
-    malon: 0
-    whistle: 0
-    harp: 0
-    grind_organ: 0
-    flute: 0
+    malon: 50
+    whistle: 50
+    harp: 50
+    grind_organ: 50
+    flute: 50
 
   ###########################
   # Item & Location Options #
@@ -1921,4 +1922,5 @@ Ocarina of Time:
   plando_items:
     # Generic items plando.
     []
+
 
