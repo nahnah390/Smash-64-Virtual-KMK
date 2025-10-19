@@ -314,7 +314,7 @@ Sonic Adventure 2 Battle:
     # Determines whether activating Omochao grants checks
     # (192 Locations)
     'false': 50
-    'true': 50
+    'true': 0
 
   animalsanity:
     # Determines whether unique counts of animals grant checks.
@@ -1080,6 +1080,7 @@ Sonic Adventure 2 Battle:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
