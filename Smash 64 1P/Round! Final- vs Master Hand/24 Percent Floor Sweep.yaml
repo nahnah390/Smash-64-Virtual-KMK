@@ -161,9 +161,9 @@ Ocarina of Time:
     # Hearts: Bridge requires a configurable amount of hearts.
     open: 0
     vanilla: 0
-    stones: 0
+    stones: 50
     medallions: 0
-    dungeons: 50
+    dungeons: 0
     tokens: 0
     hearts: 0
 
@@ -610,7 +610,7 @@ Ocarina of Time:
     # Tokens: GCBK will be awarded when reaching the target number of Gold Skulltula Tokens.
     # Hearts: GCBK will be awarded when reaching the target number of hearts.
     remove: 0
-    vanilla: 50
+    vanilla: 0
     dungeon: 0
     regional: 0
     overworld: 0
@@ -618,7 +618,7 @@ Ocarina of Time:
     keysanity: 0
     on_lacs: 0
     stones: 0
-    medallions: 0
+    medallions: 50
     dungeons: 0
     tokens: 0
     hearts: 0
@@ -1922,5 +1922,6 @@ Ocarina of Time:
   plando_items:
     # Generic items plando.
     []
+
 
 
