@@ -77,21 +77,21 @@ Super Mario 64:
   #################
   area_rando:
     # Randomize Entrances
-    'off': 50
+    'off': 0
     courses_only: 0
-    courses_and_secrets_separate: 0
+    courses_and_secrets_separate: 50
     courses_and_secrets: 0
 
   buddy_checks:
     # Bob-omb Buddies are checks, Cannon Unlocks are items
     'false': 50
-    'true': 0
+    'true': 50
 
   exclamation_boxes:
     # Include 1Up Exclamation Boxes during randomization.
     # Adds 29 locations to the pool.
     'false': 50
-    'true': 0
+    'true': 50
 
   progressive_keys:
     # Keys will first grant you access to the Basement, then to the Second Floor
@@ -107,8 +107,8 @@ Super Mario 64:
     # On - Kept in pool, potentially randomized.
     # 
     # Vanilla - Kept in pool, but NOT randomized.
-    'off': 50
-    'on': 0
+    'off': 0
+    'on': 50
     vanilla: 0
 
   strict_cap_requirements:
@@ -261,4 +261,5 @@ Super Mario 64:
   plando_items:
     # Generic items plando.
     []
+
 
