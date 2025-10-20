@@ -182,11 +182,11 @@ Corn Kidz 64:
 
   start_location_hints:
     # Start with these locations and their item prefilled into the ``!hint`` command.
-    []
+    "Anxiety Tower: Black Headband Under Entrance Soda Machine"
 
   exclude_locations:
     # Prevent these locations from having an important item.
-    []
+    "Anxiety Tower: Black Headband Under Entrance Soda Machine"
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
@@ -199,5 +199,6 @@ Corn Kidz 64:
   plando_items:
     # Generic items plando.
     []
+
 
 
