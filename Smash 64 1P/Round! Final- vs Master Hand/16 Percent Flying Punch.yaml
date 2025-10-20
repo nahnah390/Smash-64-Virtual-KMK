@@ -1071,7 +1071,17 @@ Sonic Adventure 2 Battle:
 
   priority_locations:
     # Prevent these locations from having an unimportant item.
-    []
+    - Kart Race - Beginner
+    - Kart Race - Standard
+    - Kart Race - Expert
+    - Route 101 - 1
+    - Route 101 - 2
+    - Route 101 - 3
+    - Route 101 - 5
+    - Route 280 - 1
+    - Route 280 - 2
+    - Route 280 - 3
+    - Route 280 - 5
 
   item_links:
     # Share part of your item pool with other players.
@@ -1080,3 +1090,4 @@ Sonic Adventure 2 Battle:
   plando_items:
     # Generic items plando.
     []
+
