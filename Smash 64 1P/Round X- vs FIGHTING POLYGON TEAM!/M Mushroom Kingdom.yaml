@@ -1,4 +1,4 @@
-﻿# Q. What is this file?
+# Q. What is this file?
 # A. This file contains options which allow you to configure your multiworld experience while allowing
 #    others to play how they want as well.
 #
@@ -159,8 +159,9 @@ Paper Mario:
 
   super_multi_blocks:
     # Shuffles the locations of the Super Blocks and Multicoin Brick Blocks together.
-    'false': 50
-    'true': 50
+    'off': 50
+    shuffle: 50
+    anywhere: 50
 
   rowf_items:
     # Determines how many sets of items sold by Rowf are candidates for progression items.
