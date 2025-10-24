@@ -99,7 +99,7 @@ Lingo:
     # 
     # You will need to unlock the requisite colors in order to be able to solve
     # puzzles of that color.
-    'false': 50
+    'false': 0
     'true': 50
 
   shuffle_panels:
@@ -340,6 +340,7 @@ Lingo:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
