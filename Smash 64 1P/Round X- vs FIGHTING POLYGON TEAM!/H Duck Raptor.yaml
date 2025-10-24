@@ -254,7 +254,7 @@ Spyro 3:
 
   enable_trap_damage_sparx:
     # Allows filler items to include damaging Sparx. Cannot directly kill Spyro.
-    'false': 50
+    'false': 0
     'true': 50
 
   enable_trap_sparxless:
@@ -600,6 +600,7 @@ Spyro 3:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
