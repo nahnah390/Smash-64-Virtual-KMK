@@ -1,4 +1,4 @@
-﻿# Q. What is this file?
+# Q. What is this file?
 # A. This file contains options which allow you to configure your multiworld experience while allowing
 #    others to play how they want as well.
 #
@@ -195,12 +195,12 @@ Banjo-Tooie:
     # Banjo-Kazooie's Movelist are randomized.
     # Mcjiggy Special - You start with Talon Trot and Tall Jump.
     none: 50
-    mcjiggy_special: 50
-    all: 50
+    mcjiggy_special: 0
+    all: 0
 
   randomize_bt_moves:
     # Jamjars' & Roysten's Movelist are randomized.
-    'false': 50
+    'false': 0
     'true': 50
 
   jamjars_silo_costs:
@@ -219,45 +219,45 @@ Banjo-Tooie:
     # Progressive Eggs: You start with blue eggs, and you find items to unlock the others in the vanilla order.
     # Simple Random Start Egg: You start with one type of egg that is not Clockwork Kazooie Eggs, and you must find the other 4.
     start_with_blue_eggs: 50
-    random_starting_egg: 50
+    random_starting_egg: 0
     progressive_eggs: 50
-    simple_random_starting_egg: 50
+    simple_random_starting_egg: 0
 
   progressive_beak_buster:
     # Beak Buster to Bill Drill. Randomize Moves and Randomize BK Moves are required.
     'false': 50
-    'true': 50
+    'true': 0
 
   progressive_shoes:
     # Stilt Stride to Turbo Trainers to Springy Step Shoes to Claw Clamber Boots. Randomize Moves and Randomize BK Moves are required.
     'false': 50
-    'true': 50
+    'true': 0
 
   progressive_water_training:
     # Basic: Dive to Double Air to Faster Swimming.
     # Advanced: Dive to Sub Aqua Aiming to Talon Torpedo to Double Air to Faster Swimming.
     # Randomize Moves and Randomize BK Moves are required.
     none: 50
-    basic: 50
-    advanced: 50
+    basic: 0
+    advanced: 0
 
   progressive_flight:
     # Flight Pad to Beak Bomb to Airborne Egg Aim. Randomize Moves and Randomize BK Moves are required.
     'false': 50
-    'true': 50
+    'true': 0
 
   progressive_egg_aiming:
     # Basic: Third Person Egg Shooting to Egg Aim.
     # Advanced: Third Person Egg Shooting to Amaze-O-Gaze to Egg Aim to Breegull Blaster.
     # Randomize Moves and Randomize BK Moves are required.
     none: 50
-    basic: 50
-    advanced: 50
+    basic: 0
+    advanced: 0
 
   progressive_bash_attack:
     # Ground Rat-a-tat Rap to Breegull Bash. Randomize Stop N Swap and Randomize BK Moves are required
     'false': 50
-    'true': 50
+    'true': 0
 
   #############
   # Item Pool #
