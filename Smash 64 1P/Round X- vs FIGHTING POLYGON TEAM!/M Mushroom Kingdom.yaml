@@ -751,8 +751,8 @@ Paper Mario:
     # Shuffles the main entrance of every chapter dungeon. You can also choose to include Bowser's Castle's entrance.
     # Note: This is not yet implemented and will fail to generate if set to True.
     'off': 50
-    only_spirit_dungeons: 50
-    include_bowsers_castle: 50
+    only_spirit_dungeons: 0
+    include_bowsers_castle: 0
 
   hidden_block_mode:
     # Vanilla: Hidden blocks are only visible while using Watt's ability.
@@ -1066,5 +1066,6 @@ Paper Mario:
   plando_items:
     # Generic items plando.
     []
+
 
 
