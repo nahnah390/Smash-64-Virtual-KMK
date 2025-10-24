@@ -1,4 +1,4 @@
-﻿# Q. What is this file?
+# Q. What is this file?
 # A. This file contains options which allow you to configure your multiworld experience while allowing
 #    others to play how they want as well.
 #
@@ -220,7 +220,7 @@ Star Fox 64:
     # Minimum value is 0
     # Maximum value is 150
     150: 0
-    random-range-50-100:
+    random-range-50-100: 50
     random: 0
     random-low: 0
     random-high: 0
