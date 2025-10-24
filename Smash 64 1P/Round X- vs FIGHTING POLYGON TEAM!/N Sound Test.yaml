@@ -194,7 +194,7 @@ Lingo:
     # - **Progressive:** Sunwarps start off disabled, and they unlock in order
     #   using a progressive item.
     normal: 50
-    disabled: 50
+    disabled: 0
     unlock: 50
     individual: 50
     progressive: 50
@@ -340,6 +340,7 @@ Lingo:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
