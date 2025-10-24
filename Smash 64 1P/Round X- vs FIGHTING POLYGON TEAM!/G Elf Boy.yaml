@@ -32,7 +32,7 @@ description: Default Ocarina of Time Template
 
 game: Ocarina of Time
 requires:
-  version: 50.6.3 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.3 # Version of Archipelago required for this yaml to work as expected.
 
 Ocarina of Time:
   ################
@@ -1921,6 +1921,7 @@ Ocarina of Time:
   plando_items:
     # Generic items plando.
     []
+
 
 
 
