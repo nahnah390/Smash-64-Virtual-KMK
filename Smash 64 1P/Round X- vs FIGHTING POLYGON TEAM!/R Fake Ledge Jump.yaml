@@ -264,7 +264,7 @@ Banjo-Tooie:
   #############
   randomize_notes:
     # Note Nests are randomized.
-    'false': 50
+    'false': 0
     'true': 50
 
   randomize_treble:
@@ -869,5 +869,6 @@ Banjo-Tooie:
   plando_items:
     # Generic items plando.
     []
+
 
 
