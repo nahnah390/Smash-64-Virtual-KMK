@@ -1,4 +1,4 @@
-﻿# Q. What is this file?
+# Q. What is this file?
 # A. This file contains options which allow you to configure your multiworld experience while allowing
 #    others to play how they want as well.
 #
@@ -46,11 +46,12 @@ APBingo:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
+    10: 50
     random: 0
     random-low: 0
     random-high: 0
     disabled: 0 # equivalent to 0
-    normal: 50 # equivalent to 50
+    normal: 0 # equivalent to 50
     extreme: 0 # equivalent to 99
 
   accessibility:
@@ -107,19 +108,23 @@ APBingo:
 
   board_color:
     # Choose the background Color (Use colors or Hex)
-    Blue: 50
+   '#3FEB00': 50
+    #Light Green
 
   square_color:
     # Choose the Square Color (Use colors or Hex)
-    Red: 50
+    '#D10000': 50
+    #Red
 
   hl_square_color:
     # Choose the Highlighted Square Color (Use colors or Hex)
-    Green: 50
+    '#FFFB00': 50
+    #Yellow
 
   text_color:
     # Choose the Text Color (Use colors or Hex)
-    White: 50
+    '#0B4700': 50
+    #Dark Green
 
   ###########################
   # Item & Location Options #
