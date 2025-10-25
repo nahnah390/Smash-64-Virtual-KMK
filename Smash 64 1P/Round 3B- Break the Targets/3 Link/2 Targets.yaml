@@ -1,4 +1,4 @@
-﻿# Q. What is this file?
+# Q. What is this file?
 # A. This file contains options which allow you to configure your multiworld experience while allowing
 #    others to play how they want as well.
 #
@@ -107,19 +107,23 @@ APBingo:
 
   board_color:
     # Choose the background Color (Use colors or Hex)
-    Blue: 50
+   '#3FEB00': 50
+    #Light Green
 
   square_color:
     # Choose the Square Color (Use colors or Hex)
-    White: 50
+    '#D10000': 50
+    #Red
 
   hl_square_color:
     # Choose the Highlighted Square Color (Use colors or Hex)
-    Red: 50
+    '#FFFB00': 50
+    #Yellow
 
   text_color:
     # Choose the Text Color (Use colors or Hex)
-    Black: 50
+    '#0B4700': 50
+    #Dark Green
 
   ###########################
   # Item & Location Options #
