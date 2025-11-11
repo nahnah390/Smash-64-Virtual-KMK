@@ -1,4 +1,4 @@
-﻿# Q. What is this file?
+# Q. What is this file?
 # A. This file contains options which allow you to configure your multiworld experience while allowing
 #    others to play how they want as well.
 #
@@ -32,7 +32,9 @@ description: Default Donkey Kong Country 3 Template
 
 game: Donkey Kong Country 3
 requires:
-  version: 0.6.3 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.4 # Version of Archipelago required for this yaml to work as expected.
+  game:
+    Donkey Kong Country 3: 1.1.0 # Version of the world required for this yaml to work as expected.
 
 Donkey Kong Country 3:
   ################
@@ -126,7 +128,7 @@ Donkey Kong Country 3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 100
-    100: 50
+    50: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -189,7 +191,7 @@ Donkey Kong Country 3:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 1
     # Maximum value is 99
-    5: 50
+    50: 50
     random: 0
     random-low: 0
     random-high: 0
@@ -206,7 +208,7 @@ Donkey Kong Country 3:
     []
 
   start_inventory:
-    # Start with these items.
+    # Start with the specified amount of these items. Example: "Bomb: 1"
     {}
 
   start_hints:
