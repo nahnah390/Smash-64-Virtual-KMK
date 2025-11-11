@@ -1,43 +1,11 @@
-﻿# Q. What is this file?
-# A. This file contains options which allow you to configure your multiworld experience while allowing
-#    others to play how they want as well.
-#
-# Q. How do I use it?
-# A. The options in this file are weighted. This means the higher number you assign to a value, the
-#    more chances you have for that option to be chosen. For example, an option like this:
-#
-#    map_shuffle:
-#      on: 5
-#      off: 15
-#
-#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
-#    off.
-#
-# Q. I've never seen a file like this before. What characters am I allowed to use?
-# A. This is a .yaml file. You are allowed to use most characters.
-#    To test if your yaml is valid or not, you can use this website:
-#        http://www.yamllint.com/
-#    You can also verify that your Archipelago options are valid at this site:
-#        https://archipelago.gg/check
-
-# Your name in-game, limited to 16 characters.
-#     {player} will be replaced with the player's slot number.
-#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
-#     {number} will be replaced with the counter value of the name.
-#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
 name: Donkey Kong
-
-# Used to describe your yaml. Useful if you have multiple files.
-description: Default Donkey Kong Country 2 Template
-
+description: Donkey Kong Country 2 template from the developer
 game: Donkey Kong Country 2
 requires:
-  version: 0.6.3 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.2 # Version of Archipelago required for this yaml to work as expected.
 
 Donkey Kong Country 2:
-  ################
-  # Game Options #
-  ################
+  # Game Options
   progression_balancing:
     # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
     # 
@@ -70,7 +38,7 @@ Donkey Kong Country 2:
   energy_link:
     # EnergyLink allows players to deposit energy extracted from collected bananas into a shared pool across games in the session.
     # 
-    # You can exchange energy for Instant DK Barrels. Great for players that find the base game hard.
+    # You can exchange energy for Backup DK Barrels. Great for players that find the base game hard.
     # There's an additional item in the item pool that allows for better energy extraction from bananas.
     'false': 50
     'true': 0
@@ -86,22 +54,28 @@ Donkey Kong Country 2:
     # 
     # This feature is highly experimental, use it if you don't mind some visual bugs under certain scenarios,
     # mainly during lag frames and pausing in certain moments
-    'off': 0
+    'off': 50
     on_only_sent: 0
     on_only_received: 0
-    on_everything: 50
+    on_everything: 0
 
   received_message_filter:
     # Applies an item classification filter on RECEIVED items
     # 
     # Only the items with the classifications listed below will be included
-    ['Progression', 'Useful', 'Filler', 'Trap']
+    - Progression
+    - Useful
+    - Filler
+    - Trap
 
   sent_message_filter:
     # Applies an item classification filter on SENT items
     # 
     # Only the items with the classifications listed below will be included
-    ['Progression', 'Useful', 'Filler', 'Trap']
+    - Progression
+    - Useful
+    - Filler
+    - Trap
 
   starting_life_count:
     # How many lives to start the game with.
@@ -109,14 +83,12 @@ Donkey Kong Country 2:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    15: 50
+    50: 50
     random: 0
     random-low: 0
     random-high: 0
 
-  ########
-  # Goal #
-  ########
+  # Goal
   goal:
     # Which goal will be used to mark the game as completed
     # - **Flying Krock:** Duel with K. Rool at the Flying Krock
@@ -251,9 +223,7 @@ Donkey Kong Country 2:
     lost_world_level_clear: 50
     lost_world_anywhere: 0
 
-  #############
-  # Locations #
-  #############
+  # Locations
   logic:
     # Logic difficulty. May become irrelevant if not a lot of items are added to the item pool.
     # - **Strict**: Ensures everything is reachable as the original devs intended. For beginners or people who want to go out of logic with some tricks.
@@ -265,8 +235,8 @@ Donkey Kong Country 2:
 
   kong_checks:
     # Whether collecting all KONG letters in each level will grant a check
-    'false': 0
-    'true': 50
+    'false': 50
+    'true': 0
 
   dk_coin_checks:
     # Whether collecting a DK Coin in each level will grant a check
@@ -299,14 +269,12 @@ Donkey Kong Country 2:
     'false': 0
     'true': 50
 
-  ###########
-  # Shuffle #
-  ###########
+  # Shuffle
   starting_kong:
     # Which Kongs will be available at the start
-    diddy: 0
+    diddy: 50
     dixie: 0
-    both: 50
+    both: 0
 
   shuffle_levels:
     # Shuffles levels and bosses around
@@ -316,21 +284,48 @@ Donkey Kong Country 2:
   shuffle_abilities:
     # Which abilities will be added as items in the item pool
     # If an ability is not present in the list they will be treated as unlocked from the start
-    ['Helicopter Spin', 'Carry', 'Climb', 'Team Attack', 'Cartwheel', 'Swim', 'Cling']
+    # If you remove everything from this list, please put curly braces next to the option name
+    # 
+    #     shuffle_abilities: {}
+    # 
+    - Carry
+    - Swim
+    - Cartwheel
+    - Cling
+    - Climb
+    - Helicopter Spin
+    - Team Attack
 
   shuffle_animals:
     # Which animal buddies will be added as items in the item pool
     # If an animal buddy is not present in the list they will be treated as unlocked from the start
-    ['Rambi', 'Squitter', 'Clapper', 'Rattly', 'Skull Kart', 'Squawks', 'Glimmer', 'Enguarde']
+    # If you remove everything from this list, please put curly braces next to the option name
+    # 
+    #     shuffle_animals: {}
+    # 
+    - Rambi
+    - Squawks
+    - Enguarde
+    - Squitter
+    - Rattly
+    - Clapper
+    - Glimmer
+    - Skull Kart
 
   shuffle_barrels:
     # Which kind of barrels will be added as items in the item pool
     # If a barrel is not present in the list they will be treated as unlocked from the start
-    ['Barrel Kannons', 'Controllable Barrels', 'Warp Barrels', 'Kong Barrels', 'Exclamation Barrels']
+    # If you remove everything from this list, please put curly braces next to the option name
+    # 
+    #     shuffle_barrels: {}
+    # 
+    - Barrel Kannons
+    - Controllable Barrels
+    - Kong Barrels
+    - Warp Barrels
+    - Exclamation Barrels
 
-  ##########
-  # Trivia #
-  ##########
+  # Trivia
   swanky_questions_per_quiz:
     # Whether completing a quiz will grant a check
     #
@@ -348,7 +343,63 @@ Donkey Kong Country 2:
     # Swanky already enforces questions from games in the multiworld if they're on the database.
     # 
     # This option has priority over the Excluded Topics option.
-    ['A Link to the Past', 'Actraiser', 'Adventure', 'Astalon', 'Banjo-Tooie', 'Castlevania - Circle of the Moon', 'Cave Story', 'Diddy Kong Racing', 'Donkey Kong 64', 'Donkey Kong Country', 'Donkey Kong Country 2', 'Donkey Kong Country 3', 'EarthBound', 'Final Fantasy Mystic Quest', 'Genshin Impact', 'Hollow Knight', 'Kingdom Hearts', 'Kingdom Hearts 2', 'Kirby 64 - The Crystal Shards', 'Kirby Super Star', "Kirby's Dream Land 3", "Luigi's Mansion", "Majora's Mask Recompiled", 'Mario & Luigi Superstar Saga', 'Mario Kart Double Dash', 'Math', 'Mega Man 2', 'Mega Man 3', 'Mega Man X', 'Mega Man X2', 'Mega Man X3', 'Ocarina of Time', 'Overcooked! 2', 'Paper Mario', 'Paper Mario The Thousand Year Door', 'Pokemon Crystal', 'Pokemon Emerald', 'Pokemon Red and Blue', 'Rabi-Ribi', 'Risk of Rain 2', 'Skyward Sword', 'Sonic Adventure 2 Battle', 'Subnautica', 'Super Mario 64', 'Super Mario World', 'Super Metroid', 'Symphony of the Night', 'Terraria', 'The Legend of Zelda', 'VVVVVV', 'Xenoblade X', "Yoshi's Island", 'Zelda II: The Adventure of Link', 'Zillion']
+    # 
+    # Remove the leading # from anything you want from here
+
+    #- 'A Link to the Past'
+    #- 'Actraiser'
+    #- 'Adventure'
+    #- 'Astalon'
+    #- 'Banjo-Tooie'
+    #- 'Castlevania - Circle of the Moon'
+    #- 'Cave Story'
+    #- 'Diddy Kong Racing'
+    #- 'Donkey Kong 64'
+    #- 'Donkey Kong Country'
+    - 'Donkey Kong Country 2'
+    #- 'Donkey Kong Country 3'
+    #- 'EarthBound'
+    #- 'Final Fantasy Mystic Quest'
+    #- 'Genshin Impact'
+    #- 'Hollow Knight'
+    #- 'Kingdom Hearts'
+    #- 'Kingdom Hearts 2'
+    #- 'Kirby 64 - The Crystal Shards'
+    #- 'Kirby Super Star'
+    #- "Kirby's Dream Land 3"
+    #- "Luigi's Mansion"
+    #- "Majora's Mask Recompiled"
+    #- 'Mario & Luigi Superstar Saga'
+    #- 'Mario Kart Double Dash'
+    #- 'Math'
+    #- 'Mega Man 2'
+    #- 'Mega Man 3'
+    #- 'Mega Man X'
+    #- 'Mega Man X2'
+    #- 'Mega Man X3'
+    #- 'Ocarina of Time'
+    #- 'Overcooked! 2'
+    #- 'Paper Mario'
+    #- 'Paper Mario The Thousand Year Door'
+    #- 'Pokemon Crystal'
+    #- 'Pokemon Emerald'
+    #- 'Pokemon Red and Blue'
+    #- 'Rabi-Ribi'
+    #- 'Risk of Rain 2'
+    #- 'Skyward Sword'
+    #- 'Sonic Adventure 2 Battle'
+    #- 'Subnautica'
+    #- 'Super Mario 64'
+    #- 'Super Mario World'
+    #- 'Super Metroid'
+    #- 'Symphony of the Night'
+    #- 'Terraria'
+    #- 'The Legend of Zelda'
+    #- 'VVVVVV'
+    #- 'Xenoblade X'
+    #- "Yoshi's Island"
+    #- 'Zelda II: The Adventure of Link'
+    #- 'Zillion'
 
   swanky_excluded_topics:
     # Which topics will be excluded from Swanky's Bonus Bonanza pool of questions.
@@ -357,11 +408,65 @@ Donkey Kong Country 2:
     # Donkey Kong Country 2 can't be excluded (can be put here, but it'll be forced anyway)
     # 
     # Do note that if you remove way too many topics and set a very high question per quiz count an error may arise from the lack of questions available
-    ['A Link to the Past', 'Actraiser', 'Adventure', 'Astalon', 'Banjo-Tooie', 'Castlevania - Circle of the Moon', 'Cave Story', 'Diddy Kong Racing', 'Donkey Kong 64', 'Donkey Kong Country', 'Donkey Kong Country 2', 'Donkey Kong Country 3', 'EarthBound', 'Final Fantasy Mystic Quest', 'Genshin Impact', 'Hollow Knight', 'Kingdom Hearts', 'Kingdom Hearts 2', 'Kirby 64 - The Crystal Shards', 'Kirby Super Star', "Kirby's Dream Land 3", "Luigi's Mansion", "Majora's Mask Recompiled", 'Mario & Luigi Superstar Saga', 'Mario Kart Double Dash', 'Math', 'Mega Man 2', 'Mega Man 3', 'Mega Man X', 'Mega Man X2', 'Mega Man X3', 'Ocarina of Time', 'Overcooked! 2', 'Paper Mario', 'Paper Mario The Thousand Year Door', 'Pokemon Crystal', 'Pokemon Emerald', 'Pokemon Red and Blue', 'Rabi-Ribi', 'Risk of Rain 2', 'Skyward Sword', 'Sonic Adventure 2 Battle', 'Subnautica', 'Super Mario 64', 'Super Mario World', 'Super Metroid', 'Symphony of the Night', 'Terraria', 'The Legend of Zelda', 'VVVVVV', 'Xenoblade X', "Yoshi's Island", 'Zelda II: The Adventure of Link', 'Zillion']
+    # 
+    # Remove the leading # from anything you want from here
+    
+    #- 'A Link to the Past'
+    #- 'Actraiser'
+    #- 'Adventure'
+    #- 'Astalon'
+    #- 'Banjo-Tooie'
+    #- 'Castlevania - Circle of the Moon'
+    #- 'Cave Story'
+    #- 'Diddy Kong Racing'
+    #- 'Donkey Kong 64'
+    #- 'Donkey Kong Country'
+    - 'Donkey Kong Country 2'
+    #- 'Donkey Kong Country 3'
+    #- 'EarthBound'
+    #- 'Final Fantasy Mystic Quest'
+    #- 'Genshin Impact'
+    #- 'Hollow Knight'
+    #- 'Kingdom Hearts'
+    #- 'Kingdom Hearts 2'
+    #- 'Kirby 64 - The Crystal Shards'
+    #- 'Kirby Super Star'
+    #- "Kirby's Dream Land 3"
+    #- "Luigi's Mansion"
+    #- "Majora's Mask Recompiled"
+    #- 'Mario & Luigi Superstar Saga'
+    #- 'Mario Kart Double Dash'
+    #- 'Math'
+    #- 'Mega Man 2'
+    #- 'Mega Man 3'
+    #- 'Mega Man X'
+    #- 'Mega Man X2'
+    #- 'Mega Man X3'
+    #- 'Ocarina of Time'
+    #- 'Overcooked! 2'
+    #- 'Paper Mario'
+    #- 'Paper Mario The Thousand Year Door'
+    #- 'Pokemon Crystal'
+    #- 'Pokemon Emerald'
+    #- 'Pokemon Red and Blue'
+    #- 'Rabi-Ribi'
+    #- 'Risk of Rain 2'
+    #- 'Skyward Sword'
+    #- 'Sonic Adventure 2 Battle'
+    #- 'Subnautica'
+    #- 'Super Mario 64'
+    #- 'Super Mario World'
+    #- 'Super Metroid'
+    #- 'Symphony of the Night'
+    #- 'Terraria'
+    #- 'The Legend of Zelda'
+    #- 'VVVVVV'
+    #- 'Xenoblade X'
+    #- "Yoshi's Island"
+    #- 'Zelda II: The Adventure of Link'
+    #- 'Zillion'
 
-  #########
-  # Traps #
-  #########
+  # Traps
   trap_fill_percentage:
     # Replace a percentage of junk items in the item pool with random traps
     #
@@ -408,529 +513,256 @@ Donkey Kong Country 2:
     medium: 50
     high: 0
 
-  ##############
-  # Aesthetics #
-  ##############
-  palettes:
-    # Allows you to create colors for each Kong status and Animal Buddies.
-    # This will override the option preset
-    # 
-    # Each one expects 15 values which are mapped to the Kongs colors
-    # The values can be in SNES RGB (bgr555) with the $ prefix or PC RGB (rgb888) with the # prefix
-    {}
+  # Aesthetics
+
+  # Valid presets for Diddy:
+  #   original
+  #   original_inactive
+  #   original_invincible
+  #   original_frozen
+  #   original_slow
+  #   original_reverse
+  #   original_team_2
+  #   original_team_2_inactive
+  #   dkc_alt
+  #   dkc3_kiddy
+  #   dkc3_kiddy_alt
+  #   gb_green
+  #   gb_gray
+  #   gbc_retro_blast
+  #   golden
+  #   monochrome
+  #   sepia
+  #   smb_mario
+  #   smb_luigi
+  #   toothpaste
+  #   whatsapp
+  #   bubblegum
+  #   retro_frozen
+  #   retro_reversed
+  #   retro_slow
+  #   rottytops
+  #   
+  #   You can also use random to get a random palette from the presets
+
+  # Which color to use for Diddy's active color
+  palette_diddy_active: original
+  # Which color to use for Diddy's inactive color
+  palette_diddy_inactive: original_inactive
+  # Which color to use for Diddy's invincible color
+  palette_diddy_invincible: original_invincible
+  # Which color to use for Diddy's frozen color
+  palette_diddy_frozen: original_frozen
+  # Which color to use for Diddy's reversed color
+  palette_diddy_reversed: original_reversed
+  # Which color to use for Dixie's slow color
+  palette_diddy_slow: original_slow
+
+  # Valid presets for Dixie:
+  #   original
+  #   original_inactive
+  #   original_invincible
+  #   original_frozen
+  #   original_slow
+  #   original_reverse
+  #   original_team_2
+  #   original_team_2_inactive
+  #   dkc2_inverted
+  #   dkc2_team_2_inverted
+  #   dkc3_alt
+  #   dkc3_alt_inverted
+  #   gb_green
+  #   gb_grey
+  #   gbc_retro_blast
+  #   gba_blue
+  #   gba_green
+  #   smb_mario
+  #   smb_luigi
+  #   golden
+  #   monochrome
+  #   sepia
+  #   rottytops
+  #   miku
+  #   teto
+  #   sakura
+  #   nagisa
+  #   gothic
+  #   toothpaste
+  #   whatsapp
+  #   boca
+  #   bubblegum
+  #   retro_frozen
+  #   retro_reversed
+  #   retro_slow
+  #   
+  #   You can also use random to get a random palette from the presets
+
+  # Which color to use for Diddy's active color
+  palette_dixie_active: original
+  # Which color to use for Diddy's inactive color
+  palette_dixie_inactive: original_inactive
+  # Which color to use for Diddy's invincible color
+  palette_dixie_invincible: original_invincible
+  # Which color to use for Diddy's frozen color
+  palette_dixie_frozen: original_frozen
+  # Which color to use for Diddy's reversed color
+  palette_dixie_reversed: original_reversed
+  # Which color to use for Dixie's slow color
+  palette_dixie_slow: original_slow
+
+  # Which color to use for Rambi
+  # Valid colors:
+  #   original
+  #   gray
+  #   blue
+  #   green
+  #   red
+  #   dkc2_frozen
+  #   dkc2_reversed
+  #   dkc2_slow
+  #   golden
+  #   pink
+  #   whatsapp
+  #  You can also use random to get a random palette from the presets
+  palette_rambi: original
+
+  # Which color to use for Enguarde
+  # Valid colors:
+  #   original
+  #   red
+  #   purple
+  #   silver
+  #   blue_white_belly
+  #   golden
+  #   dkc2_frozen
+  #   dkc2_reversed
+  #   whatsapp
+  #   black
+  #  You can also use random to get a random palette from the presets
+  palette_enguarde: original
+  
+  # Which color to use for Squitter
+  # Valid colors:
+  #   original
+  #   blue
+  #   green
+  #   pink
+  #   aqua
+  #   purple
+  #   gray
+  #   golden
+  #   dkc2_frozen
+  #   dkc2_reversed
+  #   whatsapp
+  #  You can also use random to get a random palette from the presets
+  palette_squitter: original
+  
+  # Which color to use for Rattly
+  # Valid colors:
+  #   original
+  #   black
+  #   blue
+  #   white
+  #   golden
+  #   dkc2_frozen
+  #   dkc2_reversed
+  #   whatsapp
+  #  You can also use random to get a random palette from the presets
+  palette_rattly: original
+
+  # Which color to use for Squawks
+  # Valid colors:
+  #   original
+  #   quawks
+  #   red
+  #   blue
+  #   black
+  #   white
+  #   purple
+  #   dkc2_frozen
+  #   dkc2_reversed
+  #   whatsapp
+  #   golden
+  #  You can also use random to get a random palette from the presets
+  palette_squawks: original
+
+  # Which color to use for Quawks
+  # Valid colors:
+  #   original
+  #   squawks
+  #   red
+  #   blue
+  #   black
+  #   white
+  #   purple
+  #   dkc2_frozen
+  #   dkc2_reversed
+  #   whatsapp
+  #   golden
+  #  You can also use random to get a random palette from the presets
+  palette_quawks: original
 
   palette_filters:
     # Applies a filter that can brighten or darken your selected palette
     # Doesn't produce results similar to the original ones, but it's good enough
     # 
     # Positive numbers create a brighter color palette (the higher the number, the brighter the palette)
-    # Negative numbers create a darker color palette (the higher (or lower lol) the negative number, the darker the palette)
+    # Negative numbers create a darker color palette (the higher (or lower lol) the negative number, the darkeer the palette)
     # 
     # Treat the values as percentages
     Diddy: 0
-    Diddy Frozen: 0
     Diddy Inactive: 0
     Diddy Invincible: 0
+    Diddy Frozen: 0
     Diddy Reversed: 0
     Diddy Slow: 0
+
     Dixie: 0
-    Dixie Frozen: 0
     Dixie Inactive: 0
     Dixie Invincible: 0
+    Dixie Frozen: 0
     Dixie Reversed: 0
     Dixie Slow: 0
-    Enguarde: 0
-    Quawks: 0
+
     Rambi: 0
+    Enguarde: 0
+    Squitter: 0
     Rattly: 0
     Squawks: 0
-    Squitter: 0
+    Quawks: 0
 
-  palette_diddy_active:
-    # Which color to use for Diddy's active color
-    original: 50
-    original_inactive: 0
-    original_invincible: 0
-    original_frozen: 0
-    original_reversed: 0
-    original_slow: 0
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc_alt: 0
-    dkc3_kiddy: 0
-    dkc3_kiddy_alt: 0
-    gb_green: 0
-    gb_gray: 0
-    gbc_retro_blast: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    smb_mario: 0
-    smb_luigi: 0
-    toothpaste: 0
-    whatsapp: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-    rottytops: 0
+  palettes: {}
+    # Allows you to create colors for each Kong status. Includes K.Rool effects and the invincibility barrel.
+    # This will override the option preset
+    # 
+    # Each one expects 15 values which are mapped to the Kongs colors.
+    # The values can be in SNES RGB (bgr555) with the $ prefix or PC RGB (rgb888) with the # prefix.
+    # 
+    # Uncomment the ones you want to modify
+    # If you happen to uncomment any, please remove the braces next to palettes
 
-  palette_diddy_inactive:
-    # Which color to use for Diddy's inactive color
-    original: 0
-    original_inactive: 50
-    original_invincible: 0
-    original_frozen: 0
-    original_reversed: 0
-    original_slow: 0
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc_alt: 0
-    dkc3_kiddy: 0
-    dkc3_kiddy_alt: 0
-    gb_green: 0
-    gb_gray: 0
-    gbc_retro_blast: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    smb_mario: 0
-    smb_luigi: 0
-    toothpaste: 0
-    whatsapp: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-    rottytops: 0
+    # Diddy: []
+    # Diddy Inactive: []
+    # Diddy Invincible: []
+    # Diddy Frozen: []
+    # Diddy Reversed: []
+    # Diddy Slow: []
 
-  palette_diddy_invincible:
-    # Which color to use for Diddy's invincible color
-    original: 0
-    original_inactive: 0
-    original_invincible: 50
-    original_frozen: 0
-    original_reversed: 0
-    original_slow: 0
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc_alt: 0
-    dkc3_kiddy: 0
-    dkc3_kiddy_alt: 0
-    gb_green: 0
-    gb_gray: 0
-    gbc_retro_blast: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    smb_mario: 0
-    smb_luigi: 0
-    toothpaste: 0
-    whatsapp: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-    rottytops: 0
+    # Dixie: []
+    # Dixie Inactive: []
+    # Dixie Invincible: []
+    # Dixie Frozen: []
+    # Dixie Reversed: []
+    # Dixie Slow: []
 
-  palette_diddy_frozen:
-    # Which color to use for Diddy's frozen color
-    original: 0
-    original_inactive: 0
-    original_invincible: 0
-    original_frozen: 50
-    original_reversed: 0
-    original_slow: 0
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc_alt: 0
-    dkc3_kiddy: 0
-    dkc3_kiddy_alt: 0
-    gb_green: 0
-    gb_gray: 0
-    gbc_retro_blast: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    smb_mario: 0
-    smb_luigi: 0
-    toothpaste: 0
-    whatsapp: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-    rottytops: 0
+    # Rambi: []
+    # Enguarde: []
+    # Squitter: []
+    # Rattly: []
+    # Squawks: []
+    # Quawks: []
 
-  palette_diddy_reversed:
-    # Which color to use for Diddy's reversed color
-    original: 0
-    original_inactive: 0
-    original_invincible: 0
-    original_frozen: 0
-    original_reversed: 50
-    original_slow: 0
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc_alt: 0
-    dkc3_kiddy: 0
-    dkc3_kiddy_alt: 0
-    gb_green: 0
-    gb_gray: 0
-    gbc_retro_blast: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    smb_mario: 0
-    smb_luigi: 0
-    toothpaste: 0
-    whatsapp: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-    rottytops: 0
-
-  palette_diddy_slow:
-    # Which color to use for Diddy's slow color
-    original: 0
-    original_inactive: 0
-    original_invincible: 0
-    original_frozen: 0
-    original_reversed: 0
-    original_slow: 50
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc_alt: 0
-    dkc3_kiddy: 0
-    dkc3_kiddy_alt: 0
-    gb_green: 0
-    gb_gray: 0
-    gbc_retro_blast: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    smb_mario: 0
-    smb_luigi: 0
-    toothpaste: 0
-    whatsapp: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-    rottytops: 0
-
-  palette_dixie_active:
-    # Which color to use for Dixie's active color
-    original: 50
-    original_inactive: 0
-    original_invincible: 0
-    original_frozen: 0
-    original_reversed: 0
-    original_slow: 0
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc2_inverted: 0
-    dkc2_team_2_inverted: 0
-    dkc3_alt: 0
-    dkc3_alt_inverted: 0
-    gb_green: 0
-    gb_grey: 0
-    gbc_retro_blast: 0
-    gba_blue: 0
-    gba_green: 0
-    smb_mario: 0
-    smb_luigi: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    rottytops: 0
-    miku: 0
-    teto: 0
-    sakura: 0
-    nagisa: 0
-    gothic: 0
-    toothpaste: 0
-    whatsapp: 0
-    boca: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-
-  palette_dixie_inactive:
-    # Which color to use for Dixie's inactive color
-    original: 0
-    original_inactive: 50
-    original_invincible: 0
-    original_frozen: 0
-    original_reversed: 0
-    original_slow: 0
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc2_inverted: 0
-    dkc2_team_2_inverted: 0
-    dkc3_alt: 0
-    dkc3_alt_inverted: 0
-    gb_green: 0
-    gb_grey: 0
-    gbc_retro_blast: 0
-    gba_blue: 0
-    gba_green: 0
-    smb_mario: 0
-    smb_luigi: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    rottytops: 0
-    miku: 0
-    teto: 0
-    sakura: 0
-    nagisa: 0
-    gothic: 0
-    toothpaste: 0
-    whatsapp: 0
-    boca: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-
-  palette_dixie_invincible:
-    # Which color to use for Dixie's invincible color
-    original: 0
-    original_inactive: 0
-    original_invincible: 50
-    original_frozen: 0
-    original_reversed: 0
-    original_slow: 0
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc2_inverted: 0
-    dkc2_team_2_inverted: 0
-    dkc3_alt: 0
-    dkc3_alt_inverted: 0
-    gb_green: 0
-    gb_grey: 0
-    gbc_retro_blast: 0
-    gba_blue: 0
-    gba_green: 0
-    smb_mario: 0
-    smb_luigi: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    rottytops: 0
-    miku: 0
-    teto: 0
-    sakura: 0
-    nagisa: 0
-    gothic: 0
-    toothpaste: 0
-    whatsapp: 0
-    boca: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-
-  palette_dixie_frozen:
-    # Which color to use for Dixie's frozen color
-    original: 0
-    original_inactive: 0
-    original_invincible: 0
-    original_frozen: 50
-    original_reversed: 0
-    original_slow: 0
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc2_inverted: 0
-    dkc2_team_2_inverted: 0
-    dkc3_alt: 0
-    dkc3_alt_inverted: 0
-    gb_green: 0
-    gb_grey: 0
-    gbc_retro_blast: 0
-    gba_blue: 0
-    gba_green: 0
-    smb_mario: 0
-    smb_luigi: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    rottytops: 0
-    miku: 0
-    teto: 0
-    sakura: 0
-    nagisa: 0
-    gothic: 0
-    toothpaste: 0
-    whatsapp: 0
-    boca: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-
-  palette_dixie_reversed:
-    # Which color to use for Dixie's reversed color
-    original: 0
-    original_inactive: 0
-    original_invincible: 0
-    original_frozen: 0
-    original_reversed: 50
-    original_slow: 0
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc2_inverted: 0
-    dkc2_team_2_inverted: 0
-    dkc3_alt: 0
-    dkc3_alt_inverted: 0
-    gb_green: 0
-    gb_grey: 0
-    gbc_retro_blast: 0
-    gba_blue: 0
-    gba_green: 0
-    smb_mario: 0
-    smb_luigi: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    rottytops: 0
-    miku: 0
-    teto: 0
-    sakura: 0
-    nagisa: 0
-    gothic: 0
-    toothpaste: 0
-    whatsapp: 0
-    boca: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-
-  palette_dixie_slow:
-    # Which color to use for Dixie's slow color
-    original: 0
-    original_inactive: 0
-    original_invincible: 0
-    original_frozen: 0
-    original_reversed: 0
-    original_slow: 50
-    original_team_2: 0
-    original_team_2_inactive: 0
-    dkc2_inverted: 0
-    dkc2_team_2_inverted: 0
-    dkc3_alt: 0
-    dkc3_alt_inverted: 0
-    gb_green: 0
-    gb_grey: 0
-    gbc_retro_blast: 0
-    gba_blue: 0
-    gba_green: 0
-    smb_mario: 0
-    smb_luigi: 0
-    golden: 0
-    monochrome: 0
-    sepia: 0
-    rottytops: 0
-    miku: 0
-    teto: 0
-    sakura: 0
-    nagisa: 0
-    gothic: 0
-    toothpaste: 0
-    whatsapp: 0
-    boca: 0
-    bubblegum: 0
-    retro_frozen: 0
-    retro_reversed: 0
-    retro_slow: 0
-
-  palette_rambi:
-    # Which color to use for Rambi
-    original: 50
-    gray: 0
-    blue: 0
-    green: 0
-    red: 0
-    dkc2_frozen: 0
-    dkc2_reversed: 0
-    dkc2_slow: 0
-    golden: 0
-    pink: 0
-    whatsapp: 0
-
-  palette_enguarde:
-    # Which color to use for Enguarde
-    original: 50
-    red: 0
-    purple: 0
-    silver: 0
-    blue_white_belly: 0
-    golden: 0
-    dkc2_frozen: 0
-    dkc2_reversed: 0
-    whatsapp: 0
-    black: 0
-
-  palette_squitter:
-    # Which color to use for Squitter
-    original: 50
-    blue: 0
-    green: 0
-    pink: 0
-    aqua: 0
-    purple: 0
-    gray: 0
-    golden: 0
-    dkc2_frozen: 0
-    dkc2_reversed: 0
-    whatsapp: 0
-
-  palette_rattly:
-    # Which color to use for Rattly
-    original: 50
-    black: 0
-    blue: 0
-    white: 0
-    golden: 0
-    dkc2_frozen: 0
-    dkc2_reversed: 0
-    whatsapp: 0
-
-  palette_squawks:
-    # Which color to use for Squawks
-    original: 50
-    quawks: 0
-    red: 0
-    blue: 0
-    black: 0
-    white: 0
-    purple: 0
-    dkc2_reversed: 0
-    dkc2_frozen: 0
-    whatsapp: 0
-    golden: 0
-
-  palette_quawks:
-    # Which color to use for Quawks
-    original: 50
-    squawks: 0
-    red: 0
-    blue: 0
-    black: 0
-    white: 0
-    purple: 0
-    dkc2_reversed: 0
-    dkc2_frozen: 0
-    whatsapp: 0
-    golden: 0
-
-  ###########################
-  # Item & Location Options #
-  ###########################
+  # Item & Location Options
   local_items:
     # Forces these items to be in their native world.
     []
@@ -941,12 +773,6 @@ Donkey Kong Country 2:
 
   start_inventory:
     # Start with these items.
-    {}
-
-  start_inventory_from_pool:
-    # Start with these items and don't place them in the world.
-    # 
-    # The game decides what the replacement items will be.
     {}
 
   start_hints:
@@ -969,7 +795,8 @@ Donkey Kong Country 2:
     # Share part of your item pool with other players.
     []
 
-  plando_items:
-    # Generic items plando.
-    []
-
+  start_inventory_from_pool:
+    # Start with these items and don't place them in the world.
+    # 
+    # The game decides what the replacement items will be.
+    {}
