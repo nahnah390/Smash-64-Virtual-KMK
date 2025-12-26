@@ -206,9 +206,9 @@ Sonic Adventure 2 Battle:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 50
     # Maximum value is 1000
-    180: 50
+    180: 0
     random: 0
-    random-low: 0
+    random-low: 50
     random-high: 0
 
   ring_loss:
@@ -286,7 +286,7 @@ Sonic Adventure 2 Battle:
   keysanity:
     # Determines whether picking up Chao Keys grants checks
     # (86 Locations)
-    'false': 0
+    'false': 50
     'true': 50
 
   whistlesanity:
@@ -302,12 +302,12 @@ Sonic Adventure 2 Battle:
     none: 50
     pipes: 0
     hidden: 0
-    both: 0
+    both: 40
 
   beetlesanity:
     # Determines whether destroying Gold Beetles grants checks
     # (27 Locations)
-    'false': 0
+    'false': 50
     'true': 50
 
   omosanity:
@@ -330,7 +330,7 @@ Sonic Adventure 2 Battle:
     # Extra Lives: Extra Life Boxes grant checks (94 Locations)
     # All: All Item Boxes grant checks (502 Locations Total)
     none: 50
-    extra_lives: 0
+    extra_lives: 50
     all: 0
 
   bigsanity:
@@ -1080,3 +1080,4 @@ Sonic Adventure 2 Battle:
   plando_items:
     # Generic items plando.
     []
+
